@@ -1,0 +1,141 @@
+node1,node2,tstart,tend,line
+Hainault,Grange Hill,848,849,Central line to Grange Hill
+Grange Hill,Chigwell,850,851,Central line to Chigwell
+Chigwell,Roding Valley,852,855,Central line to Roding Valley
+Roding Valley,Woodford,855,857,Central line to Woodford
+Woodford,South Woodford,857,858,Central line to South Woodford
+South Woodford,Snaresbrook,859,860,Central line to Snaresbrook
+Snaresbrook,Leytonstone,861,863,Central line to Leytonstone
+Leytonstone,Leyton,864,866,Central line to Leyton
+Leyton,Stratford,866,869,Central line to Stratford
+Stratford,Mile End,869,872,Central line to Mile End
+Mile End,Bethnal Green,873,875,Central line to Bethnal Green
+Bethnal Green,Liverpool Street,875,878,Central line to Liverpool Street
+Liverpool Street,Bank,879,880,Central line to Bank
+Bank,St. Paul's,881,882,Central line to St. Paul's
+St. Paul's,Chancery Lane,882,884,Central line to Chancery Lane
+Chancery Lane,Holborn,884,885,Central line to Holborn
+Holborn,Tottenham Court Road,886,887,Central line to Tottenham Court Road
+Tottenham Court Road,Oxford Circus,887,888,Central line to Oxford Circus
+Oxford Circus,Bond Street,889,890,Central line to Bond Street
+Bond Street,Marble Arch,890,891,Central line to Marble Arch
+Marble Arch,Lancaster Gate,892,893,Central line to Lancaster Gate
+Lancaster Gate,Queensway,893,895,Central line to Queensway
+Queensway,Notting Hill Gate,895,896,Central line to Notting Hill Gate
+Notting Hill Gate,Holland Park,897,898,Central line to Holland Park
+Holland Park,Shepherd's Bush (Central),898,900,Central line to Shepherd's Bush (Central Line) Underground Stn
+Shepherd's Bush (Central),White City,900,903,Central line to White City
+White City,East Acton,905,907,Central line to East Acton
+East Acton,North Acton,908,909,Central line to North Acton
+North Acton,Hanger Lane,910,912,Central line to Hanger Lane
+Hanger Lane,Perivale,913,915,Central line to Perivale
+Perivale,Greenford,915,917,Central line to Greenford
+Greenford,Northolt,918,919,Central line to Northolt
+Northolt,South Ruislip,920,922,Central line to South Ruislip
+South Ruislip,Ruislip Gardens,922,924,Central line to Ruislip Gardens
+Ruislip Gardens,West Ruislip,924,927,Central line to West Ruislip
+Hainault,Grange Hill,867,868,Central line to Grange Hill
+Grange Hill,Chigwell,869,870,Central line to Chigwell
+Chigwell,Roding Valley,871,874,Central line to Roding Valley
+Roding Valley,Woodford,874,876,Central line to Woodford
+Woodford,South Woodford,876,877,Central line to South Woodford
+South Woodford,Snaresbrook,878,879,Central line to Snaresbrook
+Snaresbrook,Leytonstone,880,882,Central line to Leytonstone
+Leytonstone,Leyton,884,885,Central line to Leyton
+Leyton,Stratford,886,888,Central line to Stratford
+Stratford,Mile End,889,892,Central line to Mile End
+Mile End,Bethnal Green,892,894,Central line to Bethnal Green
+Bethnal Green,Liverpool Street,895,898,Central line to Liverpool Street
+Liverpool Street,Bank,898,900,Central line to Bank
+Bank,St. Paul's,900,901,Central line to St. Paul's
+St. Paul's,Chancery Lane,902,903,Central line to Chancery Lane
+Chancery Lane,Holborn,904,905,Central line to Holborn
+Holborn,Tottenham Court Road,905,906,Central line to Tottenham Court Road
+Tottenham Court Road,Oxford Circus,907,908,Central line to Oxford Circus
+Oxford Circus,Bond Street,908,909,Central line to Bond Street
+Bond Street,Marble Arch,910,911,Central line to Marble Arch
+Marble Arch,Lancaster Gate,911,912,Central line to Lancaster Gate
+Lancaster Gate,Queensway,913,914,Central line to Queensway
+Queensway,Notting Hill Gate,915,916,Central line to Notting Hill Gate
+Notting Hill Gate,Holland Park,916,917,Central line to Holland Park
+Holland Park,Shepherd's Bush (Central),918,919,Central line to Shepherd's Bush (Central Line) Underground Stn
+Shepherd's Bush (Central),White City,920,922,Central line to White City
+White City,East Acton,924,927,Central line to East Acton
+East Acton,North Acton,927,929,Central line to North Acton
+North Acton,Hanger Lane,930,932,Central line to Hanger Lane
+Hanger Lane,Perivale,933,935,Central line to Perivale
+Perivale,Greenford,935,937,Central line to Greenford
+Greenford,Northolt,938,939,Central line to Northolt
+Northolt,South Ruislip,940,942,Central line to South Ruislip
+South Ruislip,Ruislip Gardens,942,944,Central line to Ruislip Gardens
+Ruislip Gardens,West Ruislip,945,948,Central line to West Ruislip
+Hainault,Grange Hill,887,889,Central line to Grange Hill
+Grange Hill,Chigwell,889,891,Central line to Chigwell
+Chigwell,Roding Valley,891,894,Central line to Roding Valley
+Roding Valley,Woodford,895,897,Central line to Woodford
+Woodford,South Woodford,901,903,Central line to South Woodford
+South Woodford,Snaresbrook,903,905,Central line to Snaresbrook
+Snaresbrook,Leytonstone,905,907,Central line to Leytonstone
+Leytonstone,Leyton,908,910,Central line to Leyton
+Leyton,Stratford,911,913,Central line to Stratford
+Stratford,Mile End,913,916,Central line to Mile End
+Mile End,Bethnal Green,917,919,Central line to Bethnal Green
+Bethnal Green,Liverpool Street,920,922,Central line to Liverpool Street
+Liverpool Street,Bank,923,924,Central line to Bank
+Bank,St. Paul's,925,926,Central line to St. Paul's
+St. Paul's,Chancery Lane,927,928,Central line to Chancery Lane
+Chancery Lane,Holborn,929,929,Central line to Holborn
+Holborn,Tottenham Court Road,930,931,Central line to Tottenham Court Road
+Tottenham Court Road,Oxford Circus,932,932,Central line to Oxford Circus
+Oxford Circus,Bond Street,933,934,Central line to Bond Street
+Bond Street,Marble Arch,934,935,Central line to Marble Arch
+Marble Arch,Lancaster Gate,936,937,Central line to Lancaster Gate
+Lancaster Gate,Queensway,938,939,Central line to Queensway
+Queensway,Notting Hill Gate,940,941,Central line to Notting Hill Gate
+Notting Hill Gate,Holland Park,941,942,Central line to Holland Park
+Holland Park,Shepherd's Bush (Central),943,944,Central line to Shepherd's Bush (Central Line) Underground Stn
+Shepherd's Bush (Central),White City,944,947,Central line to White City
+White City,East Acton,948,950,Central line to East Acton
+East Acton,North Acton,951,952,Central line to North Acton
+North Acton,Hanger Lane,953,956,Central line to Hanger Lane
+Hanger Lane,Perivale,956,958,Central line to Perivale
+Perivale,Greenford,959,960,Central line to Greenford
+Greenford,Northolt,961,963,Central line to Northolt
+Northolt,South Ruislip,968,970,Central line to South Ruislip
+South Ruislip,Ruislip Gardens,971,972,Central line to Ruislip Gardens
+Ruislip Gardens,West Ruislip,973,975,Central line to West Ruislip
+Hainault,Grange Hill,908,909,Central line to Grange Hill
+Grange Hill,Chigwell,910,911,Central line to Chigwell
+Chigwell,Roding Valley,912,915,Central line to Roding Valley
+Roding Valley,Woodford,915,917,Central line to Woodford
+Woodford,South Woodford,917,918,Central line to South Woodford
+South Woodford,Snaresbrook,919,920,Central line to Snaresbrook
+Snaresbrook,Leytonstone,921,923,Central line to Leytonstone
+Leytonstone,Leyton,924,926,Central line to Leyton
+Leyton,Stratford,926,929,Central line to Stratford
+Stratford,Mile End,929,932,Central line to Mile End
+Mile End,Bethnal Green,933,935,Central line to Bethnal Green
+Bethnal Green,Liverpool Street,935,938,Central line to Liverpool Street
+Liverpool Street,Bank,939,940,Central line to Bank
+Bank,St. Paul's,941,942,Central line to St. Paul's
+St. Paul's,Chancery Lane,942,944,Central line to Chancery Lane
+Chancery Lane,Holborn,944,945,Central line to Holborn
+Holborn,Tottenham Court Road,946,947,Central line to Tottenham Court Road
+Tottenham Court Road,Oxford Circus,947,948,Central line to Oxford Circus
+Oxford Circus,Bond Street,949,950,Central line to Bond Street
+Bond Street,Marble Arch,950,951,Central line to Marble Arch
+Marble Arch,Lancaster Gate,952,953,Central line to Lancaster Gate
+Lancaster Gate,Queensway,954,955,Central line to Queensway
+Queensway,Notting Hill Gate,956,957,Central line to Notting Hill Gate
+Notting Hill Gate,Holland Park,957,958,Central line to Holland Park
+Holland Park,Shepherd's Bush (Central),959,960,Central line to Shepherd's Bush (Central Line) Underground Stn
+Shepherd's Bush (Central),White City,960,963,Central line to White City
+White City,East Acton,964,966,Central line to East Acton
+East Acton,North Acton,967,968,Central line to North Acton
+North Acton,Hanger Lane,969,972,Central line to Hanger Lane
+Hanger Lane,Perivale,972,974,Central line to Perivale
+Perivale,Greenford,975,976,Central line to Greenford
+Greenford,Northolt,977,979,Central line to Northolt
+Northolt,South Ruislip,979,981,Central line to South Ruislip
+South Ruislip,Ruislip Gardens,982,983,Central line to Ruislip Gardens
+Ruislip Gardens,West Ruislip,984,986,Central line to West Ruislip

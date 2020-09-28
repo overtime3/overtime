@@ -1,0 +1,450 @@
+node1,node2,tstart,tend,line
+Cockfosters,Oakwood,841,843,Piccadilly line to Oakwood
+Oakwood,Southgate,844,846,Piccadilly line to Southgate
+Southgate,Arnos Grove,846,850,Piccadilly line to Arnos Grove
+Arnos Grove,Bounds Green,852,853,Piccadilly line to Bounds Green
+Bounds Green,Wood Green,854,856,Piccadilly line to Wood Green
+Wood Green,Turnpike Lane,856,858,Piccadilly line to Turnpike Lane
+Turnpike Lane,Manor House,858,861,Piccadilly line to Manor House
+Manor House,Finsbury Park,861,863,Piccadilly line to Finsbury Park
+Finsbury Park,Arsenal,864,865,Piccadilly line to Arsenal
+Arsenal,Holloway Road,865,866,Piccadilly line to Holloway Road
+Holloway Road,Caledonian Road,867,868,Piccadilly line to Caledonian Road
+Caledonian Road,King's Cross St. Pancras,868,871,Piccadilly line to King's Cross St.Pancras
+King's Cross St. Pancras,Russell Square,872,873,Piccadilly line to Russell Square
+Russell Square,Holborn,874,875,Piccadilly line to Holborn
+Holborn,Covent Garden,875,877,Piccadilly line to Covent Garden
+Covent Garden,Leicester Square,877,878,Piccadilly line to Leicester Square
+Leicester Square,Piccadilly Circus,878,879,Piccadilly line to Piccadilly Circus
+Piccadilly Circus,Green Park,880,880,Piccadilly line to Green Park
+Green Park,Hyde Park Corner,881,883,Piccadilly line to Hyde Park Corner
+Hyde Park Corner,Knightsbridge,883,884,Piccadilly line to Knightsbridge
+Knightsbridge,South Kensington,885,887,Piccadilly line to South Kensington
+South Kensington,Gloucester Road,887,889,Piccadilly line or Circle line or District line to Gloucester Road
+Gloucester Road,Earl's Court,889,891,Piccadilly line or District line to Earl's Court
+Earl's Court,Barons Court,891,894,Piccadilly line to Barons Court
+Barons Court,Hammersmith (Dist&Picc Line),894,895,Piccadilly line or District line to Hammersmith (Dist&Picc Line)
+Hammersmith (Dist&Picc Line),Turnham Green,897,901,District line to Turnham Green
+Turnham Green,Acton Town,907,911,District line to Acton Town
+Acton Town,Ealing Common,911,913,District line or Piccadilly line to Ealing Common
+Ealing Common,North Ealing,921,922,Piccadilly line to North Ealing
+North Ealing,Park Royal,923,924,Piccadilly line to Park Royal
+Park Royal,Alperton,925,927,Piccadilly line to Alperton
+Alperton,Sudbury Town,927,929,Piccadilly line to Sudbury Town
+Sudbury Town,Sudbury Hill,930,932,Piccadilly line to Sudbury Hill
+Sudbury Hill,South Harrow,932,934,Piccadilly line to South Harrow
+South Harrow,Rayners Lane,935,938,Piccadilly line to Rayners Lane
+Rayners Lane,Eastcote,938,940,Piccadilly line or Metropolitan line to Eastcote
+Eastcote,Ruislip Manor,940,942,Piccadilly line or Metropolitan line to Ruislip Manor
+Ruislip Manor,Ruislip,942,943,Piccadilly line or Metropolitan line to Ruislip
+Ruislip,Ickenham,944,946,Piccadilly line or Metropolitan line to Ickenham
+Ickenham,Hillingdon,946,948,Piccadilly line or Metropolitan line to Hillingdon
+Hillingdon,Uxbridge,948,952,Piccadilly line or Metropolitan line to Uxbridge
+Acton Town,South Ealing,911,914,Piccadilly line to South Ealing
+South Ealing,Northfields,914,915,Piccadilly line to Northfields
+Northfields,Boston Manor,916,917,Piccadilly line to Boston Manor
+Boston Manor,Osterley,918,920,Piccadilly line to Osterley
+Osterley,Hounslow East,921,922,Piccadilly line to Hounslow East
+Hounslow East,Hounslow Central,923,924,Piccadilly line to Hounslow Central
+Hounslow Central,Hounslow West,924,926,Piccadilly line to Hounslow West
+Hounslow West,Hatton Cross,927,930,Piccadilly line to Hatton Cross
+Hatton Cross,Heathrow Terminals 2 & 3,931,935,Piccadilly line to Heathrow Terminals 2 & 3
+Heathrow Terminals 2 & 3,Heathrow Terminal 5,936,939,Piccadilly line to Heathrow Terminal 5
+Cockfosters,Oakwood,850,852,Piccadilly line to Oakwood
+Oakwood,Southgate,852,854,Piccadilly line to Southgate
+Southgate,Arnos Grove,855,859,Piccadilly line to Arnos Grove
+Arnos Grove,Bounds Green,860,861,Piccadilly line to Bounds Green
+Bounds Green,Wood Green,862,864,Piccadilly line to Wood Green
+Wood Green,Turnpike Lane,864,866,Piccadilly line to Turnpike Lane
+Turnpike Lane,Manor House,866,869,Piccadilly line to Manor House
+Manor House,Finsbury Park,869,871,Piccadilly line to Finsbury Park
+Finsbury Park,Arsenal,872,873,Piccadilly line to Arsenal
+Arsenal,Holloway Road,873,874,Piccadilly line to Holloway Road
+Holloway Road,Caledonian Road,875,876,Piccadilly line to Caledonian Road
+Caledonian Road,King's Cross St. Pancras,876,879,Piccadilly line to King's Cross St.Pancras
+King's Cross St. Pancras,Russell Square,880,881,Piccadilly line to Russell Square
+Russell Square,Holborn,882,883,Piccadilly line to Holborn
+Holborn,Covent Garden,883,885,Piccadilly line to Covent Garden
+Covent Garden,Leicester Square,885,886,Piccadilly line to Leicester Square
+Leicester Square,Piccadilly Circus,886,887,Piccadilly line to Piccadilly Circus
+Piccadilly Circus,Green Park,888,888,Piccadilly line to Green Park
+Green Park,Hyde Park Corner,889,891,Piccadilly line to Hyde Park Corner
+Hyde Park Corner,Knightsbridge,891,892,Piccadilly line to Knightsbridge
+Knightsbridge,South Kensington,893,895,Piccadilly line to South Kensington
+South Kensington,Gloucester Road,895,897,Piccadilly line or District line or Circle line to Gloucester Road
+Gloucester Road,Earl's Court,897,899,Piccadilly line or District line to Earl's Court
+Earl's Court,Barons Court,899,902,Piccadilly line to Barons Court
+Barons Court,Hammersmith (Dist&Picc Line),902,903,Piccadilly line or District line to Hammersmith (Dist&Picc Line)
+Hammersmith (Dist&Picc Line),Turnham Green,907,911,District line to Turnham Green
+Turnham Green,Acton Town,917,921,District line to Acton Town
+Acton Town,Ealing Common,921,923,District line or Piccadilly line to Ealing Common
+Ealing Common,North Ealing,931,932,Piccadilly line to North Ealing
+North Ealing,Park Royal,933,934,Piccadilly line to Park Royal
+Park Royal,Alperton,935,937,Piccadilly line to Alperton
+Alperton,Sudbury Town,937,939,Piccadilly line to Sudbury Town
+Sudbury Town,Sudbury Hill,940,942,Piccadilly line to Sudbury Hill
+Sudbury Hill,South Harrow,942,944,Piccadilly line to South Harrow
+South Harrow,Rayners Lane,947,950,Piccadilly line to Rayners Lane
+Rayners Lane,Eastcote,956,957,Metropolitan line to Eastcote
+Eastcote,Ruislip Manor,958,959,Metropolitan line to Ruislip Manor
+Ruislip Manor,Ruislip,960,961,Metropolitan line or Piccadilly line to Ruislip
+Ruislip,Ickenham,961,963,Metropolitan line or Piccadilly line to Ickenham
+Ickenham,Hillingdon,964,965,Metropolitan line to Hillingdon
+Hillingdon,Uxbridge,966,969,Metropolitan line to Uxbridge
+Acton Town,South Ealing,921,923,Piccadilly line to South Ealing
+South Ealing,Northfields,924,925,Piccadilly line to Northfields
+Northfields,Boston Manor,926,927,Piccadilly line to Boston Manor
+Boston Manor,Osterley,928,930,Piccadilly line to Osterley
+Osterley,Hounslow East,931,932,Piccadilly line to Hounslow East
+Hounslow East,Hounslow Central,933,934,Piccadilly line to Hounslow Central
+Hounslow Central,Hounslow West,934,936,Piccadilly line to Hounslow West
+Hounslow West,Hatton Cross,937,940,Piccadilly line to Hatton Cross
+Hatton Cross,Heathrow Terminals 2 & 3,941,945,Piccadilly line to Heathrow Terminals 2 & 3
+Heathrow Terminals 2 & 3,Heathrow Terminal 5,946,949,Piccadilly line to Heathrow Terminal 5
+Cockfosters,Oakwood,856,858,Piccadilly line to Oakwood
+Oakwood,Southgate,858,860,Piccadilly line to Southgate
+Southgate,Arnos Grove,861,865,Piccadilly line to Arnos Grove
+Arnos Grove,Bounds Green,866,867,Piccadilly line to Bounds Green
+Bounds Green,Wood Green,868,870,Piccadilly line to Wood Green
+Wood Green,Turnpike Lane,870,872,Piccadilly line to Turnpike Lane
+Turnpike Lane,Manor House,872,875,Piccadilly line to Manor House
+Manor House,Finsbury Park,875,877,Piccadilly line to Finsbury Park
+Finsbury Park,Arsenal,878,879,Piccadilly line to Arsenal
+Arsenal,Holloway Road,879,880,Piccadilly line to Holloway Road
+Holloway Road,Caledonian Road,881,882,Piccadilly line to Caledonian Road
+Caledonian Road,King's Cross St. Pancras,882,885,Piccadilly line to King's Cross St.Pancras
+King's Cross St. Pancras,Russell Square,886,887,Piccadilly line to Russell Square
+Russell Square,Holborn,888,889,Piccadilly line to Holborn
+Holborn,Covent Garden,889,891,Piccadilly line to Covent Garden
+Covent Garden,Leicester Square,891,892,Piccadilly line to Leicester Square
+Leicester Square,Piccadilly Circus,892,893,Piccadilly line to Piccadilly Circus
+Piccadilly Circus,Green Park,894,894,Piccadilly line to Green Park
+Green Park,Hyde Park Corner,895,897,Piccadilly line to Hyde Park Corner
+Hyde Park Corner,Knightsbridge,897,898,Piccadilly line to Knightsbridge
+Knightsbridge,South Kensington,899,901,Piccadilly line to South Kensington
+South Kensington,Gloucester Road,901,903,Piccadilly line or District line or Circle line to Gloucester Road
+Gloucester Road,Earl's Court,903,905,District line or Piccadilly line to Earl's Court
+Earl's Court,Barons Court,905,908,Piccadilly line to Barons Court
+Barons Court,Hammersmith (Dist&Picc Line),908,909,Piccadilly line or District line to Hammersmith (Dist&Picc Line)
+Hammersmith (Dist&Picc Line),Turnham Green,912,916,District line to Turnham Green
+Cockfosters,Oakwood,861,863,Piccadilly line to Oakwood
+Oakwood,Southgate,864,866,Piccadilly line to Southgate
+Southgate,Arnos Grove,866,870,Piccadilly line to Arnos Grove
+Arnos Grove,Bounds Green,872,873,Piccadilly line to Bounds Green
+Bounds Green,Wood Green,874,876,Piccadilly line to Wood Green
+Wood Green,Turnpike Lane,876,878,Piccadilly line to Turnpike Lane
+Turnpike Lane,Manor House,878,881,Piccadilly line to Manor House
+Manor House,Finsbury Park,881,883,Piccadilly line to Finsbury Park
+Finsbury Park,Arsenal,884,885,Piccadilly line to Arsenal
+Arsenal,Holloway Road,885,886,Piccadilly line to Holloway Road
+Holloway Road,Caledonian Road,887,888,Piccadilly line to Caledonian Road
+Caledonian Road,King's Cross St. Pancras,888,891,Piccadilly line to King's Cross St.Pancras
+King's Cross St. Pancras,Russell Square,892,893,Piccadilly line to Russell Square
+Russell Square,Holborn,894,895,Piccadilly line to Holborn
+Holborn,Covent Garden,895,897,Piccadilly line to Covent Garden
+Covent Garden,Leicester Square,897,898,Piccadilly line to Leicester Square
+Leicester Square,Piccadilly Circus,898,899,Piccadilly line to Piccadilly Circus
+Piccadilly Circus,Green Park,900,900,Piccadilly line to Green Park
+Green Park,Hyde Park Corner,901,903,Piccadilly line to Hyde Park Corner
+Hyde Park Corner,Knightsbridge,903,904,Piccadilly line to Knightsbridge
+Knightsbridge,South Kensington,905,907,Piccadilly line to South Kensington
+South Kensington,Gloucester Road,907,909,Piccadilly line or Circle line or District line to Gloucester Road
+Gloucester Road,Earl's Court,909,911,Piccadilly line or District line to Earl's Court
+Earl's Court,Barons Court,911,914,Piccadilly line to Barons Court
+Barons Court,Hammersmith (Dist&Picc Line),914,915,Piccadilly line or District line to Hammersmith (Dist&Picc Line)
+Hammersmith (Dist&Picc Line),Turnham Green,918,922,District line to Turnham Green
+Turnham Green,Acton Town,927,931,District line to Acton Town
+Acton Town,Ealing Common,931,933,District line or Piccadilly line to Ealing Common
+Ealing Common,North Ealing,941,942,Piccadilly line to North Ealing
+North Ealing,Park Royal,943,944,Piccadilly line to Park Royal
+Park Royal,Alperton,945,947,Piccadilly line to Alperton
+Alperton,Sudbury Town,947,949,Piccadilly line to Sudbury Town
+Sudbury Town,Sudbury Hill,950,952,Piccadilly line to Sudbury Hill
+Sudbury Hill,South Harrow,952,954,Piccadilly line to South Harrow
+South Harrow,Rayners Lane,955,958,Piccadilly line to Rayners Lane
+Rayners Lane,Eastcote,959,961,Piccadilly line or Metropolitan line to Eastcote
+Eastcote,Ruislip Manor,961,963,Piccadilly line or Metropolitan line to Ruislip Manor
+Ruislip Manor,Ruislip,963,964,Piccadilly line or Metropolitan line to Ruislip
+Ruislip,Ickenham,965,967,Piccadilly line or Metropolitan line to Ickenham
+Ickenham,Hillingdon,967,969,Piccadilly line or Metropolitan line to Hillingdon
+Hillingdon,Uxbridge,969,973,Piccadilly line to Uxbridge
+Acton Town,South Ealing,931,934,Piccadilly line to South Ealing
+South Ealing,Northfields,934,935,Piccadilly line to Northfields
+Northfields,Boston Manor,936,937,Piccadilly line to Boston Manor
+Boston Manor,Osterley,938,940,Piccadilly line to Osterley
+Osterley,Hounslow East,941,942,Piccadilly line to Hounslow East
+Hounslow East,Hounslow Central,943,944,Piccadilly line to Hounslow Central
+Hounslow Central,Hounslow West,944,946,Piccadilly line to Hounslow West
+Hounslow West,Hatton Cross,947,950,Piccadilly line to Hatton Cross
+Hatton Cross,Heathrow Terminals 2 & 3,951,955,Piccadilly line to Heathrow Terminals 2 & 3
+Heathrow Terminals 2 & 3,Heathrow Terminal 5,956,959,Piccadilly line to Heathrow Terminal 5
+Cockfosters,Oakwood,866,868,Piccadilly line to Oakwood
+Oakwood,Southgate,869,871,Piccadilly line to Southgate
+Southgate,Arnos Grove,871,875,Piccadilly line to Arnos Grove
+Arnos Grove,Bounds Green,877,878,Piccadilly line to Bounds Green
+Bounds Green,Wood Green,879,881,Piccadilly line to Wood Green
+Wood Green,Turnpike Lane,881,883,Piccadilly line to Turnpike Lane
+Turnpike Lane,Manor House,883,886,Piccadilly line to Manor House
+Manor House,Finsbury Park,886,888,Piccadilly line to Finsbury Park
+Finsbury Park,Arsenal,889,890,Piccadilly line to Arsenal
+Arsenal,Holloway Road,890,891,Piccadilly line to Holloway Road
+Holloway Road,Caledonian Road,892,893,Piccadilly line to Caledonian Road
+Caledonian Road,King's Cross St. Pancras,893,896,Piccadilly line to King's Cross St.Pancras
+King's Cross St. Pancras,Russell Square,897,898,Piccadilly line to Russell Square
+Russell Square,Holborn,899,900,Piccadilly line to Holborn
+Holborn,Covent Garden,900,902,Piccadilly line to Covent Garden
+Covent Garden,Leicester Square,902,903,Piccadilly line to Leicester Square
+Leicester Square,Piccadilly Circus,903,904,Piccadilly line to Piccadilly Circus
+Piccadilly Circus,Green Park,905,905,Piccadilly line to Green Park
+Green Park,Hyde Park Corner,906,908,Piccadilly line to Hyde Park Corner
+Hyde Park Corner,Knightsbridge,908,909,Piccadilly line to Knightsbridge
+Knightsbridge,South Kensington,910,912,Piccadilly line to South Kensington
+South Kensington,Gloucester Road,912,914,Piccadilly line or District line or Circle line to Gloucester Road
+Gloucester Road,Earl's Court,914,916,Piccadilly line or District line to Earl's Court
+Earl's Court,Barons Court,916,918,Piccadilly line to Barons Court
+Barons Court,Hammersmith (Dist&Picc Line),919,920,Piccadilly line or District line to Hammersmith (Dist&Picc Line)
+Hammersmith (Dist&Picc Line),Turnham Green,922,926,District line to Turnham Green
+King's Cross St. Pancras,Russell Square,894,896,Piccadilly line to Russell Square
+Russell Square,Holborn,896,897,Piccadilly line to Holborn
+Holborn,Covent Garden,898,899,Piccadilly line to Covent Garden
+Covent Garden,Leicester Square,900,900,Piccadilly line to Leicester Square
+Leicester Square,Piccadilly Circus,901,902,Piccadilly line to Piccadilly Circus
+Piccadilly Circus,Green Park,902,903,Piccadilly line to Green Park
+Green Park,Hyde Park Corner,904,905,Piccadilly line to Hyde Park Corner
+Hyde Park Corner,Knightsbridge,906,907,Piccadilly line to Knightsbridge
+Knightsbridge,South Kensington,907,909,Piccadilly line to South Kensington
+South Kensington,Gloucester Road,909,910,Circle line or Piccadilly line or District line to Gloucester Road
+Gloucester Road,Earl's Court,912,913,Piccadilly line to Earl's Court
+Earl's Court,Barons Court,914,916,Piccadilly line to Barons Court
+Barons Court,Hammersmith (Dist&Picc Line),916,917,District line or Piccadilly line to Hammersmith (Dist&Picc Line)
+Cockfosters,Oakwood,870,872,Piccadilly line to Oakwood
+Oakwood,Southgate,872,874,Piccadilly line to Southgate
+Southgate,Arnos Grove,875,879,Piccadilly line to Arnos Grove
+Arnos Grove,Bounds Green,880,881,Piccadilly line to Bounds Green
+Bounds Green,Wood Green,882,884,Piccadilly line to Wood Green
+Wood Green,Turnpike Lane,884,886,Piccadilly line to Turnpike Lane
+Turnpike Lane,Manor House,886,889,Piccadilly line to Manor House
+Manor House,Finsbury Park,889,891,Piccadilly line to Finsbury Park
+Finsbury Park,Arsenal,892,893,Piccadilly line to Arsenal
+Arsenal,Holloway Road,893,894,Piccadilly line to Holloway Road
+Holloway Road,Caledonian Road,895,896,Piccadilly line to Caledonian Road
+Caledonian Road,King's Cross St. Pancras,896,899,Piccadilly line to King's Cross St.Pancras
+King's Cross St. Pancras,Russell Square,900,901,Piccadilly line to Russell Square
+Russell Square,Holborn,902,903,Piccadilly line to Holborn
+Holborn,Covent Garden,903,905,Piccadilly line to Covent Garden
+Covent Garden,Leicester Square,905,906,Piccadilly line to Leicester Square
+Leicester Square,Piccadilly Circus,906,907,Piccadilly line to Piccadilly Circus
+Piccadilly Circus,Green Park,908,908,Piccadilly line to Green Park
+Green Park,Hyde Park Corner,909,911,Piccadilly line to Hyde Park Corner
+Hyde Park Corner,Knightsbridge,911,912,Piccadilly line to Knightsbridge
+Knightsbridge,South Kensington,913,915,Piccadilly line to South Kensington
+South Kensington,Gloucester Road,915,917,Piccadilly line or District line or Circle line to Gloucester Road
+Gloucester Road,Earl's Court,917,919,Piccadilly line or District line to Earl's Court
+Earl's Court,Barons Court,919,921,Piccadilly line to Barons Court
+Barons Court,Hammersmith (Dist&Picc Line),922,923,Piccadilly line or District line to Hammersmith (Dist&Picc Line)
+Hammersmith (Dist&Picc Line),Turnham Green,927,932,District line to Turnham Green
+Turnham Green,Acton Town,937,941,District line to Acton Town
+Acton Town,Ealing Common,941,943,District line or Piccadilly line to Ealing Common
+Ealing Common,North Ealing,951,953,Piccadilly line to North Ealing
+North Ealing,Park Royal,953,955,Piccadilly line to Park Royal
+Park Royal,Alperton,955,957,Piccadilly line to Alperton
+Alperton,Sudbury Town,958,960,Piccadilly line to Sudbury Town
+Sudbury Town,Sudbury Hill,960,962,Piccadilly line to Sudbury Hill
+Sudbury Hill,South Harrow,963,965,Piccadilly line to South Harrow
+South Harrow,Rayners Lane,965,968,Piccadilly line to Rayners Lane
+Rayners Lane,Eastcote,973,975,Metropolitan line or Piccadilly line to Eastcote
+Eastcote,Ruislip Manor,975,977,Metropolitan line or Piccadilly line to Ruislip Manor
+Ruislip Manor,Ruislip,977,978,Metropolitan line or Piccadilly line to Ruislip
+Ruislip,Ickenham,979,981,Metropolitan line or Piccadilly line to Ickenham
+Ickenham,Hillingdon,981,983,Metropolitan line or Piccadilly line to Hillingdon
+Hillingdon,Uxbridge,983,988,Metropolitan line or Piccadilly line to Uxbridge
+Acton Town,South Ealing,941,943,Piccadilly line to South Ealing
+South Ealing,Northfields,944,945,Piccadilly line to Northfields
+Northfields,Boston Manor,946,947,Piccadilly line to Boston Manor
+Boston Manor,Osterley,948,950,Piccadilly line to Osterley
+Osterley,Hounslow East,951,952,Piccadilly line to Hounslow East
+Hounslow East,Hounslow Central,953,954,Piccadilly line to Hounslow Central
+Hounslow Central,Hounslow West,954,956,Piccadilly line to Hounslow West
+Hounslow West,Hatton Cross,957,960,Piccadilly line to Hatton Cross
+Hatton Cross,Heathrow Terminals 2 & 3,961,965,Piccadilly line to Heathrow Terminals 2 & 3
+Heathrow Terminals 2 & 3,Heathrow Terminal 5,966,969,Piccadilly line to Heathrow Terminal 5
+Cockfosters,Oakwood,876,878,Piccadilly line to Oakwood
+Oakwood,Southgate,878,880,Piccadilly line to Southgate
+Southgate,Arnos Grove,881,885,Piccadilly line to Arnos Grove
+Arnos Grove,Bounds Green,886,887,Piccadilly line to Bounds Green
+Bounds Green,Wood Green,888,890,Piccadilly line to Wood Green
+Wood Green,Turnpike Lane,890,892,Piccadilly line to Turnpike Lane
+Turnpike Lane,Manor House,892,895,Piccadilly line to Manor House
+Manor House,Finsbury Park,895,897,Piccadilly line to Finsbury Park
+Finsbury Park,Arsenal,898,899,Piccadilly line to Arsenal
+Arsenal,Holloway Road,899,900,Piccadilly line to Holloway Road
+Holloway Road,Caledonian Road,901,902,Piccadilly line to Caledonian Road
+Caledonian Road,King's Cross St. Pancras,902,905,Piccadilly line to King's Cross St.Pancras
+King's Cross St. Pancras,Russell Square,906,907,Piccadilly line to Russell Square
+Russell Square,Holborn,908,909,Piccadilly line to Holborn
+Holborn,Covent Garden,909,911,Piccadilly line to Covent Garden
+Covent Garden,Leicester Square,911,912,Piccadilly line to Leicester Square
+Leicester Square,Piccadilly Circus,912,913,Piccadilly line to Piccadilly Circus
+Piccadilly Circus,Green Park,914,914,Piccadilly line to Green Park
+Green Park,Hyde Park Corner,915,917,Piccadilly line to Hyde Park Corner
+Hyde Park Corner,Knightsbridge,917,918,Piccadilly line to Knightsbridge
+Knightsbridge,South Kensington,919,921,Piccadilly line to South Kensington
+South Kensington,Gloucester Road,921,923,Piccadilly line or District line or Circle line to Gloucester Road
+Gloucester Road,Earl's Court,923,925,District line or Piccadilly line to Earl's Court
+Earl's Court,Barons Court,925,927,Piccadilly line to Barons Court
+Barons Court,Hammersmith (Dist&Picc Line),928,930,Piccadilly line or District line to Hammersmith (Dist&Picc Line)
+Hammersmith (Dist&Picc Line),Turnham Green,932,936,District line to Turnham Green
+Cockfosters,Oakwood,881,883,Piccadilly line to Oakwood
+Oakwood,Southgate,884,886,Piccadilly line to Southgate
+Southgate,Arnos Grove,886,890,Piccadilly line to Arnos Grove
+Arnos Grove,Bounds Green,892,893,Piccadilly line to Bounds Green
+Bounds Green,Wood Green,894,896,Piccadilly line to Wood Green
+Wood Green,Turnpike Lane,896,898,Piccadilly line to Turnpike Lane
+Turnpike Lane,Manor House,898,901,Piccadilly line to Manor House
+Manor House,Finsbury Park,901,903,Piccadilly line to Finsbury Park
+Finsbury Park,Arsenal,904,905,Piccadilly line to Arsenal
+Arsenal,Holloway Road,905,906,Piccadilly line to Holloway Road
+Holloway Road,Caledonian Road,907,908,Piccadilly line to Caledonian Road
+Caledonian Road,King's Cross St. Pancras,908,911,Piccadilly line to King's Cross St.Pancras
+King's Cross St. Pancras,Russell Square,912,913,Piccadilly line to Russell Square
+Russell Square,Holborn,914,915,Piccadilly line to Holborn
+Holborn,Covent Garden,915,917,Piccadilly line to Covent Garden
+Covent Garden,Leicester Square,917,918,Piccadilly line to Leicester Square
+Leicester Square,Piccadilly Circus,918,919,Piccadilly line to Piccadilly Circus
+Piccadilly Circus,Green Park,920,920,Piccadilly line to Green Park
+Green Park,Hyde Park Corner,921,923,Piccadilly line to Hyde Park Corner
+Hyde Park Corner,Knightsbridge,923,924,Piccadilly line to Knightsbridge
+Knightsbridge,South Kensington,925,927,Piccadilly line to South Kensington
+South Kensington,Gloucester Road,927,929,Piccadilly line or Circle line or District line to Gloucester Road
+Gloucester Road,Earl's Court,929,931,Piccadilly line or District line to Earl's Court
+Earl's Court,Barons Court,931,933,Piccadilly line to Barons Court
+Barons Court,Hammersmith (Dist&Picc Line),935,936,District line or Piccadilly line to Hammersmith (Dist&Picc Line)
+Hammersmith (Dist&Picc Line),Turnham Green,937,941,District line to Turnham Green
+Turnham Green,Acton Town,947,951,District line to Acton Town
+Acton Town,Ealing Common,951,953,District line or Piccadilly line to Ealing Common
+Ealing Common,North Ealing,961,963,Piccadilly line to North Ealing
+North Ealing,Park Royal,963,965,Piccadilly line to Park Royal
+Park Royal,Alperton,965,967,Piccadilly line to Alperton
+Alperton,Sudbury Town,968,970,Piccadilly line to Sudbury Town
+Sudbury Town,Sudbury Hill,970,972,Piccadilly line to Sudbury Hill
+Sudbury Hill,South Harrow,973,975,Piccadilly line to South Harrow
+South Harrow,Rayners Lane,975,978,Piccadilly line to Rayners Lane
+Rayners Lane,Eastcote,979,980,Piccadilly line to Eastcote
+Eastcote,Ruislip Manor,981,982,Piccadilly line to Ruislip Manor
+Ruislip Manor,Ruislip,983,984,Piccadilly line or Metropolitan line to Ruislip
+Ruislip,Ickenham,984,986,Piccadilly line or Metropolitan line to Ickenham
+Ickenham,Hillingdon,987,988,Piccadilly line to Hillingdon
+Hillingdon,Uxbridge,989,992,Piccadilly line to Uxbridge
+Acton Town,South Ealing,952,954,Piccadilly line to South Ealing
+South Ealing,Northfields,955,956,Piccadilly line to Northfields
+Northfields,Boston Manor,956,958,Piccadilly line to Boston Manor
+Boston Manor,Osterley,958,961,Piccadilly line to Osterley
+Osterley,Hounslow East,961,963,Piccadilly line to Hounslow East
+Hounslow East,Hounslow Central,963,964,Piccadilly line to Hounslow Central
+Hounslow Central,Hounslow West,965,966,Piccadilly line to Hounslow West
+Hounslow West,Hatton Cross,967,971,Piccadilly line to Hatton Cross
+Hatton Cross,Heathrow Terminals 2 & 3,972,975,Piccadilly line to Heathrow Terminals 2 & 3
+Heathrow Terminals 2 & 3,Heathrow Terminal 5,976,979,Piccadilly line to Heathrow Terminal 5
+Cockfosters,Oakwood,886,888,Piccadilly line to Oakwood
+Oakwood,Southgate,889,891,Piccadilly line to Southgate
+Southgate,Arnos Grove,891,895,Piccadilly line to Arnos Grove
+Arnos Grove,Bounds Green,897,898,Piccadilly line to Bounds Green
+Bounds Green,Wood Green,899,901,Piccadilly line to Wood Green
+Wood Green,Turnpike Lane,901,903,Piccadilly line to Turnpike Lane
+Turnpike Lane,Manor House,903,906,Piccadilly line to Manor House
+Manor House,Finsbury Park,906,908,Piccadilly line to Finsbury Park
+Finsbury Park,Arsenal,909,910,Piccadilly line to Arsenal
+Arsenal,Holloway Road,910,911,Piccadilly line to Holloway Road
+Holloway Road,Caledonian Road,912,913,Piccadilly line to Caledonian Road
+Caledonian Road,King's Cross St. Pancras,913,916,Piccadilly line to King's Cross St.Pancras
+King's Cross St. Pancras,Russell Square,917,918,Piccadilly line to Russell Square
+Russell Square,Holborn,919,920,Piccadilly line to Holborn
+Holborn,Covent Garden,920,922,Piccadilly line to Covent Garden
+Covent Garden,Leicester Square,922,923,Piccadilly line to Leicester Square
+Leicester Square,Piccadilly Circus,923,924,Piccadilly line to Piccadilly Circus
+Piccadilly Circus,Green Park,925,925,Piccadilly line to Green Park
+Green Park,Hyde Park Corner,926,928,Piccadilly line to Hyde Park Corner
+Hyde Park Corner,Knightsbridge,928,929,Piccadilly line to Knightsbridge
+Knightsbridge,South Kensington,930,932,Piccadilly line to South Kensington
+South Kensington,Gloucester Road,932,934,Piccadilly line or District line or Circle line to Gloucester Road
+Gloucester Road,Earl's Court,934,936,Piccadilly line or District line to Earl's Court
+Earl's Court,Barons Court,936,938,Piccadilly line to Barons Court
+Barons Court,Hammersmith (Dist&Picc Line),940,941,District line to Hammersmith (Dist&Picc Line)
+Hammersmith (Dist&Picc Line),Turnham Green,942,946,District line to Turnham Green
+Cockfosters,Oakwood,890,892,Piccadilly line to Oakwood
+Oakwood,Southgate,892,894,Piccadilly line to Southgate
+Southgate,Arnos Grove,895,899,Piccadilly line to Arnos Grove
+Arnos Grove,Bounds Green,900,901,Piccadilly line to Bounds Green
+Bounds Green,Wood Green,902,904,Piccadilly line to Wood Green
+Wood Green,Turnpike Lane,904,906,Piccadilly line to Turnpike Lane
+Turnpike Lane,Manor House,906,909,Piccadilly line to Manor House
+Manor House,Finsbury Park,909,911,Piccadilly line to Finsbury Park
+Finsbury Park,Arsenal,912,913,Piccadilly line to Arsenal
+Arsenal,Holloway Road,913,914,Piccadilly line to Holloway Road
+Holloway Road,Caledonian Road,915,916,Piccadilly line to Caledonian Road
+Caledonian Road,King's Cross St. Pancras,916,919,Piccadilly line to King's Cross St.Pancras
+King's Cross St. Pancras,Russell Square,920,921,Piccadilly line to Russell Square
+Russell Square,Holborn,922,923,Piccadilly line to Holborn
+Holborn,Covent Garden,923,925,Piccadilly line to Covent Garden
+Covent Garden,Leicester Square,925,926,Piccadilly line to Leicester Square
+Leicester Square,Piccadilly Circus,926,927,Piccadilly line to Piccadilly Circus
+Piccadilly Circus,Green Park,928,928,Piccadilly line to Green Park
+Green Park,Hyde Park Corner,929,931,Piccadilly line to Hyde Park Corner
+Hyde Park Corner,Knightsbridge,931,932,Piccadilly line to Knightsbridge
+Knightsbridge,South Kensington,933,935,Piccadilly line to South Kensington
+South Kensington,Gloucester Road,935,937,Piccadilly line or District line or Circle line to Gloucester Road
+Gloucester Road,Earl's Court,937,939,Piccadilly line or District line to Earl's Court
+Earl's Court,Barons Court,939,941,Piccadilly line to Barons Court
+Barons Court,Hammersmith (Dist&Picc Line),942,944,Piccadilly line or District line to Hammersmith (Dist&Picc Line)
+Hammersmith (Dist&Picc Line),Turnham Green,947,951,District line to Turnham Green
+Turnham Green,Acton Town,957,961,District line to Acton Town
+Acton Town,Ealing Common,961,963,District line or Piccadilly line to Ealing Common
+Ealing Common,North Ealing,971,973,Piccadilly line to North Ealing
+North Ealing,Park Royal,973,975,Piccadilly line to Park Royal
+Park Royal,Alperton,975,977,Piccadilly line to Alperton
+Alperton,Sudbury Town,978,980,Piccadilly line to Sudbury Town
+Sudbury Town,Sudbury Hill,980,982,Piccadilly line to Sudbury Hill
+Sudbury Hill,South Harrow,983,985,Piccadilly line to South Harrow
+South Harrow,Rayners Lane,985,988,Piccadilly line to Rayners Lane
+Rayners Lane,Eastcote,993,995,Metropolitan line or Piccadilly line to Eastcote
+Eastcote,Ruislip Manor,995,997,Metropolitan line or Piccadilly line to Ruislip Manor
+Ruislip Manor,Ruislip,997,998,Metropolitan line or Piccadilly line to Ruislip
+Ruislip,Ickenham,999,1001,Metropolitan line or Piccadilly line to Ickenham
+Ickenham,Hillingdon,1001,1003,Metropolitan line or Piccadilly line to Hillingdon
+Hillingdon,Uxbridge,1003,1008,Metropolitan line or Piccadilly line to Uxbridge
+Acton Town,South Ealing,961,964,Piccadilly line to South Ealing
+South Ealing,Northfields,964,965,Piccadilly line to Northfields
+Northfields,Boston Manor,966,968,Piccadilly line to Boston Manor
+Boston Manor,Osterley,968,971,Piccadilly line to Osterley
+Osterley,Hounslow East,971,973,Piccadilly line to Hounslow East
+Hounslow East,Hounslow Central,973,974,Piccadilly line to Hounslow Central
+Hounslow Central,Hounslow West,975,976,Piccadilly line to Hounslow West
+Hounslow West,Hatton Cross,977,981,Piccadilly line to Hatton Cross
+Hatton Cross,Heathrow Terminals 2 & 3,982,985,Piccadilly line to Heathrow Terminals 2 & 3
+Heathrow Terminals 2 & 3,Heathrow Terminal 5,986,989,Piccadilly line to Heathrow Terminal 5
+Cockfosters,Oakwood,896,898,Piccadilly line to Oakwood
+Oakwood,Southgate,898,900,Piccadilly line to Southgate
+Southgate,Arnos Grove,901,905,Piccadilly line to Arnos Grove
+Arnos Grove,Bounds Green,906,907,Piccadilly line to Bounds Green
+Bounds Green,Wood Green,908,910,Piccadilly line to Wood Green
+Wood Green,Turnpike Lane,910,912,Piccadilly line to Turnpike Lane
+Turnpike Lane,Manor House,912,915,Piccadilly line to Manor House
+Manor House,Finsbury Park,915,917,Piccadilly line to Finsbury Park
+Finsbury Park,Arsenal,918,919,Piccadilly line to Arsenal
+Arsenal,Holloway Road,919,920,Piccadilly line to Holloway Road
+Holloway Road,Caledonian Road,921,922,Piccadilly line to Caledonian Road
+Caledonian Road,King's Cross St. Pancras,922,925,Piccadilly line to King's Cross St.Pancras
+King's Cross St. Pancras,Russell Square,926,927,Piccadilly line to Russell Square
+Russell Square,Holborn,928,929,Piccadilly line to Holborn
+Holborn,Covent Garden,929,931,Piccadilly line to Covent Garden
+Covent Garden,Leicester Square,931,932,Piccadilly line to Leicester Square
+Leicester Square,Piccadilly Circus,932,933,Piccadilly line to Piccadilly Circus
+Piccadilly Circus,Green Park,934,934,Piccadilly line to Green Park
+Green Park,Hyde Park Corner,935,937,Piccadilly line to Hyde Park Corner
+Hyde Park Corner,Knightsbridge,937,938,Piccadilly line to Knightsbridge
+Knightsbridge,South Kensington,939,941,Piccadilly line to South Kensington
+South Kensington,Gloucester Road,941,943,Piccadilly line or District line or Circle line to Gloucester Road
+Gloucester Road,Earl's Court,943,945,District line or Piccadilly line to Earl's Court
+Earl's Court,Barons Court,945,947,Piccadilly line to Barons Court
+Barons Court,Hammersmith (Dist&Picc Line),948,950,Piccadilly line or District line to Hammersmith (Dist&Picc Line)
+Hammersmith (Dist&Picc Line),Turnham Green,952,956,District line to Turnham Green

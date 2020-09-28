@@ -1,0 +1,332 @@
+node1,node2,tstart,tend,line
+Walthamstow Central,Blackhorse Road,840,842,Victoria line to Blackhorse Road
+Blackhorse Road,Tottenham Hale,842,844,Victoria line to Tottenham Hale
+Tottenham Hale,Seven Sisters,844,845,Victoria line to Seven Sisters
+Seven Sisters,Finsbury Park,846,849,Victoria line to Finsbury Park
+Finsbury Park,Highbury & Islington,849,851,Victoria line to Highbury & Islington
+Highbury & Islington,King's Cross St. Pancras,851,854,Victoria line to King's Cross St.Pancras
+King's Cross St. Pancras,Euston,854,855,Victoria line or Northern line to Euston
+Euston,Warren Street,856,857,Northern line or Victoria line to Warren Street
+Warren Street,Oxford Circus,857,858,Victoria line to Oxford Circus
+Oxford Circus,Green Park,859,860,Victoria line to Green Park
+Green Park,Victoria,861,862,Victoria line to Victoria
+Victoria,Pimlico,863,864,Victoria line to Pimlico
+Pimlico,Vauxhall,865,866,Victoria line to Vauxhall
+Vauxhall,Stockwell,866,868,Victoria line to Stockwell
+Stockwell,Brixton,868,870,Victoria line to Brixton
+Walthamstow Central,Blackhorse Road,851,853,Victoria line to Blackhorse Road
+Blackhorse Road,Tottenham Hale,853,855,Victoria line to Tottenham Hale
+Tottenham Hale,Seven Sisters,855,857,Victoria line to Seven Sisters
+Seven Sisters,Finsbury Park,858,861,Victoria line to Finsbury Park
+Finsbury Park,Highbury & Islington,861,863,Victoria line to Highbury & Islington
+Highbury & Islington,King's Cross St. Pancras,863,866,Victoria line to King's Cross St.Pancras
+King's Cross St. Pancras,Euston,866,867,Victoria line or Northern line to Euston
+Euston,Warren Street,868,869,Northern line or Victoria line to Warren Street
+Warren Street,Oxford Circus,869,870,Victoria line to Oxford Circus
+Oxford Circus,Green Park,871,872,Victoria line to Green Park
+Green Park,Victoria,873,874,Victoria line to Victoria
+Victoria,Pimlico,875,876,Victoria line to Pimlico
+Pimlico,Vauxhall,877,878,Victoria line to Vauxhall
+Vauxhall,Stockwell,878,880,Victoria line to Stockwell
+Stockwell,Brixton,880,882,Victoria line to Brixton
+Walthamstow Central,Blackhorse Road,856,857,Victoria line to Blackhorse Road
+Blackhorse Road,Tottenham Hale,858,859,Victoria line to Tottenham Hale
+Tottenham Hale,Seven Sisters,860,861,Victoria line to Seven Sisters
+Seven Sisters,Finsbury Park,862,865,Victoria line to Finsbury Park
+Finsbury Park,Highbury & Islington,866,867,Victoria line to Highbury & Islington
+Highbury & Islington,King's Cross St. Pancras,868,870,Victoria line to King's Cross St.Pancras
+King's Cross St. Pancras,Euston,871,872,Northern line or Victoria line to Euston
+Euston,Warren Street,872,873,Victoria line or Northern line to Warren Street
+Warren Street,Oxford Circus,874,875,Victoria line to Oxford Circus
+Oxford Circus,Green Park,875,877,Victoria line to Green Park
+Green Park,Victoria,877,879,Victoria line to Victoria
+Victoria,Pimlico,879,881,Victoria line to Pimlico
+Pimlico,Vauxhall,881,882,Victoria line to Vauxhall
+Vauxhall,Stockwell,883,884,Victoria line to Stockwell
+Stockwell,Brixton,885,887,Victoria line to Brixton
+Walthamstow Central,Blackhorse Road,860,862,Victoria line to Blackhorse Road
+Blackhorse Road,Tottenham Hale,862,864,Victoria line to Tottenham Hale
+Tottenham Hale,Seven Sisters,864,866,Victoria line to Seven Sisters
+Seven Sisters,Finsbury Park,867,870,Victoria line to Finsbury Park
+Finsbury Park,Highbury & Islington,870,872,Victoria line to Highbury & Islington
+Highbury & Islington,King's Cross St. Pancras,872,875,Victoria line to King's Cross St.Pancras
+King's Cross St. Pancras,Euston,875,876,Victoria line or Northern line to Euston
+Euston,Warren Street,877,878,Northern line or Victoria line to Warren Street
+Warren Street,Oxford Circus,878,879,Victoria line to Oxford Circus
+Oxford Circus,Green Park,880,881,Victoria line to Green Park
+Green Park,Victoria,882,883,Victoria line to Victoria
+Victoria,Pimlico,884,885,Victoria line to Pimlico
+Pimlico,Vauxhall,886,887,Victoria line to Vauxhall
+Vauxhall,Stockwell,887,889,Victoria line to Stockwell
+Stockwell,Brixton,889,891,Victoria line to Brixton
+Walthamstow Central,Blackhorse Road,865,866,Victoria line to Blackhorse Road
+Blackhorse Road,Tottenham Hale,867,868,Victoria line to Tottenham Hale
+Tottenham Hale,Seven Sisters,869,870,Victoria line to Seven Sisters
+Seven Sisters,Finsbury Park,871,874,Victoria line to Finsbury Park
+Finsbury Park,Highbury & Islington,875,876,Victoria line to Highbury & Islington
+Highbury & Islington,King's Cross St. Pancras,877,879,Victoria line to King's Cross St.Pancras
+King's Cross St. Pancras,Euston,880,881,Northern line or Victoria line to Euston
+Euston,Warren Street,881,882,Victoria line or Northern line to Warren Street
+Warren Street,Oxford Circus,883,884,Victoria line to Oxford Circus
+Oxford Circus,Green Park,884,886,Victoria line to Green Park
+Green Park,Victoria,886,888,Victoria line to Victoria
+Victoria,Pimlico,888,890,Victoria line to Pimlico
+Pimlico,Vauxhall,890,891,Victoria line to Vauxhall
+Vauxhall,Stockwell,892,893,Victoria line to Stockwell
+Stockwell,Brixton,894,896,Victoria line to Brixton
+Walthamstow Central,Blackhorse Road,871,873,Victoria line to Blackhorse Road
+Blackhorse Road,Tottenham Hale,874,875,Victoria line to Tottenham Hale
+Tottenham Hale,Seven Sisters,875,877,Victoria line to Seven Sisters
+Seven Sisters,Finsbury Park,878,881,Victoria line to Finsbury Park
+Finsbury Park,Highbury & Islington,881,883,Victoria line to Highbury & Islington
+Highbury & Islington,King's Cross St. Pancras,884,886,Victoria line to King's Cross St.Pancras
+King's Cross St. Pancras,Euston,886,887,Northern line or Victoria line to Euston
+Euston,Warren Street,888,889,Victoria line or Northern line to Warren Street
+Warren Street,Oxford Circus,890,891,Victoria line to Oxford Circus
+Oxford Circus,Green Park,891,893,Victoria line to Green Park
+Green Park,Victoria,893,894,Victoria line to Victoria
+Victoria,Pimlico,895,896,Victoria line to Pimlico
+Pimlico,Vauxhall,897,898,Victoria line to Vauxhall
+Vauxhall,Stockwell,898,900,Victoria line to Stockwell
+Stockwell,Brixton,901,902,Victoria line to Brixton
+Walthamstow Central,Blackhorse Road,876,878,Victoria line to Blackhorse Road
+Blackhorse Road,Tottenham Hale,878,880,Victoria line to Tottenham Hale
+Tottenham Hale,Seven Sisters,880,881,Victoria line to Seven Sisters
+Seven Sisters,Finsbury Park,883,885,Victoria line to Finsbury Park
+Finsbury Park,Highbury & Islington,886,888,Victoria line to Highbury & Islington
+Highbury & Islington,King's Cross St. Pancras,888,891,Victoria line to King's Cross St.Pancras
+King's Cross St. Pancras,Euston,891,892,Victoria line or Northern line to Euston
+Euston,Warren Street,892,893,Northern line or Victoria line to Warren Street
+Warren Street,Oxford Circus,894,895,Victoria line to Oxford Circus
+Oxford Circus,Green Park,896,897,Victoria line to Green Park
+Green Park,Victoria,898,899,Victoria line to Victoria
+Victoria,Pimlico,900,901,Victoria line to Pimlico
+Pimlico,Vauxhall,901,902,Victoria line to Vauxhall
+Vauxhall,Stockwell,903,905,Victoria line to Stockwell
+Stockwell,Brixton,905,907,Victoria line to Brixton
+Walthamstow Central,Blackhorse Road,880,882,Victoria line to Blackhorse Road
+Blackhorse Road,Tottenham Hale,883,884,Victoria line to Tottenham Hale
+Tottenham Hale,Seven Sisters,884,886,Victoria line to Seven Sisters
+Seven Sisters,Finsbury Park,887,890,Victoria line to Finsbury Park
+Finsbury Park,Highbury & Islington,890,892,Victoria line to Highbury & Islington
+Highbury & Islington,King's Cross St. Pancras,893,895,Victoria line to King's Cross St.Pancras
+King's Cross St. Pancras,Euston,895,896,Northern line or Victoria line to Euston
+Euston,Warren Street,897,898,Victoria line or Northern line to Warren Street
+Warren Street,Oxford Circus,899,900,Victoria line to Oxford Circus
+Oxford Circus,Green Park,900,902,Victoria line to Green Park
+Green Park,Victoria,902,903,Victoria line to Victoria
+Victoria,Pimlico,904,905,Victoria line to Pimlico
+Pimlico,Vauxhall,906,907,Victoria line to Vauxhall
+Vauxhall,Stockwell,907,909,Victoria line to Stockwell
+Stockwell,Brixton,910,911,Victoria line to Brixton
+Walthamstow Central,Blackhorse Road,885,887,Victoria line to Blackhorse Road
+Blackhorse Road,Tottenham Hale,887,889,Victoria line to Tottenham Hale
+Tottenham Hale,Seven Sisters,889,890,Victoria line to Seven Sisters
+Seven Sisters,Finsbury Park,892,894,Victoria line to Finsbury Park
+Finsbury Park,Highbury & Islington,895,897,Victoria line to Highbury & Islington
+Highbury & Islington,King's Cross St. Pancras,897,900,Victoria line to King's Cross St.Pancras
+King's Cross St. Pancras,Euston,900,901,Victoria line or Northern line to Euston
+Euston,Warren Street,901,902,Northern line or Victoria line to Warren Street
+Warren Street,Oxford Circus,903,904,Victoria line to Oxford Circus
+Oxford Circus,Green Park,905,906,Victoria line to Green Park
+Green Park,Victoria,907,908,Victoria line to Victoria
+Victoria,Pimlico,909,910,Victoria line to Pimlico
+Pimlico,Vauxhall,910,911,Victoria line to Vauxhall
+Vauxhall,Stockwell,912,914,Victoria line to Stockwell
+Stockwell,Brixton,914,916,Victoria line to Brixton
+Walthamstow Central,Blackhorse Road,892,893,Victoria line to Blackhorse Road
+Blackhorse Road,Tottenham Hale,894,895,Victoria line to Tottenham Hale
+Tottenham Hale,Seven Sisters,896,897,Victoria line to Seven Sisters
+Seven Sisters,Finsbury Park,898,901,Victoria line to Finsbury Park
+Finsbury Park,Highbury & Islington,902,903,Victoria line to Highbury & Islington
+Highbury & Islington,King's Cross St. Pancras,904,906,Victoria line to King's Cross St.Pancras
+King's Cross St. Pancras,Euston,907,908,Northern line or Victoria line to Euston
+Euston,Warren Street,908,909,Victoria line or Northern line to Warren Street
+Warren Street,Oxford Circus,910,911,Victoria line to Oxford Circus
+Oxford Circus,Green Park,911,913,Victoria line to Green Park
+Green Park,Victoria,913,915,Victoria line to Victoria
+Victoria,Pimlico,915,917,Victoria line to Pimlico
+Pimlico,Vauxhall,917,918,Victoria line to Vauxhall
+Vauxhall,Stockwell,919,920,Victoria line to Stockwell
+Stockwell,Brixton,921,923,Victoria line to Brixton
+Walthamstow Central,Blackhorse Road,896,898,Victoria line to Blackhorse Road
+Blackhorse Road,Tottenham Hale,898,900,Victoria line to Tottenham Hale
+Tottenham Hale,Seven Sisters,900,902,Victoria line to Seven Sisters
+Seven Sisters,Finsbury Park,903,906,Victoria line to Finsbury Park
+Finsbury Park,Highbury & Islington,906,908,Victoria line to Highbury & Islington
+Highbury & Islington,King's Cross St. Pancras,908,911,Victoria line to King's Cross St.Pancras
+King's Cross St. Pancras,Euston,911,912,Victoria line or Northern line to Euston
+Euston,Warren Street,913,914,Northern line or Victoria line to Warren Street
+Warren Street,Oxford Circus,914,915,Victoria line to Oxford Circus
+Oxford Circus,Green Park,916,917,Victoria line to Green Park
+Green Park,Victoria,918,919,Victoria line to Victoria
+Victoria,Pimlico,920,921,Victoria line to Pimlico
+Pimlico,Vauxhall,922,923,Victoria line to Vauxhall
+Vauxhall,Stockwell,923,925,Victoria line to Stockwell
+Stockwell,Brixton,925,927,Victoria line to Brixton
+
+Brixton,Stockwell,840,842,Victoria line to Stockwell
+Stockwell,Vauxhall,842,844,Victoria line to Vauxhall
+Vauxhall,Pimlico,844,845,Victoria line to Pimlico
+Pimlico,Victoria,846,847,Victoria line to Victoria
+Victoria,Green Park,848,849,Victoria line to Green Park
+Green Park,Oxford Circus,850,851,Victoria line to Oxford Circus
+Oxford Circus,Warren Street,852,853,Victoria line to Warren Street
+Warren Street,Euston,853,854,Northern line or Victoria line to Euston
+Euston,King's Cross St. Pancras,855,856,Victoria line or Northern line to King's Cross St.Pancras
+King's Cross St. Pancras,Highbury & Islington,856,859,Victoria line to Highbury & Islington
+Highbury & Islington,Finsbury Park,859,861,Victoria line to Finsbury Park
+Finsbury Park,Seven Sisters,861,864,Victoria line to Seven Sisters
+Seven Sisters,Tottenham Hale,866,867,Victoria line to Tottenham Hale
+Tottenham Hale,Blackhorse Road,867,869,Victoria line to Blackhorse Road
+Blackhorse Road,Walthamstow Central,869,871,Victoria line to Walthamstow Central
+Brixton,Stockwell,851,853,Victoria line to Stockwell
+Stockwell,Vauxhall,853,855,Victoria line to Vauxhall
+Vauxhall,Pimlico,855,856,Victoria line to Pimlico
+Pimlico,Victoria,857,858,Victoria line to Victoria
+Victoria,Green Park,859,860,Victoria line to Green Park
+Green Park,Oxford Circus,861,862,Victoria line to Oxford Circus
+Oxford Circus,Warren Street,863,864,Victoria line to Warren Street
+Warren Street,Euston,865,866,Northern line or Victoria line to Euston
+Euston,King's Cross St. Pancras,866,867,Victoria line or Northern line to King's Cross St.Pancras
+King's Cross St. Pancras,Highbury & Islington,868,870,Victoria line to Highbury & Islington
+Highbury & Islington,Finsbury Park,870,872,Victoria line to Finsbury Park
+Finsbury Park,Seven Sisters,873,876,Victoria line to Seven Sisters
+Seven Sisters,Tottenham Hale,877,878,Victoria line to Tottenham Hale
+Tottenham Hale,Blackhorse Road,878,880,Victoria line to Blackhorse Road
+Blackhorse Road,Walthamstow Central,880,882,Victoria line to Walthamstow Central
+Brixton,Stockwell,856,857,Victoria line to Stockwell
+Stockwell,Vauxhall,858,860,Victoria line to Vauxhall
+Vauxhall,Pimlico,860,861,Victoria line to Pimlico
+Pimlico,Victoria,861,863,Victoria line to Victoria
+Victoria,Green Park,863,865,Victoria line to Green Park
+Green Park,Oxford Circus,865,867,Victoria line to Oxford Circus
+Oxford Circus,Warren Street,867,869,Victoria line to Warren Street
+Warren Street,Euston,869,870,Victoria line or Northern line to Euston
+Euston,King's Cross St. Pancras,871,872,Victoria line or Northern line to King's Cross St.Pancras
+King's Cross St. Pancras,Highbury & Islington,872,874,Victoria line to Highbury & Islington
+Highbury & Islington,Finsbury Park,875,877,Victoria line to Finsbury Park
+Finsbury Park,Seven Sisters,877,880,Victoria line to Seven Sisters
+Seven Sisters,Tottenham Hale,881,883,Victoria line to Tottenham Hale
+Tottenham Hale,Blackhorse Road,883,884,Victoria line to Blackhorse Road
+Blackhorse Road,Walthamstow Central,885,887,Victoria line to Walthamstow Central
+Brixton,Stockwell,860,862,Victoria line to Stockwell
+Stockwell,Vauxhall,862,864,Victoria line to Vauxhall
+Vauxhall,Pimlico,864,865,Victoria line to Pimlico
+Pimlico,Victoria,866,867,Victoria line to Victoria
+Victoria,Green Park,868,869,Victoria line to Green Park
+Green Park,Oxford Circus,870,871,Victoria line to Oxford Circus
+Oxford Circus,Warren Street,872,873,Victoria line to Warren Street
+Warren Street,Euston,874,875,Northern line or Victoria line to Euston
+Euston,King's Cross St. Pancras,875,876,Victoria line or Northern line to King's Cross St.Pancras
+King's Cross St. Pancras,Highbury & Islington,877,879,Victoria line to Highbury & Islington
+Highbury & Islington,Finsbury Park,879,881,Victoria line to Finsbury Park
+Finsbury Park,Seven Sisters,882,885,Victoria line to Seven Sisters
+Seven Sisters,Tottenham Hale,886,887,Victoria line to Tottenham Hale
+Tottenham Hale,Blackhorse Road,887,889,Victoria line to Blackhorse Road
+Blackhorse Road,Walthamstow Central,889,891,Victoria line to Walthamstow Central
+Brixton,Stockwell,865,866,Victoria line to Stockwell
+Stockwell,Vauxhall,867,869,Victoria line to Vauxhall
+Vauxhall,Pimlico,869,870,Victoria line to Pimlico
+Pimlico,Victoria,870,872,Victoria line to Victoria
+Victoria,Green Park,872,874,Victoria line to Green Park
+Green Park,Oxford Circus,874,876,Victoria line to Oxford Circus
+Oxford Circus,Warren Street,876,878,Victoria line to Warren Street
+Warren Street,Euston,878,879,Victoria line or Northern line to Euston
+Euston,King's Cross St. Pancras,880,881,Victoria line or Northern line to King's Cross St.Pancras
+King's Cross St. Pancras,Highbury & Islington,881,883,Victoria line to Highbury & Islington
+Highbury & Islington,Finsbury Park,884,886,Victoria line to Finsbury Park
+Finsbury Park,Seven Sisters,886,889,Victoria line to Seven Sisters
+Seven Sisters,Tottenham Hale,890,892,Victoria line to Tottenham Hale
+Tottenham Hale,Blackhorse Road,892,893,Victoria line to Blackhorse Road
+Blackhorse Road,Walthamstow Central,894,896,Victoria line to Walthamstow Central
+Brixton,Stockwell,872,874,Victoria line to Stockwell
+Stockwell,Vauxhall,875,876,Victoria line to Vauxhall
+Vauxhall,Pimlico,877,878,Victoria line to Pimlico
+Pimlico,Victoria,878,880,Victoria line to Victoria
+Victoria,Green Park,880,882,Victoria line to Green Park
+Green Park,Oxford Circus,882,884,Victoria line to Oxford Circus
+Oxford Circus,Warren Street,884,885,Victoria line to Warren Street
+Warren Street,Euston,886,887,Northern line or Victoria line to Euston
+Euston,King's Cross St. Pancras,887,888,Victoria line or Northern line to King's Cross St.Pancras
+King's Cross St. Pancras,Highbury & Islington,889,891,Victoria line to Highbury & Islington
+Highbury & Islington,Finsbury Park,892,894,Victoria line to Finsbury Park
+Finsbury Park,Seven Sisters,894,897,Victoria line to Seven Sisters
+Seven Sisters,Tottenham Hale,897,899,Victoria line to Tottenham Hale
+Tottenham Hale,Blackhorse Road,899,901,Victoria line to Blackhorse Road
+Blackhorse Road,Walthamstow Central,901,903,Victoria line to Walthamstow Central
+Brixton,Stockwell,876,878,Victoria line to Stockwell
+Stockwell,Vauxhall,878,880,Victoria line to Vauxhall
+Vauxhall,Pimlico,880,881,Victoria line to Pimlico
+Pimlico,Victoria,882,883,Victoria line to Victoria
+Victoria,Green Park,884,885,Victoria line to Green Park
+Green Park,Oxford Circus,886,887,Victoria line to Oxford Circus
+Oxford Circus,Warren Street,888,889,Victoria line to Warren Street
+Warren Street,Euston,889,890,Northern line or Victoria line to Euston
+Euston,King's Cross St. Pancras,891,892,Victoria line or Northern line to King's Cross St.Pancras
+King's Cross St. Pancras,Highbury & Islington,892,895,Victoria line to Highbury & Islington
+Highbury & Islington,Finsbury Park,895,897,Victoria line to Finsbury Park
+Finsbury Park,Seven Sisters,898,900,Victoria line to Seven Sisters
+Seven Sisters,Tottenham Hale,901,902,Victoria line to Tottenham Hale
+Tottenham Hale,Blackhorse Road,903,904,Victoria line to Blackhorse Road
+Blackhorse Road,Walthamstow Central,905,906,Victoria line to Walthamstow Central
+Brixton,Stockwell,881,882,Victoria line to Stockwell
+Stockwell,Vauxhall,883,884,Victoria line to Vauxhall
+Vauxhall,Pimlico,885,886,Victoria line to Pimlico
+Pimlico,Victoria,886,888,Victoria line to Victoria
+Victoria,Green Park,888,890,Victoria line to Green Park
+Green Park,Oxford Circus,890,892,Victoria line to Oxford Circus
+Oxford Circus,Warren Street,892,893,Victoria line to Warren Street
+Warren Street,Euston,894,895,Victoria line or Northern line to Euston
+Euston,King's Cross St. Pancras,895,896,Victoria line or Northern line to King's Cross St.Pancras
+King's Cross St. Pancras,Highbury & Islington,897,899,Victoria line to Highbury & Islington
+Highbury & Islington,Finsbury Park,900,902,Victoria line to Finsbury Park
+Finsbury Park,Seven Sisters,902,905,Victoria line to Seven Sisters
+Seven Sisters,Tottenham Hale,906,907,Victoria line to Tottenham Hale
+Tottenham Hale,Blackhorse Road,907,909,Victoria line to Blackhorse Road
+Blackhorse Road,Walthamstow Central,909,911,Victoria line to Walthamstow Central
+Brixton,Stockwell,885,887,Victoria line to Stockwell
+Stockwell,Vauxhall,887,889,Victoria line to Vauxhall
+Vauxhall,Pimlico,889,890,Victoria line to Pimlico
+Pimlico,Victoria,891,892,Victoria line to Victoria
+Victoria,Green Park,893,894,Victoria line to Green Park
+Green Park,Oxford Circus,895,896,Victoria line to Oxford Circus
+Oxford Circus,Warren Street,897,898,Victoria line to Warren Street
+Warren Street,Euston,898,899,Northern line or Victoria line to Euston
+Euston,King's Cross St. Pancras,900,901,Victoria line or Northern line to King's Cross St.Pancras
+King's Cross St. Pancras,Highbury & Islington,901,904,Victoria line to Highbury & Islington
+Highbury & Islington,Finsbury Park,904,906,Victoria line to Finsbury Park
+Finsbury Park,Seven Sisters,906,909,Victoria line to Seven Sisters
+Seven Sisters,Tottenham Hale,910,911,Victoria line to Tottenham Hale
+Tottenham Hale,Blackhorse Road,912,913,Victoria line to Blackhorse Road
+Blackhorse Road,Walthamstow Central,914,915,Victoria line to Walthamstow Central
+Brixton,Stockwell,890,891,Victoria line to Stockwell
+Stockwell,Vauxhall,892,893,Victoria line to Vauxhall
+Vauxhall,Pimlico,894,895,Victoria line to Pimlico
+Pimlico,Victoria,895,897,Victoria line to Victoria
+Victoria,Green Park,897,899,Victoria line to Green Park
+Green Park,Oxford Circus,899,901,Victoria line to Oxford Circus
+Oxford Circus,Warren Street,901,902,Victoria line to Warren Street
+Warren Street,Euston,903,904,Victoria line or Northern line to Euston
+Euston,King's Cross St. Pancras,904,905,Victoria line or Northern line to King's Cross St.Pancras
+King's Cross St. Pancras,Highbury & Islington,906,908,Victoria line to Highbury & Islington
+Highbury & Islington,Finsbury Park,909,911,Victoria line to Finsbury Park
+Finsbury Park,Seven Sisters,911,914,Victoria line to Seven Sisters
+Seven Sisters,Tottenham Hale,915,916,Victoria line to Tottenham Hale
+Tottenham Hale,Blackhorse Road,917,918,Victoria line to Blackhorse Road
+Blackhorse Road,Walthamstow Central,919,920,Victoria line to Walthamstow Central
+Brixton,Stockwell,896,898,Victoria line to Stockwell
+Stockwell,Vauxhall,898,900,Victoria line to Vauxhall
+Vauxhall,Pimlico,900,901,Victoria line to Pimlico
+Pimlico,Victoria,902,903,Victoria line to Victoria
+Victoria,Green Park,904,905,Victoria line to Green Park
+Green Park,Oxford Circus,906,907,Victoria line to Oxford Circus
+Oxford Circus,Warren Street,908,909,Victoria line to Warren Street
+Warren Street,Euston,910,911,Northern line or Victoria line to Euston
+Euston,King's Cross St. Pancras,911,912,Victoria line or Northern line to King's Cross St.Pancras
+King's Cross St. Pancras,Highbury & Islington,913,915,Victoria line to Highbury & Islington
+Highbury & Islington,Finsbury Park,915,917,Victoria line to Finsbury Park
+Finsbury Park,Seven Sisters,918,921,Victoria line to Seven Sisters
+Seven Sisters,Tottenham Hale,922,923,Victoria line to Tottenham Hale
+Tottenham Hale,Blackhorse Road,923,925,Victoria line to Blackhorse Road
+Blackhorse Road,Walthamstow Central,925,927,Victoria line to Walthamstow Central

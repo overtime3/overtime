@@ -1,0 +1,369 @@
+node1,node2,tstart,tend,line
+Harrow & Wealdstone,Kenton,852,854,Bakerloo line to Kenton
+Kenton,South Kenton,854,856,Bakerloo line to South Kenton
+South Kenton,North Wembley,856,858,Bakerloo line to North Wembley
+North Wembley,Wembley Central,858,860,Bakerloo line to Wembley Central
+Wembley Central,Stonebridge Park,860,862,Bakerloo line to Stonebridge Park
+Stonebridge Park,Harlesden,863,865,Bakerloo line to Harlesden
+Harlesden,Willesden Junction,865,867,Bakerloo line to Willesden Junction
+Willesden Junction,Kensal Green,867,869,Bakerloo line to Kensal Green
+Kensal Green,Queen's Park,870,873,Bakerloo line to Queen's Park
+Queen's Park,Kilburn Park,874,875,Bakerloo line to Kilburn Park
+Kilburn Park,Maida Vale,876,877,Bakerloo line to Maida Vale
+Maida Vale,Warwick Avenue,878,879,Bakerloo line to Warwick Avenue
+Warwick Avenue,Paddington,879,880,Bakerloo line to Paddington
+Paddington,Edgware Road (Bakerloo),881,882,Bakerloo line to Edgware Road (Bakerloo Line)
+Edgware Road (Bakerloo),Marylebone,883,884,Bakerloo line to Marylebone
+Marylebone,Baker Street,884,885,Bakerloo line to Baker Street
+Baker Street,Regent's Park,886,887,Bakerloo line to Regent's Park
+Regent's Park,Oxford Circus,887,889,Bakerloo line to Oxford Circus
+Oxford Circus,Piccadilly Circus,890,891,Bakerloo line to Piccadilly Circus
+Piccadilly Circus,Charing Cross,892,893,Bakerloo line to Charing Cross
+Charing Cross,Embankment,893,893,Northern line or Bakerloo line to Embankment
+Embankment,Waterloo,894,895,Northern line or Bakerloo line to Waterloo
+Waterloo,Lambeth North,896,897,Bakerloo line to Lambeth North
+Lambeth North,Elephant & Castle,898,901,Bakerloo line to Elephant & Castle
+Harrow & Wealdstone,Kenton,863,865,Bakerloo line to Kenton
+Kenton,South Kenton,865,867,Bakerloo line to South Kenton
+South Kenton,North Wembley,867,869,Bakerloo line to North Wembley
+North Wembley,Wembley Central,869,871,Bakerloo line to Wembley Central
+Wembley Central,Stonebridge Park,871,873,Bakerloo line to Stonebridge Park
+Stonebridge Park,Harlesden,874,876,Bakerloo line to Harlesden
+Harlesden,Willesden Junction,876,878,Bakerloo line to Willesden Junction
+Willesden Junction,Kensal Green,878,880,Bakerloo line to Kensal Green
+Kensal Green,Queen's Park,881,885,Bakerloo line to Queen's Park
+Queen's Park,Kilburn Park,887,888,Bakerloo line to Kilburn Park
+Kilburn Park,Maida Vale,888,890,Bakerloo line to Maida Vale
+Maida Vale,Warwick Avenue,890,891,Bakerloo line to Warwick Avenue
+Warwick Avenue,Paddington,892,893,Bakerloo line to Paddington
+Paddington,Edgware Road (Bakerloo),894,895,Bakerloo line to Edgware Road (Bakerloo Line)
+Edgware Road (Bakerloo),Marylebone,895,896,Bakerloo line to Marylebone
+Marylebone,Baker Street,897,898,Bakerloo line to Baker Street
+Baker Street,Regent's Park,898,899,Bakerloo line to Regent's Park
+Regent's Park,Oxford Circus,900,901,Bakerloo line to Oxford Circus
+Oxford Circus,Piccadilly Circus,902,904,Bakerloo line to Piccadilly Circus
+Piccadilly Circus,Charing Cross,904,905,Bakerloo line to Charing Cross
+Charing Cross,Embankment,905,905,Northern line or Bakerloo line to Embankment
+Embankment,Waterloo,906,907,Northern line or Bakerloo line to Waterloo
+Waterloo,Lambeth North,909,910,Bakerloo line to Lambeth North
+Lambeth North,Elephant & Castle,910,913,Bakerloo line to Elephant & Castle
+Harrow & Wealdstone,Kenton,869,871,Bakerloo line to Kenton
+Kenton,South Kenton,871,873,Bakerloo line to South Kenton
+South Kenton,North Wembley,873,875,Bakerloo line to North Wembley
+North Wembley,Wembley Central,875,877,Bakerloo line to Wembley Central
+Wembley Central,Stonebridge Park,877,879,Bakerloo line to Stonebridge Park
+Stonebridge Park,Harlesden,880,882,Bakerloo line to Harlesden
+Harlesden,Willesden Junction,882,884,Bakerloo line to Willesden Junction
+Willesden Junction,Kensal Green,884,886,Bakerloo line to Kensal Green
+Kensal Green,Queen's Park,887,890,Bakerloo line to Queen's Park
+Queen's Park,Kilburn Park,890,891,Bakerloo line to Kilburn Park
+Kilburn Park,Maida Vale,892,893,Bakerloo line to Maida Vale
+Maida Vale,Warwick Avenue,894,895,Bakerloo line to Warwick Avenue
+Warwick Avenue,Paddington,895,896,Bakerloo line to Paddington
+Paddington,Edgware Road (Bakerloo),897,898,Bakerloo line to Edgware Road (Bakerloo Line)
+Edgware Road (Bakerloo),Marylebone,899,900,Bakerloo line to Marylebone
+Marylebone,Baker Street,900,901,Bakerloo line to Baker Street
+Baker Street,Regent's Park,902,903,Bakerloo line to Regent's Park
+Regent's Park,Oxford Circus,903,905,Bakerloo line to Oxford Circus
+Oxford Circus,Piccadilly Circus,906,907,Bakerloo line to Piccadilly Circus
+Piccadilly Circus,Charing Cross,908,909,Bakerloo line to Charing Cross
+Charing Cross,Embankment,909,910,Bakerloo line or Northern line to Embankment
+Embankment,Waterloo,910,912,Bakerloo line or Northern line to Waterloo
+Waterloo,Lambeth North,912,913,Bakerloo line to Lambeth North
+Lambeth North,Elephant & Castle,914,917,Bakerloo line to Elephant & Castle
+Harrow & Wealdstone,Kenton,882,884,Bakerloo line to Kenton
+Kenton,South Kenton,884,886,Bakerloo line to South Kenton
+South Kenton,North Wembley,886,888,Bakerloo line to North Wembley
+North Wembley,Wembley Central,888,890,Bakerloo line to Wembley Central
+Wembley Central,Stonebridge Park,890,892,Bakerloo line to Stonebridge Park
+Stonebridge Park,Harlesden,893,895,Bakerloo line to Harlesden
+Harlesden,Willesden Junction,895,897,Bakerloo line to Willesden Junction
+Willesden Junction,Kensal Green,897,899,Bakerloo line to Kensal Green
+Kensal Green,Queen's Park,900,904,Bakerloo line to Queen's Park
+Queen's Park,Kilburn Park,906,907,Bakerloo line to Kilburn Park
+Kilburn Park,Maida Vale,907,909,Bakerloo line to Maida Vale
+Maida Vale,Warwick Avenue,909,910,Bakerloo line to Warwick Avenue
+Warwick Avenue,Paddington,911,912,Bakerloo line to Paddington
+Paddington,Edgware Road (Bakerloo),913,914,Bakerloo line to Edgware Road (Bakerloo Line)
+Edgware Road (Bakerloo),Marylebone,914,915,Bakerloo line to Marylebone
+Marylebone,Baker Street,916,917,Bakerloo line to Baker Street
+Baker Street,Regent's Park,917,918,Bakerloo line to Regent's Park
+Regent's Park,Oxford Circus,919,920,Bakerloo line to Oxford Circus
+Oxford Circus,Piccadilly Circus,921,923,Bakerloo line to Piccadilly Circus
+Piccadilly Circus,Charing Cross,923,924,Bakerloo line to Charing Cross
+Charing Cross,Embankment,925,925,Bakerloo line or Northern line to Embankment
+Embankment,Waterloo,926,927,Bakerloo line or Northern line to Waterloo
+Waterloo,Lambeth North,928,929,Bakerloo line to Lambeth North
+Lambeth North,Elephant & Castle,929,932,Bakerloo line to Elephant & Castle
+Harrow & Wealdstone,Kenton,893,895,Bakerloo line to Kenton
+Kenton,South Kenton,895,897,Bakerloo line to South Kenton
+South Kenton,North Wembley,897,899,Bakerloo line to North Wembley
+North Wembley,Wembley Central,899,901,Bakerloo line to Wembley Central
+Wembley Central,Stonebridge Park,901,903,Bakerloo line to Stonebridge Park
+Stonebridge Park,Harlesden,904,906,Bakerloo line to Harlesden
+Harlesden,Willesden Junction,906,908,Bakerloo line to Willesden Junction
+Willesden Junction,Kensal Green,908,910,Bakerloo line to Kensal Green
+Kensal Green,Queen's Park,911,914,Bakerloo line to Queen's Park
+Queen's Park,Kilburn Park,915,916,Bakerloo line to Kilburn Park
+Kilburn Park,Maida Vale,917,918,Bakerloo line to Maida Vale
+Maida Vale,Warwick Avenue,919,920,Bakerloo line to Warwick Avenue
+Warwick Avenue,Paddington,920,922,Bakerloo line to Paddington
+Paddington,Edgware Road (Bakerloo),922,923,Bakerloo line to Edgware Road (Bakerloo Line)
+Edgware Road (Bakerloo),Marylebone,924,925,Bakerloo line to Marylebone
+Marylebone,Baker Street,925,926,Bakerloo line to Baker Street
+Baker Street,Regent's Park,927,928,Bakerloo line to Regent's Park
+Regent's Park,Oxford Circus,928,930,Bakerloo line to Oxford Circus
+Oxford Circus,Piccadilly Circus,931,932,Bakerloo line to Piccadilly Circus
+Piccadilly Circus,Charing Cross,933,934,Bakerloo line to Charing Cross
+Charing Cross,Embankment,935,935,Northern line or Bakerloo line to Embankment
+Embankment,Waterloo,936,937,Northern line or Bakerloo line to Waterloo
+Waterloo,Lambeth North,937,938,Bakerloo line to Lambeth North
+Lambeth North,Elephant & Castle,939,942,Bakerloo line to Elephant & Castle
+Harrow & Wealdstone,Kenton,899,901,Bakerloo line to Kenton
+Kenton,South Kenton,901,903,Bakerloo line to South Kenton
+South Kenton,North Wembley,903,905,Bakerloo line to North Wembley
+North Wembley,Wembley Central,905,907,Bakerloo line to Wembley Central
+Wembley Central,Stonebridge Park,907,909,Bakerloo line to Stonebridge Park
+Stonebridge Park,Harlesden,910,912,Bakerloo line to Harlesden
+Harlesden,Willesden Junction,912,914,Bakerloo line to Willesden Junction
+Willesden Junction,Kensal Green,914,916,Bakerloo line to Kensal Green
+Kensal Green,Queen's Park,917,920,Bakerloo line to Queen's Park
+Queen's Park,Kilburn Park,921,922,Bakerloo line to Kilburn Park
+Kilburn Park,Maida Vale,923,924,Bakerloo line to Maida Vale
+Maida Vale,Warwick Avenue,925,926,Bakerloo line to Warwick Avenue
+Warwick Avenue,Paddington,926,928,Bakerloo line to Paddington
+Paddington,Edgware Road (Bakerloo),929,930,Bakerloo line to Edgware Road (Bakerloo Line)
+Edgware Road (Bakerloo),Marylebone,930,931,Bakerloo line to Marylebone
+Marylebone,Baker Street,932,933,Bakerloo line to Baker Street
+Baker Street,Regent's Park,933,934,Bakerloo line to Regent's Park
+Regent's Park,Oxford Circus,935,936,Bakerloo line to Oxford Circus
+Oxford Circus,Piccadilly Circus,937,939,Bakerloo line to Piccadilly Circus
+Piccadilly Circus,Charing Cross,939,940,Bakerloo line to Charing Cross
+Charing Cross,Embankment,941,941,Bakerloo line or Northern line to Embankment
+Embankment,Waterloo,942,943,Bakerloo line or Northern line to Waterloo
+Waterloo,Lambeth North,944,945,Bakerloo line to Lambeth North
+Lambeth North,Elephant & Castle,945,948,Bakerloo line to Elephant & Castle
+
+Elephant & Castle,Lambeth North,842,843,Bakerloo line to Lambeth North
+Lambeth North,Waterloo,844,845,Bakerloo line to Waterloo
+Waterloo,Embankment,845,846,Northern line or Bakerloo line to Embankment
+Embankment,Charing Cross,846,847,Northern line or Bakerloo line to Charing Cross
+Charing Cross,Piccadilly Circus,848,850,Bakerloo line to Piccadilly Circus
+Piccadilly Circus,Oxford Circus,850,852,Bakerloo line to Oxford Circus
+Oxford Circus,Regent's Park,852,854,Bakerloo line to Regent's Park
+Regent's Park,Baker Street,854,856,Bakerloo line to Baker Street
+Baker Street,Marylebone,856,857,Bakerloo line to Marylebone
+Marylebone,Edgware Road (Bakerloo),857,858,Bakerloo line to Edgware Road (Bakerloo Line)
+Edgware Road (Bakerloo),Paddington,858,860,Bakerloo line to Paddington
+Paddington,Warwick Avenue,860,862,Bakerloo line to Warwick Avenue
+Warwick Avenue,Maida Vale,862,863,Bakerloo line to Maida Vale
+Maida Vale,Kilburn Park,864,865,Bakerloo line to Kilburn Park
+Kilburn Park,Queen's Park,866,868,Bakerloo line to Queen's Park
+Queen's Park,Kensal Green,870,873,Bakerloo line to Kensal Green
+Kensal Green,Willesden Junction,873,876,Bakerloo line to Willesden Junction
+Willesden Junction,Harlesden,876,878,Bakerloo line to Harlesden
+Harlesden,Stonebridge Park,878,880,Bakerloo line to Stonebridge Park
+Stonebridge Park,Wembley Central,891,893,Bakerloo line to Wembley Central
+Wembley Central,North Wembley,894,895,Bakerloo line to North Wembley
+North Wembley,South Kenton,896,897,Bakerloo line to South Kenton
+South Kenton,Kenton,898,899,Bakerloo line to Kenton
+Kenton,Harrow & Wealdstone,900,901,Bakerloo line to Harrow & Wealdstone
+Elephant & Castle,Lambeth North,851,853,Bakerloo line to Lambeth North
+Lambeth North,Waterloo,853,855,Bakerloo line to Waterloo
+Waterloo,Embankment,855,856,Bakerloo line or Northern line to Embankment
+Embankment,Charing Cross,857,857,Bakerloo line to Charing Cross
+Charing Cross,Piccadilly Circus,858,859,Bakerloo line to Piccadilly Circus
+Piccadilly Circus,Oxford Circus,860,861,Bakerloo line to Oxford Circus
+Oxford Circus,Regent's Park,862,863,Bakerloo line to Regent's Park
+Regent's Park,Baker Street,864,865,Bakerloo line to Baker Street
+Baker Street,Marylebone,866,866,Bakerloo line to Marylebone
+Marylebone,Edgware Road (Bakerloo),867,867,Bakerloo line to Edgware Road (Bakerloo Line)
+Edgware Road (Bakerloo),Paddington,868,869,Bakerloo line to Paddington
+Paddington,Warwick Avenue,870,871,Bakerloo line to Warwick Avenue
+Warwick Avenue,Maida Vale,872,873,Bakerloo line to Maida Vale
+Maida Vale,Kilburn Park,873,875,Bakerloo line to Kilburn Park
+Kilburn Park,Queen's Park,875,877,Bakerloo line to Queen's Park
+Queen's Park,Kensal Green,879,882,Bakerloo line to Kensal Green
+Kensal Green,Willesden Junction,883,885,Bakerloo line to Willesden Junction
+Willesden Junction,Harlesden,886,887,Bakerloo line to Harlesden
+Harlesden,Stonebridge Park,888,890,Bakerloo line to Stonebridge Park
+Elephant & Castle,Lambeth North,857,859,Bakerloo line to Lambeth North
+Lambeth North,Waterloo,859,861,Bakerloo line to Waterloo
+Waterloo,Embankment,861,862,Bakerloo line or Northern line to Embankment
+Embankment,Charing Cross,863,863,Bakerloo line to Charing Cross
+Charing Cross,Piccadilly Circus,864,865,Bakerloo line to Piccadilly Circus
+Piccadilly Circus,Oxford Circus,866,867,Bakerloo line to Oxford Circus
+Oxford Circus,Regent's Park,868,869,Bakerloo line to Regent's Park
+Regent's Park,Baker Street,870,871,Bakerloo line to Baker Street
+Baker Street,Marylebone,872,872,Bakerloo line to Marylebone
+Marylebone,Edgware Road (Bakerloo),873,873,Bakerloo line to Edgware Road (Bakerloo Line)
+Edgware Road (Bakerloo),Paddington,874,875,Bakerloo line to Paddington
+Paddington,Warwick Avenue,876,877,Bakerloo line to Warwick Avenue
+Warwick Avenue,Maida Vale,878,879,Bakerloo line to Maida Vale
+Maida Vale,Kilburn Park,879,881,Bakerloo line to Kilburn Park
+Kilburn Park,Queen's Park,881,883,Bakerloo line to Queen's Park
+Queen's Park,Kensal Green,888,890,Bakerloo line to Kensal Green
+Kensal Green,Willesden Junction,891,893,Bakerloo line to Willesden Junction
+Willesden Junction,Harlesden,894,895,Bakerloo line to Harlesden
+Harlesden,Stonebridge Park,896,898,Bakerloo line to Stonebridge Park
+Stonebridge Park,Wembley Central,898,900,Bakerloo line to Wembley Central
+Wembley Central,North Wembley,901,902,Bakerloo line to North Wembley
+North Wembley,South Kenton,903,904,Bakerloo line to South Kenton
+South Kenton,Kenton,905,906,Bakerloo line to Kenton
+Kenton,Harrow & Wealdstone,907,908,Bakerloo line to Harrow & Wealdstone
+Elephant & Castle,Lambeth North,861,862,Bakerloo line to Lambeth North
+Lambeth North,Waterloo,863,864,Bakerloo line to Waterloo
+Waterloo,Embankment,865,866,Bakerloo line or Northern line to Embankment
+Embankment,Charing Cross,866,867,Bakerloo line or Northern line to Charing Cross
+Charing Cross,Piccadilly Circus,867,869,Bakerloo line to Piccadilly Circus
+Piccadilly Circus,Oxford Circus,869,871,Bakerloo line to Oxford Circus
+Oxford Circus,Regent's Park,871,873,Bakerloo line to Regent's Park
+Regent's Park,Baker Street,873,875,Bakerloo line to Baker Street
+Baker Street,Marylebone,875,876,Bakerloo line to Marylebone
+Marylebone,Edgware Road (Bakerloo),876,877,Bakerloo line to Edgware Road (Bakerloo Line)
+Edgware Road (Bakerloo),Paddington,877,879,Bakerloo line to Paddington
+Paddington,Warwick Avenue,879,881,Bakerloo line to Warwick Avenue
+Warwick Avenue,Maida Vale,881,882,Bakerloo line to Maida Vale
+Maida Vale,Kilburn Park,883,884,Bakerloo line to Kilburn Park
+Kilburn Park,Queen's Park,885,887,Bakerloo line to Queen's Park
+Elephant & Castle,Lambeth North,867,868,Bakerloo line to Lambeth North
+Lambeth North,Waterloo,869,870,Bakerloo line to Waterloo
+Waterloo,Embankment,871,872,Bakerloo line or Northern line to Embankment
+Embankment,Charing Cross,872,873,Bakerloo line or Northern line to Charing Cross
+Charing Cross,Piccadilly Circus,873,875,Bakerloo line to Piccadilly Circus
+Piccadilly Circus,Oxford Circus,875,877,Bakerloo line to Oxford Circus
+Oxford Circus,Regent's Park,877,879,Bakerloo line to Regent's Park
+Regent's Park,Baker Street,879,881,Bakerloo line to Baker Street
+Baker Street,Marylebone,881,882,Bakerloo line to Marylebone
+Marylebone,Edgware Road (Bakerloo),882,883,Bakerloo line to Edgware Road (Bakerloo Line)
+Edgware Road (Bakerloo),Paddington,883,885,Bakerloo line to Paddington
+Paddington,Warwick Avenue,885,887,Bakerloo line to Warwick Avenue
+Warwick Avenue,Maida Vale,887,888,Bakerloo line to Maida Vale
+Maida Vale,Kilburn Park,889,890,Bakerloo line to Kilburn Park
+Kilburn Park,Queen's Park,891,893,Bakerloo line to Queen's Park
+Queen's Park,Kensal Green,897,900,Bakerloo line to Kensal Green
+Kensal Green,Willesden Junction,900,903,Bakerloo line to Willesden Junction
+Willesden Junction,Harlesden,903,905,Bakerloo line to Harlesden
+Harlesden,Stonebridge Park,905,907,Bakerloo line to Stonebridge Park
+Stonebridge Park,Wembley Central,908,910,Bakerloo line to Wembley Central
+Wembley Central,North Wembley,911,912,Bakerloo line to North Wembley
+North Wembley,South Kenton,913,914,Bakerloo line to South Kenton
+South Kenton,Kenton,915,916,Bakerloo line to Kenton
+Kenton,Harrow & Wealdstone,917,918,Bakerloo line to Harrow & Wealdstone
+Elephant & Castle,Lambeth North,870,872,Bakerloo line to Lambeth North
+Lambeth North,Waterloo,872,874,Bakerloo line to Waterloo
+Waterloo,Embankment,874,875,Bakerloo line or Northern line to Embankment
+Embankment,Charing Cross,876,876,Bakerloo line to Charing Cross
+Charing Cross,Piccadilly Circus,877,878,Bakerloo line to Piccadilly Circus
+Piccadilly Circus,Oxford Circus,879,880,Bakerloo line to Oxford Circus
+Oxford Circus,Regent's Park,881,882,Bakerloo line to Regent's Park
+Regent's Park,Baker Street,883,884,Bakerloo line to Baker Street
+Baker Street,Marylebone,885,885,Bakerloo line to Marylebone
+Marylebone,Edgware Road (Bakerloo),886,886,Bakerloo line to Edgware Road (Bakerloo Line)
+Edgware Road (Bakerloo),Paddington,887,888,Bakerloo line to Paddington
+Paddington,Warwick Avenue,889,890,Bakerloo line to Warwick Avenue
+Warwick Avenue,Maida Vale,891,892,Bakerloo line to Maida Vale
+Maida Vale,Kilburn Park,892,894,Bakerloo line to Kilburn Park
+Kilburn Park,Queen's Park,894,896,Bakerloo line to Queen's Park
+Elephant & Castle,Lambeth North,876,878,Bakerloo line to Lambeth North
+Lambeth North,Waterloo,878,880,Bakerloo line to Waterloo
+Waterloo,Embankment,880,881,Bakerloo line or Northern line to Embankment
+Embankment,Charing Cross,882,882,Bakerloo line to Charing Cross
+Charing Cross,Piccadilly Circus,883,884,Bakerloo line to Piccadilly Circus
+Piccadilly Circus,Oxford Circus,885,886,Bakerloo line to Oxford Circus
+Oxford Circus,Regent's Park,887,888,Bakerloo line to Regent's Park
+Regent's Park,Baker Street,889,890,Bakerloo line to Baker Street
+Baker Street,Marylebone,891,891,Bakerloo line to Marylebone
+Marylebone,Edgware Road (Bakerloo),892,892,Bakerloo line to Edgware Road (Bakerloo Line)
+Edgware Road (Bakerloo),Paddington,893,894,Bakerloo line to Paddington
+Paddington,Warwick Avenue,895,896,Bakerloo line to Warwick Avenue
+Warwick Avenue,Maida Vale,897,898,Bakerloo line to Maida Vale
+Maida Vale,Kilburn Park,898,900,Bakerloo line to Kilburn Park
+Kilburn Park,Queen's Park,900,902,Bakerloo line to Queen's Park
+Queen's Park,Kensal Green,910,912,Bakerloo line to Kensal Green
+Kensal Green,Willesden Junction,913,915,Bakerloo line to Willesden Junction
+Willesden Junction,Harlesden,916,917,Bakerloo line to Harlesden
+Harlesden,Stonebridge Park,918,920,Bakerloo line to Stonebridge Park
+Stonebridge Park,Wembley Central,921,923,Bakerloo line to Wembley Central
+Wembley Central,North Wembley,924,925,Bakerloo line to North Wembley
+North Wembley,South Kenton,926,927,Bakerloo line to South Kenton
+South Kenton,Kenton,928,929,Bakerloo line to Kenton
+Kenton,Harrow & Wealdstone,930,931,Bakerloo line to Harrow & Wealdstone
+Elephant & Castle,Lambeth North,880,881,Bakerloo line to Lambeth North
+Lambeth North,Waterloo,882,883,Bakerloo line to Waterloo
+Waterloo,Embankment,884,885,Northern line to Embankment
+Embankment,Charing Cross,885,886,Bakerloo line to Charing Cross
+Charing Cross,Piccadilly Circus,886,888,Bakerloo line to Piccadilly Circus
+Piccadilly Circus,Oxford Circus,888,890,Bakerloo line to Oxford Circus
+Oxford Circus,Regent's Park,890,892,Bakerloo line to Regent's Park
+Regent's Park,Baker Street,892,894,Bakerloo line to Baker Street
+Baker Street,Marylebone,894,895,Bakerloo line to Marylebone
+Marylebone,Edgware Road (Bakerloo),895,896,Bakerloo line to Edgware Road (Bakerloo Line)
+Edgware Road (Bakerloo),Paddington,896,898,Bakerloo line to Paddington
+Paddington,Warwick Avenue,898,900,Bakerloo line to Warwick Avenue
+Warwick Avenue,Maida Vale,900,901,Bakerloo line to Maida Vale
+Maida Vale,Kilburn Park,902,903,Bakerloo line to Kilburn Park
+Kilburn Park,Queen's Park,904,906,Bakerloo line to Queen's Park
+Elephant & Castle,Lambeth North,886,887,Bakerloo line to Lambeth North
+Lambeth North,Waterloo,888,889,Bakerloo line to Waterloo
+Waterloo,Embankment,890,891,Northern line to Embankment
+Embankment,Charing Cross,891,892,Bakerloo line or Northern line to Charing Cross
+Charing Cross,Piccadilly Circus,892,894,Bakerloo line to Piccadilly Circus
+Piccadilly Circus,Oxford Circus,894,896,Bakerloo line to Oxford Circus
+Oxford Circus,Regent's Park,896,898,Bakerloo line to Regent's Park
+Regent's Park,Baker Street,898,900,Bakerloo line to Baker Street
+Baker Street,Marylebone,900,901,Bakerloo line to Marylebone
+Marylebone,Edgware Road (Bakerloo),901,902,Bakerloo line to Edgware Road (Bakerloo Line)
+Edgware Road (Bakerloo),Paddington,902,904,Bakerloo line to Paddington
+Paddington,Warwick Avenue,904,906,Bakerloo line to Warwick Avenue
+Warwick Avenue,Maida Vale,906,907,Bakerloo line to Maida Vale
+Maida Vale,Kilburn Park,908,909,Bakerloo line to Kilburn Park
+Kilburn Park,Queen's Park,910,912,Bakerloo line to Queen's Park
+Queen's Park,Kensal Green,917,920,Bakerloo line to Kensal Green
+Kensal Green,Willesden Junction,921,923,Bakerloo line to Willesden Junction
+Willesden Junction,Harlesden,924,925,Bakerloo line to Harlesden
+Harlesden,Stonebridge Park,926,928,Bakerloo line to Stonebridge Park
+Stonebridge Park,Wembley Central,928,930,Bakerloo line to Wembley Central
+Wembley Central,North Wembley,931,932,Bakerloo line to North Wembley
+North Wembley,South Kenton,933,934,Bakerloo line to South Kenton
+South Kenton,Kenton,935,936,Bakerloo line to Kenton
+Kenton,Harrow & Wealdstone,937,938,Bakerloo line to Harrow & Wealdstone
+Elephant & Castle,Lambeth North,892,894,Bakerloo line to Lambeth North
+Lambeth North,Waterloo,894,896,Bakerloo line to Waterloo
+Waterloo,Embankment,896,897,Northern line or Bakerloo line to Embankment
+Embankment,Charing Cross,898,898,Bakerloo line to Charing Cross
+Charing Cross,Piccadilly Circus,899,900,Bakerloo line to Piccadilly Circus
+Piccadilly Circus,Oxford Circus,901,902,Bakerloo line to Oxford Circus
+Oxford Circus,Regent's Park,903,904,Bakerloo line to Regent's Park
+Regent's Park,Baker Street,905,906,Bakerloo line to Baker Street
+Baker Street,Marylebone,907,907,Bakerloo line to Marylebone
+Marylebone,Edgware Road (Bakerloo),908,908,Bakerloo line to Edgware Road (Bakerloo Line)
+Edgware Road (Bakerloo),Paddington,909,910,Bakerloo line to Paddington
+Paddington,Warwick Avenue,911,912,Bakerloo line to Warwick Avenue
+Warwick Avenue,Maida Vale,913,914,Bakerloo line to Maida Vale
+Maida Vale,Kilburn Park,914,916,Bakerloo line to Kilburn Park
+Kilburn Park,Queen's Park,916,918,Bakerloo line to Queen's Park
+Queen's Park,Kensal Green,927,930,Bakerloo line to Kensal Green
+Kensal Green,Willesden Junction,930,933,Bakerloo line to Willesden Junction
+Willesden Junction,Harlesden,933,935,Bakerloo line to Harlesden
+Harlesden,Stonebridge Park,935,937,Bakerloo line to Stonebridge Park
+Stonebridge Park,Wembley Central,938,940,Bakerloo line to Wembley Central
+Wembley Central,North Wembley,941,942,Bakerloo line to North Wembley
+North Wembley,South Kenton,943,944,Bakerloo line to South Kenton
+South Kenton,Kenton,945,946,Bakerloo line to Kenton
+Kenton,Harrow & Wealdstone,947,948,Bakerloo line to Harrow & Wealdstone
+Elephant & Castle,Lambeth North,895,897,Bakerloo line to Lambeth North
+Lambeth North,Waterloo,897,899,Bakerloo line to Waterloo
+Waterloo,Embankment,899,900,Northern line or Bakerloo line to Embankment
+Embankment,Charing Cross,901,901,Bakerloo line to Charing Cross
+Charing Cross,Piccadilly Circus,902,903,Bakerloo line to Piccadilly Circus
+Piccadilly Circus,Oxford Circus,904,905,Bakerloo line to Oxford Circus
+Oxford Circus,Regent's Park,906,907,Bakerloo line to Regent's Park
+Regent's Park,Baker Street,908,909,Bakerloo line to Baker Street
+Baker Street,Marylebone,910,910,Bakerloo line to Marylebone
+Marylebone,Edgware Road (Bakerloo),911,911,Bakerloo line to Edgware Road (Bakerloo Line)
+Edgware Road (Bakerloo),Paddington,912,913,Bakerloo line to Paddington
+Paddington,Warwick Avenue,914,915,Bakerloo line to Warwick Avenue
+Warwick Avenue,Maida Vale,916,917,Bakerloo line to Maida Vale
+Maida Vale,Kilburn Park,917,919,Bakerloo line to Kilburn Park
+Kilburn Park,Queen's Park,919,921,Bakerloo line to Queen's Park
