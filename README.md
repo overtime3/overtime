@@ -31,10 +31,10 @@ ot.calculate_reachability(network, 'b')
 
 ## Install
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install overtime.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install [overtime](https://pypi.org/project/overtime/).
 
 ```bash
-pip install overtime
+$ pip install overtime
 ```
 
 
