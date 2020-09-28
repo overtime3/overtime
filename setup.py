@@ -1,6 +1,6 @@
 import setuptools
 
-version = "v0.1"
+version = "v0.0.1"
 long_description = "An open-source library, for the analysis and visualization of temporal networks."
 
 setuptools.setup(
@@ -16,7 +16,7 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
-        "License :: MIT License",
+        "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
     python_requires='>=3.7',
@@ -26,5 +26,6 @@ setuptools.setup(
         'networkx>=2.4',
         'numpy>=1.19.0',
         'pandas>=1.1.0',
+        'requests==2.24.0',
     ],
 )
