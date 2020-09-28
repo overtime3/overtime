@@ -1,16 +1,16 @@
 Metadata-Version: 2.1
 Name: overtime
-Version: 0.1
+Version: 0.0.1
 Summary: An open-source temporal networks library.
 Home-page: https://github.com/overtime3/overtime/
 Author: Seán O'Callaghan
 Author-email: soca.mailbox@gmail.com
 License: UNKNOWN
-Download-URL: https://github.com/overtime3/overtime/archive/v0.1.tar.gz
+Download-URL: https://github.com/overtime3/overtime/archive/v0.0.1.tar.gz
 Description: An open-source library, for the analysis and visualization of temporal networks.
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
-Classifier: License :: MIT License
+Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
 Requires-Python: >=3.7
 Description-Content-Type: text/markdown
