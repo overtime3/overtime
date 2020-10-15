@@ -68,11 +68,17 @@ network.details()
 network.nodes.add_data('./data/victoria_central_bakerloo_piccadilly-stations.csv')
 
 # show larger network.
+# stations in a scatter plot (random locations).
 ot.NodeScatter(network)
+# stations in a scatter plot (geolocations).
 ot.NodeScatter(network, x='lon', y='lat')
+# slice plot of the entire network.
 ot.Slice(network)
 
-
+# get the underlying graph and plot it using a nodelink plot.
+underlying = network.get_underlying_graph()
+underlying.nodes.add_data('./data/victoria_central_bakerloo_piccadilly-stations.csv')
+ot.NodeLink(underlying, x='lon', y='lat')
 
 ####################
 ### Reachability ###

@@ -214,6 +214,8 @@ class TemporalGraph(Graph):
             Digraph
             TemporalDiGraph
     """
+    _staticclass = Graph
+
 
     def __init__(self, label, data=None):
         super().__init__(label)
@@ -289,9 +291,34 @@ class TemporalGraph(Graph):
         # update graph label.
         label = self.label + ' [time: ' + str(time) + ']'
         # create static snapshot.
-        graph = Graph(label)
+        graph = self._staticclass(label)
         # for each edge that is active at time 'time'.
         for edge in self.edges.get_active_edges(time).set:
+            # add the edge to the snapshot.
+            graph.add_edge(edge.node1.label, edge.node2.label)
+        # for each node in the graph.
+        for node in self.nodes.set:
+            # add the node to the snapshot.
+            graph.add_node(node.label)
+        # return the snapshot.
+        return graph
+
+
+    def get_underlying_graph(self):
+        """
+            A method of TemporalGraph.
+
+            Returns:
+            --------
+            graph : Graph
+                A static undirected graph.
+        """
+        # update the graph label.
+        label = self.label + ' [underlying graph]'
+        # create a static graph.
+        graph = self._staticclass(label)
+        # for each edge in the original graph.
+        for edge in self.edges.set:
             # add the edge to the snapshot.
             graph.add_edge(edge.node1.label, edge.node2.label)
         # for each node in the graph.
