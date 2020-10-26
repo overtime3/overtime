@@ -30,3 +30,6 @@ from overtime.plots import *
 
 import overtime.algorithms
 from overtime.algorithms import *
+
+import overtime.tests
+from overtime.tests import *

@@ -1,6 +1,7 @@
 
 import copy 
 
+import overtime
 from overtime.components.nodes import Nodes
 from overtime.components.edges import Edges, TemporalEdges
 
