@@ -25,7 +25,7 @@ class Plotter:
         self.plot = None
 
 
-    def single(self, plot, graph, save=False, ordered=True, slider=True, show=True):
+    def single(self, plot, graph, save=False, ordered=False, slider=True, show=True):
         """
             A method of Plotter.
             Parameter(s):
@@ -62,7 +62,7 @@ class Plotter:
         return plot_object
 
 
-    def singles(self, plot, graphs, save=False, ordered=True, slider=True, show=True):
+    def singles(self, plot, graphs, save=False, ordered=False, slider=True, show=True):
         """
             A method of Plotter.
             Parameter(s):
@@ -93,7 +93,7 @@ class Plotter:
         return plot_objects
 
 
-    def gif(self, plot, graphs, ordered=True, file_name='graph'):
+    def gif(self, plot, graphs, ordered=False, file_name='graph'):
         """
             A method of Plotter.
             Parameter(s):
@@ -121,7 +121,7 @@ class Plotter:
         imageio.mimsave(file_name + '/' + file_name + '.gif', images, duration=2)
 
 
-    def multi(self, plot, graphs, save=False, ordered=True, file_name='multi', show=True):
+    def multi(self, plot, graphs, save=False, ordered=False, file_name='multi', show=True):
         """
             A method of Plotter.
             Parameter(s):

@@ -161,7 +161,7 @@ class Circle(Plot):
     class_name = 'circle'
 
     def __init__(self, graph, figure=None, axis=None, title=None,
-                    ordered=True, slider=False, show=True, save=False):
+                    ordered=False, slider=False, show=True, save=False):
         super().__init__(graph, figure, axis, title, ordered, False, show, save)
 
 
@@ -175,7 +175,7 @@ class Circle(Plot):
         n = self.graph.nodes.count() # number of nodes in the graph.
         i = 0
         # for each node.
-        for node in self.graph.nodes.set:
+        for node in self.graph.nodes.as_ordered_list():
             x = math.cos(2 * math.pi * i / n) # assign x coordinate based on index around the circle.
             y = math.sin(2 * math.pi * i / n) # assign y coordinate based on index around the circle.
             # create a CircleNode and add it to the nodes list.

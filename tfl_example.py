@@ -54,7 +54,7 @@ ot.Circle(central.get_temporal_subgraph((879, 884)))
 #####################
 
 # show central line.
-ot.Circle(central)
+ot.Circle(central, ordered=True)
 ot.Slice(central)
 ot.NodeScatter(central)
 
@@ -92,7 +92,7 @@ for node in sub_network1.nodes.set:
     ot.calculate_reachability(sub_network1, node.label)
 
 # show the sub network.
-ot.Circle(sub_network1)
+ot.Circle(sub_network1, ordered=True)
 ot.Slice(sub_network1)
 ot.NodeScatter(sub_network1, y='reachability', bubble_metric='reachability', colors='bmet')
 ot.NodeScatter(sub_network1, x='lon', y='lat', bubble_metric='reachability', colors='bmet')
@@ -100,7 +100,7 @@ ot.NodeScatter(sub_network1, x='lon', y='lat', bubble_metric='reachability', col
 # show brixton's foremost tree.
 brixton_tree = ot.calculate_foremost_tree(sub_network1, 'Brixton')
 brixton_tree.nodes.add_data('./data/victoria_central_bakerloo_piccadilly-stations.csv')
-ot.Circle(brixton_tree)
+ot.Circle(brixton_tree, ordered=True)
 ot.NodeLink(brixton_tree, x='lon', y='lat', bubble_metric='foremost_time')
 
 
@@ -111,14 +111,14 @@ for node in sub_network2.nodes.set:
     ot.calculate_reachability(sub_network2, node.label)
 
 # show the sub network.
-ot.Circle(sub_network2)
+ot.Circle(sub_network2, ordered=True)
 ot.Slice(sub_network2)
 ot.NodeLink(sub_network2, x='lon', y='lat', bubble_metric='reachability', colors='bmet')
 
 # show Oxford Circus' foremost tree.
 oxcircus_tree = ot.calculate_foremost_tree(sub_network2, 'Oxford Circus')
 oxcircus_tree.nodes.add_data('./data/victoria_central_bakerloo_piccadilly-stations.csv')
-ot.Circle(oxcircus_tree)
+ot.Circle(oxcircus_tree, ordered=True)
 ot.Slice(oxcircus_tree)
 ot.NodeLink(oxcircus_tree, x='lon', y='lat', bubble_metric='foremost_time')
 

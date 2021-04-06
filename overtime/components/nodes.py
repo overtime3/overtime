@@ -289,6 +289,18 @@ class Nodes:
         return list(self.set)
 
 
+    def as_ordered_list(self):
+        """
+            A method of Nodes.
+
+            Returns:
+            --------
+            nodes : List
+                A list of the nodes, ordered by label.
+        """
+        return sorted(list(self.set), key=lambda x:x.label, reverse=False)
+
+
     def add(self, label):
         """
             A method of Nodes.
@@ -306,7 +318,8 @@ class Nodes:
         # check if a node with this label already exists in the graph.
         if not self.exists(str(label)):
             # if it does not, add it (create a new node object).
-            self.set.add(Node(label, self.graph))
+            node = Node(label, self.graph)
+            self.set.add(node)
         # return the node object (get or create).
         return self.get(label)
 

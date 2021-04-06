@@ -506,12 +506,12 @@ class TemporalEdges(Edges):
             alist : List
                 A list of temporal edge objects.
             key : String
-                Sort by increaing 'start' (default) or 'end' times.
+                Sort by increasing 'start' (default) or 'end' times.
 
             Returns:
             --------
             sorted : List
-                A sorted list of temporal edges, sorted by increasing start of end times.
+                A sorted list of temporal edges, sorted by increasing start or end times.
         """
         if key is 'end':
             return sorted(alist, key=lambda x:x.end, reverse=False)

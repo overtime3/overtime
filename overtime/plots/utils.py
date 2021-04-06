@@ -24,7 +24,11 @@ def vector_angle(x, y):
             circle_label_angle
     """
     hypot = math.sqrt(x*x + y*y) # get the hypotenuse
-    theta = math.asin(y / hypot) # get the corresponding vector angle
+    if hypot == 0:
+        theta = 0
+    else:
+        theta = math.asin(y / hypot) # get the corresponding vector angle
+
     # apply CAST rule
     if x < 0:
         theta = math.pi - theta
