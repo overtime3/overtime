@@ -318,8 +318,7 @@ class Nodes:
         # check if a node with this label already exists in the graph.
         if not self.exists(str(label)):
             # if it does not, add it (create a new node object).
-            node = Node(label, self.graph)
-            self.set.add(node)
+            self.set.add(Node(label, self.graph))
         # return the node object (get or create).
         return self.get(label)
 
