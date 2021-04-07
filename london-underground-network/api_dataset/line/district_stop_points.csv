@@ -1,0 +1,61 @@
+id,commonName,stopType,lat,lon
+940GZZLUACT,Acton Town Underground Station,NaptanMetroStation,51.503057,-0.280462
+940GZZLUADE,Aldgate East Underground Station,NaptanMetroStation,51.515037,-0.072384
+940GZZLUBBB,Bromley-by-Bow Underground Station,NaptanMetroStation,51.524839,-0.011538
+940GZZLUBEC,Becontree Underground Station,NaptanMetroStation,51.540331,0.127016
+940GZZLUBKF,Blackfriars Underground Station,NaptanMetroStation,51.511581,-0.103659
+940GZZLUBKG,Barking Underground Station,NaptanMetroStation,51.539321,0.081053
+940GZZLUBSC,Barons Court Underground Station,NaptanMetroStation,51.490311,-0.213427
+940GZZLUBWR,Bow Road Underground Station,NaptanMetroStation,51.52694,-0.025128
+940GZZLUBWT,Bayswater Underground Station,NaptanMetroStation,51.512284,-0.187938
+940GZZLUCST,Cannon Street Underground Station,NaptanMetroStation,51.51151,-0.090432
+940GZZLUCWP,Chiswick Park Underground Station,NaptanMetroStation,51.494627,-0.267972
+940GZZLUDGE,Dagenham East Underground Station,NaptanMetroStation,51.544096,0.166017
+940GZZLUDGY,Dagenham Heathway Underground Station,NaptanMetroStation,51.541639,0.147527
+940GZZLUEBY,Ealing Broadway Underground Station,NaptanMetroStation,51.515017,-0.301457
+940GZZLUECM,Ealing Common Underground Station,NaptanMetroStation,51.51014,-0.288265
+940GZZLUECT,Earl's Court Underground Station,NaptanMetroStation,51.492063,-0.193378
+940GZZLUEHM,East Ham Underground Station,NaptanMetroStation,51.538948,0.051186
+940GZZLUEMB,Embankment Underground Station,NaptanMetroStation,51.507058,-0.122666
+940GZZLUEPK,Elm Park Underground Station,NaptanMetroStation,51.549775,0.19864
+940GZZLUEPY,East Putney Underground Station,NaptanMetroStation,51.459205,-0.211
+940GZZLUERC,Edgware Road (Circle Line) Underground Station,NaptanMetroStation,51.519858,-0.167832
+940GZZLUFBY,Fulham Broadway Underground Station,NaptanMetroStation,51.480081,-0.195422
+940GZZLUGBY,Gunnersbury Underground Station,NaptanMetroStation,51.491803,-0.275267
+940GZZLUGTR,Gloucester Road Underground Station,NaptanMetroStation,51.494316,-0.182658
+940GZZLUHCH,Hornchurch Underground Station,NaptanMetroStation,51.554093,0.219116
+940GZZLUHSD,Hammersmith (Dist&Picc Line) Underground Station,NaptanMetroStation,51.4923,-0.22362
+940GZZLUHSK,High Street Kensington Underground Station,NaptanMetroStation,51.501055,-0.192792
+940GZZLUKOY,Kensington (Olympia) Underground Station,NaptanMetroStation,51.497624,-0.210015
+940GZZLUKWG,Kew Gardens Underground Station,NaptanMetroStation,51.477058,-0.285241
+940GZZLUMED,Mile End Underground Station,NaptanMetroStation,51.525122,-0.03364
+940GZZLUMMT,Monument Underground Station,NaptanMetroStation,51.5107,-0.085969
+940GZZLUMSH,Mansion House Underground Station,NaptanMetroStation,51.512117,-0.094009
+940GZZLUNHG,Notting Hill Gate Underground Station,NaptanMetroStation,51.509128,-0.196104
+940GZZLUPAC,Paddington Underground Station,NaptanMetroStation,51.516581,-0.175689
+940GZZLUPLW,Plaistow Underground Station,NaptanMetroStation,51.531341,0.017451
+940GZZLUPSG,Parsons Green Underground Station,NaptanMetroStation,51.475277,-0.20117
+940GZZLUPYB,Putney Bridge Underground Station,NaptanMetroStation,51.468262,-0.208731
+940GZZLURMD,Richmond Underground Station,NaptanMetroStation,51.463237,-0.301336
+940GZZLURVP,Ravenscourt Park Underground Station,NaptanMetroStation,51.494122,-0.235881
+940GZZLUSFB,Stamford Brook Underground Station,NaptanMetroStation,51.494917,-0.245704
+940GZZLUSFS,Southfields Underground Station,NaptanMetroStation,51.445073,-0.206602
+940GZZLUSGN,Stepney Green Underground Station,NaptanMetroStation,51.521858,-0.046596
+940GZZLUSJP,St. James's Park Underground Station,NaptanMetroStation,51.499544,-0.133608
+940GZZLUSKS,South Kensington Underground Station,NaptanMetroStation,51.494094,-0.174138
+940GZZLUSSQ,Sloane Square Underground Station,NaptanMetroStation,51.49227,-0.156377
+940GZZLUTMP,Temple Underground Station,NaptanMetroStation,51.511006,-0.11426
+940GZZLUTNG,Turnham Green Underground Station,NaptanMetroStation,51.495148,-0.254555
+940GZZLUTWH,Tower Hill Underground Station,NaptanMetroStation,51.509971,-0.076546
+940GZZLUUPB,Upminster Bridge Underground Station,NaptanMetroStation,51.55856,0.235809
+940GZZLUUPK,Upton Park Underground Station,NaptanMetroStation,51.53534,0.035263
+940GZZLUUPM,Upminster Underground Station,NaptanMetroStation,51.559063,0.250882
+940GZZLUUPY,Upney Underground Station,NaptanMetroStation,51.538372,0.10153
+940GZZLUVIC,Victoria Underground Station,NaptanMetroStation,51.496359,-0.143102
+940GZZLUWBN,West Brompton Underground Station,NaptanMetroStation,51.487268,-0.195599
+940GZZLUWHM,West Ham Underground Station,NaptanMetroStation,51.528136,0.005055
+940GZZLUWIM,Wimbledon Underground Station,NaptanMetroStation,51.421207,-0.206573
+940GZZLUWIP,Wimbledon Park Underground Station,NaptanMetroStation,51.434573,-0.199719
+940GZZLUWKN,West Kensington Underground Station,NaptanMetroStation,51.490459,-0.206636
+940GZZLUWPL,Whitechapel Underground Station,NaptanMetroStation,51.519518,-0.059971
+940GZZLUWSM,Westminster Underground Station,NaptanMetroStation,51.50132,-0.124861

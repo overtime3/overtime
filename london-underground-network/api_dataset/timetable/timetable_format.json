@@ -1,0 +1,40 @@
+{
+    "type": "object",
+    "properties": {
+        "lineId": {
+            "type": "string"
+        },
+        "lineName": {
+            "type": "string"
+        },
+        "direction": {
+            "type": "string"
+        },
+        "pdfUrl": {
+            "type": "string"
+        },
+        "stations": {
+            "type": "array",
+            "items": {
+                "$ref": "#/components/schemas/Tfl-20"
+            }
+        },
+        "stops": {
+            "type": "array",
+            "items": {
+                "$ref": "#/components/schemas/Tfl-20"
+            }
+        },
+        "timetable": {
+            "$ref": "#/components/schemas/Tfl-36",
+            "type": "object"
+        },
+        "disambiguation": {
+            "$ref": "#/components/schemas/Tfl-38",
+            "type": "object"
+        },
+        "statusErrorMessage": {
+            "type": "string"
+        }
+    }
+}
