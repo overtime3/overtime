@@ -1,4 +1,5 @@
 # Overtime
+![dev-test-suite](https://github.com/overtime3/overtime/actions/workflows/overtime-dev-test-suite.yml/badge.svg?branch=dev)  
 > A temporal networks library written in [Python](https://www.python.org/).
 
 
@@ -22,7 +23,6 @@ ot.Circle(network)
 ot.calculate_reachability(network, 'b')
 >>> 5
 ```
-
 
 
 ## Extended Example
