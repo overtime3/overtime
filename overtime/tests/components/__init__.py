@@ -1,1 +1,1 @@
-from overtime.tests.components.test_graphs import *
+from overtime.tests.components.graphs_test import *
