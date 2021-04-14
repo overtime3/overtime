@@ -4,3 +4,4 @@ from overtime.plots.plot import *
 from overtime.plots.circle import *
 from overtime.plots.slice import *
 from overtime.plots.scatter import *
+from overtime.plots.visualization import *
