@@ -760,7 +760,7 @@ def echarts_Timeline(graph,
     return c
 
 
-def ShowDifference(graph, algorithm, h, width='1200px', height='600px', x='', y='', layout='circular',
+def ShowDifference(graph, algorithm, h, width='1200px', height='600px', x='', y='', layout='circular', graph_layout='',
                    path='showDifference.html', pageLayout=Page.DraggablePageLayout, show_edge_value=True):
     """
         A method to generate a html file that contains network before and after running the h/c-approximation algorithm,
@@ -773,6 +773,7 @@ def ShowDifference(graph, algorithm, h, width='1200px', height='600px', x='', y=
         algorithm : String
             'c' : run the c-approximation algorithm
             'h' : run the h-approximation algorithm
+            if you choose to run the c-approximation algorithm, you have to provide a layout of the graph.
         h : int
             The threshold of temporal reachability. Nodes will be assigned different color based on this value.
         width: String
@@ -790,6 +791,8 @@ def ShowDifference(graph, algorithm, h, width='1200px', height='600px', x='', y=
         layout : String
             There are three kinds of image layout: circular, force and none
             If the layout is none, you have to provide the x-coordinate and y-coordinate of nodes.
+        graph_layout : list
+            A layout of the graph, such as {v1, v2, v3， ....， vn}.
         path : String
             The path of the rendered image.
             Default value: circleExample.html
@@ -816,7 +819,7 @@ def ShowDifference(graph, algorithm, h, width='1200px', height='600px', x='', y=
     if algorithm == 'h':
         E_ = edgeDeletion.h_approximation(tmpGraph, h)
     elif algorithm == 'c':
-        E_ = edgeDeletion.c_approximation(tmpGraph, h)
+        E_ = edgeDeletion.c_approximation(tmpGraph, h, graph_layout)
 
     if layout == 'circular':
         print('-----processing network one -----')
