@@ -18,7 +18,9 @@ def reachable_subtree(graph, root, h):
         Returns:
         --------
         tree : ForemostTree
-            A directed, temporal tree with root 'root'.
+            ForemostTree is an object which represents a static, undirected graph consisting of nodes and edges.
+            In this algorithm, it represents a directed, temporal subtree of graph 'graph' with root 'root', and the
+            reachability of this subtree is h+1.
 
     """
 
@@ -35,7 +37,7 @@ def reachable_subtree(graph, root, h):
     for node in graph.nodes.set:
         tree.nodes.add(node.label)
 
-    # calculate the number of vertices in the tree
+    # calculate the number of nodes reachable from the root
     accumulator = 0
 
     # foremost path algorithm:
@@ -72,7 +74,7 @@ def reachable_subtree(graph, root, h):
 
 def h_approximation(graph, h):
     """
-        A h-approximation algorithm to return a set of edges E_ such that (G,λ)\E_ has temporal reachability at most h.
+        A h-approximation algorithm to return a set of edges E_ such that (G,λ)\E_has temporal reachability at most h.
 
         Parameter(s):
         -------------
@@ -84,7 +86,7 @@ def h_approximation(graph, h):
         Returns:
         --------
         E_ : list
-            a set of edges such that (G,λ)/E_ has temporal reachability at most h.
+            a set of edges such that (G,λ)\E_has temporal reachability at most h.
 
     """
 
@@ -101,7 +103,7 @@ def h_approximation(graph, h):
 
         # check if the specified root actually exists in the graph.
         if root == '':
-            print('there is no node whose reachability is more than {}'.format(h))
+            print('The temporal reachability of the input temporal graph is at most h')
             break
 
         # generate a reachable subtree based on the root
@@ -157,12 +159,8 @@ def max_endtime(graph):
 
     """
 
-    maxEndtime = 0
-
-    # check the end time of each edges
-    for edge in graph.edges.set:
-        if edge.end > maxEndtime:
-            maxEndtime = edge.end
+    timespan = graph.edges.timespan()
+    maxEndtime = timespan[-1]
 
     return maxEndtime
 
@@ -174,9 +172,14 @@ def find_edges(graph, layout, j):
         Parameter(s):
         -------------
         graph : TemporalDiGraph
-                A directed, temporal graph.
-
-
+            A directed, temporal graph.
+        layout : list
+            The vertices of graph can be arranged in a linear order
+            v1,...,vn, called a layout
+        j : int
+            An indicator which is used to separate the layout of graph into two list,
+            v1,...,vj and vj+1,...,vn
+            
         Returns:
         --------
         edgeList : list
