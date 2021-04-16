@@ -222,9 +222,9 @@ def generate_Layout(graph):
     return layout
 
 
-def c_approximation(graph, h):
+def c_approximation(graph, h, layout):
     """
-        A c-approximation algorithm to return a set of edges E_ such that (G,λ)\E_ has temporal reachability at most h.
+        A c-approximation algorithm to return a set of edges E_ such that (G,λ)\E_has temporal reachability at most h.
 
         Parameter(s):
         -------------
@@ -232,6 +232,8 @@ def c_approximation(graph, h):
                 A directed, temporal graph.
         h : int
             the maximum permitted temporal reachability.
+        layout : list
+            a layout of the graph, such as {v1, v2, v3， ....， vn}.
 
         Returns:
         --------
@@ -239,9 +241,6 @@ def c_approximation(graph, h):
             a set of edges such that (G,λ)/E_ has temporal reachability at most h.
 
     """
-
-    # generate a layout of the network
-    layout = generate_Layout(graph)
 
     # result edge set
     E_ = []
