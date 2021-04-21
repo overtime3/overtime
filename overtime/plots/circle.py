@@ -172,15 +172,21 @@ class Circle(Plot):
             --------
                 None, creates the CircleNode objects and optionally applies ordering.
         """
+        
+        
+        
         n = self.graph.nodes.count() # number of nodes in the graph.
         i = 0
         # for each node.
         for node in self.graph.nodes.as_ordered_list():
+            #print(node.label)
             x = math.cos(2 * math.pi * i / n) # assign x coordinate based on index around the circle.
             y = math.sin(2 * math.pi * i / n) # assign y coordinate based on index around the circle.
             # create a CircleNode and add it to the nodes list.
             self.nodes.append(CircleNode(node, i, x, y))
             i += 1
+       
+       
         if self.is_ordered:
             # apply barycenter ordering.
             self.order_nodes(self.graph.edges.count())
@@ -317,8 +323,13 @@ class Circle(Plot):
             # if the edge is directed.
             if edge.edge.directed:
                 color=edge_color # assign it the same color as the source node.
+                width=1
+            elif edge.edge.temporal:
+                color='red'
+                width=6
             else:
                 color='lightgrey' # otherwise, make it light grey.
+                width=1
             bezier_edge = bezier(edge.p1, edge.p2) # create a Bézier curve for the edge.
             # draw the edge.
             self.axis.plot(
@@ -326,7 +337,8 @@ class Circle(Plot):
                 bezier_edge['y'],
                 linestyle='-',
                 color=color,
-                alpha=0.5,
+                alpha=1,
+                linewidth = width,
                 zorder=0
             )
             # if edge is directed.

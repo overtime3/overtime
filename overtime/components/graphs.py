@@ -1,11 +1,8 @@
-
 import copy 
 
 import overtime
 from overtime.components.nodes import Nodes
 from overtime.components.edges import Edges, TemporalEdges
-
-
 
 class Graph:
     """
@@ -89,7 +86,7 @@ class Graph:
         return self.nodes.add(label)
 
 
-    def add_edge(self, node1, node2):
+    def add_edge(self, node1, node2, temporal = False):
         """
             A method of Graph.
 
@@ -105,7 +102,7 @@ class Graph:
             edge : Edge
                 The corresponding edge object.
         """
-        return self.edges.add(node1, node2, self.nodes)
+        return self.edges.add(node1, node2, self.nodes, temporal)
 
 
     def remove_node(self, label):
@@ -146,7 +143,22 @@ class Graph:
         """
         self.edges.remove(uid)
 
+    def remove_edge2(self, label):
+        """
+            A method of Graph.
 
+            Parameter(s):
+            -------------
+            label : String
+                The label of the edge to be removed.
+            
+            Returns:
+            --------
+            None, removes the corresponding edge.
+        """
+        self.edges.remove2(label)
+    
+    
     def get_node_connections(self, label):
         node = self.nodes.get(label)
         graph = self.__class__(label + '-Network')
@@ -252,7 +264,7 @@ class TemporalGraph(Graph):
             self.add_node(node)
 
 
-    def add_edge(self, node1, node2, tstart, tend=None):
+    def add_edge(self, node1, node2, tstart, tend=None, temporal=False):
         """
             A method of TemporalGraph.
 
@@ -272,7 +284,7 @@ class TemporalGraph(Graph):
             edge : TemporalEdge
                 The corresponding edge object.
         """
-        return self.edges.add(node1, node2, self.nodes, tstart, tend)
+        return self.edges.add(node1, node2, self.nodes, tstart, tend, temporal)
 
 
     def get_snapshot(self, time):
@@ -397,6 +409,33 @@ class TemporalGraph(Graph):
                 edges = graph_edges.get_edge_by_interval(interval)
                 for edge in edges.set:
                     graph.add_edge(edge.node1.label, edge.node2.label, edge.start, edge.end)
+        else:
+            for edge in self.edges.set:
+                # add the edge to the subgraph.
+                graph.add_edge(edge.node1.label, edge.node2.label, edge.start, edge.end)
+
+        # return the created subgraph.
+        return graph
+
+    def get_temporal_subgraph2(self, interval=None):
+       
+        # create subgraph.
+        graph = self.__class__(self.label)
+        
+        for node in self.nodes.set:
+            # add the node to the subgraph.
+            graph.add_node(node.label)
+
+        if interval:
+            # update graph label.
+            graph.label = graph.label + ' [interval; ' + str(interval) + ']'
+            graph_edges = self.edges
+            # get the edges collection whose duration is within 'interval'.
+            edges = graph_edges.get_edge_by_subset(interval)
+            for edge in edges.set:
+                start = max(edge.start, interval[0])
+                end = min(edge.end, interval[1])
+                graph.add_edge(edge.node1.label, edge.node2.label, start, end)
         else:
             for edge in self.edges.set:
                 # add the edge to the subgraph.
