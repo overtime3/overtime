@@ -31,7 +31,6 @@ class GraphTest(unittest.TestCase):
     def setUp(self):
         """
             Create a graph for use in all test methods.
-
         """
         self.graph = Graph('GraphTest')
 
