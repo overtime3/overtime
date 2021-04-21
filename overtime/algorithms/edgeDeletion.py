@@ -74,7 +74,7 @@ def reachable_subtree(graph, root, h):
 
 def h_approximation(graph, h):
     """
-        A h-approximation algorithm to return a set of edges E_ such that (G,λ)\E_has temporal reachability at most h.
+        A h-approximation algorithm to return a set of edges E_ such that (G,λ)\E_ has temporal reachability at most h.
 
         Parameter(s):
         -------------
