@@ -86,7 +86,7 @@ def h_approximation(graph, h):
         Returns:
         --------
         E_ : list
-            a set of edges such that (G,λ)\E_has temporal reachability at most h.
+            a set of edges such that (G,λ)\E_ has temporal reachability at most h.
 
     """
 
@@ -224,7 +224,7 @@ def generate_Layout(graph):
 
 def c_approximation(graph, h, layout):
     """
-        A c-approximation algorithm to return a set of edges E_ such that (G,λ)\E_has temporal reachability at most h.
+        A c-approximation algorithm to return a set of edges E_ such that (G,λ)\E_ has temporal reachability at most h.
 
         Parameter(s):
         -------------
