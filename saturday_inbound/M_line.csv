@@ -1,0 +1,1330 @@
+node1,node2,tstart,tend,line,
+Myrtle Av,Central Av,0,2,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,2,4,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,4,6,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,6,7,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,7,8,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,8,10,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,10,12,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Myrtle Av,Central Av,15,17,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,17,19,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,19,21,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,21,22,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,22,23,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,23,25,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,25,27,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Myrtle Av,Central Av,30,32,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,32,34,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,34,36,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,36,37,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,37,38,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,38,40,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,40,42,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Myrtle Av,Central Av,45,47,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,47,49,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,49,51,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,51,52,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,52,53,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,53,55,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,55,57,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Myrtle Av,Central Av,62,64,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,64,66,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,66,68,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,68,69,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,69,70,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,70,72,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,72,74,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Myrtle Av,Central Av,82,84,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,84,86,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,86,88,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,88,89,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,89,90,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,90,92,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,92,94,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Myrtle Av,Central Av,102,104,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,104,106,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,106,108,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,108,109,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,109,110,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,110,112,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,112,114,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Myrtle Av,Central Av,122,124,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,124,126,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,126,128,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,128,129,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,129,130,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,130,132,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,132,134,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Myrtle Av,Central Av,142,144,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,144,146,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,146,148,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,148,149,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,149,151,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,151,153,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,153,155,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Myrtle Av,Central Av,162,164,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,164,166,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,166,168,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,168,169,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,169,171,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,171,173,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,173,175,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Myrtle Av,Central Av,182,184,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,184,186,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,186,188,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,188,189,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,189,191,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,191,193,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,193,195,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Myrtle Av,Central Av,202,204,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,204,206,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,206,208,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,208,209,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,209,211,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,211,213,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,213,215,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Myrtle Av,Central Av,222,224,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,224,226,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,226,228,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,228,229,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,229,231,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,231,233,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,233,235,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Myrtle Av,Central Av,242,244,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,244,246,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,246,248,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,248,249,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,249,251,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,251,253,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,253,255,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Myrtle Av,Central Av,262,264,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,264,266,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,266,268,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,268,269,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,269,271,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,271,273,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,273,275,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Myrtle Av,Central Av,282,284,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,284,286,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,286,288,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,288,289,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,289,291,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,291,293,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,293,295,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Myrtle Av,Central Av,302,304,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,304,306,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,306,308,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,308,309,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,309,311,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,311,313,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,313,315,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Myrtle Av,Central Av,322,324,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,324,326,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,326,328,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,328,329,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,329,331,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,331,333,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,333,335,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Myrtle Av,Central Av,342,344,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,344,346,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,346,348,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,348,349,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,349,351,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,351,353,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,353,355,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Myrtle Av,Central Av,360,362,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,362,364,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,364,366,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,366,367,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,367,369,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,369,371,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,371,373,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Myrtle Av,Central Av,372,374,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,374,376,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,376,378,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,378,379,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,379,381,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,381,383,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,383,385,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Myrtle Av,Central Av,385,387,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,387,389,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,389,391,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,391,392,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,392,394,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,394,396,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,396,398,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Myrtle Av,Central Av,397,399,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,399,401,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,401,403,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,403,404,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,404,406,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,406,408,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,408,410,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,403,411,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,413,414,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,414,415,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,415,417,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,417,418,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,418,420,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,420,422,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,422,424,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,424,425,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,425,427,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,427,429,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,429,431,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Myrtle Av,Central Av,409,411,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,411,413,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,413,415,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,415,416,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,416,418,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,418,420,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,420,422,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,416,424,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,426,427,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,427,428,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,428,430,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,430,431,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,431,433,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,433,435,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,435,437,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,437,438,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,438,440,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,440,442,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,442,444,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,428,436,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,438,439,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,439,440,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,440,442,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,442,443,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,443,445,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,445,447,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,447,449,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,449,450,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,450,452,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,452,454,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,454,456,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,440,448,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,450,451,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,451,452,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,452,454,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,454,455,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,455,457,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,457,459,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,459,461,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,461,462,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,462,464,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,464,466,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,466,468,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,452,460,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,462,463,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,463,464,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,464,466,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,466,467,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,467,469,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,469,471,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,471,473,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,473,474,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,474,476,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,476,478,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,478,480,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,465,473,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,475,476,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,476,477,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,477,479,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,479,480,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,480,482,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,482,484,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,484,486,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,486,487,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,487,489,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,489,491,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,491,493,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,476,484,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,486,487,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,487,488,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,488,490,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,490,491,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,492,495,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,495,496,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,496,498,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,498,500,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,500,501,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,501,503,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,503,505,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,487,495,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,497,498,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,498,499,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,499,501,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,501,502,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,502,505,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,505,506,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,506,508,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,508,510,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,510,511,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,511,513,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,513,515,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,498,506,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,508,509,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,509,510,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,510,512,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,512,513,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,513,515,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,515,517,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,517,519,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,519,520,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,520,522,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,522,524,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,524,526,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,508,516,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,518,519,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,519,520,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,520,522,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,522,523,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,523,525,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,525,527,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,527,529,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,529,530,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,530,532,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,532,534,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,534,536,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,518,526,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,528,529,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,529,530,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,530,532,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,532,533,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,533,535,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,535,537,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,537,539,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,539,540,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,540,542,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,542,544,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,544,546,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,528,536,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,538,539,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,539,540,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,540,542,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,542,543,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,543,545,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,545,547,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,547,549,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,549,550,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,550,552,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,552,554,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,554,556,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,538,546,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,548,549,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,549,550,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,550,552,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,552,553,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,553,555,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,555,557,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,557,559,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,559,560,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,560,562,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,562,564,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,564,566,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,548,556,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,558,559,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,559,560,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,560,562,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,562,563,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,563,565,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,565,567,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,567,569,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,569,570,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,570,572,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,572,574,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,574,576,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,558,566,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,568,569,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,569,570,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,570,572,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,572,573,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,573,575,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,575,577,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,577,579,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,579,580,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,580,582,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,582,584,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,584,586,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,568,576,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,578,579,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,579,580,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,580,582,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,582,583,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,583,585,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,585,587,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,587,589,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,589,590,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,590,592,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,592,594,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,594,596,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,578,586,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,588,589,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,589,590,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,590,592,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,592,593,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,593,595,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,595,597,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,597,599,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,599,600,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,600,602,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,602,604,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,604,606,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,588,596,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,598,599,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,599,600,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,600,602,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,602,603,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,603,605,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,605,607,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,607,609,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,609,610,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,610,612,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,612,614,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,614,616,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,598,606,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,608,609,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,609,610,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,610,612,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,612,613,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,613,615,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,615,617,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,617,619,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,619,620,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,620,622,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,622,624,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,624,626,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,608,616,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,618,619,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,619,620,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,620,622,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,622,623,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,623,625,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,625,627,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,627,629,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,629,630,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,630,632,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,632,634,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,634,636,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,618,626,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,628,629,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,629,630,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,630,632,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,632,633,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,633,635,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,635,637,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,637,639,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,639,640,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,640,642,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,642,644,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,644,646,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,628,636,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,638,639,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,639,640,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,640,642,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,642,643,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,643,645,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,645,647,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,647,649,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,649,650,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,650,652,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,652,654,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,654,656,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,638,646,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,648,649,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,649,650,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,650,652,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,652,653,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,653,655,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,655,657,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,657,659,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,659,660,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,660,662,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,662,664,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,664,666,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,648,656,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,658,659,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,659,660,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,660,662,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,662,663,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,663,665,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,665,667,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,667,669,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,669,670,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,670,672,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,672,674,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,674,676,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,658,666,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,668,669,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,669,670,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,670,672,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,672,673,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,673,675,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,675,677,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,677,679,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,679,680,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,680,682,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,682,684,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,684,686,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,668,676,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,678,679,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,679,680,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,680,682,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,682,683,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,683,685,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,685,687,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,687,689,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,689,690,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,690,692,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,692,694,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,694,696,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,678,686,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,688,689,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,689,690,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,690,692,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,692,693,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,693,695,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,695,697,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,697,699,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,699,700,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,700,702,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,702,704,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,704,706,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,688,696,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,698,699,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,699,700,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,700,702,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,702,703,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,703,705,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,705,707,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,707,709,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,709,710,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,710,712,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,712,714,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,714,716,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,698,706,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,708,709,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,709,710,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,710,712,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,712,713,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,713,715,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,715,717,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,717,719,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,719,720,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,720,722,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,722,724,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,724,726,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,708,716,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,718,719,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,719,720,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,720,722,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,722,723,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,723,725,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,725,727,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,727,729,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,729,730,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,730,732,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,732,734,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,734,736,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,718,726,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,728,729,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,729,730,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,730,732,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,732,733,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,733,735,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,735,737,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,737,739,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,739,740,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,740,742,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,742,744,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,744,746,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,728,736,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,738,739,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,739,740,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,740,742,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,742,743,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,743,745,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,745,747,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,747,749,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,749,750,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,750,752,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,752,754,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,754,756,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,738,746,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,748,749,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,749,750,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,750,752,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,752,753,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,753,755,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,755,757,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,757,759,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,759,760,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,760,762,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,762,764,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,764,766,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,748,756,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,758,759,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,759,760,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,760,762,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,762,763,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,763,765,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,765,767,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,767,769,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,769,770,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,770,772,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,772,774,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,774,776,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,758,766,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,768,769,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,769,770,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,770,772,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,772,773,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,773,775,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,775,777,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,777,779,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,779,780,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,780,782,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,782,784,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,784,786,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,768,776,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,778,779,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,779,780,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,780,782,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,782,783,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,783,785,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,785,787,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,787,789,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,789,790,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,790,792,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,792,794,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,794,796,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,778,786,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,788,789,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,789,790,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,790,792,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,792,793,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,793,795,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,795,797,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,797,799,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,799,800,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,800,802,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,802,804,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,804,806,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,788,796,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,798,799,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,799,800,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,800,802,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,802,803,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,803,805,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,805,807,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,807,809,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,809,810,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,810,812,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,812,814,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,814,816,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,798,806,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,808,809,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,809,810,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,810,812,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,812,813,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,813,815,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,815,817,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,817,819,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,819,820,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,820,822,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,822,824,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,824,826,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,808,816,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,818,819,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,819,820,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,820,822,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,822,823,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,823,825,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,825,827,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,827,829,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,829,830,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,830,832,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,832,834,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,834,836,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,818,826,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,828,829,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,829,830,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,830,832,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,832,833,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,833,835,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,835,837,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,837,839,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,839,840,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,840,842,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,842,844,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,844,846,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,828,836,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,838,839,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,839,840,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,840,842,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,842,843,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,843,845,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,845,847,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,847,849,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,849,850,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,850,852,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,852,854,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,854,856,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,838,846,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,848,849,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,849,850,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,850,852,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,852,853,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,853,855,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,855,857,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,857,859,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,859,860,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,860,862,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,862,864,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,864,866,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,848,856,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,858,859,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,859,860,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,860,862,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,862,863,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,863,865,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,865,867,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,867,869,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,869,870,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,870,872,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,872,874,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,874,876,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,858,866,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,868,869,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,869,870,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,870,872,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,872,873,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,873,875,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,875,877,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,877,879,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,879,880,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,880,882,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,882,884,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,884,886,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,868,876,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,878,879,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,879,880,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,880,882,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,882,883,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,883,885,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,885,887,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,887,889,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,889,890,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,890,892,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,892,894,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,894,896,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,878,886,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,888,889,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,889,890,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,890,892,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,892,893,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,893,895,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,895,897,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,897,899,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,899,900,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,900,902,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,902,904,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,904,906,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,888,896,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,898,899,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,899,900,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,900,902,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,902,903,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,903,905,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,905,907,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,907,909,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,909,910,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,910,912,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,912,914,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,914,916,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,898,906,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,908,909,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,909,910,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,910,912,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,912,913,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,913,915,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,915,917,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,917,919,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,919,920,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,920,922,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,922,924,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,924,926,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,908,916,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,918,919,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,919,920,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,920,922,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,922,923,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,923,925,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,925,927,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,927,929,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,929,930,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,930,932,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,932,934,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,934,936,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,918,926,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,928,929,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,929,930,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,930,932,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,932,933,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,933,935,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,935,937,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,937,939,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,939,940,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,940,942,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,942,944,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,944,946,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,928,936,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,938,939,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,939,940,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,940,942,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,942,943,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,943,945,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,945,947,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,947,949,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,949,950,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,950,952,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,952,954,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,954,956,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,938,946,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,948,949,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,949,950,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,950,952,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,952,953,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,953,955,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,955,957,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,957,959,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,959,960,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,960,962,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,962,964,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,964,966,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,948,956,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,958,959,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,959,960,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,960,962,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,962,963,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,963,965,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,965,967,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,967,969,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,969,970,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,970,972,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,972,974,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,974,976,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,958,966,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,968,969,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,969,970,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,970,972,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,972,973,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,973,975,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,975,977,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,977,979,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,979,980,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,980,982,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,982,984,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,984,986,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,968,976,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,978,979,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,979,980,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,980,982,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,982,983,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,983,985,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,985,987,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,987,989,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,989,990,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,990,992,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,992,994,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,994,996,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,978,986,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,988,989,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,989,990,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,990,992,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,992,993,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,993,995,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,995,997,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,997,999,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,999,1000,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1000,1002,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1002,1004,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1004,1006,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,988,996,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,998,999,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,999,1000,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1000,1002,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1002,1003,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1003,1005,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1005,1007,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1007,1009,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1009,1010,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1010,1012,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1012,1014,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1014,1016,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,998,1006,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1008,1009,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1009,1010,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1010,1012,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1012,1013,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1013,1015,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1015,1017,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1017,1019,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1019,1020,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1020,1022,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1022,1024,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1024,1026,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1008,1016,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1018,1019,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1019,1020,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1020,1022,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1022,1023,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1023,1025,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1025,1027,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1027,1029,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1029,1030,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1030,1032,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1032,1034,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1034,1036,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1018,1026,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1028,1029,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1029,1030,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1030,1032,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1032,1033,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1033,1035,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1035,1037,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1037,1039,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1039,1040,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1040,1042,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1042,1044,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1044,1046,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1028,1036,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1038,1039,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1039,1040,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1040,1042,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1042,1043,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1043,1045,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1045,1047,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1047,1049,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1049,1050,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1050,1052,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1052,1054,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1054,1056,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1038,1046,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1048,1049,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1049,1050,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1050,1052,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1052,1053,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1053,1055,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1055,1057,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1057,1059,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1059,1060,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1060,1062,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1062,1064,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1064,1066,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1048,1056,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1058,1059,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1059,1060,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1060,1062,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1062,1063,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1063,1065,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1065,1067,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1067,1069,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1069,1070,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1070,1072,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1072,1074,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1074,1076,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1058,1066,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1068,1069,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1069,1070,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1070,1072,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1072,1073,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1073,1075,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1075,1077,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1077,1079,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1079,1080,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1080,1082,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1082,1084,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1084,1086,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1068,1076,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1078,1079,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1079,1080,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1080,1082,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1082,1083,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1083,1085,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1085,1087,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1087,1089,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1089,1090,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1090,1092,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1092,1094,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1094,1096,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1078,1086,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1088,1089,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1089,1090,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1090,1092,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1092,1093,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1093,1095,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1095,1097,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1097,1099,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1099,1100,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1100,1102,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1102,1104,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1104,1106,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1088,1096,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1098,1099,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1099,1100,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1100,1102,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1102,1103,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1103,1105,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1105,1107,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1107,1109,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1109,1110,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1110,1112,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1112,1114,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1114,1116,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1098,1106,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1108,1109,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1109,1110,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1110,1112,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1112,1113,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1113,1115,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1115,1117,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1117,1119,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1119,1120,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1120,1122,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1122,1124,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1124,1126,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1108,1116,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1118,1119,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1119,1120,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1120,1122,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1122,1123,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1123,1125,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1125,1127,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1127,1129,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1129,1130,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1130,1132,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1132,1134,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1134,1136,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1118,1126,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1128,1129,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1129,1130,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1130,1132,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1132,1133,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1133,1135,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1135,1137,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1137,1139,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1139,1140,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1140,1142,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1142,1144,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1144,1146,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1128,1136,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1138,1139,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1139,1140,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1140,1142,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1142,1143,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1143,1145,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1145,1147,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1147,1149,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1149,1150,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1150,1152,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1152,1154,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1154,1156,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1138,1146,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1148,1149,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1149,1150,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1150,1152,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1152,1153,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1153,1155,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1155,1157,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1157,1159,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1159,1160,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1160,1162,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1162,1164,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1164,1166,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1148,1156,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1158,1159,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1159,1160,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1160,1162,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1162,1163,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1163,1165,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1165,1167,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1167,1169,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1169,1170,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1170,1172,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1172,1174,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1174,1176,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1159,1167,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1169,1170,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1170,1171,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1171,1173,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1173,1174,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1174,1176,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1176,1178,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1178,1180,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1180,1181,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1181,1183,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1183,1185,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1185,1187,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1168,1176,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1178,1179,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1179,1180,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1180,1182,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1182,1183,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1183,1185,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1185,1187,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1187,1189,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1189,1190,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1190,1192,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1192,1194,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1194,1196,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1177,1184,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1186,1187,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1187,1189,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1189,1190,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1190,1191,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1191,1194,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1194,1195,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1195,1197,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1197,1199,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1199,1200,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1200,1202,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1202,1204,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1188,1196,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1198,1199,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1199,1200,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1200,1202,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1202,1203,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1203,1205,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1205,1207,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1207,1209,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1209,1210,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1210,1212,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1212,1214,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1214,1216,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1198,1206,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1208,1209,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1209,1210,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1210,1212,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1212,1213,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1213,1215,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1215,1217,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1217,1219,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1219,1220,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1220,1222,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1222,1224,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1224,1226,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1208,1216,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1218,1219,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1219,1220,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1220,1222,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1222,1223,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1223,1225,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1225,1227,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1227,1229,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1229,1230,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1230,1232,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1232,1234,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1234,1236,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1218,1225,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1227,1228,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1228,1230,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1230,1231,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1231,1232,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1232,1235,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1235,1236,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1236,1238,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1238,1240,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1240,1241,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1241,1243,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1243,1245,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1230,1237,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1239,1240,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1240,1242,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1242,1243,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1243,1244,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1244,1247,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1247,1248,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1248,1250,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1250,1252,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1252,1253,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1253,1255,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1255,1257,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1242,1249,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1251,1252,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1252,1254,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1254,1255,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1255,1256,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1256,1259,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1259,1260,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1260,1262,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1262,1264,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1264,1265,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1265,1267,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1267,1269,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1254,1261,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1263,1264,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1264,1266,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1266,1267,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1267,1268,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1268,1271,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1271,1272,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1272,1274,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1274,1276,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1276,1277,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1277,1279,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1279,1281,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1266,1273,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1275,1276,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1276,1278,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1278,1279,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1279,1280,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1280,1283,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1283,1284,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1284,1286,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1286,1288,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1288,1289,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1289,1291,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1291,1293,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1278,1285,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1287,1288,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1288,1290,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1290,1291,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1291,1292,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1292,1295,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1295,1296,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1296,1298,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1298,1300,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1300,1301,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1301,1303,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1303,1305,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1289,1297,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1299,1300,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1300,1301,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1301,1303,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1303,1304,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1304,1306,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1306,1308,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1308,1310,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1310,1311,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1311,1313,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1313,1315,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1315,1317,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1302,1309,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1311,1312,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1312,1314,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1314,1315,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1315,1316,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1316,1319,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1319,1320,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1320,1322,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1322,1324,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1324,1325,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1325,1327,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1327,1329,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1314,1321,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1323,1324,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1324,1326,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1326,1327,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1327,1328,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1329,1332,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1332,1333,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1333,1335,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1335,1337,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1337,1338,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1338,1340,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1340,1342,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1328,1335,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1337,1338,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1338,1340,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1340,1341,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1341,1342,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1344,1347,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1347,1348,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1348,1350,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1350,1352,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1352,1353,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1353,1355,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1355,1357,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1343,1350,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1352,1353,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1353,1355,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1355,1356,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1356,1357,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1359,1362,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1362,1363,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1363,1365,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1365,1367,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1367,1368,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1368,1370,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1370,1372,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1358,1365,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1367,1368,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1368,1370,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1370,1371,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1371,1372,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1372,1375,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1375,1376,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1376,1378,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1378,1380,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1380,1381,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1381,1383,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1383,1385,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1373,1380,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1382,1383,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1383,1385,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1385,1386,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1386,1387,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1387,1390,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1390,1391,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1391,1393,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1393,1395,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1395,1396,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1396,1398,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1398,1400,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1388,1395,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1397,1398,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1398,1400,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1400,1401,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1401,1402,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1402,1405,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1405,1406,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1406,1408,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1408,1410,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1410,1411,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1411,1413,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1413,1415,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Delancey St-Essex St,Marcy Av,1403,1410,Queens Blvd Local/6 Av Local to Marcy Av
+Marcy Av,Hewes St,1410,1411,Queens Blvd Local/6 Av Local to Hewes St
+Hewes St,Lorimer St,1411,1413,Queens Blvd Local/6 Av Local to Lorimer St
+Lorimer St,Flushing Av,1413,1414,Queens Blvd Local/6 Av Local to Flushing Av
+Flushing Av,Myrtle Av,1414,1415,Queens Blvd Local/6 Av Local to Myrtle Av
+Myrtle Av,Central Av,1415,1418,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1418,1419,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1419,1421,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1421,1423,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1423,1424,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1424,1426,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1426,1428,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Myrtle Av,Central Av,1408,1411,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1411,1412,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1412,1414,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1414,1416,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1416,1417,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1417,1419,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1419,1421,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Myrtle Av,Central Av,1424,1427,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1427,1428,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1428,1430,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1430,1432,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1432,1433,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1433,1435,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1435,1437,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
+Myrtle Av,Central Av,1439,1442,Queens Blvd Local/6 Av Local to Central Av
+Central Av,Knickerbocker Av,1442,1443,Queens Blvd Local/6 Av Local to Knickerbocker Av
+Knickerbocker Av,Myrtle-Wyckoff Avs,1443,1445,Queens Blvd Local/6 Av Local to Myrtle-Wyckoff Avs
+Myrtle-Wyckoff Avs,Seneca Av,1445,1447,Queens Blvd Local/6 Av Local to Seneca Av
+Seneca Av,Forest Av,1447,1448,Queens Blvd Local/6 Av Local to Forest Av
+Forest Av,Fresh Pond Rd,1448,1450,Queens Blvd Local/6 Av Local to Fresh Pond Rd
+Fresh Pond Rd,Middle Village-Metropolitan Av,1450,1452,Queens Blvd Local/6 Av Local to Middle Village-Metropolitan Av
