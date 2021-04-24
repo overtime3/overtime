@@ -1,0 +1,2353 @@
+node1,node2,tstart,tend,line,
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,13,15,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,15,17,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,17,19,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,19,20,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,20,22,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,22,23,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,67 Av,23,25,8 Avenue Local to 67 Av
+67 Av,63 Dr-Rego Park,25,27,8 Avenue Local to 63 Dr-Rego Park
+63 Dr-Rego Park,Woodhaven Blvd,27,28,8 Avenue Local to Woodhaven Blvd
+Woodhaven Blvd,Grand Av-Newtown,28,30,8 Avenue Local to Grand Av-Newtown
+Grand Av-Newtown,Elmhurst Av,30,31,8 Avenue Local to Elmhurst Av
+Elmhurst Av,Jackson Hts-Roosevelt Av,31,33,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,65 St,33,34,8 Avenue Local to 65 St
+65 St,Northern Blvd,34,36,8 Avenue Local to Northern Blvd
+Northern Blvd,46 St,36,37,8 Avenue Local to 46 St
+46 St,Steinway St,37,39,8 Avenue Local to Steinway St
+Steinway St,36 St,39,41,8 Avenue Local to 36 St
+36 St,Queens Plaza,41,43,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,43,44,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,44,47,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,47,49,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,49,50,8 Avenue Local to 7 Av
+7 Av,50 St,50,52,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,55,57,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,57,58,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,58,59,8 Avenue Local to 23 St
+23 St,14 St,59,61,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,61,63,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,63,64,8 Avenue Local to Spring St
+Spring St,Canal St,64,66,8 Avenue Local to Canal St
+Canal St,World Trade Center,69,71,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,33,35,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,35,37,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,37,39,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,39,40,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,40,42,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,42,43,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,67 Av,43,45,8 Avenue Local to 67 Av
+67 Av,63 Dr-Rego Park,45,47,8 Avenue Local to 63 Dr-Rego Park
+63 Dr-Rego Park,Woodhaven Blvd,47,48,8 Avenue Local to Woodhaven Blvd
+Woodhaven Blvd,Grand Av-Newtown,48,50,8 Avenue Local to Grand Av-Newtown
+Grand Av-Newtown,Elmhurst Av,50,51,8 Avenue Local to Elmhurst Av
+Elmhurst Av,Jackson Hts-Roosevelt Av,51,53,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,65 St,53,54,8 Avenue Local to 65 St
+65 St,Northern Blvd,54,56,8 Avenue Local to Northern Blvd
+Northern Blvd,46 St,56,57,8 Avenue Local to 46 St
+46 St,Steinway St,57,59,8 Avenue Local to Steinway St
+Steinway St,36 St,59,61,8 Avenue Local to 36 St
+36 St,Queens Plaza,61,63,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,63,64,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,64,67,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,67,69,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,69,70,8 Avenue Local to 7 Av
+7 Av,50 St,70,72,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,75,77,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,77,78,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,78,79,8 Avenue Local to 23 St
+23 St,14 St,79,81,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,81,83,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,83,84,8 Avenue Local to Spring St
+Spring St,Canal St,84,86,8 Avenue Local to Canal St
+Canal St,World Trade Center,89,91,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,53,55,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,55,57,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,57,59,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,59,60,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,60,62,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,62,63,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,67 Av,63,65,8 Avenue Local to 67 Av
+67 Av,63 Dr-Rego Park,65,67,8 Avenue Local to 63 Dr-Rego Park
+63 Dr-Rego Park,Woodhaven Blvd,67,68,8 Avenue Local to Woodhaven Blvd
+Woodhaven Blvd,Grand Av-Newtown,68,70,8 Avenue Local to Grand Av-Newtown
+Grand Av-Newtown,Elmhurst Av,70,71,8 Avenue Local to Elmhurst Av
+Elmhurst Av,Jackson Hts-Roosevelt Av,71,73,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,65 St,73,74,8 Avenue Local to 65 St
+65 St,Northern Blvd,74,76,8 Avenue Local to Northern Blvd
+Northern Blvd,46 St,76,77,8 Avenue Local to 46 St
+46 St,Steinway St,77,79,8 Avenue Local to Steinway St
+Steinway St,36 St,79,81,8 Avenue Local to 36 St
+36 St,Queens Plaza,81,83,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,83,84,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,84,87,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,87,89,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,89,90,8 Avenue Local to 7 Av
+7 Av,50 St,90,92,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,95,97,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,97,98,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,98,99,8 Avenue Local to 23 St
+23 St,14 St,99,101,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,101,103,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,103,104,8 Avenue Local to Spring St
+Spring St,Canal St,104,106,8 Avenue Local to Canal St
+Canal St,World Trade Center,109,111,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,73,75,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,75,77,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,77,79,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,79,80,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,80,82,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,82,83,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,67 Av,83,85,8 Avenue Local to 67 Av
+67 Av,63 Dr-Rego Park,85,87,8 Avenue Local to 63 Dr-Rego Park
+63 Dr-Rego Park,Woodhaven Blvd,87,88,8 Avenue Local to Woodhaven Blvd
+Woodhaven Blvd,Grand Av-Newtown,88,90,8 Avenue Local to Grand Av-Newtown
+Grand Av-Newtown,Elmhurst Av,90,91,8 Avenue Local to Elmhurst Av
+Elmhurst Av,Jackson Hts-Roosevelt Av,91,93,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,65 St,93,94,8 Avenue Local to 65 St
+65 St,Northern Blvd,94,96,8 Avenue Local to Northern Blvd
+Northern Blvd,46 St,96,97,8 Avenue Local to 46 St
+46 St,Steinway St,97,99,8 Avenue Local to Steinway St
+Steinway St,36 St,99,101,8 Avenue Local to 36 St
+36 St,Queens Plaza,101,103,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,103,104,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,104,107,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,107,109,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,109,110,8 Avenue Local to 7 Av
+7 Av,50 St,110,112,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,115,117,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,117,118,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,118,119,8 Avenue Local to 23 St
+23 St,14 St,119,121,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,121,123,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,123,124,8 Avenue Local to Spring St
+Spring St,Canal St,124,126,8 Avenue Local to Canal St
+Canal St,World Trade Center,129,131,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,93,95,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,95,97,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,97,99,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,99,100,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,100,102,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,102,103,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,67 Av,103,105,8 Avenue Local to 67 Av
+67 Av,63 Dr-Rego Park,105,107,8 Avenue Local to 63 Dr-Rego Park
+63 Dr-Rego Park,Woodhaven Blvd,107,108,8 Avenue Local to Woodhaven Blvd
+Woodhaven Blvd,Grand Av-Newtown,108,110,8 Avenue Local to Grand Av-Newtown
+Grand Av-Newtown,Elmhurst Av,110,111,8 Avenue Local to Elmhurst Av
+Elmhurst Av,Jackson Hts-Roosevelt Av,111,113,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,65 St,113,114,8 Avenue Local to 65 St
+65 St,Northern Blvd,114,116,8 Avenue Local to Northern Blvd
+Northern Blvd,46 St,116,117,8 Avenue Local to 46 St
+46 St,Steinway St,117,119,8 Avenue Local to Steinway St
+Steinway St,36 St,119,121,8 Avenue Local to 36 St
+36 St,Queens Plaza,121,123,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,123,124,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,124,127,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,127,129,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,129,130,8 Avenue Local to 7 Av
+7 Av,50 St,130,132,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,135,137,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,137,138,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,138,139,8 Avenue Local to 23 St
+23 St,14 St,139,141,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,141,143,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,143,144,8 Avenue Local to Spring St
+Spring St,Canal St,144,146,8 Avenue Local to Canal St
+Canal St,World Trade Center,149,151,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,113,115,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,115,117,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,117,119,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,119,120,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,120,122,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,122,123,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,67 Av,123,125,8 Avenue Local to 67 Av
+67 Av,63 Dr-Rego Park,125,127,8 Avenue Local to 63 Dr-Rego Park
+63 Dr-Rego Park,Woodhaven Blvd,127,128,8 Avenue Local to Woodhaven Blvd
+Woodhaven Blvd,Grand Av-Newtown,128,130,8 Avenue Local to Grand Av-Newtown
+Grand Av-Newtown,Elmhurst Av,130,131,8 Avenue Local to Elmhurst Av
+Elmhurst Av,Jackson Hts-Roosevelt Av,131,133,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,65 St,133,134,8 Avenue Local to 65 St
+65 St,Northern Blvd,134,136,8 Avenue Local to Northern Blvd
+Northern Blvd,46 St,136,137,8 Avenue Local to 46 St
+46 St,Steinway St,137,139,8 Avenue Local to Steinway St
+Steinway St,36 St,139,141,8 Avenue Local to 36 St
+36 St,Queens Plaza,141,143,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,143,144,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,144,147,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,147,149,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,149,150,8 Avenue Local to 7 Av
+7 Av,50 St,150,152,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,155,157,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,157,158,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,158,159,8 Avenue Local to 23 St
+23 St,14 St,159,161,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,161,163,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,163,164,8 Avenue Local to Spring St
+Spring St,Canal St,164,166,8 Avenue Local to Canal St
+Canal St,World Trade Center,169,171,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,133,135,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,135,137,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,137,139,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,139,140,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,140,142,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,142,143,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,67 Av,143,145,8 Avenue Local to 67 Av
+67 Av,63 Dr-Rego Park,145,147,8 Avenue Local to 63 Dr-Rego Park
+63 Dr-Rego Park,Woodhaven Blvd,147,148,8 Avenue Local to Woodhaven Blvd
+Woodhaven Blvd,Grand Av-Newtown,148,150,8 Avenue Local to Grand Av-Newtown
+Grand Av-Newtown,Elmhurst Av,150,151,8 Avenue Local to Elmhurst Av
+Elmhurst Av,Jackson Hts-Roosevelt Av,151,153,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,65 St,153,154,8 Avenue Local to 65 St
+65 St,Northern Blvd,154,156,8 Avenue Local to Northern Blvd
+Northern Blvd,46 St,156,157,8 Avenue Local to 46 St
+46 St,Steinway St,157,159,8 Avenue Local to Steinway St
+Steinway St,36 St,159,161,8 Avenue Local to 36 St
+36 St,Queens Plaza,161,163,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,163,164,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,164,167,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,167,169,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,169,170,8 Avenue Local to 7 Av
+7 Av,50 St,170,172,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,175,177,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,177,178,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,178,179,8 Avenue Local to 23 St
+23 St,14 St,179,181,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,181,183,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,183,184,8 Avenue Local to Spring St
+Spring St,Canal St,184,186,8 Avenue Local to Canal St
+Canal St,World Trade Center,189,191,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,153,155,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,155,157,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,157,159,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,159,160,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,160,162,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,162,163,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,67 Av,163,165,8 Avenue Local to 67 Av
+67 Av,63 Dr-Rego Park,165,167,8 Avenue Local to 63 Dr-Rego Park
+63 Dr-Rego Park,Woodhaven Blvd,167,168,8 Avenue Local to Woodhaven Blvd
+Woodhaven Blvd,Grand Av-Newtown,168,170,8 Avenue Local to Grand Av-Newtown
+Grand Av-Newtown,Elmhurst Av,170,171,8 Avenue Local to Elmhurst Av
+Elmhurst Av,Jackson Hts-Roosevelt Av,171,173,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,65 St,173,174,8 Avenue Local to 65 St
+65 St,Northern Blvd,174,176,8 Avenue Local to Northern Blvd
+Northern Blvd,46 St,176,177,8 Avenue Local to 46 St
+46 St,Steinway St,177,179,8 Avenue Local to Steinway St
+Steinway St,36 St,179,181,8 Avenue Local to 36 St
+36 St,Queens Plaza,181,183,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,183,184,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,184,187,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,187,189,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,189,190,8 Avenue Local to 7 Av
+7 Av,50 St,190,192,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,195,197,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,197,198,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,198,199,8 Avenue Local to 23 St
+23 St,14 St,199,201,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,201,203,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,203,204,8 Avenue Local to Spring St
+Spring St,Canal St,204,206,8 Avenue Local to Canal St
+Canal St,World Trade Center,209,211,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,173,175,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,175,177,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,177,179,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,179,180,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,180,182,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,182,183,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,67 Av,183,185,8 Avenue Local to 67 Av
+67 Av,63 Dr-Rego Park,185,187,8 Avenue Local to 63 Dr-Rego Park
+63 Dr-Rego Park,Woodhaven Blvd,187,188,8 Avenue Local to Woodhaven Blvd
+Woodhaven Blvd,Grand Av-Newtown,188,190,8 Avenue Local to Grand Av-Newtown
+Grand Av-Newtown,Elmhurst Av,190,191,8 Avenue Local to Elmhurst Av
+Elmhurst Av,Jackson Hts-Roosevelt Av,191,193,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,65 St,193,194,8 Avenue Local to 65 St
+65 St,Northern Blvd,194,196,8 Avenue Local to Northern Blvd
+Northern Blvd,46 St,196,197,8 Avenue Local to 46 St
+46 St,Steinway St,197,199,8 Avenue Local to Steinway St
+Steinway St,36 St,199,201,8 Avenue Local to 36 St
+36 St,Queens Plaza,201,203,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,203,204,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,204,207,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,207,209,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,209,210,8 Avenue Local to 7 Av
+7 Av,50 St,210,212,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,215,217,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,217,218,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,218,219,8 Avenue Local to 23 St
+23 St,14 St,219,221,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,221,223,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,223,224,8 Avenue Local to Spring St
+Spring St,Canal St,224,226,8 Avenue Local to Canal St
+Canal St,World Trade Center,229,231,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,193,195,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,195,197,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,197,199,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,199,200,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,200,202,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,202,203,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,67 Av,203,205,8 Avenue Local to 67 Av
+67 Av,63 Dr-Rego Park,205,207,8 Avenue Local to 63 Dr-Rego Park
+63 Dr-Rego Park,Woodhaven Blvd,207,208,8 Avenue Local to Woodhaven Blvd
+Woodhaven Blvd,Grand Av-Newtown,208,210,8 Avenue Local to Grand Av-Newtown
+Grand Av-Newtown,Elmhurst Av,210,211,8 Avenue Local to Elmhurst Av
+Elmhurst Av,Jackson Hts-Roosevelt Av,211,213,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,65 St,213,214,8 Avenue Local to 65 St
+65 St,Northern Blvd,214,216,8 Avenue Local to Northern Blvd
+Northern Blvd,46 St,216,217,8 Avenue Local to 46 St
+46 St,Steinway St,217,219,8 Avenue Local to Steinway St
+Steinway St,36 St,219,221,8 Avenue Local to 36 St
+36 St,Queens Plaza,221,223,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,223,224,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,224,227,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,227,229,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,229,230,8 Avenue Local to 7 Av
+7 Av,50 St,230,232,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,235,237,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,237,238,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,238,239,8 Avenue Local to 23 St
+23 St,14 St,239,241,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,241,243,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,243,244,8 Avenue Local to Spring St
+Spring St,Canal St,244,246,8 Avenue Local to Canal St
+Canal St,World Trade Center,249,251,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,213,215,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,215,217,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,217,219,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,219,220,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,220,222,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,222,223,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,67 Av,223,225,8 Avenue Local to 67 Av
+67 Av,63 Dr-Rego Park,225,227,8 Avenue Local to 63 Dr-Rego Park
+63 Dr-Rego Park,Woodhaven Blvd,227,228,8 Avenue Local to Woodhaven Blvd
+Woodhaven Blvd,Grand Av-Newtown,228,230,8 Avenue Local to Grand Av-Newtown
+Grand Av-Newtown,Elmhurst Av,230,231,8 Avenue Local to Elmhurst Av
+Elmhurst Av,Jackson Hts-Roosevelt Av,231,233,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,65 St,233,234,8 Avenue Local to 65 St
+65 St,Northern Blvd,234,236,8 Avenue Local to Northern Blvd
+Northern Blvd,46 St,236,237,8 Avenue Local to 46 St
+46 St,Steinway St,237,239,8 Avenue Local to Steinway St
+Steinway St,36 St,239,241,8 Avenue Local to 36 St
+36 St,Queens Plaza,241,243,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,243,244,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,244,247,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,247,249,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,249,250,8 Avenue Local to 7 Av
+7 Av,50 St,250,252,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,255,257,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,257,258,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,258,259,8 Avenue Local to 23 St
+23 St,14 St,259,261,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,261,263,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,263,264,8 Avenue Local to Spring St
+Spring St,Canal St,264,266,8 Avenue Local to Canal St
+Canal St,World Trade Center,269,271,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,233,235,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,235,237,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,237,239,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,239,240,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,240,242,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,242,243,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,67 Av,243,245,8 Avenue Local to 67 Av
+67 Av,63 Dr-Rego Park,245,247,8 Avenue Local to 63 Dr-Rego Park
+63 Dr-Rego Park,Woodhaven Blvd,247,248,8 Avenue Local to Woodhaven Blvd
+Woodhaven Blvd,Grand Av-Newtown,248,250,8 Avenue Local to Grand Av-Newtown
+Grand Av-Newtown,Elmhurst Av,250,251,8 Avenue Local to Elmhurst Av
+Elmhurst Av,Jackson Hts-Roosevelt Av,251,253,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,65 St,253,254,8 Avenue Local to 65 St
+65 St,Northern Blvd,254,256,8 Avenue Local to Northern Blvd
+Northern Blvd,46 St,256,257,8 Avenue Local to 46 St
+46 St,Steinway St,257,259,8 Avenue Local to Steinway St
+Steinway St,36 St,259,261,8 Avenue Local to 36 St
+36 St,Queens Plaza,261,263,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,263,264,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,264,267,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,267,269,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,269,270,8 Avenue Local to 7 Av
+7 Av,50 St,270,272,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,275,277,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,277,278,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,278,279,8 Avenue Local to 23 St
+23 St,14 St,279,281,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,281,283,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,283,284,8 Avenue Local to Spring St
+Spring St,Canal St,284,286,8 Avenue Local to Canal St
+Canal St,World Trade Center,289,291,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,253,255,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,255,257,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,257,259,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,259,260,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,260,262,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,262,263,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,67 Av,263,265,8 Avenue Local to 67 Av
+67 Av,63 Dr-Rego Park,265,267,8 Avenue Local to 63 Dr-Rego Park
+63 Dr-Rego Park,Woodhaven Blvd,267,268,8 Avenue Local to Woodhaven Blvd
+Woodhaven Blvd,Grand Av-Newtown,268,270,8 Avenue Local to Grand Av-Newtown
+Grand Av-Newtown,Elmhurst Av,270,271,8 Avenue Local to Elmhurst Av
+Elmhurst Av,Jackson Hts-Roosevelt Av,271,273,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,65 St,273,274,8 Avenue Local to 65 St
+65 St,Northern Blvd,274,276,8 Avenue Local to Northern Blvd
+Northern Blvd,46 St,276,277,8 Avenue Local to 46 St
+46 St,Steinway St,277,279,8 Avenue Local to Steinway St
+Steinway St,36 St,279,281,8 Avenue Local to 36 St
+36 St,Queens Plaza,281,283,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,283,284,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,284,287,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,287,289,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,289,290,8 Avenue Local to 7 Av
+7 Av,50 St,290,292,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,295,297,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,297,298,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,298,299,8 Avenue Local to 23 St
+23 St,14 St,299,301,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,301,303,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,303,304,8 Avenue Local to Spring St
+Spring St,Canal St,304,306,8 Avenue Local to Canal St
+Canal St,World Trade Center,309,311,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,273,275,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,275,277,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,277,279,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,279,280,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,280,282,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,282,283,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,67 Av,283,285,8 Avenue Local to 67 Av
+67 Av,63 Dr-Rego Park,285,287,8 Avenue Local to 63 Dr-Rego Park
+63 Dr-Rego Park,Woodhaven Blvd,287,288,8 Avenue Local to Woodhaven Blvd
+Woodhaven Blvd,Grand Av-Newtown,288,290,8 Avenue Local to Grand Av-Newtown
+Grand Av-Newtown,Elmhurst Av,290,291,8 Avenue Local to Elmhurst Av
+Elmhurst Av,Jackson Hts-Roosevelt Av,291,293,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,65 St,293,294,8 Avenue Local to 65 St
+65 St,Northern Blvd,294,296,8 Avenue Local to Northern Blvd
+Northern Blvd,46 St,296,297,8 Avenue Local to 46 St
+46 St,Steinway St,297,299,8 Avenue Local to Steinway St
+Steinway St,36 St,299,301,8 Avenue Local to 36 St
+36 St,Queens Plaza,301,303,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,303,304,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,304,307,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,307,309,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,309,310,8 Avenue Local to 7 Av
+7 Av,50 St,310,312,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,315,317,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,317,318,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,318,319,8 Avenue Local to 23 St
+23 St,14 St,319,321,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,321,323,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,323,324,8 Avenue Local to Spring St
+Spring St,Canal St,324,326,8 Avenue Local to Canal St
+Canal St,World Trade Center,329,331,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,293,295,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,295,297,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,297,299,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,299,300,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,300,302,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,302,303,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,67 Av,303,305,8 Avenue Local to 67 Av
+67 Av,63 Dr-Rego Park,305,307,8 Avenue Local to 63 Dr-Rego Park
+63 Dr-Rego Park,Woodhaven Blvd,307,308,8 Avenue Local to Woodhaven Blvd
+Woodhaven Blvd,Grand Av-Newtown,308,310,8 Avenue Local to Grand Av-Newtown
+Grand Av-Newtown,Elmhurst Av,310,311,8 Avenue Local to Elmhurst Av
+Elmhurst Av,Jackson Hts-Roosevelt Av,311,313,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,65 St,313,314,8 Avenue Local to 65 St
+65 St,Northern Blvd,314,316,8 Avenue Local to Northern Blvd
+Northern Blvd,46 St,316,317,8 Avenue Local to 46 St
+46 St,Steinway St,317,319,8 Avenue Local to Steinway St
+Steinway St,36 St,319,321,8 Avenue Local to 36 St
+36 St,Queens Plaza,321,323,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,323,324,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,324,327,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,327,329,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,329,330,8 Avenue Local to 7 Av
+7 Av,50 St,330,332,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,335,337,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,337,338,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,338,339,8 Avenue Local to 23 St
+23 St,14 St,339,341,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,341,343,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,343,344,8 Avenue Local to Spring St
+Spring St,Canal St,344,346,8 Avenue Local to Canal St
+Canal St,World Trade Center,349,351,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,313,315,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,315,317,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,317,319,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,319,320,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,320,322,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,322,324,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,324,331,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,331,337,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,337,338,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,338,341,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,341,343,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,343,344,8 Avenue Local to 7 Av
+7 Av,50 St,344,346,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,349,351,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,351,352,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,352,353,8 Avenue Local to 23 St
+23 St,14 St,353,355,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,355,357,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,357,358,8 Avenue Local to Spring St
+Spring St,Canal St,358,360,8 Avenue Local to Canal St
+Canal St,World Trade Center,363,365,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,333,335,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,335,337,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,337,339,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,339,340,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,340,342,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,342,344,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,344,351,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,351,357,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,357,358,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,358,361,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,361,363,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,363,364,8 Avenue Local to 7 Av
+7 Av,50 St,364,366,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,369,371,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,371,372,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,372,373,8 Avenue Local to 23 St
+23 St,14 St,373,375,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,375,377,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,377,378,8 Avenue Local to Spring St
+Spring St,Canal St,378,380,8 Avenue Local to Canal St
+Canal St,World Trade Center,383,385,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,353,355,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,355,357,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,357,359,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,359,360,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,360,362,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,362,364,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,364,371,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,371,377,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,377,378,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,378,381,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,381,383,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,383,384,8 Avenue Local to 7 Av
+7 Av,50 St,384,386,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,389,391,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,391,392,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,392,393,8 Avenue Local to 23 St
+23 St,14 St,393,395,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,395,397,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,397,398,8 Avenue Local to Spring St
+Spring St,Canal St,398,400,8 Avenue Local to Canal St
+Canal St,World Trade Center,403,405,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,373,375,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,375,377,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,377,379,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,379,380,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,380,382,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,382,384,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,384,391,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,391,397,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,397,398,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,398,401,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,401,403,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,403,404,8 Avenue Local to 7 Av
+7 Av,50 St,404,406,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,409,411,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,411,412,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,412,413,8 Avenue Local to 23 St
+23 St,14 St,413,415,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,415,417,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,417,418,8 Avenue Local to Spring St
+Spring St,Canal St,418,420,8 Avenue Local to Canal St
+Canal St,World Trade Center,423,425,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,393,395,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,395,397,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,397,399,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,399,400,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,400,402,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,402,404,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,404,411,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,411,417,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,419,420,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,420,423,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,423,425,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,425,427,8 Avenue Local to 7 Av
+7 Av,50 St,427,428,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,431,433,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,433,434,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,434,436,8 Avenue Local to 23 St
+23 St,14 St,436,437,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,437,439,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,439,441,8 Avenue Local to Spring St
+Spring St,Canal St,441,442,8 Avenue Local to Canal St
+Canal St,World Trade Center,443,445,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,413,415,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,415,417,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,417,419,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,419,420,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,420,422,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,422,424,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,424,431,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,431,437,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,437,438,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,438,441,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,441,443,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,443,445,8 Avenue Local to 7 Av
+7 Av,50 St,445,446,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,449,451,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,451,452,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,452,454,8 Avenue Local to 23 St
+23 St,14 St,454,455,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,455,457,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,457,459,8 Avenue Local to Spring St
+Spring St,Canal St,459,460,8 Avenue Local to Canal St
+Canal St,World Trade Center,463,465,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,433,435,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,435,437,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,437,439,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,439,440,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,440,442,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,442,444,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,444,451,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,451,457,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,457,458,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,458,461,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,461,463,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,463,465,8 Avenue Local to 7 Av
+7 Av,50 St,465,466,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,469,471,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,471,472,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,472,474,8 Avenue Local to 23 St
+23 St,14 St,474,475,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,475,477,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,477,479,8 Avenue Local to Spring St
+Spring St,Canal St,479,480,8 Avenue Local to Canal St
+Canal St,World Trade Center,483,485,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,450,452,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,452,454,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,454,456,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,456,457,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,457,459,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,459,461,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,461,468,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,468,474,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,474,475,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,475,478,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,478,480,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,480,482,8 Avenue Local to 7 Av
+7 Av,50 St,482,483,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,484,486,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,486,487,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,487,489,8 Avenue Local to 23 St
+23 St,14 St,489,490,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,490,492,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,492,494,8 Avenue Local to Spring St
+Spring St,Canal St,494,495,8 Avenue Local to Canal St
+Canal St,World Trade Center,495,497,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,464,466,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,466,468,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,468,470,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,470,471,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,471,473,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,473,475,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,475,482,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,482,488,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,488,489,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,489,492,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,492,494,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,494,496,8 Avenue Local to 7 Av
+7 Av,50 St,496,497,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,500,502,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,502,503,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,503,505,8 Avenue Local to 23 St
+23 St,14 St,505,506,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,506,508,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,508,510,8 Avenue Local to Spring St
+Spring St,Canal St,510,511,8 Avenue Local to Canal St
+Canal St,World Trade Center,511,513,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,476,478,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,478,480,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,480,482,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,482,483,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,483,485,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,485,487,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,487,494,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,494,500,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,500,501,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,501,504,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,504,506,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,506,508,8 Avenue Local to 7 Av
+7 Av,50 St,508,509,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,512,514,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,514,515,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,515,517,8 Avenue Local to 23 St
+23 St,14 St,517,518,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,518,520,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,520,522,8 Avenue Local to Spring St
+Spring St,Canal St,522,523,8 Avenue Local to Canal St
+Canal St,World Trade Center,523,525,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,488,490,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,490,492,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,492,494,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,494,495,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,495,497,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,497,499,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,499,506,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,506,512,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,512,513,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,513,516,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,516,518,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,518,520,8 Avenue Local to 7 Av
+7 Av,50 St,520,521,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,524,526,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,526,527,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,527,529,8 Avenue Local to 23 St
+23 St,14 St,529,530,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,530,532,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,532,534,8 Avenue Local to Spring St
+Spring St,Canal St,534,535,8 Avenue Local to Canal St
+Canal St,World Trade Center,535,537,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,501,503,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,503,505,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,505,507,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,507,508,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,508,510,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,510,512,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,512,519,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,519,525,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,525,526,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,526,529,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,529,531,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,531,533,8 Avenue Local to 7 Av
+7 Av,50 St,533,534,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,537,539,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,539,540,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,540,542,8 Avenue Local to 23 St
+23 St,14 St,542,543,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,543,545,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,545,547,8 Avenue Local to Spring St
+Spring St,Canal St,547,548,8 Avenue Local to Canal St
+Canal St,World Trade Center,548,550,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,512,514,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,514,516,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,516,518,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,518,519,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,519,521,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,521,523,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,523,530,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,530,536,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,536,537,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,537,540,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,540,542,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,542,544,8 Avenue Local to 7 Av
+7 Av,50 St,544,545,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,548,550,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,550,551,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,551,553,8 Avenue Local to 23 St
+23 St,14 St,553,554,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,554,556,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,556,558,8 Avenue Local to Spring St
+Spring St,Canal St,558,559,8 Avenue Local to Canal St
+Canal St,World Trade Center,559,561,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,524,526,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,526,528,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,528,530,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,530,531,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,531,533,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,533,535,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,535,542,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,542,548,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,548,549,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,549,552,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,552,554,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,554,556,8 Avenue Local to 7 Av
+7 Av,50 St,556,557,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,560,562,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,562,563,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,563,565,8 Avenue Local to 23 St
+23 St,14 St,565,566,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,566,568,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,568,570,8 Avenue Local to Spring St
+Spring St,Canal St,570,571,8 Avenue Local to Canal St
+Canal St,World Trade Center,571,573,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,536,538,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,538,540,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,540,542,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,542,543,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,543,545,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,545,547,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,547,554,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,554,560,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,560,561,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,561,564,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,564,566,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,566,568,8 Avenue Local to 7 Av
+7 Av,50 St,568,569,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,572,574,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,574,575,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,575,577,8 Avenue Local to 23 St
+23 St,14 St,577,578,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,578,580,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,580,582,8 Avenue Local to Spring St
+Spring St,Canal St,582,583,8 Avenue Local to Canal St
+Canal St,World Trade Center,583,585,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,548,550,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,550,552,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,552,554,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,554,556,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,556,557,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,557,559,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,559,566,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,566,572,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,572,574,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,574,577,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,577,578,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,578,580,8 Avenue Local to 7 Av
+7 Av,50 St,580,582,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,585,587,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,587,588,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,588,589,8 Avenue Local to 23 St
+23 St,14 St,589,591,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,591,593,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,593,594,8 Avenue Local to Spring St
+Spring St,Canal St,594,596,8 Avenue Local to Canal St
+Canal St,World Trade Center,596,598,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,560,562,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,562,564,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,564,566,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,566,568,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,568,569,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,569,571,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,571,578,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,578,584,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,584,586,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,586,589,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,589,590,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,590,592,8 Avenue Local to 7 Av
+7 Av,50 St,592,594,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,597,599,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,599,600,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,600,601,8 Avenue Local to 23 St
+23 St,14 St,601,603,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,603,605,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,605,606,8 Avenue Local to Spring St
+Spring St,Canal St,606,608,8 Avenue Local to Canal St
+Canal St,World Trade Center,608,610,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,572,574,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,574,576,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,576,578,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,578,580,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,580,581,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,581,583,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,583,590,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,590,596,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,596,598,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,598,601,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,601,602,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,602,604,8 Avenue Local to 7 Av
+7 Av,50 St,604,606,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,609,611,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,611,612,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,612,613,8 Avenue Local to 23 St
+23 St,14 St,613,615,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,615,617,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,617,618,8 Avenue Local to Spring St
+Spring St,Canal St,618,620,8 Avenue Local to Canal St
+Canal St,World Trade Center,620,622,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,584,586,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,586,588,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,588,590,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,590,592,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,592,593,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,593,595,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,595,602,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,602,608,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,608,610,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,610,613,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,613,614,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,614,616,8 Avenue Local to 7 Av
+7 Av,50 St,616,618,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,621,623,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,623,624,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,624,625,8 Avenue Local to 23 St
+23 St,14 St,625,627,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,627,629,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,629,630,8 Avenue Local to Spring St
+Spring St,Canal St,630,632,8 Avenue Local to Canal St
+Canal St,World Trade Center,632,634,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,596,598,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,598,600,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,600,602,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,602,604,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,604,605,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,605,607,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,607,614,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,614,620,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,620,622,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,622,625,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,625,626,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,626,628,8 Avenue Local to 7 Av
+7 Av,50 St,628,630,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,633,635,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,635,636,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,636,637,8 Avenue Local to 23 St
+23 St,14 St,637,639,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,639,641,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,641,642,8 Avenue Local to Spring St
+Spring St,Canal St,642,644,8 Avenue Local to Canal St
+Canal St,World Trade Center,644,646,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,608,610,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,610,612,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,612,614,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,614,616,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,616,617,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,617,619,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,619,626,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,626,632,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,632,634,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,634,637,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,637,638,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,638,640,8 Avenue Local to 7 Av
+7 Av,50 St,640,642,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,645,647,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,647,648,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,648,649,8 Avenue Local to 23 St
+23 St,14 St,649,651,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,651,653,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,653,654,8 Avenue Local to Spring St
+Spring St,Canal St,654,656,8 Avenue Local to Canal St
+Canal St,World Trade Center,656,658,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,619,621,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,621,623,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,623,625,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,625,627,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,627,628,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,628,630,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,630,637,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,637,643,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,643,645,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,645,648,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,648,649,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,649,651,8 Avenue Local to 7 Av
+7 Av,50 St,651,653,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,656,658,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,658,659,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,659,660,8 Avenue Local to 23 St
+23 St,14 St,660,662,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,662,664,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,664,665,8 Avenue Local to Spring St
+Spring St,Canal St,665,667,8 Avenue Local to Canal St
+Canal St,World Trade Center,667,669,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,631,632,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,632,635,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,635,636,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,636,638,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,638,640,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,640,642,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,642,649,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,649,655,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,655,656,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,656,659,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,659,661,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,661,663,8 Avenue Local to 7 Av
+7 Av,50 St,663,664,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,667,669,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,669,670,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,670,672,8 Avenue Local to 23 St
+23 St,14 St,672,673,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,673,675,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,675,677,8 Avenue Local to Spring St
+Spring St,Canal St,677,678,8 Avenue Local to Canal St
+Canal St,World Trade Center,678,680,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,643,644,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,644,647,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,647,648,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,648,650,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,650,652,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,652,654,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,654,661,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,661,667,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,669,670,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,670,673,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,673,675,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,675,677,8 Avenue Local to 7 Av
+7 Av,50 St,677,678,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,681,683,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,683,684,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,684,686,8 Avenue Local to 23 St
+23 St,14 St,686,687,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,687,689,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,689,691,8 Avenue Local to Spring St
+Spring St,Canal St,691,692,8 Avenue Local to Canal St
+Canal St,World Trade Center,692,694,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,655,656,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,656,659,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,659,660,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,660,662,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,662,664,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,664,666,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,666,673,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,673,679,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,679,680,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,680,683,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,683,685,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,685,687,8 Avenue Local to 7 Av
+7 Av,50 St,687,688,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,691,693,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,693,694,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,694,696,8 Avenue Local to 23 St
+23 St,14 St,696,697,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,697,699,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,699,701,8 Avenue Local to Spring St
+Spring St,Canal St,701,702,8 Avenue Local to Canal St
+Canal St,World Trade Center,702,704,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,667,668,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,668,671,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,671,672,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,672,674,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,674,676,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,676,678,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,678,685,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,685,691,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,691,692,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,692,695,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,695,697,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,697,699,8 Avenue Local to 7 Av
+7 Av,50 St,699,700,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,703,705,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,705,706,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,706,708,8 Avenue Local to 23 St
+23 St,14 St,708,709,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,709,711,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,711,713,8 Avenue Local to Spring St
+Spring St,Canal St,713,714,8 Avenue Local to Canal St
+Canal St,World Trade Center,714,716,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,679,680,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,680,683,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,683,684,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,684,686,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,686,688,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,688,690,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,690,697,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,697,703,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,703,704,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,704,707,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,707,709,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,709,711,8 Avenue Local to 7 Av
+7 Av,50 St,711,712,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,715,717,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,717,718,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,718,720,8 Avenue Local to 23 St
+23 St,14 St,720,721,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,721,723,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,723,725,8 Avenue Local to Spring St
+Spring St,Canal St,725,726,8 Avenue Local to Canal St
+Canal St,World Trade Center,726,728,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,691,692,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,692,695,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,695,696,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,696,698,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,698,700,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,700,702,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,702,709,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,709,715,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,715,716,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,716,719,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,719,721,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,721,723,8 Avenue Local to 7 Av
+7 Av,50 St,723,724,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,727,729,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,729,730,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,730,732,8 Avenue Local to 23 St
+23 St,14 St,732,733,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,733,735,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,735,737,8 Avenue Local to Spring St
+Spring St,Canal St,737,738,8 Avenue Local to Canal St
+Canal St,World Trade Center,738,740,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,703,704,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,704,707,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,707,708,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,708,710,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,710,712,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,712,714,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,714,721,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,721,727,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,729,730,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,730,733,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,733,735,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,735,737,8 Avenue Local to 7 Av
+7 Av,50 St,737,738,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,741,743,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,743,744,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,744,746,8 Avenue Local to 23 St
+23 St,14 St,746,747,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,747,749,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,749,751,8 Avenue Local to Spring St
+Spring St,Canal St,751,752,8 Avenue Local to Canal St
+Canal St,World Trade Center,752,754,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,715,716,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,716,719,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,719,720,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,720,722,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,722,724,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,724,726,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,726,733,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,733,739,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,739,740,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,740,743,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,743,745,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,745,747,8 Avenue Local to 7 Av
+7 Av,50 St,747,748,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,751,753,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,753,754,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,754,756,8 Avenue Local to 23 St
+23 St,14 St,756,757,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,757,759,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,759,761,8 Avenue Local to Spring St
+Spring St,Canal St,761,762,8 Avenue Local to Canal St
+Canal St,World Trade Center,762,764,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,727,728,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,728,731,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,731,732,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,732,734,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,734,736,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,736,738,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,738,745,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,745,751,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,751,752,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,752,755,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,755,757,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,757,759,8 Avenue Local to 7 Av
+7 Av,50 St,759,760,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,763,765,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,765,766,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,766,768,8 Avenue Local to 23 St
+23 St,14 St,768,769,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,769,771,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,771,773,8 Avenue Local to Spring St
+Spring St,Canal St,773,774,8 Avenue Local to Canal St
+Canal St,World Trade Center,774,776,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,739,740,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,740,743,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,743,744,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,744,746,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,746,748,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,748,750,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,750,757,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,757,763,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,763,764,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,764,767,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,767,769,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,769,771,8 Avenue Local to 7 Av
+7 Av,50 St,771,772,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,775,777,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,777,778,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,778,780,8 Avenue Local to 23 St
+23 St,14 St,780,781,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,781,783,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,783,785,8 Avenue Local to Spring St
+Spring St,Canal St,785,786,8 Avenue Local to Canal St
+Canal St,World Trade Center,786,788,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,751,752,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,752,755,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,755,756,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,756,758,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,758,760,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,760,762,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,762,769,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,769,775,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,775,776,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,776,779,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,779,781,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,781,783,8 Avenue Local to 7 Av
+7 Av,50 St,783,784,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,787,789,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,789,790,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,790,792,8 Avenue Local to 23 St
+23 St,14 St,792,793,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,793,795,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,795,797,8 Avenue Local to Spring St
+Spring St,Canal St,797,798,8 Avenue Local to Canal St
+Canal St,World Trade Center,798,800,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,763,764,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,764,767,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,767,768,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,768,770,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,770,772,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,772,774,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,774,781,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,781,787,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,789,790,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,790,793,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,793,795,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,795,797,8 Avenue Local to 7 Av
+7 Av,50 St,797,798,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,801,803,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,803,804,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,804,806,8 Avenue Local to 23 St
+23 St,14 St,806,807,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,807,809,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,809,811,8 Avenue Local to Spring St
+Spring St,Canal St,811,812,8 Avenue Local to Canal St
+Canal St,World Trade Center,812,814,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,775,776,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,776,779,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,779,780,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,780,782,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,782,784,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,784,786,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,786,793,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,793,799,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,799,800,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,800,803,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,803,805,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,805,807,8 Avenue Local to 7 Av
+7 Av,50 St,807,808,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,811,813,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,813,814,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,814,816,8 Avenue Local to 23 St
+23 St,14 St,816,817,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,817,819,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,819,821,8 Avenue Local to Spring St
+Spring St,Canal St,821,822,8 Avenue Local to Canal St
+Canal St,World Trade Center,822,824,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,787,788,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,788,791,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,791,792,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,792,794,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,794,796,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,796,798,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,798,805,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,805,811,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,811,812,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,812,815,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,815,817,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,817,819,8 Avenue Local to 7 Av
+7 Av,50 St,819,820,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,823,825,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,825,826,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,826,828,8 Avenue Local to 23 St
+23 St,14 St,828,829,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,829,831,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,831,833,8 Avenue Local to Spring St
+Spring St,Canal St,833,834,8 Avenue Local to Canal St
+Canal St,World Trade Center,834,836,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,799,800,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,800,803,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,803,804,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,804,806,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,806,808,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,808,810,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,810,817,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,817,823,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,823,824,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,824,827,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,827,829,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,829,831,8 Avenue Local to 7 Av
+7 Av,50 St,831,832,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,835,837,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,837,838,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,838,840,8 Avenue Local to 23 St
+23 St,14 St,840,841,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,841,843,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,843,845,8 Avenue Local to Spring St
+Spring St,Canal St,845,846,8 Avenue Local to Canal St
+Canal St,World Trade Center,846,848,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,811,812,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,812,815,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,815,816,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,816,818,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,818,820,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,820,822,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,822,829,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,829,835,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,835,836,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,836,839,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,839,841,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,841,843,8 Avenue Local to 7 Av
+7 Av,50 St,843,844,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,847,849,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,849,850,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,850,852,8 Avenue Local to 23 St
+23 St,14 St,852,853,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,853,855,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,855,857,8 Avenue Local to Spring St
+Spring St,Canal St,857,858,8 Avenue Local to Canal St
+Canal St,World Trade Center,858,860,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,823,824,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,824,827,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,827,828,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,828,830,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,830,832,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,832,834,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,834,841,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,841,847,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,849,850,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,850,853,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,853,855,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,855,857,8 Avenue Local to 7 Av
+7 Av,50 St,857,858,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,861,863,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,863,864,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,864,866,8 Avenue Local to 23 St
+23 St,14 St,866,867,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,867,869,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,869,871,8 Avenue Local to Spring St
+Spring St,Canal St,871,872,8 Avenue Local to Canal St
+Canal St,World Trade Center,872,874,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,835,836,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,836,839,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,839,840,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,840,842,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,842,844,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,844,846,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,846,853,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,853,859,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,859,860,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,860,863,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,863,865,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,865,867,8 Avenue Local to 7 Av
+7 Av,50 St,867,868,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,871,873,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,873,874,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,874,876,8 Avenue Local to 23 St
+23 St,14 St,876,877,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,877,879,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,879,881,8 Avenue Local to Spring St
+Spring St,Canal St,881,882,8 Avenue Local to Canal St
+Canal St,World Trade Center,882,884,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,847,848,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,848,851,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,851,852,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,852,854,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,854,856,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,856,858,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,858,865,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,865,871,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,871,872,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,872,875,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,875,877,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,877,879,8 Avenue Local to 7 Av
+7 Av,50 St,879,880,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,883,885,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,885,886,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,886,888,8 Avenue Local to 23 St
+23 St,14 St,888,889,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,889,891,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,891,893,8 Avenue Local to Spring St
+Spring St,Canal St,893,894,8 Avenue Local to Canal St
+Canal St,World Trade Center,894,896,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,859,860,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,860,863,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,863,864,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,864,866,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,866,868,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,868,870,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,870,877,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,877,883,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,883,884,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,884,887,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,887,889,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,889,891,8 Avenue Local to 7 Av
+7 Av,50 St,891,892,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,895,897,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,897,898,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,898,900,8 Avenue Local to 23 St
+23 St,14 St,900,901,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,901,903,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,903,905,8 Avenue Local to Spring St
+Spring St,Canal St,905,906,8 Avenue Local to Canal St
+Canal St,World Trade Center,906,908,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,871,872,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,872,875,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,875,876,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,876,878,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,878,880,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,880,882,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,882,889,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,889,895,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,895,896,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,896,899,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,899,901,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,901,903,8 Avenue Local to 7 Av
+7 Av,50 St,903,904,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,907,909,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,909,910,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,910,912,8 Avenue Local to 23 St
+23 St,14 St,912,913,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,913,915,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,915,917,8 Avenue Local to Spring St
+Spring St,Canal St,917,918,8 Avenue Local to Canal St
+Canal St,World Trade Center,918,920,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,883,884,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,884,887,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,887,888,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,888,890,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,890,892,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,892,894,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,894,901,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,901,907,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,909,910,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,910,913,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,913,915,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,915,917,8 Avenue Local to 7 Av
+7 Av,50 St,917,918,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,921,923,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,923,924,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,924,926,8 Avenue Local to 23 St
+23 St,14 St,926,927,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,927,929,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,929,931,8 Avenue Local to Spring St
+Spring St,Canal St,931,932,8 Avenue Local to Canal St
+Canal St,World Trade Center,932,934,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,895,896,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,896,899,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,899,900,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,900,902,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,902,904,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,904,906,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,906,913,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,913,919,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,919,920,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,920,923,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,923,925,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,925,927,8 Avenue Local to 7 Av
+7 Av,50 St,927,928,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,931,933,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,933,934,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,934,936,8 Avenue Local to 23 St
+23 St,14 St,936,937,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,937,939,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,939,941,8 Avenue Local to Spring St
+Spring St,Canal St,941,942,8 Avenue Local to Canal St
+Canal St,World Trade Center,942,944,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,907,908,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,908,911,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,911,912,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,912,914,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,914,916,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,916,918,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,918,925,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,925,931,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,931,932,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,932,935,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,935,937,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,937,939,8 Avenue Local to 7 Av
+7 Av,50 St,939,940,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,943,945,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,945,946,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,946,948,8 Avenue Local to 23 St
+23 St,14 St,948,949,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,949,951,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,951,953,8 Avenue Local to Spring St
+Spring St,Canal St,953,954,8 Avenue Local to Canal St
+Canal St,World Trade Center,954,956,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,919,920,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,920,923,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,923,924,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,924,926,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,926,928,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,928,930,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,930,937,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,937,943,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,943,944,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,944,947,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,947,949,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,949,951,8 Avenue Local to 7 Av
+7 Av,50 St,951,952,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,955,957,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,957,958,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,958,960,8 Avenue Local to 23 St
+23 St,14 St,960,961,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,961,963,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,963,965,8 Avenue Local to Spring St
+Spring St,Canal St,965,966,8 Avenue Local to Canal St
+Canal St,World Trade Center,966,968,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,931,932,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,932,935,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,935,936,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,936,938,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,938,940,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,940,942,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,942,949,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,949,955,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,955,956,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,956,959,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,959,961,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,961,963,8 Avenue Local to 7 Av
+7 Av,50 St,963,964,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,967,969,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,969,970,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,970,972,8 Avenue Local to 23 St
+23 St,14 St,972,973,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,973,975,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,975,977,8 Avenue Local to Spring St
+Spring St,Canal St,977,978,8 Avenue Local to Canal St
+Canal St,World Trade Center,978,980,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,943,944,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,944,947,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,947,948,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,948,950,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,950,952,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,952,954,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,954,961,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,961,967,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,969,970,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,970,973,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,973,975,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,975,977,8 Avenue Local to 7 Av
+7 Av,50 St,977,978,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,981,983,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,983,984,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,984,986,8 Avenue Local to 23 St
+23 St,14 St,986,987,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,987,989,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,989,991,8 Avenue Local to Spring St
+Spring St,Canal St,991,992,8 Avenue Local to Canal St
+Canal St,World Trade Center,992,994,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,955,956,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,956,959,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,959,960,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,960,962,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,962,964,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,964,966,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,966,973,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,973,979,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,979,980,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,980,983,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,983,985,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,985,987,8 Avenue Local to 7 Av
+7 Av,50 St,987,988,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,991,993,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,993,994,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,994,996,8 Avenue Local to 23 St
+23 St,14 St,996,997,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,997,999,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,999,1001,8 Avenue Local to Spring St
+Spring St,Canal St,1001,1002,8 Avenue Local to Canal St
+Canal St,World Trade Center,1002,1004,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,967,968,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,968,971,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,971,972,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,972,974,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,974,976,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,976,978,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,978,985,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,985,991,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,991,992,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,992,995,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,995,997,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,997,999,8 Avenue Local to 7 Av
+7 Av,50 St,999,1000,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1003,1005,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1005,1006,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1006,1008,8 Avenue Local to 23 St
+23 St,14 St,1008,1009,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1009,1011,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1011,1013,8 Avenue Local to Spring St
+Spring St,Canal St,1013,1014,8 Avenue Local to Canal St
+Canal St,World Trade Center,1014,1016,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,979,980,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,980,983,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,983,984,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,984,986,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,986,988,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,988,990,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,990,997,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,997,1003,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1003,1004,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1004,1007,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1007,1009,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1009,1011,8 Avenue Local to 7 Av
+7 Av,50 St,1011,1012,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1015,1017,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1017,1018,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1018,1020,8 Avenue Local to 23 St
+23 St,14 St,1020,1021,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1021,1023,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1023,1025,8 Avenue Local to Spring St
+Spring St,Canal St,1025,1026,8 Avenue Local to Canal St
+Canal St,World Trade Center,1026,1028,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,991,992,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,992,995,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,995,996,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,996,998,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,998,1000,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1000,1002,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,1002,1009,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,1009,1015,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1015,1016,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1016,1019,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1019,1021,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1021,1023,8 Avenue Local to 7 Av
+7 Av,50 St,1023,1024,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1027,1029,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1029,1030,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1030,1032,8 Avenue Local to 23 St
+23 St,14 St,1032,1033,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1033,1035,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1035,1037,8 Avenue Local to Spring St
+Spring St,Canal St,1037,1038,8 Avenue Local to Canal St
+Canal St,World Trade Center,1038,1040,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1003,1004,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1004,1007,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1007,1008,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1008,1010,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1010,1012,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1012,1014,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,1014,1021,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,1021,1027,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1029,1030,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1030,1033,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1033,1035,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1035,1037,8 Avenue Local to 7 Av
+7 Av,50 St,1037,1038,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1041,1043,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1043,1044,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1044,1046,8 Avenue Local to 23 St
+23 St,14 St,1046,1047,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1047,1049,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1049,1051,8 Avenue Local to Spring St
+Spring St,Canal St,1051,1052,8 Avenue Local to Canal St
+Canal St,World Trade Center,1052,1054,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1015,1017,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1017,1019,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1019,1021,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1021,1023,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1023,1024,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1024,1026,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,1026,1033,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,1033,1039,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1039,1041,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1041,1044,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1044,1045,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1045,1047,8 Avenue Local to 7 Av
+7 Av,50 St,1047,1049,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1052,1054,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1054,1055,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1055,1056,8 Avenue Local to 23 St
+23 St,14 St,1056,1058,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1058,1060,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1060,1061,8 Avenue Local to Spring St
+Spring St,Canal St,1061,1063,8 Avenue Local to Canal St
+Canal St,World Trade Center,1063,1065,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1028,1030,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1030,1032,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1032,1034,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1034,1036,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1036,1037,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1037,1039,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,1039,1046,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,1046,1052,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1052,1054,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1054,1057,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1057,1058,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1058,1060,8 Avenue Local to 7 Av
+7 Av,50 St,1060,1062,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1065,1067,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1067,1068,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1068,1069,8 Avenue Local to 23 St
+23 St,14 St,1069,1071,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1071,1073,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1073,1074,8 Avenue Local to Spring St
+Spring St,Canal St,1074,1076,8 Avenue Local to Canal St
+Canal St,World Trade Center,1076,1078,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1040,1042,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1042,1044,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1044,1046,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1046,1048,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1048,1049,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1049,1051,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,1051,1058,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,1058,1064,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1064,1066,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1066,1069,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1069,1070,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1070,1072,8 Avenue Local to 7 Av
+7 Av,50 St,1072,1074,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1077,1079,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1079,1080,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1080,1081,8 Avenue Local to 23 St
+23 St,14 St,1081,1083,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1083,1085,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1085,1086,8 Avenue Local to Spring St
+Spring St,Canal St,1086,1088,8 Avenue Local to Canal St
+Canal St,World Trade Center,1088,1090,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1052,1054,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1054,1056,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1056,1058,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1058,1060,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1060,1061,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1061,1063,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,1063,1070,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,1070,1076,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1076,1078,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1078,1081,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1081,1082,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1082,1084,8 Avenue Local to 7 Av
+7 Av,50 St,1084,1086,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1089,1091,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1091,1092,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1092,1093,8 Avenue Local to 23 St
+23 St,14 St,1093,1095,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1095,1097,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1097,1098,8 Avenue Local to Spring St
+Spring St,Canal St,1098,1100,8 Avenue Local to Canal St
+Canal St,World Trade Center,1100,1102,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1064,1066,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1066,1068,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1068,1070,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1070,1072,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1072,1073,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1073,1075,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,1075,1082,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,1082,1088,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1088,1090,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1090,1093,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1093,1094,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1094,1096,8 Avenue Local to 7 Av
+7 Av,50 St,1096,1098,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1101,1103,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1103,1104,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1104,1105,8 Avenue Local to 23 St
+23 St,14 St,1105,1107,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1107,1109,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1109,1110,8 Avenue Local to Spring St
+Spring St,Canal St,1110,1112,8 Avenue Local to Canal St
+Canal St,World Trade Center,1112,1114,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1076,1078,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1078,1080,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1080,1082,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1082,1084,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1084,1085,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1085,1087,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,1087,1094,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,1094,1100,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1100,1102,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1102,1105,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1105,1106,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1106,1108,8 Avenue Local to 7 Av
+7 Av,50 St,1108,1110,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1113,1115,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1115,1116,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1116,1117,8 Avenue Local to 23 St
+23 St,14 St,1117,1119,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1119,1121,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1121,1122,8 Avenue Local to Spring St
+Spring St,Canal St,1122,1124,8 Avenue Local to Canal St
+Canal St,World Trade Center,1124,1126,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1088,1090,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1090,1092,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1092,1094,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1094,1096,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1096,1097,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1097,1099,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,1099,1106,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,1106,1112,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1112,1114,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1114,1117,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1117,1118,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1118,1120,8 Avenue Local to 7 Av
+7 Av,50 St,1120,1122,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1125,1127,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1127,1128,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1128,1129,8 Avenue Local to 23 St
+23 St,14 St,1129,1131,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1131,1133,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1133,1134,8 Avenue Local to Spring St
+Spring St,Canal St,1134,1136,8 Avenue Local to Canal St
+Canal St,World Trade Center,1136,1138,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1100,1102,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1102,1104,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1104,1106,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1106,1108,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1108,1109,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1109,1111,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,1111,1118,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,1118,1124,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1124,1126,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1126,1129,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1129,1130,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1130,1132,8 Avenue Local to 7 Av
+7 Av,50 St,1132,1134,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1137,1139,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1139,1140,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1140,1141,8 Avenue Local to 23 St
+23 St,14 St,1141,1143,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1143,1145,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1145,1146,8 Avenue Local to Spring St
+Spring St,Canal St,1146,1148,8 Avenue Local to Canal St
+Canal St,World Trade Center,1148,1150,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1112,1114,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1114,1116,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1116,1118,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1118,1120,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1120,1121,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1121,1123,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,1123,1130,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,1130,1136,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1136,1138,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1138,1141,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1141,1142,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1142,1144,8 Avenue Local to 7 Av
+7 Av,50 St,1144,1146,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1149,1151,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1151,1152,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1152,1153,8 Avenue Local to 23 St
+23 St,14 St,1153,1155,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1155,1157,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1157,1158,8 Avenue Local to Spring St
+Spring St,Canal St,1158,1160,8 Avenue Local to Canal St
+Canal St,World Trade Center,1160,1162,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1124,1126,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1126,1128,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1128,1130,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1130,1132,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1132,1133,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1133,1135,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,1135,1142,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,1142,1148,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1148,1150,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1150,1153,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1153,1154,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1154,1156,8 Avenue Local to 7 Av
+7 Av,50 St,1156,1157,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1160,1162,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1162,1163,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1163,1165,8 Avenue Local to 23 St
+23 St,14 St,1165,1166,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1166,1168,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1168,1170,8 Avenue Local to Spring St
+Spring St,Canal St,1170,1171,8 Avenue Local to Canal St
+Canal St,World Trade Center,1171,1173,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1136,1138,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1138,1140,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1140,1142,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1142,1144,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1144,1145,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1145,1147,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,1147,1154,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,1154,1160,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1160,1162,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1162,1165,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1165,1166,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1166,1168,8 Avenue Local to 7 Av
+7 Av,50 St,1168,1169,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1172,1174,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1174,1175,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1175,1177,8 Avenue Local to 23 St
+23 St,14 St,1177,1178,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1178,1180,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1180,1182,8 Avenue Local to Spring St
+Spring St,Canal St,1182,1183,8 Avenue Local to Canal St
+Canal St,World Trade Center,1183,1185,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1148,1150,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1150,1152,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1152,1154,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1154,1156,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1156,1157,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1157,1159,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,1159,1166,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,1166,1172,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1172,1174,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1174,1177,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1177,1178,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1178,1180,8 Avenue Local to 7 Av
+7 Av,50 St,1180,1181,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1184,1186,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1186,1187,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1187,1189,8 Avenue Local to 23 St
+23 St,14 St,1189,1190,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1190,1192,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1192,1194,8 Avenue Local to Spring St
+Spring St,Canal St,1194,1195,8 Avenue Local to Canal St
+Canal St,World Trade Center,1195,1197,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1160,1162,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1162,1164,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1164,1166,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1166,1168,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1168,1169,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1169,1171,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,1171,1178,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,1178,1184,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1184,1186,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1186,1189,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1189,1190,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1190,1192,8 Avenue Local to 7 Av
+7 Av,50 St,1192,1193,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1196,1198,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1198,1199,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1199,1201,8 Avenue Local to 23 St
+23 St,14 St,1201,1202,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1202,1204,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1204,1206,8 Avenue Local to Spring St
+Spring St,Canal St,1206,1207,8 Avenue Local to Canal St
+Canal St,World Trade Center,1207,1209,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1172,1174,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1174,1176,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1176,1178,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1178,1180,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1180,1181,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1181,1183,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,1183,1190,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,1190,1196,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1196,1198,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1198,1201,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1201,1202,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1202,1204,8 Avenue Local to 7 Av
+7 Av,50 St,1204,1205,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1208,1210,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1210,1211,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1211,1213,8 Avenue Local to 23 St
+23 St,14 St,1213,1214,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1214,1216,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1216,1218,8 Avenue Local to Spring St
+Spring St,Canal St,1218,1219,8 Avenue Local to Canal St
+Canal St,World Trade Center,1219,1221,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1185,1186,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1186,1189,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1189,1190,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1190,1192,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1192,1194,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1194,1196,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,1196,1203,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,1203,1209,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1209,1210,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1210,1213,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1213,1215,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1215,1216,8 Avenue Local to 7 Av
+7 Av,50 St,1216,1218,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1221,1223,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1223,1224,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1224,1225,8 Avenue Local to 23 St
+23 St,14 St,1225,1227,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1227,1229,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1229,1230,8 Avenue Local to Spring St
+Spring St,Canal St,1230,1232,8 Avenue Local to Canal St
+Canal St,World Trade Center,1232,1234,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1196,1197,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1197,1200,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1200,1201,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1201,1203,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1203,1205,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1205,1207,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,1207,1214,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,1214,1220,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1220,1221,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1221,1224,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1224,1226,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1226,1227,8 Avenue Local to 7 Av
+7 Av,50 St,1227,1229,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1232,1234,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1234,1235,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1235,1236,8 Avenue Local to 23 St
+23 St,14 St,1236,1238,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1238,1240,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1240,1241,8 Avenue Local to Spring St
+Spring St,Canal St,1241,1243,8 Avenue Local to Canal St
+Canal St,World Trade Center,1243,1245,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1208,1209,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1209,1212,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1212,1213,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1213,1215,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1215,1217,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1217,1219,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,1219,1226,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,1226,1232,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1232,1233,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1233,1236,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1236,1238,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1238,1239,8 Avenue Local to 7 Av
+7 Av,50 St,1239,1241,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1244,1246,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1246,1247,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1247,1248,8 Avenue Local to 23 St
+23 St,14 St,1248,1250,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1250,1252,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1252,1253,8 Avenue Local to Spring St
+Spring St,Canal St,1253,1255,8 Avenue Local to Canal St
+Canal St,World Trade Center,1255,1257,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1220,1221,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1221,1224,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1224,1225,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1225,1227,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1227,1229,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1229,1231,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,1231,1238,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,1238,1244,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1244,1245,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1245,1248,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1248,1250,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1250,1251,8 Avenue Local to 7 Av
+7 Av,50 St,1251,1253,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1256,1258,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1258,1259,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1259,1260,8 Avenue Local to 23 St
+23 St,14 St,1260,1262,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1262,1264,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1264,1265,8 Avenue Local to Spring St
+Spring St,Canal St,1265,1267,8 Avenue Local to Canal St
+Canal St,World Trade Center,1267,1269,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1232,1233,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1233,1236,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1236,1237,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1237,1239,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1239,1241,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1241,1243,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,1243,1250,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,1250,1256,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1256,1257,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1257,1260,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1260,1262,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1262,1263,8 Avenue Local to 7 Av
+7 Av,50 St,1263,1265,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1268,1270,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1270,1271,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1271,1272,8 Avenue Local to 23 St
+23 St,14 St,1272,1274,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1274,1276,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1276,1277,8 Avenue Local to Spring St
+Spring St,Canal St,1277,1279,8 Avenue Local to Canal St
+Canal St,World Trade Center,1279,1281,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1244,1245,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1245,1248,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1248,1249,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1249,1251,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1251,1253,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1253,1255,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,1255,1262,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,1262,1268,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1268,1269,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1269,1272,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1272,1274,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1274,1275,8 Avenue Local to 7 Av
+7 Av,50 St,1275,1277,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1280,1282,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1282,1283,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1283,1284,8 Avenue Local to 23 St
+23 St,14 St,1284,1286,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1286,1288,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1288,1289,8 Avenue Local to Spring St
+Spring St,Canal St,1289,1291,8 Avenue Local to Canal St
+Canal St,World Trade Center,1291,1293,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1256,1257,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1257,1260,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1260,1261,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1261,1263,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1263,1265,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1265,1267,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,1267,1274,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,1274,1280,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1280,1281,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1281,1284,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1284,1286,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1286,1287,8 Avenue Local to 7 Av
+7 Av,50 St,1287,1289,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1292,1294,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1294,1295,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1295,1296,8 Avenue Local to 23 St
+23 St,14 St,1296,1298,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1298,1300,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1300,1301,8 Avenue Local to Spring St
+Spring St,Canal St,1301,1303,8 Avenue Local to Canal St
+Canal St,World Trade Center,1303,1305,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1268,1269,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1269,1272,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1272,1273,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1273,1275,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1275,1277,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1277,1279,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,1279,1286,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,1286,1292,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1292,1293,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1293,1296,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1296,1298,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1298,1299,8 Avenue Local to 7 Av
+7 Av,50 St,1299,1301,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1304,1306,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1306,1307,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1307,1308,8 Avenue Local to 23 St
+23 St,14 St,1308,1310,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1310,1312,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1312,1313,8 Avenue Local to Spring St
+Spring St,Canal St,1313,1315,8 Avenue Local to Canal St
+Canal St,World Trade Center,1315,1317,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1280,1281,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1281,1284,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1284,1285,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1285,1287,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1287,1289,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1289,1291,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,1291,1298,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,1298,1304,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1304,1305,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1305,1308,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1308,1310,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1310,1311,8 Avenue Local to 7 Av
+7 Av,50 St,1311,1313,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1316,1318,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1318,1319,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1319,1320,8 Avenue Local to 23 St
+23 St,14 St,1320,1322,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1322,1324,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1324,1325,8 Avenue Local to Spring St
+Spring St,Canal St,1325,1327,8 Avenue Local to Canal St
+Canal St,World Trade Center,1327,1329,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1294,1296,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1296,1298,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1298,1300,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1300,1302,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1302,1303,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1303,1305,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,1305,1312,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,1312,1318,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1318,1320,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1320,1323,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1323,1324,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1324,1326,8 Avenue Local to 7 Av
+7 Av,50 St,1326,1327,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1330,1332,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1332,1333,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1333,1335,8 Avenue Local to 23 St
+23 St,14 St,1335,1336,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1336,1338,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1338,1340,8 Avenue Local to Spring St
+Spring St,Canal St,1340,1341,8 Avenue Local to Canal St
+Canal St,World Trade Center,1341,1343,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1309,1311,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1311,1313,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1313,1315,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1315,1317,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1317,1318,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1318,1320,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,1320,1327,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,1327,1333,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1333,1335,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1335,1338,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1338,1339,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1339,1341,8 Avenue Local to 7 Av
+7 Av,50 St,1341,1342,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1345,1347,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1347,1348,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1348,1350,8 Avenue Local to 23 St
+23 St,14 St,1350,1351,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1351,1353,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1353,1355,8 Avenue Local to Spring St
+Spring St,Canal St,1355,1356,8 Avenue Local to Canal St
+Canal St,World Trade Center,1356,1358,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1323,1325,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1325,1327,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1327,1329,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1329,1331,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1331,1332,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1332,1334,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,1334,1341,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,1341,1347,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1347,1349,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1349,1352,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1352,1353,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1353,1355,8 Avenue Local to 7 Av
+7 Av,50 St,1355,1356,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1359,1361,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1361,1362,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1362,1364,8 Avenue Local to 23 St
+23 St,14 St,1364,1365,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1365,1367,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1367,1369,8 Avenue Local to Spring St
+Spring St,Canal St,1369,1370,8 Avenue Local to Canal St
+Canal St,World Trade Center,1370,1372,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1338,1340,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1340,1342,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1342,1344,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1344,1346,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1346,1347,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1347,1349,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,Jackson Hts-Roosevelt Av,1349,1356,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,Queens Plaza,1356,1362,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1362,1364,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1364,1367,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1367,1368,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1368,1370,8 Avenue Local to 7 Av
+7 Av,50 St,1370,1371,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1374,1376,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1376,1377,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1377,1379,8 Avenue Local to 23 St
+23 St,14 St,1379,1380,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1380,1382,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1382,1384,8 Avenue Local to Spring St
+Spring St,Canal St,1384,1385,8 Avenue Local to Canal St
+Canal St,World Trade Center,1385,1387,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1349,1350,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1350,1353,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1353,1354,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1354,1356,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1356,1358,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1358,1360,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,67 Av,1360,1361,8 Avenue Local to 67 Av
+67 Av,63 Dr-Rego Park,1361,1363,8 Avenue Local to 63 Dr-Rego Park
+63 Dr-Rego Park,Woodhaven Blvd,1363,1364,8 Avenue Local to Woodhaven Blvd
+Woodhaven Blvd,Grand Av-Newtown,1364,1366,8 Avenue Local to Grand Av-Newtown
+Grand Av-Newtown,Elmhurst Av,1366,1368,8 Avenue Local to Elmhurst Av
+Elmhurst Av,Jackson Hts-Roosevelt Av,1368,1369,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,65 St,1369,1371,8 Avenue Local to 65 St
+65 St,Northern Blvd,1371,1372,8 Avenue Local to Northern Blvd
+Northern Blvd,46 St,1372,1374,8 Avenue Local to 46 St
+46 St,Steinway St,1374,1375,8 Avenue Local to Steinway St
+Steinway St,36 St,1375,1377,8 Avenue Local to 36 St
+36 St,Queens Plaza,1377,1379,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1379,1381,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1381,1384,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1384,1385,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1385,1387,8 Avenue Local to 7 Av
+7 Av,50 St,1387,1388,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1390,1392,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1392,1393,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1393,1394,8 Avenue Local to 23 St
+23 St,14 St,1394,1396,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1396,1398,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1398,1399,8 Avenue Local to Spring St
+Spring St,Canal St,1399,1401,8 Avenue Local to Canal St
+Canal St,World Trade Center,1401,1403,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1363,1364,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1364,1367,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1367,1368,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1368,1370,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1370,1371,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1371,1373,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,67 Av,1373,1375,8 Avenue Local to 67 Av
+67 Av,63 Dr-Rego Park,1375,1377,8 Avenue Local to 63 Dr-Rego Park
+63 Dr-Rego Park,Woodhaven Blvd,1377,1378,8 Avenue Local to Woodhaven Blvd
+Woodhaven Blvd,Grand Av-Newtown,1378,1380,8 Avenue Local to Grand Av-Newtown
+Grand Av-Newtown,Elmhurst Av,1380,1381,8 Avenue Local to Elmhurst Av
+Elmhurst Av,Jackson Hts-Roosevelt Av,1381,1383,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,65 St,1383,1384,8 Avenue Local to 65 St
+65 St,Northern Blvd,1384,1386,8 Avenue Local to Northern Blvd
+Northern Blvd,46 St,1386,1387,8 Avenue Local to 46 St
+46 St,Steinway St,1387,1389,8 Avenue Local to Steinway St
+Steinway St,36 St,1389,1391,8 Avenue Local to 36 St
+36 St,Queens Plaza,1391,1393,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1393,1394,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1394,1397,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1397,1399,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1399,1400,8 Avenue Local to 7 Av
+7 Av,50 St,1400,1402,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1405,1407,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1407,1408,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1408,1409,8 Avenue Local to 23 St
+23 St,14 St,1409,1411,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1411,1413,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1413,1414,8 Avenue Local to Spring St
+Spring St,Canal St,1414,1416,8 Avenue Local to Canal St
+Canal St,World Trade Center,1416,1418,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1378,1379,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1379,1382,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1382,1383,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1383,1385,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1385,1386,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1386,1388,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,67 Av,1388,1390,8 Avenue Local to 67 Av
+67 Av,63 Dr-Rego Park,1390,1392,8 Avenue Local to 63 Dr-Rego Park
+63 Dr-Rego Park,Woodhaven Blvd,1392,1393,8 Avenue Local to Woodhaven Blvd
+Woodhaven Blvd,Grand Av-Newtown,1393,1395,8 Avenue Local to Grand Av-Newtown
+Grand Av-Newtown,Elmhurst Av,1395,1396,8 Avenue Local to Elmhurst Av
+Elmhurst Av,Jackson Hts-Roosevelt Av,1396,1398,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,65 St,1398,1399,8 Avenue Local to 65 St
+65 St,Northern Blvd,1399,1401,8 Avenue Local to Northern Blvd
+Northern Blvd,46 St,1401,1402,8 Avenue Local to 46 St
+46 St,Steinway St,1402,1404,8 Avenue Local to Steinway St
+Steinway St,36 St,1404,1406,8 Avenue Local to 36 St
+36 St,Queens Plaza,1406,1408,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1408,1409,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1409,1412,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1412,1414,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1414,1415,8 Avenue Local to 7 Av
+7 Av,50 St,1415,1417,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1420,1422,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1422,1423,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1423,1424,8 Avenue Local to 23 St
+23 St,14 St,1424,1426,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1426,1428,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1428,1429,8 Avenue Local to Spring St
+Spring St,Canal St,1429,1431,8 Avenue Local to Canal St
+Canal St,World Trade Center,1431,1433,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1395,1396,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1396,1399,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1399,1400,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1400,1402,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1402,1403,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1403,1405,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,67 Av,1405,1406,8 Avenue Local to 67 Av
+67 Av,63 Dr-Rego Park,1406,1408,8 Avenue Local to 63 Dr-Rego Park
+63 Dr-Rego Park,Woodhaven Blvd,1408,1409,8 Avenue Local to Woodhaven Blvd
+Woodhaven Blvd,Grand Av-Newtown,1409,1411,8 Avenue Local to Grand Av-Newtown
+Grand Av-Newtown,Elmhurst Av,1411,1413,8 Avenue Local to Elmhurst Av
+Elmhurst Av,Jackson Hts-Roosevelt Av,1413,1414,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,65 St,1414,1416,8 Avenue Local to 65 St
+65 St,Northern Blvd,1416,1417,8 Avenue Local to Northern Blvd
+Northern Blvd,46 St,1417,1419,8 Avenue Local to 46 St
+46 St,Steinway St,1419,1420,8 Avenue Local to Steinway St
+Steinway St,36 St,1420,1422,8 Avenue Local to 36 St
+36 St,Queens Plaza,1422,1424,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1424,1426,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1426,1429,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1429,1430,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1430,1432,8 Avenue Local to 7 Av
+7 Av,50 St,1432,1433,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1436,1438,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1438,1439,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1439,1440,8 Avenue Local to 23 St
+23 St,14 St,1440,1442,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1442,1444,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1444,1445,8 Avenue Local to Spring St
+Spring St,Canal St,1445,1447,8 Avenue Local to Canal St
+Canal St,World Trade Center,1448,1450,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1413,1415,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1415,1417,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1417,1419,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1419,1420,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1420,1422,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1422,1423,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,67 Av,1424,1425,8 Avenue Local to 67 Av
+67 Av,63 Dr-Rego Park,1425,1427,8 Avenue Local to 63 Dr-Rego Park
+63 Dr-Rego Park,Woodhaven Blvd,1427,1428,8 Avenue Local to Woodhaven Blvd
+Woodhaven Blvd,Grand Av-Newtown,1428,1430,8 Avenue Local to Grand Av-Newtown
+Grand Av-Newtown,Elmhurst Av,1430,1432,8 Avenue Local to Elmhurst Av
+Elmhurst Av,Jackson Hts-Roosevelt Av,1432,1433,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,65 St,1433,1435,8 Avenue Local to 65 St
+65 St,Northern Blvd,1435,1436,8 Avenue Local to Northern Blvd
+Northern Blvd,46 St,1436,1438,8 Avenue Local to 46 St
+46 St,Steinway St,1438,1439,8 Avenue Local to Steinway St
+Steinway St,36 St,1439,1441,8 Avenue Local to 36 St
+36 St,Queens Plaza,1441,1443,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1443,1445,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1445,1448,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1448,1449,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1449,1451,8 Avenue Local to 7 Av
+7 Av,50 St,1451,1452,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1454,1456,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1456,1457,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1457,1459,8 Avenue Local to 23 St
+23 St,14 St,1459,1460,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1460,1462,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1462,1464,8 Avenue Local to Spring St
+Spring St,Canal St,1464,1465,8 Avenue Local to Canal St
+Canal St,World Trade Center,1467,1469,8 Avenue Local to World Trade Center
+Jamaica Center-Parsons/Archer,Sutphin Blvd-Archer Av-JFK Airport,1433,1435,8 Avenue Local to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica-Van Wyck,1435,1437,8 Avenue Local to Jamaica-Van Wyck
+Jamaica-Van Wyck,Briarwood,1437,1439,8 Avenue Local to Briarwood
+Briarwood,Kew Gardens-Union Tpke,1439,1440,8 Avenue Local to Kew Gardens-Union Tpke
+Kew Gardens-Union Tpke,75 Av,1440,1442,8 Avenue Local to 75 Av
+75 Av,Forest Hills-71 Av,1442,1443,8 Avenue Local to Forest Hills-71 Av
+Forest Hills-71 Av,67 Av,1443,1445,8 Avenue Local to 67 Av
+67 Av,63 Dr-Rego Park,1445,1447,8 Avenue Local to 63 Dr-Rego Park
+63 Dr-Rego Park,Woodhaven Blvd,1447,1448,8 Avenue Local to Woodhaven Blvd
+Woodhaven Blvd,Grand Av-Newtown,1448,1450,8 Avenue Local to Grand Av-Newtown
+Grand Av-Newtown,Elmhurst Av,1450,1451,8 Avenue Local to Elmhurst Av
+Elmhurst Av,Jackson Hts-Roosevelt Av,1451,1453,8 Avenue Local to Jackson Hts-Roosevelt Av
+Jackson Hts-Roosevelt Av,65 St,1453,1454,8 Avenue Local to 65 St
+65 St,Northern Blvd,1454,1456,8 Avenue Local to Northern Blvd
+Northern Blvd,46 St,1456,1457,8 Avenue Local to 46 St
+46 St,Steinway St,1457,1459,8 Avenue Local to Steinway St
+Steinway St,36 St,1459,1461,8 Avenue Local to 36 St
+36 St,Queens Plaza,1461,1463,8 Avenue Local to Queens Plaza
+Queens Plaza,Court Sq-23 St,1463,1464,8 Avenue Local to Court Sq-23 St
+Court Sq-23 St,Lexington Av/53 St,1464,1467,8 Avenue Local to Lexington Av/53 St
+Lexington Av/53 St,5 Av/53 St,1467,1469,8 Avenue Local to 5 Av/53 St
+5 Av/53 St,7 Av,1469,1470,8 Avenue Local to 7 Av
+7 Av,50 St,1470,1472,8 Avenue Local to 50 St
+50 St,42 St-Port Authority Bus Terminal,1474,1476,8 Avenue Local to 42 St-Port Authority Bus Terminal
+42 St-Port Authority Bus Terminal,34 St-Penn Station,1476,1477,8 Avenue Local to 34 St-Penn Station
+34 St-Penn Station,23 St,1477,1478,8 Avenue Local to 23 St
+23 St,14 St,1478,1480,8 Avenue Local to 14 St
+14 St,W 4 St-Wash Sq,1480,1482,8 Avenue Local to W 4 St-Wash Sq
+W 4 St-Wash Sq,Spring St,1482,1483,8 Avenue Local to Spring St
+Spring St,Canal St,1483,1485,8 Avenue Local to Canal St
+Canal St,World Trade Center,1487,1489,8 Avenue Local to World Trade Center
