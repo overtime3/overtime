@@ -1,0 +1,561 @@
+node1,node2,tstart,tend,line,
+Flatbush Av-Brooklyn College,Newkirk Av,929,931,Lexington Avenue Express to Newkirk Av
+Newkirk Av,Beverly Rd,931,932,Lexington Avenue Express to Beverly Rd
+Beverly Rd,Church Av,932,934,Lexington Avenue Express to Church Av
+Church Av,Winthrop St,934,935,Lexington Avenue Express to Winthrop St
+Winthrop St,Sterling St,935,937,Lexington Avenue Express to Sterling St
+Sterling St,President St-Medgar Evers College,937,938,Lexington Avenue Express to President St-Medgar Evers College
+President St-Medgar Evers College,Franklin Av-Medgar Evers College,938,941,Lexington Avenue Express to Franklin Av-Medgar Evers College
+Franklin Av-Medgar Evers College,Atlantic Av-Barclays Ctr,941,946,Lexington Avenue Express to Atlantic Av-Barclays Ctr
+Atlantic Av-Barclays Ctr,Nevins St,946,948,Lexington Avenue Express to Nevins St
+Nevins St,Borough Hall,948,950,Lexington Avenue Express to Borough Hall
+Borough Hall,Bowling Green,950,955,Lexington Avenue Express to Bowling Green
+Bowling Green,Wall St,955,956,Lexington Avenue Express to Wall St
+Wall St,Fulton St,956,958,Lexington Avenue Express to Fulton St
+Fulton St,Brooklyn Bridge-City Hall,958,960,Lexington Avenue Express to Brooklyn Bridge-City Hall
+Brooklyn Bridge-City Hall,14 St-Union Sq,960,965,Lexington Avenue Express to 14 St-Union Sq
+14 St-Union Sq,Grand Central-42 St,965,969,Lexington Avenue Express to Grand Central-42 St
+Grand Central-42 St,59 St,969,972,Lexington Avenue Express to 59 St
+59 St,86 St,972,976,Lexington Avenue Express to 86 St
+86 St,125 St,976,982,Lexington Avenue Express to 125 St
+125 St,138 St-Grand Concourse,982,984,Lexington Avenue Express to 138 St-Grand Concourse
+138 St-Grand Concourse,149 St-Grand Concourse,986,990,Lexington Avenue Express to 149 St-Grand Concourse
+149 St-Grand Concourse,3 Av-149 St,990,992,Lexington Avenue Express to 3 Av-149 St
+3 Av-149 St,E 180 St,992,1003,Lexington Avenue Express to E 180 St
+E 180 St,Morris Park,1003,1006,Lexington Avenue Express to Morris Park
+Morris Park,Pelham Pkwy,1006,1008,Lexington Avenue Express to Pelham Pkwy
+Pelham Pkwy,Gun Hill Rd,1008,1010,Lexington Avenue Express to Gun Hill Rd
+Gun Hill Rd,Baychester Av,1010,1013,Lexington Avenue Express to Baychester Av
+Baychester Av,Eastchester-Dyre Av,1013,1015,Lexington Avenue Express to Eastchester-Dyre Av
+Flatbush Av-Brooklyn College,Newkirk Av,935,937,Lexington Avenue Express to Newkirk Av
+Newkirk Av,Beverly Rd,937,938,Lexington Avenue Express to Beverly Rd
+Beverly Rd,Church Av,938,940,Lexington Avenue Express to Church Av
+Church Av,Winthrop St,940,941,Lexington Avenue Express to Winthrop St
+Winthrop St,Sterling St,941,943,Lexington Avenue Express to Sterling St
+Sterling St,President St-Medgar Evers College,943,944,Lexington Avenue Express to President St-Medgar Evers College
+President St-Medgar Evers College,Franklin Av-Medgar Evers College,944,947,Lexington Avenue Express to Franklin Av-Medgar Evers College
+Franklin Av-Medgar Evers College,Atlantic Av-Barclays Ctr,947,952,Lexington Avenue Express to Atlantic Av-Barclays Ctr
+Atlantic Av-Barclays Ctr,Nevins St,952,954,Lexington Avenue Express to Nevins St
+Nevins St,Borough Hall,954,956,Lexington Avenue Express to Borough Hall
+Borough Hall,Bowling Green,956,961,Lexington Avenue Express to Bowling Green
+Bowling Green,Wall St,961,962,Lexington Avenue Express to Wall St
+Wall St,Fulton St,962,964,Lexington Avenue Express to Fulton St
+Fulton St,Brooklyn Bridge-City Hall,964,966,Lexington Avenue Express to Brooklyn Bridge-City Hall
+Brooklyn Bridge-City Hall,14 St-Union Sq,966,971,Lexington Avenue Express to 14 St-Union Sq
+14 St-Union Sq,Grand Central-42 St,971,975,Lexington Avenue Express to Grand Central-42 St
+Grand Central-42 St,59 St,975,978,Lexington Avenue Express to 59 St
+59 St,86 St,978,982,Lexington Avenue Express to 86 St
+86 St,125 St,982,988,Lexington Avenue Express to 125 St
+125 St,138 St-Grand Concourse,988,990,Lexington Avenue Express to 138 St-Grand Concourse
+138 St-Grand Concourse,149 St-Grand Concourse,990,994,Lexington Avenue Express to 149 St-Grand Concourse
+149 St-Grand Concourse,3 Av-149 St,994,996,Lexington Avenue Express to 3 Av-149 St
+3 Av-149 St,E 180 St,996,1007,Lexington Avenue Express to E 180 St
+E 180 St,Morris Park,1007,1010,Lexington Avenue Express to Morris Park
+Morris Park,Pelham Pkwy,1010,1012,Lexington Avenue Express to Pelham Pkwy
+Pelham Pkwy,Gun Hill Rd,1012,1014,Lexington Avenue Express to Gun Hill Rd
+Gun Hill Rd,Baychester Av,1014,1017,Lexington Avenue Express to Baychester Av
+Baychester Av,Eastchester-Dyre Av,1017,1019,Lexington Avenue Express to Eastchester-Dyre Av
+Flatbush Av-Brooklyn College,Newkirk Av,942,944,Lexington Avenue Express to Newkirk Av
+Newkirk Av,Beverly Rd,944,945,Lexington Avenue Express to Beverly Rd
+Beverly Rd,Church Av,945,946,Lexington Avenue Express to Church Av
+Church Av,Winthrop St,946,948,Lexington Avenue Express to Winthrop St
+Winthrop St,Sterling St,948,949,Lexington Avenue Express to Sterling St
+Sterling St,President St-Medgar Evers College,949,951,Lexington Avenue Express to President St-Medgar Evers College
+President St-Medgar Evers College,Franklin Av-Medgar Evers College,951,953,Lexington Avenue Express to Franklin Av-Medgar Evers College
+Franklin Av-Medgar Evers College,Atlantic Av-Barclays Ctr,953,959,Lexington Avenue Express to Atlantic Av-Barclays Ctr
+Atlantic Av-Barclays Ctr,Nevins St,959,960,Lexington Avenue Express to Nevins St
+Nevins St,Borough Hall,960,962,Lexington Avenue Express to Borough Hall
+Borough Hall,Bowling Green,962,967,Lexington Avenue Express to Bowling Green
+Bowling Green,Wall St,967,969,Lexington Avenue Express to Wall St
+Wall St,Fulton St,969,970,Lexington Avenue Express to Fulton St
+Fulton St,Brooklyn Bridge-City Hall,970,972,Lexington Avenue Express to Brooklyn Bridge-City Hall
+Brooklyn Bridge-City Hall,14 St-Union Sq,972,978,Lexington Avenue Express to 14 St-Union Sq
+14 St-Union Sq,Grand Central-42 St,978,982,Lexington Avenue Express to Grand Central-42 St
+Grand Central-42 St,59 St,982,985,Lexington Avenue Express to 59 St
+59 St,86 St,985,989,Lexington Avenue Express to 86 St
+86 St,125 St,989,995,Lexington Avenue Express to 125 St
+125 St,138 St-Grand Concourse,995,997,Lexington Avenue Express to 138 St-Grand Concourse
+138 St-Grand Concourse,149 St-Grand Concourse,997,1001,Lexington Avenue Express to 149 St-Grand Concourse
+149 St-Grand Concourse,3 Av-149 St,1001,1003,Lexington Avenue Express to 3 Av-149 St
+3 Av-149 St,E 180 St,1003,1014,Lexington Avenue Express to E 180 St
+E 180 St,Morris Park,1014,1017,Lexington Avenue Express to Morris Park
+Morris Park,Pelham Pkwy,1017,1019,Lexington Avenue Express to Pelham Pkwy
+Pelham Pkwy,Gun Hill Rd,1019,1021,Lexington Avenue Express to Gun Hill Rd
+Gun Hill Rd,Baychester Av,1021,1024,Lexington Avenue Express to Baychester Av
+Baychester Av,Eastchester-Dyre Av,1024,1026,Lexington Avenue Express to Eastchester-Dyre Av
+Flatbush Av-Brooklyn College,Newkirk Av,952,954,Lexington Avenue Express to Newkirk Av
+Newkirk Av,Beverly Rd,954,955,Lexington Avenue Express to Beverly Rd
+Beverly Rd,Church Av,955,957,Lexington Avenue Express to Church Av
+Church Av,Winthrop St,958,959,Lexington Avenue Express to Winthrop St
+Winthrop St,Sterling St,959,961,Lexington Avenue Express to Sterling St
+Sterling St,President St-Medgar Evers College,961,962,Lexington Avenue Express to President St-Medgar Evers College
+President St-Medgar Evers College,Franklin Av-Medgar Evers College,962,965,Lexington Avenue Express to Franklin Av-Medgar Evers College
+Franklin Av-Medgar Evers College,Atlantic Av-Barclays Ctr,965,970,Lexington Avenue Express to Atlantic Av-Barclays Ctr
+Atlantic Av-Barclays Ctr,Nevins St,970,972,Lexington Avenue Express to Nevins St
+Nevins St,Borough Hall,972,974,Lexington Avenue Express to Borough Hall
+Borough Hall,Bowling Green,974,979,Lexington Avenue Express to Bowling Green
+Bowling Green,Wall St,979,980,Lexington Avenue Express to Wall St
+Wall St,Fulton St,980,982,Lexington Avenue Express to Fulton St
+Fulton St,Brooklyn Bridge-City Hall,982,984,Lexington Avenue Express to Brooklyn Bridge-City Hall
+Brooklyn Bridge-City Hall,14 St-Union Sq,984,989,Lexington Avenue Express to 14 St-Union Sq
+14 St-Union Sq,Grand Central-42 St,989,994,Lexington Avenue Express to Grand Central-42 St
+Grand Central-42 St,59 St,994,996,Lexington Avenue Express to 59 St
+59 St,86 St,996,1000,Lexington Avenue Express to 86 St
+86 St,125 St,1000,1006,Lexington Avenue Express to 125 St
+125 St,138 St-Grand Concourse,1006,1009,Lexington Avenue Express to 138 St-Grand Concourse
+138 St-Grand Concourse,149 St-Grand Concourse,1009,1012,Lexington Avenue Express to 149 St-Grand Concourse
+149 St-Grand Concourse,3 Av-149 St,1012,1014,Lexington Avenue Express to 3 Av-149 St
+3 Av-149 St,E 180 St,1014,1025,Lexington Avenue Express to E 180 St
+E 180 St,Morris Park,1027,1030,Lexington Avenue Express to Morris Park
+Morris Park,Pelham Pkwy,1030,1032,Lexington Avenue Express to Pelham Pkwy
+Pelham Pkwy,Gun Hill Rd,1032,1034,Lexington Avenue Express to Gun Hill Rd
+Gun Hill Rd,Baychester Av,1034,1037,Lexington Avenue Express to Baychester Av
+Baychester Av,Eastchester-Dyre Av,1037,1039,Lexington Avenue Express to Eastchester-Dyre Av
+Flatbush Av-Brooklyn College,Newkirk Av,975,977,Lexington Avenue Express to Newkirk Av
+Newkirk Av,Beverly Rd,977,978,Lexington Avenue Express to Beverly Rd
+Beverly Rd,Church Av,978,979,Lexington Avenue Express to Church Av
+Church Av,Winthrop St,979,981,Lexington Avenue Express to Winthrop St
+Winthrop St,Sterling St,981,983,Lexington Avenue Express to Sterling St
+Sterling St,President St-Medgar Evers College,983,984,Lexington Avenue Express to President St-Medgar Evers College
+President St-Medgar Evers College,Franklin Av-Medgar Evers College,984,987,Lexington Avenue Express to Franklin Av-Medgar Evers College
+Franklin Av-Medgar Evers College,Atlantic Av-Barclays Ctr,987,992,Lexington Avenue Express to Atlantic Av-Barclays Ctr
+Atlantic Av-Barclays Ctr,Nevins St,992,994,Lexington Avenue Express to Nevins St
+Nevins St,Borough Hall,994,996,Lexington Avenue Express to Borough Hall
+Borough Hall,Bowling Green,996,1001,Lexington Avenue Express to Bowling Green
+Bowling Green,Wall St,1001,1003,Lexington Avenue Express to Wall St
+Wall St,Fulton St,1003,1005,Lexington Avenue Express to Fulton St
+Fulton St,Brooklyn Bridge-City Hall,1005,1007,Lexington Avenue Express to Brooklyn Bridge-City Hall
+Brooklyn Bridge-City Hall,14 St-Union Sq,1007,1012,Lexington Avenue Express to 14 St-Union Sq
+14 St-Union Sq,Grand Central-42 St,1012,1017,Lexington Avenue Express to Grand Central-42 St
+Grand Central-42 St,59 St,1017,1019,Lexington Avenue Express to 59 St
+59 St,86 St,1019,1023,Lexington Avenue Express to 86 St
+86 St,125 St,1023,1030,Lexington Avenue Express to 125 St
+125 St,138 St-Grand Concourse,1030,1032,Lexington Avenue Express to 138 St-Grand Concourse
+138 St-Grand Concourse,149 St-Grand Concourse,1032,1036,Lexington Avenue Express to 149 St-Grand Concourse
+149 St-Grand Concourse,3 Av-149 St,1036,1038,Lexington Avenue Express to 3 Av-149 St
+3 Av-149 St,E 180 St,1038,1049,Lexington Avenue Express to E 180 St
+E 180 St,Morris Park,1049,1052,Lexington Avenue Express to Morris Park
+Morris Park,Pelham Pkwy,1052,1054,Lexington Avenue Express to Pelham Pkwy
+Pelham Pkwy,Gun Hill Rd,1054,1056,Lexington Avenue Express to Gun Hill Rd
+Gun Hill Rd,Baychester Av,1056,1059,Lexington Avenue Express to Baychester Av
+Baychester Av,Eastchester-Dyre Av,1059,1061,Lexington Avenue Express to Eastchester-Dyre Av
+Flatbush Av-Brooklyn College,Newkirk Av,980,982,Lexington Avenue Express to Newkirk Av
+Newkirk Av,Beverly Rd,982,983,Lexington Avenue Express to Beverly Rd
+Beverly Rd,Church Av,983,984,Lexington Avenue Express to Church Av
+Church Av,Winthrop St,984,986,Lexington Avenue Express to Winthrop St
+Winthrop St,Sterling St,986,988,Lexington Avenue Express to Sterling St
+Sterling St,President St-Medgar Evers College,988,989,Lexington Avenue Express to President St-Medgar Evers College
+President St-Medgar Evers College,Franklin Av-Medgar Evers College,989,993,Lexington Avenue Express to Franklin Av-Medgar Evers College
+Franklin Av-Medgar Evers College,Atlantic Av-Barclays Ctr,994,1000,Lexington Avenue Express to Atlantic Av-Barclays Ctr
+Atlantic Av-Barclays Ctr,Nevins St,1000,1001,Lexington Avenue Express to Nevins St
+Nevins St,Borough Hall,1001,1003,Lexington Avenue Express to Borough Hall
+Borough Hall,Bowling Green,1003,1009,Lexington Avenue Express to Bowling Green
+Bowling Green,Wall St,1009,1010,Lexington Avenue Express to Wall St
+Wall St,Fulton St,1010,1012,Lexington Avenue Express to Fulton St
+Fulton St,Brooklyn Bridge-City Hall,1012,1014,Lexington Avenue Express to Brooklyn Bridge-City Hall
+Brooklyn Bridge-City Hall,14 St-Union Sq,1014,1020,Lexington Avenue Express to 14 St-Union Sq
+14 St-Union Sq,Grand Central-42 St,1020,1025,Lexington Avenue Express to Grand Central-42 St
+Grand Central-42 St,59 St,1025,1027,Lexington Avenue Express to 59 St
+59 St,86 St,1027,1031,Lexington Avenue Express to 86 St
+86 St,125 St,1031,1038,Lexington Avenue Express to 125 St
+125 St,138 St-Grand Concourse,1038,1040,Lexington Avenue Express to 138 St-Grand Concourse
+138 St-Grand Concourse,149 St-Grand Concourse,1041,1045,Lexington Avenue Express to 149 St-Grand Concourse
+149 St-Grand Concourse,3 Av-149 St,1045,1047,Lexington Avenue Express to 3 Av-149 St
+3 Av-149 St,E 180 St,1047,1058,Lexington Avenue Express to E 180 St
+E 180 St,Morris Park,1060,1064,Lexington Avenue Express to Morris Park
+Morris Park,Pelham Pkwy,1064,1065,Lexington Avenue Express to Pelham Pkwy
+Pelham Pkwy,Gun Hill Rd,1065,1068,Lexington Avenue Express to Gun Hill Rd
+Gun Hill Rd,Baychester Av,1068,1070,Lexington Avenue Express to Baychester Av
+Baychester Av,Eastchester-Dyre Av,1070,1073,Lexington Avenue Express to Eastchester-Dyre Av
+Flatbush Av-Brooklyn College,Newkirk Av,1000,1002,Lexington Avenue Express to Newkirk Av
+Newkirk Av,Beverly Rd,1002,1003,Lexington Avenue Express to Beverly Rd
+Beverly Rd,Church Av,1003,1005,Lexington Avenue Express to Church Av
+Church Av,Winthrop St,1005,1006,Lexington Avenue Express to Winthrop St
+Winthrop St,Sterling St,1006,1008,Lexington Avenue Express to Sterling St
+Sterling St,President St-Medgar Evers College,1008,1010,Lexington Avenue Express to President St-Medgar Evers College
+President St-Medgar Evers College,Franklin Av-Medgar Evers College,1010,1012,Lexington Avenue Express to Franklin Av-Medgar Evers College
+Franklin Av-Medgar Evers College,Atlantic Av-Barclays Ctr,1012,1018,Lexington Avenue Express to Atlantic Av-Barclays Ctr
+Atlantic Av-Barclays Ctr,Nevins St,1018,1019,Lexington Avenue Express to Nevins St
+Nevins St,Borough Hall,1019,1021,Lexington Avenue Express to Borough Hall
+Borough Hall,Bowling Green,1021,1027,Lexington Avenue Express to Bowling Green
+Bowling Green,Wall St,1027,1028,Lexington Avenue Express to Wall St
+Wall St,Fulton St,1028,1030,Lexington Avenue Express to Fulton St
+Fulton St,Brooklyn Bridge-City Hall,1030,1032,Lexington Avenue Express to Brooklyn Bridge-City Hall
+Brooklyn Bridge-City Hall,14 St-Union Sq,1032,1038,Lexington Avenue Express to 14 St-Union Sq
+14 St-Union Sq,Grand Central-42 St,1038,1043,Lexington Avenue Express to Grand Central-42 St
+Grand Central-42 St,59 St,1043,1045,Lexington Avenue Express to 59 St
+59 St,86 St,1045,1049,Lexington Avenue Express to 86 St
+86 St,125 St,1049,1056,Lexington Avenue Express to 125 St
+125 St,138 St-Grand Concourse,1056,1058,Lexington Avenue Express to 138 St-Grand Concourse
+138 St-Grand Concourse,149 St-Grand Concourse,1060,1063,Lexington Avenue Express to 149 St-Grand Concourse
+149 St-Grand Concourse,3 Av-149 St,1063,1065,Lexington Avenue Express to 3 Av-149 St
+3 Av-149 St,E 180 St,1065,1077,Lexington Avenue Express to E 180 St
+E 180 St,Morris Park,1077,1081,Lexington Avenue Express to Morris Park
+Morris Park,Pelham Pkwy,1081,1082,Lexington Avenue Express to Pelham Pkwy
+Pelham Pkwy,Gun Hill Rd,1082,1085,Lexington Avenue Express to Gun Hill Rd
+Gun Hill Rd,Baychester Av,1085,1087,Lexington Avenue Express to Baychester Av
+Baychester Av,Eastchester-Dyre Av,1087,1090,Lexington Avenue Express to Eastchester-Dyre Av
+Flatbush Av-Brooklyn College,Newkirk Av,1008,1010,Lexington Avenue Express to Newkirk Av
+Newkirk Av,Beverly Rd,1010,1011,Lexington Avenue Express to Beverly Rd
+Beverly Rd,Church Av,1011,1012,Lexington Avenue Express to Church Av
+Church Av,Winthrop St,1012,1014,Lexington Avenue Express to Winthrop St
+Winthrop St,Sterling St,1014,1016,Lexington Avenue Express to Sterling St
+Sterling St,President St-Medgar Evers College,1016,1017,Lexington Avenue Express to President St-Medgar Evers College
+President St-Medgar Evers College,Franklin Av-Medgar Evers College,1017,1020,Lexington Avenue Express to Franklin Av-Medgar Evers College
+Franklin Av-Medgar Evers College,Atlantic Av-Barclays Ctr,1020,1025,Lexington Avenue Express to Atlantic Av-Barclays Ctr
+Atlantic Av-Barclays Ctr,Nevins St,1025,1027,Lexington Avenue Express to Nevins St
+Nevins St,Borough Hall,1027,1029,Lexington Avenue Express to Borough Hall
+Borough Hall,Bowling Green,1029,1034,Lexington Avenue Express to Bowling Green
+Bowling Green,Wall St,1034,1036,Lexington Avenue Express to Wall St
+Wall St,Fulton St,1036,1038,Lexington Avenue Express to Fulton St
+Fulton St,Brooklyn Bridge-City Hall,1038,1040,Lexington Avenue Express to Brooklyn Bridge-City Hall
+Brooklyn Bridge-City Hall,14 St-Union Sq,1040,1046,Lexington Avenue Express to 14 St-Union Sq
+14 St-Union Sq,Grand Central-42 St,1046,1051,Lexington Avenue Express to Grand Central-42 St
+Grand Central-42 St,59 St,1051,1053,Lexington Avenue Express to 59 St
+59 St,86 St,1053,1057,Lexington Avenue Express to 86 St
+86 St,125 St,1057,1064,Lexington Avenue Express to 125 St
+125 St,138 St-Grand Concourse,1064,1066,Lexington Avenue Express to 138 St-Grand Concourse
+138 St-Grand Concourse,149 St-Grand Concourse,1066,1070,Lexington Avenue Express to 149 St-Grand Concourse
+149 St-Grand Concourse,3 Av-149 St,1070,1072,Lexington Avenue Express to 3 Av-149 St
+3 Av-149 St,E 180 St,1072,1084,Lexington Avenue Express to E 180 St
+E 180 St,Morris Park,1084,1087,Lexington Avenue Express to Morris Park
+Morris Park,Pelham Pkwy,1087,1089,Lexington Avenue Express to Pelham Pkwy
+Pelham Pkwy,Gun Hill Rd,1089,1091,Lexington Avenue Express to Gun Hill Rd
+Gun Hill Rd,Baychester Av,1091,1094,Lexington Avenue Express to Baychester Av
+Baychester Av,Eastchester-Dyre Av,1094,1096,Lexington Avenue Express to Eastchester-Dyre Av
+Flatbush Av-Brooklyn College,Newkirk Av,1030,1033,Lexington Avenue Express to Newkirk Av
+Newkirk Av,Beverly Rd,1033,1034,Lexington Avenue Express to Beverly Rd
+Beverly Rd,Church Av,1034,1036,Lexington Avenue Express to Church Av
+Church Av,Winthrop St,1036,1037,Lexington Avenue Express to Winthrop St
+Winthrop St,Sterling St,1037,1039,Lexington Avenue Express to Sterling St
+Sterling St,President St-Medgar Evers College,1039,1041,Lexington Avenue Express to President St-Medgar Evers College
+President St-Medgar Evers College,Franklin Av-Medgar Evers College,1041,1043,Lexington Avenue Express to Franklin Av-Medgar Evers College
+Franklin Av-Medgar Evers College,Atlantic Av-Barclays Ctr,1044,1049,Lexington Avenue Express to Atlantic Av-Barclays Ctr
+Atlantic Av-Barclays Ctr,Nevins St,1049,1051,Lexington Avenue Express to Nevins St
+Nevins St,Borough Hall,1051,1053,Lexington Avenue Express to Borough Hall
+Borough Hall,Bowling Green,1053,1059,Lexington Avenue Express to Bowling Green
+Bowling Green,Wall St,1059,1060,Lexington Avenue Express to Wall St
+Wall St,Fulton St,1060,1062,Lexington Avenue Express to Fulton St
+Fulton St,Brooklyn Bridge-City Hall,1062,1064,Lexington Avenue Express to Brooklyn Bridge-City Hall
+Brooklyn Bridge-City Hall,14 St-Union Sq,1064,1071,Lexington Avenue Express to 14 St-Union Sq
+14 St-Union Sq,Grand Central-42 St,1071,1076,Lexington Avenue Express to Grand Central-42 St
+Grand Central-42 St,59 St,1076,1078,Lexington Avenue Express to 59 St
+59 St,86 St,1078,1082,Lexington Avenue Express to 86 St
+86 St,125 St,1082,1088,Lexington Avenue Express to 125 St
+125 St,138 St-Grand Concourse,1088,1091,Lexington Avenue Express to 138 St-Grand Concourse
+138 St-Grand Concourse,149 St-Grand Concourse,1093,1096,Lexington Avenue Express to 149 St-Grand Concourse
+149 St-Grand Concourse,3 Av-149 St,1096,1098,Lexington Avenue Express to 3 Av-149 St
+3 Av-149 St,E 180 St,1098,1110,Lexington Avenue Express to E 180 St
+E 180 St,Morris Park,1110,1114,Lexington Avenue Express to Morris Park
+Morris Park,Pelham Pkwy,1114,1115,Lexington Avenue Express to Pelham Pkwy
+Pelham Pkwy,Gun Hill Rd,1115,1118,Lexington Avenue Express to Gun Hill Rd
+Gun Hill Rd,Baychester Av,1118,1120,Lexington Avenue Express to Baychester Av
+Baychester Av,Eastchester-Dyre Av,1120,1123,Lexington Avenue Express to Eastchester-Dyre Av
+Flatbush Av-Brooklyn College,Newkirk Av,1036,1039,Lexington Avenue Express to Newkirk Av
+Newkirk Av,Beverly Rd,1039,1040,Lexington Avenue Express to Beverly Rd
+Beverly Rd,Church Av,1040,1042,Lexington Avenue Express to Church Av
+Church Av,Winthrop St,1044,1046,Lexington Avenue Express to Winthrop St
+Winthrop St,Sterling St,1046,1048,Lexington Avenue Express to Sterling St
+Sterling St,President St-Medgar Evers College,1048,1049,Lexington Avenue Express to President St-Medgar Evers College
+President St-Medgar Evers College,Franklin Av-Medgar Evers College,1050,1052,Lexington Avenue Express to Franklin Av-Medgar Evers College
+Franklin Av-Medgar Evers College,Atlantic Av-Barclays Ctr,1052,1058,Lexington Avenue Express to Atlantic Av-Barclays Ctr
+Atlantic Av-Barclays Ctr,Nevins St,1058,1059,Lexington Avenue Express to Nevins St
+Nevins St,Borough Hall,1059,1061,Lexington Avenue Express to Borough Hall
+Borough Hall,Bowling Green,1061,1067,Lexington Avenue Express to Bowling Green
+Bowling Green,Wall St,1067,1069,Lexington Avenue Express to Wall St
+Wall St,Fulton St,1069,1071,Lexington Avenue Express to Fulton St
+Fulton St,Brooklyn Bridge-City Hall,1071,1073,Lexington Avenue Express to Brooklyn Bridge-City Hall
+Brooklyn Bridge-City Hall,14 St-Union Sq,1073,1079,Lexington Avenue Express to 14 St-Union Sq
+14 St-Union Sq,Grand Central-42 St,1079,1084,Lexington Avenue Express to Grand Central-42 St
+Grand Central-42 St,59 St,1084,1087,Lexington Avenue Express to 59 St
+59 St,86 St,1087,1091,Lexington Avenue Express to 86 St
+86 St,125 St,1091,1097,Lexington Avenue Express to 125 St
+125 St,138 St-Grand Concourse,1097,1099,Lexington Avenue Express to 138 St-Grand Concourse
+138 St-Grand Concourse,149 St-Grand Concourse,1099,1103,Lexington Avenue Express to 149 St-Grand Concourse
+149 St-Grand Concourse,3 Av-149 St,1103,1105,Lexington Avenue Express to 3 Av-149 St
+3 Av-149 St,E 180 St,1105,1117,Lexington Avenue Express to E 180 St
+E 180 St,Morris Park,1119,1122,Lexington Avenue Express to Morris Park
+Morris Park,Pelham Pkwy,1122,1124,Lexington Avenue Express to Pelham Pkwy
+Pelham Pkwy,Gun Hill Rd,1124,1126,Lexington Avenue Express to Gun Hill Rd
+Gun Hill Rd,Baychester Av,1126,1129,Lexington Avenue Express to Baychester Av
+Baychester Av,Eastchester-Dyre Av,1129,1131,Lexington Avenue Express to Eastchester-Dyre Av
+Flatbush Av-Brooklyn College,Newkirk Av,1048,1051,Lexington Avenue Express to Newkirk Av
+Newkirk Av,Beverly Rd,1051,1052,Lexington Avenue Express to Beverly Rd
+Beverly Rd,Church Av,1052,1054,Lexington Avenue Express to Church Av
+Church Av,Winthrop St,1054,1056,Lexington Avenue Express to Winthrop St
+Winthrop St,Sterling St,1056,1058,Lexington Avenue Express to Sterling St
+Sterling St,President St-Medgar Evers College,1058,1059,Lexington Avenue Express to President St-Medgar Evers College
+President St-Medgar Evers College,Franklin Av-Medgar Evers College,1059,1062,Lexington Avenue Express to Franklin Av-Medgar Evers College
+Franklin Av-Medgar Evers College,Atlantic Av-Barclays Ctr,1062,1067,Lexington Avenue Express to Atlantic Av-Barclays Ctr
+Atlantic Av-Barclays Ctr,Nevins St,1067,1069,Lexington Avenue Express to Nevins St
+Nevins St,Borough Hall,1069,1071,Lexington Avenue Express to Borough Hall
+Borough Hall,Bowling Green,1071,1077,Lexington Avenue Express to Bowling Green
+Bowling Green,Wall St,1077,1078,Lexington Avenue Express to Wall St
+Wall St,Fulton St,1078,1080,Lexington Avenue Express to Fulton St
+Fulton St,Brooklyn Bridge-City Hall,1080,1082,Lexington Avenue Express to Brooklyn Bridge-City Hall
+Brooklyn Bridge-City Hall,14 St-Union Sq,1082,1089,Lexington Avenue Express to 14 St-Union Sq
+14 St-Union Sq,Grand Central-42 St,1089,1094,Lexington Avenue Express to Grand Central-42 St
+Grand Central-42 St,59 St,1094,1096,Lexington Avenue Express to 59 St
+59 St,86 St,1096,1100,Lexington Avenue Express to 86 St
+86 St,125 St,1100,1106,Lexington Avenue Express to 125 St
+125 St,138 St-Grand Concourse,1106,1109,Lexington Avenue Express to 138 St-Grand Concourse
+138 St-Grand Concourse,149 St-Grand Concourse,1110,1114,Lexington Avenue Express to 149 St-Grand Concourse
+149 St-Grand Concourse,3 Av-149 St,1114,1116,Lexington Avenue Express to 3 Av-149 St
+3 Av-149 St,E 180 St,1116,1128,Lexington Avenue Express to E 180 St
+E 180 St,Morris Park,1128,1131,Lexington Avenue Express to Morris Park
+Morris Park,Pelham Pkwy,1131,1133,Lexington Avenue Express to Pelham Pkwy
+Pelham Pkwy,Gun Hill Rd,1133,1135,Lexington Avenue Express to Gun Hill Rd
+Gun Hill Rd,Baychester Av,1135,1138,Lexington Avenue Express to Baychester Av
+Baychester Av,Eastchester-Dyre Av,1138,1140,Lexington Avenue Express to Eastchester-Dyre Av
+Flatbush Av-Brooklyn College,Newkirk Av,1064,1066,Lexington Avenue Express to Newkirk Av
+Newkirk Av,Beverly Rd,1066,1068,Lexington Avenue Express to Beverly Rd
+Beverly Rd,Church Av,1068,1069,Lexington Avenue Express to Church Av
+Church Av,Winthrop St,1069,1071,Lexington Avenue Express to Winthrop St
+Winthrop St,Sterling St,1071,1073,Lexington Avenue Express to Sterling St
+Sterling St,President St-Medgar Evers College,1073,1075,Lexington Avenue Express to President St-Medgar Evers College
+President St-Medgar Evers College,Franklin Av-Medgar Evers College,1075,1077,Lexington Avenue Express to Franklin Av-Medgar Evers College
+Franklin Av-Medgar Evers College,Atlantic Av-Barclays Ctr,1077,1083,Lexington Avenue Express to Atlantic Av-Barclays Ctr
+Atlantic Av-Barclays Ctr,Nevins St,1083,1084,Lexington Avenue Express to Nevins St
+Nevins St,Borough Hall,1084,1086,Lexington Avenue Express to Borough Hall
+Borough Hall,Bowling Green,1086,1092,Lexington Avenue Express to Bowling Green
+Bowling Green,Wall St,1092,1093,Lexington Avenue Express to Wall St
+Wall St,Fulton St,1093,1095,Lexington Avenue Express to Fulton St
+Fulton St,Brooklyn Bridge-City Hall,1095,1097,Lexington Avenue Express to Brooklyn Bridge-City Hall
+Brooklyn Bridge-City Hall,14 St-Union Sq,1097,1103,Lexington Avenue Express to 14 St-Union Sq
+14 St-Union Sq,Grand Central-42 St,1103,1108,Lexington Avenue Express to Grand Central-42 St
+Grand Central-42 St,59 St,1108,1111,Lexington Avenue Express to 59 St
+59 St,86 St,1111,1115,Lexington Avenue Express to 86 St
+86 St,125 St,1115,1121,Lexington Avenue Express to 125 St
+125 St,138 St-Grand Concourse,1121,1123,Lexington Avenue Express to 138 St-Grand Concourse
+138 St-Grand Concourse,149 St-Grand Concourse,1124,1127,Lexington Avenue Express to 149 St-Grand Concourse
+149 St-Grand Concourse,3 Av-149 St,1127,1129,Lexington Avenue Express to 3 Av-149 St
+3 Av-149 St,E 180 St,1129,1141,Lexington Avenue Express to E 180 St
+E 180 St,Morris Park,1141,1145,Lexington Avenue Express to Morris Park
+Morris Park,Pelham Pkwy,1145,1146,Lexington Avenue Express to Pelham Pkwy
+Pelham Pkwy,Gun Hill Rd,1146,1149,Lexington Avenue Express to Gun Hill Rd
+Gun Hill Rd,Baychester Av,1149,1151,Lexington Avenue Express to Baychester Av
+Baychester Av,Eastchester-Dyre Av,1151,1154,Lexington Avenue Express to Eastchester-Dyre Av
+Flatbush Av-Brooklyn College,Newkirk Av,1071,1073,Lexington Avenue Express to Newkirk Av
+Newkirk Av,Beverly Rd,1073,1075,Lexington Avenue Express to Beverly Rd
+Beverly Rd,Church Av,1075,1076,Lexington Avenue Express to Church Av
+Church Av,Winthrop St,1076,1078,Lexington Avenue Express to Winthrop St
+Winthrop St,Sterling St,1078,1080,Lexington Avenue Express to Sterling St
+Sterling St,President St-Medgar Evers College,1080,1082,Lexington Avenue Express to President St-Medgar Evers College
+President St-Medgar Evers College,Franklin Av-Medgar Evers College,1082,1084,Lexington Avenue Express to Franklin Av-Medgar Evers College
+Franklin Av-Medgar Evers College,Atlantic Av-Barclays Ctr,1084,1090,Lexington Avenue Express to Atlantic Av-Barclays Ctr
+Atlantic Av-Barclays Ctr,Nevins St,1090,1091,Lexington Avenue Express to Nevins St
+Nevins St,Borough Hall,1091,1093,Lexington Avenue Express to Borough Hall
+Borough Hall,Bowling Green,1093,1099,Lexington Avenue Express to Bowling Green
+Bowling Green,Wall St,1099,1100,Lexington Avenue Express to Wall St
+Wall St,Fulton St,1100,1102,Lexington Avenue Express to Fulton St
+Fulton St,Brooklyn Bridge-City Hall,1102,1104,Lexington Avenue Express to Brooklyn Bridge-City Hall
+Brooklyn Bridge-City Hall,14 St-Union Sq,1104,1110,Lexington Avenue Express to 14 St-Union Sq
+14 St-Union Sq,Grand Central-42 St,1110,1115,Lexington Avenue Express to Grand Central-42 St
+Grand Central-42 St,59 St,1115,1117,Lexington Avenue Express to 59 St
+59 St,86 St,1117,1121,Lexington Avenue Express to 86 St
+86 St,125 St,1121,1127,Lexington Avenue Express to 125 St
+125 St,138 St-Grand Concourse,1127,1130,Lexington Avenue Express to 138 St-Grand Concourse
+138 St-Grand Concourse,149 St-Grand Concourse,1130,1133,Lexington Avenue Express to 149 St-Grand Concourse
+149 St-Grand Concourse,3 Av-149 St,1133,1135,Lexington Avenue Express to 3 Av-149 St
+3 Av-149 St,E 180 St,1135,1147,Lexington Avenue Express to E 180 St
+E 180 St,Morris Park,1147,1151,Lexington Avenue Express to Morris Park
+Morris Park,Pelham Pkwy,1151,1152,Lexington Avenue Express to Pelham Pkwy
+Pelham Pkwy,Gun Hill Rd,1152,1155,Lexington Avenue Express to Gun Hill Rd
+Gun Hill Rd,Baychester Av,1155,1157,Lexington Avenue Express to Baychester Av
+Baychester Av,Eastchester-Dyre Av,1157,1160,Lexington Avenue Express to Eastchester-Dyre Av
+Flatbush Av-Brooklyn College,Newkirk Av,1077,1079,Lexington Avenue Express to Newkirk Av
+Newkirk Av,Beverly Rd,1079,1081,Lexington Avenue Express to Beverly Rd
+Beverly Rd,Church Av,1081,1082,Lexington Avenue Express to Church Av
+Church Av,Winthrop St,1082,1084,Lexington Avenue Express to Winthrop St
+Winthrop St,Sterling St,1084,1086,Lexington Avenue Express to Sterling St
+Sterling St,President St-Medgar Evers College,1086,1087,Lexington Avenue Express to President St-Medgar Evers College
+President St-Medgar Evers College,Franklin Av-Medgar Evers College,1087,1090,Lexington Avenue Express to Franklin Av-Medgar Evers College
+Franklin Av-Medgar Evers College,Atlantic Av-Barclays Ctr,1090,1095,Lexington Avenue Express to Atlantic Av-Barclays Ctr
+Atlantic Av-Barclays Ctr,Nevins St,1095,1097,Lexington Avenue Express to Nevins St
+Nevins St,Borough Hall,1097,1099,Lexington Avenue Express to Borough Hall
+Borough Hall,Bowling Green,1099,1104,Lexington Avenue Express to Bowling Green
+Bowling Green,Wall St,1104,1106,Lexington Avenue Express to Wall St
+Wall St,Fulton St,1106,1107,Lexington Avenue Express to Fulton St
+Fulton St,Brooklyn Bridge-City Hall,1107,1109,Lexington Avenue Express to Brooklyn Bridge-City Hall
+Brooklyn Bridge-City Hall,14 St-Union Sq,1109,1115,Lexington Avenue Express to 14 St-Union Sq
+14 St-Union Sq,Grand Central-42 St,1115,1120,Lexington Avenue Express to Grand Central-42 St
+Grand Central-42 St,59 St,1120,1122,Lexington Avenue Express to 59 St
+59 St,86 St,1122,1126,Lexington Avenue Express to 86 St
+86 St,125 St,1126,1132,Lexington Avenue Express to 125 St
+125 St,138 St-Grand Concourse,1132,1135,Lexington Avenue Express to 138 St-Grand Concourse
+138 St-Grand Concourse,149 St-Grand Concourse,1135,1138,Lexington Avenue Express to 149 St-Grand Concourse
+149 St-Grand Concourse,3 Av-149 St,1138,1140,Lexington Avenue Express to 3 Av-149 St
+3 Av-149 St,E 180 St,1140,1152,Lexington Avenue Express to E 180 St
+E 180 St,Morris Park,1152,1156,Lexington Avenue Express to Morris Park
+Morris Park,Pelham Pkwy,1156,1157,Lexington Avenue Express to Pelham Pkwy
+Pelham Pkwy,Gun Hill Rd,1157,1160,Lexington Avenue Express to Gun Hill Rd
+Gun Hill Rd,Baychester Av,1160,1162,Lexington Avenue Express to Baychester Av
+Baychester Av,Eastchester-Dyre Av,1162,1165,Lexington Avenue Express to Eastchester-Dyre Av
+Flatbush Av-Brooklyn College,Newkirk Av,1089,1092,Lexington Avenue Express to Newkirk Av
+Newkirk Av,Beverly Rd,1092,1093,Lexington Avenue Express to Beverly Rd
+Beverly Rd,Church Av,1093,1095,Lexington Avenue Express to Church Av
+Church Av,Winthrop St,1095,1097,Lexington Avenue Express to Winthrop St
+Winthrop St,Sterling St,1097,1099,Lexington Avenue Express to Sterling St
+Sterling St,President St-Medgar Evers College,1099,1100,Lexington Avenue Express to President St-Medgar Evers College
+President St-Medgar Evers College,Franklin Av-Medgar Evers College,1100,1103,Lexington Avenue Express to Franklin Av-Medgar Evers College
+Franklin Av-Medgar Evers College,Atlantic Av-Barclays Ctr,1103,1108,Lexington Avenue Express to Atlantic Av-Barclays Ctr
+Atlantic Av-Barclays Ctr,Nevins St,1108,1110,Lexington Avenue Express to Nevins St
+Nevins St,Borough Hall,1110,1112,Lexington Avenue Express to Borough Hall
+Borough Hall,Bowling Green,1112,1117,Lexington Avenue Express to Bowling Green
+Bowling Green,Wall St,1117,1119,Lexington Avenue Express to Wall St
+Wall St,Fulton St,1119,1120,Lexington Avenue Express to Fulton St
+Fulton St,Brooklyn Bridge-City Hall,1120,1122,Lexington Avenue Express to Brooklyn Bridge-City Hall
+Brooklyn Bridge-City Hall,14 St-Union Sq,1122,1128,Lexington Avenue Express to 14 St-Union Sq
+14 St-Union Sq,Grand Central-42 St,1128,1132,Lexington Avenue Express to Grand Central-42 St
+Grand Central-42 St,59 St,1132,1134,Lexington Avenue Express to 59 St
+59 St,86 St,1134,1138,Lexington Avenue Express to 86 St
+86 St,125 St,1138,1144,Lexington Avenue Express to 125 St
+125 St,138 St-Grand Concourse,1144,1147,Lexington Avenue Express to 138 St-Grand Concourse
+138 St-Grand Concourse,149 St-Grand Concourse,1149,1153,Lexington Avenue Express to 149 St-Grand Concourse
+149 St-Grand Concourse,3 Av-149 St,1153,1155,Lexington Avenue Express to 3 Av-149 St
+3 Av-149 St,E 180 St,1155,1167,Lexington Avenue Express to E 180 St
+E 180 St,Morris Park,1167,1170,Lexington Avenue Express to Morris Park
+Morris Park,Pelham Pkwy,1170,1172,Lexington Avenue Express to Pelham Pkwy
+Pelham Pkwy,Gun Hill Rd,1172,1174,Lexington Avenue Express to Gun Hill Rd
+Gun Hill Rd,Baychester Av,1174,1177,Lexington Avenue Express to Baychester Av
+Baychester Av,Eastchester-Dyre Av,1177,1179,Lexington Avenue Express to Eastchester-Dyre Av
+Flatbush Av-Brooklyn College,Newkirk Av,1098,1101,Lexington Avenue Express to Newkirk Av
+Newkirk Av,Beverly Rd,1101,1102,Lexington Avenue Express to Beverly Rd
+Beverly Rd,Church Av,1102,1104,Lexington Avenue Express to Church Av
+Church Av,Winthrop St,1104,1106,Lexington Avenue Express to Winthrop St
+Winthrop St,Sterling St,1106,1108,Lexington Avenue Express to Sterling St
+Sterling St,President St-Medgar Evers College,1108,1109,Lexington Avenue Express to President St-Medgar Evers College
+President St-Medgar Evers College,Franklin Av-Medgar Evers College,1109,1112,Lexington Avenue Express to Franklin Av-Medgar Evers College
+Franklin Av-Medgar Evers College,Atlantic Av-Barclays Ctr,1112,1117,Lexington Avenue Express to Atlantic Av-Barclays Ctr
+Atlantic Av-Barclays Ctr,Nevins St,1117,1119,Lexington Avenue Express to Nevins St
+Nevins St,Borough Hall,1119,1121,Lexington Avenue Express to Borough Hall
+Borough Hall,Bowling Green,1121,1126,Lexington Avenue Express to Bowling Green
+Bowling Green,Wall St,1126,1128,Lexington Avenue Express to Wall St
+Wall St,Fulton St,1128,1129,Lexington Avenue Express to Fulton St
+Fulton St,Brooklyn Bridge-City Hall,1129,1131,Lexington Avenue Express to Brooklyn Bridge-City Hall
+Brooklyn Bridge-City Hall,14 St-Union Sq,1131,1136,Lexington Avenue Express to 14 St-Union Sq
+14 St-Union Sq,Grand Central-42 St,1136,1140,Lexington Avenue Express to Grand Central-42 St
+Grand Central-42 St,59 St,1141,1143,Lexington Avenue Express to 59 St
+59 St,86 St,1143,1147,Lexington Avenue Express to 86 St
+86 St,125 St,1147,1153,Lexington Avenue Express to 125 St
+125 St,138 St-Grand Concourse,1153,1155,Lexington Avenue Express to 138 St-Grand Concourse
+138 St-Grand Concourse,149 St-Grand Concourse,1157,1160,Lexington Avenue Express to 149 St-Grand Concourse
+149 St-Grand Concourse,3 Av-149 St,1160,1162,Lexington Avenue Express to 3 Av-149 St
+3 Av-149 St,E 180 St,1162,1174,Lexington Avenue Express to E 180 St
+E 180 St,Morris Park,1174,1178,Lexington Avenue Express to Morris Park
+Morris Park,Pelham Pkwy,1178,1179,Lexington Avenue Express to Pelham Pkwy
+Pelham Pkwy,Gun Hill Rd,1179,1182,Lexington Avenue Express to Gun Hill Rd
+Gun Hill Rd,Baychester Av,1182,1184,Lexington Avenue Express to Baychester Av
+Baychester Av,Eastchester-Dyre Av,1184,1187,Lexington Avenue Express to Eastchester-Dyre Av
+Flatbush Av-Brooklyn College,Newkirk Av,1107,1109,Lexington Avenue Express to Newkirk Av
+Newkirk Av,Beverly Rd,1109,1111,Lexington Avenue Express to Beverly Rd
+Beverly Rd,Church Av,1111,1112,Lexington Avenue Express to Church Av
+Church Av,Winthrop St,1112,1114,Lexington Avenue Express to Winthrop St
+Winthrop St,Sterling St,1114,1116,Lexington Avenue Express to Sterling St
+Sterling St,President St-Medgar Evers College,1116,1117,Lexington Avenue Express to President St-Medgar Evers College
+President St-Medgar Evers College,Franklin Av-Medgar Evers College,1117,1120,Lexington Avenue Express to Franklin Av-Medgar Evers College
+Franklin Av-Medgar Evers College,Atlantic Av-Barclays Ctr,1120,1125,Lexington Avenue Express to Atlantic Av-Barclays Ctr
+Atlantic Av-Barclays Ctr,Nevins St,1125,1127,Lexington Avenue Express to Nevins St
+Nevins St,Borough Hall,1127,1129,Lexington Avenue Express to Borough Hall
+Borough Hall,Bowling Green,1129,1134,Lexington Avenue Express to Bowling Green
+Bowling Green,Wall St,1134,1136,Lexington Avenue Express to Wall St
+Wall St,Fulton St,1136,1137,Lexington Avenue Express to Fulton St
+Fulton St,Brooklyn Bridge-City Hall,1137,1139,Lexington Avenue Express to Brooklyn Bridge-City Hall
+Brooklyn Bridge-City Hall,14 St-Union Sq,1139,1144,Lexington Avenue Express to 14 St-Union Sq
+14 St-Union Sq,Grand Central-42 St,1144,1148,Lexington Avenue Express to Grand Central-42 St
+Grand Central-42 St,59 St,1148,1151,Lexington Avenue Express to 59 St
+59 St,86 St,1151,1154,Lexington Avenue Express to 86 St
+86 St,125 St,1154,1160,Lexington Avenue Express to 125 St
+125 St,138 St-Grand Concourse,1160,1163,Lexington Avenue Express to 138 St-Grand Concourse
+138 St-Grand Concourse,149 St-Grand Concourse,1163,1166,Lexington Avenue Express to 149 St-Grand Concourse
+149 St-Grand Concourse,3 Av-149 St,1166,1168,Lexington Avenue Express to 3 Av-149 St
+3 Av-149 St,E 180 St,1168,1180,Lexington Avenue Express to E 180 St
+E 180 St,Morris Park,1182,1186,Lexington Avenue Express to Morris Park
+Morris Park,Pelham Pkwy,1186,1187,Lexington Avenue Express to Pelham Pkwy
+Pelham Pkwy,Gun Hill Rd,1187,1190,Lexington Avenue Express to Gun Hill Rd
+Gun Hill Rd,Baychester Av,1190,1192,Lexington Avenue Express to Baychester Av
+Baychester Av,Eastchester-Dyre Av,1192,1195,Lexington Avenue Express to Eastchester-Dyre Av
+Flatbush Av-Brooklyn College,Newkirk Av,1113,1116,Lexington Avenue Express to Newkirk Av
+Newkirk Av,Beverly Rd,1116,1117,Lexington Avenue Express to Beverly Rd
+Beverly Rd,Church Av,1117,1119,Lexington Avenue Express to Church Av
+Church Av,Winthrop St,1119,1120,Lexington Avenue Express to Winthrop St
+Winthrop St,Sterling St,1120,1122,Lexington Avenue Express to Sterling St
+Sterling St,President St-Medgar Evers College,1122,1124,Lexington Avenue Express to President St-Medgar Evers College
+President St-Medgar Evers College,Franklin Av-Medgar Evers College,1124,1126,Lexington Avenue Express to Franklin Av-Medgar Evers College
+Franklin Av-Medgar Evers College,Atlantic Av-Barclays Ctr,1128,1134,Lexington Avenue Express to Atlantic Av-Barclays Ctr
+Atlantic Av-Barclays Ctr,Nevins St,1134,1135,Lexington Avenue Express to Nevins St
+Nevins St,Borough Hall,1135,1137,Lexington Avenue Express to Borough Hall
+Borough Hall,Bowling Green,1137,1143,Lexington Avenue Express to Bowling Green
+Bowling Green,Wall St,1143,1144,Lexington Avenue Express to Wall St
+Wall St,Fulton St,1144,1145,Lexington Avenue Express to Fulton St
+Fulton St,Brooklyn Bridge-City Hall,1145,1147,Lexington Avenue Express to Brooklyn Bridge-City Hall
+Brooklyn Bridge-City Hall,14 St-Union Sq,1147,1152,Lexington Avenue Express to 14 St-Union Sq
+14 St-Union Sq,Grand Central-42 St,1152,1156,Lexington Avenue Express to Grand Central-42 St
+Grand Central-42 St,59 St,1156,1159,Lexington Avenue Express to 59 St
+59 St,86 St,1159,1162,Lexington Avenue Express to 86 St
+86 St,125 St,1162,1168,Lexington Avenue Express to 125 St
+125 St,138 St-Grand Concourse,1168,1171,Lexington Avenue Express to 138 St-Grand Concourse
+138 St-Grand Concourse,149 St-Grand Concourse,1173,1176,Lexington Avenue Express to 149 St-Grand Concourse
+149 St-Grand Concourse,3 Av-149 St,1176,1178,Lexington Avenue Express to 3 Av-149 St
+3 Av-149 St,E 180 St,1178,1190,Lexington Avenue Express to E 180 St
+E 180 St,Morris Park,1190,1193,Lexington Avenue Express to Morris Park
+Morris Park,Pelham Pkwy,1193,1195,Lexington Avenue Express to Pelham Pkwy
+Pelham Pkwy,Gun Hill Rd,1195,1197,Lexington Avenue Express to Gun Hill Rd
+Gun Hill Rd,Baychester Av,1197,1200,Lexington Avenue Express to Baychester Av
+Baychester Av,Eastchester-Dyre Av,1200,1202,Lexington Avenue Express to Eastchester-Dyre Av
+Flatbush Av-Brooklyn College,Newkirk Av,1122,1124,Lexington Avenue Express to Newkirk Av
+Newkirk Av,Beverly Rd,1124,1126,Lexington Avenue Express to Beverly Rd
+Beverly Rd,Church Av,1126,1127,Lexington Avenue Express to Church Av
+Church Av,Winthrop St,1128,1129,Lexington Avenue Express to Winthrop St
+Winthrop St,Sterling St,1129,1131,Lexington Avenue Express to Sterling St
+Sterling St,President St-Medgar Evers College,1131,1133,Lexington Avenue Express to President St-Medgar Evers College
+President St-Medgar Evers College,Franklin Av-Medgar Evers College,1133,1135,Lexington Avenue Express to Franklin Av-Medgar Evers College
+Franklin Av-Medgar Evers College,Atlantic Av-Barclays Ctr,1137,1143,Lexington Avenue Express to Atlantic Av-Barclays Ctr
+Atlantic Av-Barclays Ctr,Nevins St,1143,1144,Lexington Avenue Express to Nevins St
+Nevins St,Borough Hall,1144,1146,Lexington Avenue Express to Borough Hall
+Borough Hall,Bowling Green,1146,1152,Lexington Avenue Express to Bowling Green
+Bowling Green,Wall St,1152,1153,Lexington Avenue Express to Wall St
+Wall St,Fulton St,1153,1154,Lexington Avenue Express to Fulton St
+Fulton St,Brooklyn Bridge-City Hall,1154,1156,Lexington Avenue Express to Brooklyn Bridge-City Hall
+Brooklyn Bridge-City Hall,14 St-Union Sq,1156,1161,Lexington Avenue Express to 14 St-Union Sq
+14 St-Union Sq,Grand Central-42 St,1161,1165,Lexington Avenue Express to Grand Central-42 St
+Grand Central-42 St,59 St,1165,1167,Lexington Avenue Express to 59 St
+59 St,86 St,1167,1171,Lexington Avenue Express to 86 St
+86 St,125 St,1171,1176,Lexington Avenue Express to 125 St
+125 St,138 St-Grand Concourse,1176,1178,Lexington Avenue Express to 138 St-Grand Concourse
+138 St-Grand Concourse,149 St-Grand Concourse,1178,1181,Lexington Avenue Express to 149 St-Grand Concourse
+149 St-Grand Concourse,3 Av-149 St,1181,1183,Lexington Avenue Express to 3 Av-149 St
+3 Av-149 St,E 180 St,1183,1195,Lexington Avenue Express to E 180 St
+E 180 St,Morris Park,1195,1199,Lexington Avenue Express to Morris Park
+Morris Park,Pelham Pkwy,1199,1200,Lexington Avenue Express to Pelham Pkwy
+Pelham Pkwy,Gun Hill Rd,1200,1203,Lexington Avenue Express to Gun Hill Rd
+Gun Hill Rd,Baychester Av,1203,1205,Lexington Avenue Express to Baychester Av
+Baychester Av,Eastchester-Dyre Av,1205,1208,Lexington Avenue Express to Eastchester-Dyre Av
+Flatbush Av-Brooklyn College,Newkirk Av,1133,1135,Lexington Avenue Express to Newkirk Av
+Newkirk Av,Beverly Rd,1135,1137,Lexington Avenue Express to Beverly Rd
+Beverly Rd,Church Av,1137,1138,Lexington Avenue Express to Church Av
+Church Av,Winthrop St,1140,1142,Lexington Avenue Express to Winthrop St
+Winthrop St,Sterling St,1142,1143,Lexington Avenue Express to Sterling St
+Sterling St,President St-Medgar Evers College,1143,1145,Lexington Avenue Express to President St-Medgar Evers College
+President St-Medgar Evers College,Franklin Av-Medgar Evers College,1145,1147,Lexington Avenue Express to Franklin Av-Medgar Evers College
+Franklin Av-Medgar Evers College,Atlantic Av-Barclays Ctr,1149,1154,Lexington Avenue Express to Atlantic Av-Barclays Ctr
+Atlantic Av-Barclays Ctr,Nevins St,1154,1155,Lexington Avenue Express to Nevins St
+Nevins St,Borough Hall,1155,1157,Lexington Avenue Express to Borough Hall
+Borough Hall,Bowling Green,1157,1163,Lexington Avenue Express to Bowling Green
+Bowling Green,Wall St,1163,1164,Lexington Avenue Express to Wall St
+Wall St,Fulton St,1164,1165,Lexington Avenue Express to Fulton St
+Fulton St,Brooklyn Bridge-City Hall,1165,1167,Lexington Avenue Express to Brooklyn Bridge-City Hall
+Brooklyn Bridge-City Hall,14 St-Union Sq,1167,1172,Lexington Avenue Express to 14 St-Union Sq
+14 St-Union Sq,Grand Central-42 St,1172,1176,Lexington Avenue Express to Grand Central-42 St
+Grand Central-42 St,59 St,1176,1178,Lexington Avenue Express to 59 St
+59 St,86 St,1178,1182,Lexington Avenue Express to 86 St
+86 St,125 St,1182,1187,Lexington Avenue Express to 125 St
+125 St,138 St-Grand Concourse,1187,1189,Lexington Avenue Express to 138 St-Grand Concourse
+138 St-Grand Concourse,149 St-Grand Concourse,1189,1192,Lexington Avenue Express to 149 St-Grand Concourse
+149 St-Grand Concourse,3 Av-149 St,1192,1194,Lexington Avenue Express to 3 Av-149 St
+3 Av-149 St,E 180 St,1194,1206,Lexington Avenue Express to E 180 St
+E 180 St,Morris Park,1206,1210,Lexington Avenue Express to Morris Park
+Morris Park,Pelham Pkwy,1210,1211,Lexington Avenue Express to Pelham Pkwy
+Pelham Pkwy,Gun Hill Rd,1211,1214,Lexington Avenue Express to Gun Hill Rd
+Gun Hill Rd,Baychester Av,1214,1216,Lexington Avenue Express to Baychester Av
+Baychester Av,Eastchester-Dyre Av,1216,1219,Lexington Avenue Express to Eastchester-Dyre Av
