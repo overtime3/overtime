@@ -1,0 +1,121 @@
+node1,node2,tstart,tend,line,
+Broad St,Fulton St,1014,1016,Nassau St Express to Fulton St
+Fulton St,Chambers St,1016,1018,Nassau St Express to Chambers St
+Chambers St,Canal St,1018,1020,Nassau St Express to Canal St
+Canal St,Bowery,1020,1023,Nassau St Express to Bowery
+Bowery,Delancey St-Essex St,1023,1025,Nassau St Express to Delancey St-Essex St
+Delancey St-Essex St,Marcy Av,1025,1032,Nassau St Express to Marcy Av
+Marcy Av,Myrtle Av,1032,1036,Nassau St Express to Myrtle Av
+Myrtle Av,Gates Av,1037,1040,Nassau St Express to Gates Av
+Gates Av,Chauncey St,1040,1043,Nassau St Express to Chauncey St
+Chauncey St,Broadway Junction,1043,1044,Nassau St Express to Broadway Junction
+Broadway Junction,Alabama Av,1044,1045,Nassau St Express to Alabama Av
+Alabama Av,Van Siclen Av,1045,1046,Nassau St Express to Van Siclen Av
+Van Siclen Av,Norwood Av,1046,1049,Nassau St Express to Norwood Av
+Norwood Av,Crescent St,1049,1050,Nassau St Express to Crescent St
+Crescent St,75 St-Elderts Ln,1050,1053,Nassau St Express to 75 St-Elderts Ln
+75 St-Elderts Ln,Woodhaven Blvd,1053,1056,Nassau St Express to Woodhaven Blvd
+Woodhaven Blvd,104 St,1056,1057,Nassau St Express to 104 St
+104 St,121 St,1057,1060,Nassau St Express to 121 St
+121 St,Sutphin Blvd-Archer Av-JFK Airport,1060,1064,Nassau St Express to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica Center-Parsons/Archer,1064,1065,Nassau St Express to Jamaica Center-Parsons/Archer
+Broad St,Fulton St,1024,1026,Nassau St Express to Fulton St
+Fulton St,Chambers St,1026,1028,Nassau St Express to Chambers St
+Chambers St,Canal St,1028,1030,Nassau St Express to Canal St
+Canal St,Bowery,1030,1033,Nassau St Express to Bowery
+Bowery,Delancey St-Essex St,1033,1035,Nassau St Express to Delancey St-Essex St
+Delancey St-Essex St,Marcy Av,1035,1042,Nassau St Express to Marcy Av
+Marcy Av,Myrtle Av,1042,1046,Nassau St Express to Myrtle Av
+Myrtle Av,Gates Av,1047,1050,Nassau St Express to Gates Av
+Gates Av,Chauncey St,1050,1053,Nassau St Express to Chauncey St
+Chauncey St,Broadway Junction,1053,1054,Nassau St Express to Broadway Junction
+Broadway Junction,Alabama Av,1054,1055,Nassau St Express to Alabama Av
+Alabama Av,Van Siclen Av,1055,1056,Nassau St Express to Van Siclen Av
+Van Siclen Av,Norwood Av,1056,1059,Nassau St Express to Norwood Av
+Norwood Av,Crescent St,1059,1060,Nassau St Express to Crescent St
+Crescent St,75 St-Elderts Ln,1060,1063,Nassau St Express to 75 St-Elderts Ln
+75 St-Elderts Ln,Woodhaven Blvd,1063,1066,Nassau St Express to Woodhaven Blvd
+Woodhaven Blvd,104 St,1066,1067,Nassau St Express to 104 St
+104 St,121 St,1067,1070,Nassau St Express to 121 St
+121 St,Sutphin Blvd-Archer Av-JFK Airport,1070,1074,Nassau St Express to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica Center-Parsons/Archer,1074,1075,Nassau St Express to Jamaica Center-Parsons/Archer
+Broad St,Fulton St,1034,1036,Nassau St Express to Fulton St
+Fulton St,Chambers St,1036,1038,Nassau St Express to Chambers St
+Chambers St,Canal St,1038,1040,Nassau St Express to Canal St
+Canal St,Bowery,1040,1043,Nassau St Express to Bowery
+Bowery,Delancey St-Essex St,1043,1045,Nassau St Express to Delancey St-Essex St
+Delancey St-Essex St,Marcy Av,1045,1052,Nassau St Express to Marcy Av
+Marcy Av,Myrtle Av,1052,1056,Nassau St Express to Myrtle Av
+Myrtle Av,Gates Av,1056,1059,Nassau St Express to Gates Av
+Gates Av,Chauncey St,1059,1062,Nassau St Express to Chauncey St
+Chauncey St,Broadway Junction,1062,1063,Nassau St Express to Broadway Junction
+Broadway Junction,Alabama Av,1063,1064,Nassau St Express to Alabama Av
+Alabama Av,Van Siclen Av,1064,1065,Nassau St Express to Van Siclen Av
+Van Siclen Av,Norwood Av,1065,1068,Nassau St Express to Norwood Av
+Norwood Av,Crescent St,1068,1069,Nassau St Express to Crescent St
+Crescent St,75 St-Elderts Ln,1069,1072,Nassau St Express to 75 St-Elderts Ln
+75 St-Elderts Ln,Woodhaven Blvd,1072,1075,Nassau St Express to Woodhaven Blvd
+Woodhaven Blvd,104 St,1075,1076,Nassau St Express to 104 St
+104 St,121 St,1076,1079,Nassau St Express to 121 St
+121 St,Sutphin Blvd-Archer Av-JFK Airport,1079,1083,Nassau St Express to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica Center-Parsons/Archer,1083,1084,Nassau St Express to Jamaica Center-Parsons/Archer
+Broad St,Fulton St,1044,1046,Nassau St Express to Fulton St
+Fulton St,Chambers St,1046,1048,Nassau St Express to Chambers St
+Chambers St,Canal St,1048,1050,Nassau St Express to Canal St
+Canal St,Bowery,1050,1053,Nassau St Express to Bowery
+Bowery,Delancey St-Essex St,1053,1055,Nassau St Express to Delancey St-Essex St
+Delancey St-Essex St,Marcy Av,1055,1062,Nassau St Express to Marcy Av
+Marcy Av,Myrtle Av,1062,1066,Nassau St Express to Myrtle Av
+Myrtle Av,Gates Av,1066,1069,Nassau St Express to Gates Av
+Gates Av,Chauncey St,1069,1072,Nassau St Express to Chauncey St
+Chauncey St,Broadway Junction,1072,1073,Nassau St Express to Broadway Junction
+Broadway Junction,Alabama Av,1073,1074,Nassau St Express to Alabama Av
+Alabama Av,Van Siclen Av,1074,1075,Nassau St Express to Van Siclen Av
+Van Siclen Av,Norwood Av,1075,1078,Nassau St Express to Norwood Av
+Norwood Av,Crescent St,1078,1079,Nassau St Express to Crescent St
+Crescent St,75 St-Elderts Ln,1079,1082,Nassau St Express to 75 St-Elderts Ln
+75 St-Elderts Ln,Woodhaven Blvd,1082,1085,Nassau St Express to Woodhaven Blvd
+Woodhaven Blvd,104 St,1085,1086,Nassau St Express to 104 St
+104 St,121 St,1086,1089,Nassau St Express to 121 St
+121 St,Sutphin Blvd-Archer Av-JFK Airport,1089,1093,Nassau St Express to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica Center-Parsons/Archer,1093,1094,Nassau St Express to Jamaica Center-Parsons/Archer
+Broad St,Fulton St,1054,1056,Nassau St Express to Fulton St
+Fulton St,Chambers St,1056,1058,Nassau St Express to Chambers St
+Chambers St,Canal St,1058,1060,Nassau St Express to Canal St
+Canal St,Bowery,1060,1063,Nassau St Express to Bowery
+Bowery,Delancey St-Essex St,1063,1065,Nassau St Express to Delancey St-Essex St
+Delancey St-Essex St,Marcy Av,1065,1072,Nassau St Express to Marcy Av
+Marcy Av,Myrtle Av,1072,1076,Nassau St Express to Myrtle Av
+Myrtle Av,Gates Av,1076,1079,Nassau St Express to Gates Av
+Gates Av,Chauncey St,1079,1082,Nassau St Express to Chauncey St
+Chauncey St,Broadway Junction,1082,1083,Nassau St Express to Broadway Junction
+Broadway Junction,Alabama Av,1083,1084,Nassau St Express to Alabama Av
+Alabama Av,Van Siclen Av,1084,1085,Nassau St Express to Van Siclen Av
+Van Siclen Av,Norwood Av,1085,1088,Nassau St Express to Norwood Av
+Norwood Av,Crescent St,1088,1089,Nassau St Express to Crescent St
+Crescent St,75 St-Elderts Ln,1089,1092,Nassau St Express to 75 St-Elderts Ln
+75 St-Elderts Ln,Woodhaven Blvd,1092,1095,Nassau St Express to Woodhaven Blvd
+Woodhaven Blvd,104 St,1095,1096,Nassau St Express to 104 St
+104 St,121 St,1096,1099,Nassau St Express to 121 St
+121 St,Sutphin Blvd-Archer Av-JFK Airport,1099,1103,Nassau St Express to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica Center-Parsons/Archer,1103,1104,Nassau St Express to Jamaica Center-Parsons/Archer
+Broad St,Fulton St,1065,1067,Nassau St Express to Fulton St
+Fulton St,Chambers St,1067,1069,Nassau St Express to Chambers St
+Chambers St,Canal St,1069,1071,Nassau St Express to Canal St
+Canal St,Bowery,1071,1073,Nassau St Express to Bowery
+Bowery,Delancey St-Essex St,1073,1075,Nassau St Express to Delancey St-Essex St
+Delancey St-Essex St,Marcy Av,1075,1082,Nassau St Express to Marcy Av
+Marcy Av,Myrtle Av,1082,1086,Nassau St Express to Myrtle Av
+Myrtle Av,Gates Av,1086,1089,Nassau St Express to Gates Av
+Gates Av,Chauncey St,1089,1092,Nassau St Express to Chauncey St
+Chauncey St,Broadway Junction,1092,1093,Nassau St Express to Broadway Junction
+Broadway Junction,Alabama Av,1093,1094,Nassau St Express to Alabama Av
+Alabama Av,Van Siclen Av,1094,1095,Nassau St Express to Van Siclen Av
+Van Siclen Av,Norwood Av,1095,1098,Nassau St Express to Norwood Av
+Norwood Av,Crescent St,1098,1099,Nassau St Express to Crescent St
+Crescent St,75 St-Elderts Ln,1099,1102,Nassau St Express to 75 St-Elderts Ln
+75 St-Elderts Ln,Woodhaven Blvd,1102,1105,Nassau St Express to Woodhaven Blvd
+Woodhaven Blvd,104 St,1105,1106,Nassau St Express to 104 St
+104 St,121 St,1106,1109,Nassau St Express to 121 St
+121 St,Sutphin Blvd-Archer Av-JFK Airport,1109,1113,Nassau St Express to Sutphin Blvd-Archer Av-JFK Airport
+Sutphin Blvd-Archer Av-JFK Airport,Jamaica Center-Parsons/Archer,1113,1114,Nassau St Express to Jamaica Center-Parsons/Archer
