@@ -222,7 +222,7 @@ def echarts_Circular(graph,
 
 def echarts_Force(graph,
                   h,
-                  repulsion=500,
+                  repulsion=repulsion,
                   is_draggable=True,
                   width="1200px",
                   height="600px",
