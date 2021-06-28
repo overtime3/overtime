@@ -1,0 +1,577 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+            <script type="text/javascript" src="https://assets.pyecharts.org/assets/echarts.min.js"></script>
+        <script type="text/javascript" src="https://assets.pyecharts.org/assets/jquery.min.js"></script>
+        <script type="text/javascript" src="https://assets.pyecharts.org/assets/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="https://assets.pyecharts.org/assets/ResizeSensor.js"></script>
+
+            <link rel="stylesheet"  href="https://assets.pyecharts.org/assets/jquery-ui.css">
+
+</head>
+<body>
+    <style>.box {  }; </style>
+        <button onclick="downloadCfg()">Save Config</button>
+    <div class="box">
+                <div id="d958f29ad9e746f0a2a6445f1e48d2cd" class="chart-container" style="width:1200px; height:600px;"></div>
+    <script>
+        var chart_d958f29ad9e746f0a2a6445f1e48d2cd = echarts.init(
+            document.getElementById('d958f29ad9e746f0a2a6445f1e48d2cd'), 'white', {renderer: 'canvas'});
+        var option_d958f29ad9e746f0a2a6445f1e48d2cd = {
+    "animation": true,
+    "animationThreshold": 2000,
+    "animationDuration": 1000,
+    "animationEasing": "cubicOut",
+    "animationDelay": 0,
+    "animationDurationUpdate": 300,
+    "animationEasingUpdate": "cubicOut",
+    "animationDelayUpdate": 0,
+    "color": [
+        "#c23531",
+        "#2f4554",
+        "#61a0a8",
+        "#d48265",
+        "#749f83",
+        "#ca8622",
+        "#bda29a",
+        "#6e7074",
+        "#546570",
+        "#c4ccd3",
+        "#f05b72",
+        "#ef5b9c",
+        "#f47920",
+        "#905a3d",
+        "#fab27b",
+        "#2a5caa",
+        "#444693",
+        "#726930",
+        "#b2d235",
+        "#6d8346",
+        "#ac6767",
+        "#1d953f",
+        "#6950a1",
+        "#918597"
+    ],
+    "series": [
+        {
+            "type": "graph",
+            "layout": "force",
+            "symbolSize": 20,
+            "circular": {
+                "rotateLabel": true
+            },
+            "force": {
+                "repulsion": 500,
+                "edgeLength": 50,
+                "gravity": 0.2
+            },
+            "label": {
+                "show": true,
+                "position": "right",
+                "margin": 8
+            },
+            "lineStyle": {
+                "show": true,
+                "width": 1,
+                "opacity": 1,
+                "curveness": 0,
+                "type": "solid",
+                "color": "source"
+            },
+            "roam": true,
+            "draggable": false,
+            "focusNodeAdjacency": true,
+            "data": [
+                {
+                    "name": "f",
+                    "fixed": false,
+                    "value": 2,
+                    "category": 1
+                },
+                {
+                    "name": "g",
+                    "fixed": false,
+                    "value": 2,
+                    "category": 1
+                },
+                {
+                    "name": "c",
+                    "fixed": false,
+                    "value": 2,
+                    "category": 1
+                },
+                {
+                    "name": "e",
+                    "fixed": false,
+                    "value": 5,
+                    "category": 0
+                },
+                {
+                    "name": "d",
+                    "fixed": false,
+                    "value": 5,
+                    "category": 0
+                },
+                {
+                    "name": "b",
+                    "fixed": false,
+                    "value": 5,
+                    "category": 0
+                },
+                {
+                    "name": "a",
+                    "fixed": false,
+                    "value": 5,
+                    "category": 0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "nodes with reachability more than 3"
+                },
+                {
+                    "name": "nodes with reachability less than or equal to 3"
+                }
+            ],
+            "edgeLabel": {
+                "show": false,
+                "position": "top",
+                "margin": 8
+            },
+            "edgeSymbol": [
+                "circle",
+                "arrow"
+            ],
+            "edgeSymbolSize": 10,
+            "links": [
+                {
+                    "source": "e",
+                    "target": "a",
+                    "value": [
+                        "{start time: 1, end time: 1}"
+                    ]
+                },
+                {
+                    "source": "a",
+                    "target": "e",
+                    "value": [
+                        "{start time: 2, end time: 2}"
+                    ]
+                },
+                {
+                    "source": "e",
+                    "target": "b",
+                    "value": [
+                        "{start time: 5, end time: 5}"
+                    ]
+                },
+                {
+                    "source": "b",
+                    "target": "a",
+                    "value": [
+                        "{start time: 5, end time: 5}"
+                    ]
+                },
+                {
+                    "source": "g",
+                    "target": "f",
+                    "value": [
+                        "{start time: 5, end time: 5}"
+                    ]
+                },
+                {
+                    "source": "b",
+                    "target": "d",
+                    "value": [
+                        "{start time: 6, end time: 6}"
+                    ]
+                },
+                {
+                    "source": "d",
+                    "target": "c",
+                    "value": [
+                        "{start time: 7, end time: 7}",
+                        "{start time: 8, end time: 8}"
+                    ]
+                },
+                {
+                    "source": "a",
+                    "target": "d",
+                    "value": [
+                        "{start time: 7, end time: 7}"
+                    ]
+                },
+                {
+                    "source": "d",
+                    "target": "e",
+                    "value": [
+                        "{start time: 7, end time: 7}"
+                    ]
+                },
+                {
+                    "source": "f",
+                    "target": "g",
+                    "value": [
+                        "{start time: 8, end time: 8}",
+                        "{start time: 15, end time: 15}"
+                    ]
+                },
+                {
+                    "source": "d",
+                    "target": "b",
+                    "value": [
+                        "{start time: 9, end time: 9}"
+                    ]
+                },
+                {
+                    "source": "b",
+                    "target": "c",
+                    "value": [
+                        "{start time: 9, end time: 9}",
+                        "{start time: 10, end time: 10}"
+                    ]
+                },
+                {
+                    "source": "a",
+                    "target": "c",
+                    "value": [
+                        "{start time: 10, end time: 10}",
+                        "{start time: 12, end time: 12}"
+                    ]
+                },
+                {
+                    "source": "c",
+                    "target": "a",
+                    "value": [
+                        "{start time: 11, end time: 11}"
+                    ]
+                }
+            ]
+        }
+    ],
+    "legend": [
+        {
+            "data": [
+                "nodes with reachability more than 3",
+                "nodes with reachability less than or equal to 3"
+            ],
+            "selected": {
+                "nodes with reachability more than 3": true,
+                "nodes with reachability less than or equal to 3": true
+            },
+            "show": true,
+            "left": "2%",
+            "top": "20%",
+            "orient": "vertical",
+            "padding": 5,
+            "itemGap": 10,
+            "itemWidth": 25,
+            "itemHeight": 14,
+            "textStyle": {
+                "fontSize": 20
+            }
+        }
+    ],
+    "tooltip": {
+        "show": true,
+        "trigger": "item",
+        "triggerOn": "mousemove|click",
+        "axisPointer": {
+            "type": "line"
+        },
+        "showContent": true,
+        "alwaysShowContent": false,
+        "showDelay": 0,
+        "hideDelay": 100,
+        "textStyle": {
+            "fontSize": 14
+        },
+        "borderWidth": 0,
+        "padding": 5
+    },
+    "title": [
+        {
+            "text": "network before running h-approximation algorithm",
+            "padding": 5,
+            "itemGap": 10,
+            "textStyle": {
+                "fontSize": 40
+            },
+            "subtextStyle": {
+                "fontSize": 20
+            }
+        }
+    ]
+};
+        chart_d958f29ad9e746f0a2a6445f1e48d2cd.setOption(option_d958f29ad9e746f0a2a6445f1e48d2cd);
+    </script>
+<br/>                <div id="676273d6e81e46d8a7ed2ee00e77522d" class="chart-container" style="width:1200px; height:600px;"></div>
+    <script>
+        var chart_676273d6e81e46d8a7ed2ee00e77522d = echarts.init(
+            document.getElementById('676273d6e81e46d8a7ed2ee00e77522d'), 'white', {renderer: 'canvas'});
+        var option_676273d6e81e46d8a7ed2ee00e77522d = {
+    "animation": true,
+    "animationThreshold": 2000,
+    "animationDuration": 1000,
+    "animationEasing": "cubicOut",
+    "animationDelay": 0,
+    "animationDurationUpdate": 300,
+    "animationEasingUpdate": "cubicOut",
+    "animationDelayUpdate": 0,
+    "color": [
+        "#c23531",
+        "#2f4554",
+        "#61a0a8",
+        "#d48265",
+        "#749f83",
+        "#ca8622",
+        "#bda29a",
+        "#6e7074",
+        "#546570",
+        "#c4ccd3",
+        "#f05b72",
+        "#ef5b9c",
+        "#f47920",
+        "#905a3d",
+        "#fab27b",
+        "#2a5caa",
+        "#444693",
+        "#726930",
+        "#b2d235",
+        "#6d8346",
+        "#ac6767",
+        "#1d953f",
+        "#6950a1",
+        "#918597"
+    ],
+    "series": [
+        {
+            "type": "graph",
+            "layout": "force",
+            "symbolSize": 20,
+            "circular": {
+                "rotateLabel": true
+            },
+            "force": {
+                "repulsion": 500,
+                "edgeLength": 50,
+                "gravity": 0.2
+            },
+            "label": {
+                "show": true,
+                "position": "right",
+                "margin": 8
+            },
+            "lineStyle": {
+                "show": true,
+                "width": 1,
+                "opacity": 1,
+                "curveness": 0,
+                "type": "solid",
+                "color": "source"
+            },
+            "roam": true,
+            "draggable": false,
+            "focusNodeAdjacency": true,
+            "data": [
+                {
+                    "name": "a",
+                    "fixed": false,
+                    "value": 2,
+                    "category": 1
+                },
+                {
+                    "name": "f",
+                    "fixed": false,
+                    "value": 2,
+                    "category": 1
+                },
+                {
+                    "name": "c",
+                    "fixed": false,
+                    "value": 1,
+                    "category": 1
+                },
+                {
+                    "name": "g",
+                    "fixed": false,
+                    "value": 2,
+                    "category": 1
+                },
+                {
+                    "name": "b",
+                    "fixed": false,
+                    "value": 3,
+                    "category": 1
+                },
+                {
+                    "name": "d",
+                    "fixed": false,
+                    "value": 1,
+                    "category": 1
+                },
+                {
+                    "name": "e",
+                    "fixed": false,
+                    "value": 3,
+                    "category": 1
+                }
+            ],
+            "categories": [
+                {
+                    "name": "nodes with reachability more than 3"
+                },
+                {
+                    "name": "nodes with reachability less than or equal to 3"
+                }
+            ],
+            "edgeLabel": {
+                "show": false,
+                "position": "top",
+                "margin": 8
+            },
+            "edgeSymbol": [
+                "circle",
+                "arrow"
+            ],
+            "edgeSymbolSize": 10,
+            "links": [
+                {
+                    "source": "e",
+                    "target": "a",
+                    "value": [
+                        "{start time: 1, end time: 1}"
+                    ]
+                },
+                {
+                    "source": "b",
+                    "target": "a",
+                    "value": [
+                        "{start time: 5, end time: 5}"
+                    ]
+                },
+                {
+                    "source": "g",
+                    "target": "f",
+                    "value": [
+                        "{start time: 5, end time: 5}"
+                    ]
+                },
+                {
+                    "source": "f",
+                    "target": "g",
+                    "value": [
+                        "{start time: 8, end time: 8}",
+                        "{start time: 15, end time: 15}"
+                    ]
+                },
+                {
+                    "source": "b",
+                    "target": "c",
+                    "value": [
+                        "{start time: 9, end time: 9}",
+                        "{start time: 10, end time: 10}"
+                    ]
+                },
+                {
+                    "source": "a",
+                    "target": "c",
+                    "value": [
+                        "{start time: 10, end time: 10}",
+                        "{start time: 12, end time: 12}"
+                    ]
+                }
+            ]
+        }
+    ],
+    "legend": [
+        {
+            "data": [
+                "nodes with reachability more than 3",
+                "nodes with reachability less than or equal to 3"
+            ],
+            "selected": {
+                "nodes with reachability more than 3": true,
+                "nodes with reachability less than or equal to 3": true
+            },
+            "show": true,
+            "left": "2%",
+            "top": "20%",
+            "orient": "vertical",
+            "padding": 5,
+            "itemGap": 10,
+            "itemWidth": 25,
+            "itemHeight": 14,
+            "textStyle": {
+                "fontSize": 20
+            }
+        }
+    ],
+    "tooltip": {
+        "show": true,
+        "trigger": "item",
+        "triggerOn": "mousemove|click",
+        "axisPointer": {
+            "type": "line"
+        },
+        "showContent": true,
+        "alwaysShowContent": false,
+        "showDelay": 0,
+        "hideDelay": 100,
+        "textStyle": {
+            "fontSize": 14
+        },
+        "borderWidth": 0,
+        "padding": 5
+    },
+    "title": [
+        {
+            "text": "network after running h-approximation algorithm",
+            "padding": 5,
+            "itemGap": 10,
+            "textStyle": {
+                "fontSize": 40
+            },
+            "subtextStyle": {
+                "fontSize": 20
+            }
+        }
+    ]
+};
+        chart_676273d6e81e46d8a7ed2ee00e77522d.setOption(option_676273d6e81e46d8a7ed2ee00e77522d);
+    </script>
+<br/>    </div>
+    <script>
+            $('#d958f29ad9e746f0a2a6445f1e48d2cd').resizable().draggable().css('border-style', 'dashed').css('border-width', '1px');$("#d958f29ad9e746f0a2a6445f1e48d2cd>div:nth-child(1)").width("100%").height("100%");
+            new ResizeSensor(jQuery('#d958f29ad9e746f0a2a6445f1e48d2cd'), function() { chart_d958f29ad9e746f0a2a6445f1e48d2cd.resize()});
+            $('#676273d6e81e46d8a7ed2ee00e77522d').resizable().draggable().css('border-style', 'dashed').css('border-width', '1px');$("#676273d6e81e46d8a7ed2ee00e77522d>div:nth-child(1)").width("100%").height("100%");
+            new ResizeSensor(jQuery('#676273d6e81e46d8a7ed2ee00e77522d'), function() { chart_676273d6e81e46d8a7ed2ee00e77522d.resize()});
+            var charts_id = ['d958f29ad9e746f0a2a6445f1e48d2cd','676273d6e81e46d8a7ed2ee00e77522d'];
+function downloadCfg () {
+    const fileName = 'chart_config.json'
+    let downLink = document.createElement('a')
+    downLink.download = fileName
+
+    let result = []
+    for(let i=0; i<charts_id.length; i++) {
+        chart = $('#'+charts_id[i])
+        result.push({
+            cid: charts_id[i],
+            width: chart.css("width"),
+            height: chart.css("height"),
+            top: chart.offset().top + "px",
+            left: chart.offset().left + "px"
+        })
+    }
+
+    let blob = new Blob([JSON.stringify(result)])
+    downLink.href = URL.createObjectURL(blob)
+    document.body.appendChild(downLink)
+    downLink.click()
+    document.body.removeChild(downLink)
+}
+    </script>
+</body>
+</html>

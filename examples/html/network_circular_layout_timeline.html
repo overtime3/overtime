@@ -1,0 +1,2929 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+            <script type="text/javascript" src="https://assets.pyecharts.org/assets/echarts.min.js"></script>
+        <script type="text/javascript" src="https://assets.pyecharts.org/assets/jquery.min.js"></script>
+        <script type="text/javascript" src="https://assets.pyecharts.org/assets/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="https://assets.pyecharts.org/assets/ResizeSensor.js"></script>
+
+            <link rel="stylesheet"  href="https://assets.pyecharts.org/assets/jquery-ui.css">
+
+</head>
+<body>
+    <style>.box {  }; </style>
+        <button onclick="downloadCfg()">Save Config</button>
+    <div class="box">
+                <div id="9af01df7ccaf4166a67f5caaa7c89db0" class="chart-container" style="width:900px; height:500px;"></div>
+    <script>
+        var chart_9af01df7ccaf4166a67f5caaa7c89db0 = echarts.init(
+            document.getElementById('9af01df7ccaf4166a67f5caaa7c89db0'), 'white', {renderer: 'canvas'});
+        var option_9af01df7ccaf4166a67f5caaa7c89db0 = {
+    "baseOption": {
+        "series": [
+            {
+                "type": "graph",
+                "layout": "circular",
+                "symbolSize": 20,
+                "circular": {
+                    "rotateLabel": true
+                },
+                "force": {
+                    "repulsion": 50,
+                    "edgeLength": 50,
+                    "gravity": 0.2
+                },
+                "label": {
+                    "show": true,
+                    "position": "right",
+                    "margin": 8
+                },
+                "lineStyle": {
+                    "show": true,
+                    "width": 1,
+                    "opacity": 1,
+                    "curveness": 0.1,
+                    "type": "solid",
+                    "color": "source"
+                },
+                "roam": true,
+                "draggable": true,
+                "focusNodeAdjacency": true,
+                "data": [
+                    {
+                        "name": "d",
+                        "fixed": false,
+                        "value": 5,
+                        "category": 0
+                    },
+                    {
+                        "name": "c",
+                        "fixed": false,
+                        "value": 2,
+                        "category": 1
+                    },
+                    {
+                        "name": "b",
+                        "fixed": false,
+                        "value": 5,
+                        "category": 0
+                    },
+                    {
+                        "name": "e",
+                        "fixed": false,
+                        "value": 5,
+                        "category": 0
+                    },
+                    {
+                        "name": "f",
+                        "fixed": false,
+                        "value": 2,
+                        "category": 1
+                    },
+                    {
+                        "name": "g",
+                        "fixed": false,
+                        "value": 2,
+                        "category": 1
+                    },
+                    {
+                        "name": "a",
+                        "fixed": false,
+                        "value": 5,
+                        "category": 0
+                    }
+                ],
+                "categories": [
+                    {
+                        "name": "nodes with reachability more than 3"
+                    },
+                    {
+                        "name": "nodes with reachability less than or equal to 3"
+                    }
+                ],
+                "edgeLabel": {
+                    "show": false,
+                    "position": "top",
+                    "margin": 8
+                },
+                "edgeSymbol": [
+                    "circle",
+                    "arrow"
+                ],
+                "edgeSymbolSize": 10,
+                "links": [
+                    {
+                        "source": "f",
+                        "target": "g",
+                        "value": "{start time: 15, end time: 15}"
+                    }
+                ]
+            }
+        ],
+        "timeline": {
+            "axisType": "category",
+            "orient": "horizontal",
+            "autoPlay": false,
+            "controlPosition": "left",
+            "loop": true,
+            "rewind": false,
+            "show": true,
+            "inverse": false,
+            "bottom": "-5px",
+            "data": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12",
+                "13",
+                "14",
+                "15"
+            ]
+        }
+    },
+    "options": [
+        {
+            "legend": [
+                {
+                    "data": [
+                        "nodes with reachability more than 3",
+                        "nodes with reachability less than or equal to 3"
+                    ],
+                    "selected": {
+                        "nodes with reachability more than 3": true,
+                        "nodes with reachability less than or equal to 3": true
+                    },
+                    "show": true,
+                    "left": "2%",
+                    "top": "20%",
+                    "orient": "vertical",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "itemWidth": 25,
+                    "itemHeight": 14,
+                    "textStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "series": [
+                {
+                    "type": "graph",
+                    "layout": "circular",
+                    "symbolSize": 20,
+                    "circular": {
+                        "rotateLabel": true
+                    },
+                    "force": {
+                        "repulsion": 50,
+                        "edgeLength": 50,
+                        "gravity": 0.2
+                    },
+                    "label": {
+                        "show": true,
+                        "position": "right",
+                        "margin": 8
+                    },
+                    "lineStyle": {
+                        "show": true,
+                        "width": 1,
+                        "opacity": 1,
+                        "curveness": 0.1,
+                        "type": "solid",
+                        "color": "source"
+                    },
+                    "roam": true,
+                    "draggable": true,
+                    "focusNodeAdjacency": true,
+                    "data": [
+                        {
+                            "name": "d",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "c",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "b",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "e",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "f",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "g",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "a",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "name": "nodes with reachability more than 3"
+                        },
+                        {
+                            "name": "nodes with reachability less than or equal to 3"
+                        }
+                    ],
+                    "edgeLabel": {
+                        "show": false,
+                        "position": "top",
+                        "margin": 8
+                    },
+                    "edgeSymbol": [
+                        "circle",
+                        "arrow"
+                    ],
+                    "edgeSymbolSize": 10,
+                    "links": [
+                        {
+                            "source": "e",
+                            "target": "a",
+                            "value": "{start time: 1, end time: 1}"
+                        }
+                    ]
+                }
+            ],
+            "title": [
+                {
+                    "text": "circular layout timeline",
+                    "subtext": "simple network",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "textStyle": {
+                        "fontSize": 40
+                    },
+                    "subtextStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "tooltip": {
+                "show": true,
+                "trigger": "item",
+                "triggerOn": "mousemove|click",
+                "axisPointer": {
+                    "type": "line"
+                },
+                "showContent": true,
+                "alwaysShowContent": false,
+                "showDelay": 0,
+                "hideDelay": 100,
+                "textStyle": {
+                    "fontSize": 14
+                },
+                "borderWidth": 0,
+                "padding": 5
+            },
+            "color": [
+                "#c23531",
+                "#2f4554",
+                "#61a0a8",
+                "#d48265",
+                "#749f83",
+                "#ca8622",
+                "#bda29a",
+                "#6e7074",
+                "#546570",
+                "#c4ccd3",
+                "#f05b72",
+                "#ef5b9c",
+                "#f47920",
+                "#905a3d",
+                "#fab27b",
+                "#2a5caa",
+                "#444693",
+                "#726930",
+                "#b2d235",
+                "#6d8346",
+                "#ac6767",
+                "#1d953f",
+                "#6950a1",
+                "#918597"
+            ]
+        },
+        {
+            "legend": [
+                {
+                    "data": [
+                        "nodes with reachability more than 3",
+                        "nodes with reachability less than or equal to 3"
+                    ],
+                    "selected": {
+                        "nodes with reachability more than 3": true,
+                        "nodes with reachability less than or equal to 3": true
+                    },
+                    "show": true,
+                    "left": "2%",
+                    "top": "20%",
+                    "orient": "vertical",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "itemWidth": 25,
+                    "itemHeight": 14,
+                    "textStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "series": [
+                {
+                    "type": "graph",
+                    "layout": "circular",
+                    "symbolSize": 20,
+                    "circular": {
+                        "rotateLabel": true
+                    },
+                    "force": {
+                        "repulsion": 50,
+                        "edgeLength": 50,
+                        "gravity": 0.2
+                    },
+                    "label": {
+                        "show": true,
+                        "position": "right",
+                        "margin": 8
+                    },
+                    "lineStyle": {
+                        "show": true,
+                        "width": 1,
+                        "opacity": 1,
+                        "curveness": 0.1,
+                        "type": "solid",
+                        "color": "source"
+                    },
+                    "roam": true,
+                    "draggable": true,
+                    "focusNodeAdjacency": true,
+                    "data": [
+                        {
+                            "name": "d",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "c",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "b",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "e",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "f",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "g",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "a",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "name": "nodes with reachability more than 3"
+                        },
+                        {
+                            "name": "nodes with reachability less than or equal to 3"
+                        }
+                    ],
+                    "edgeLabel": {
+                        "show": false,
+                        "position": "top",
+                        "margin": 8
+                    },
+                    "edgeSymbol": [
+                        "circle",
+                        "arrow"
+                    ],
+                    "edgeSymbolSize": 10,
+                    "links": [
+                        {
+                            "source": "a",
+                            "target": "e",
+                            "value": "{start time: 2, end time: 2}"
+                        }
+                    ]
+                }
+            ],
+            "title": [
+                {
+                    "text": "circular layout timeline",
+                    "subtext": "simple network",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "textStyle": {
+                        "fontSize": 40
+                    },
+                    "subtextStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "tooltip": {
+                "show": true,
+                "trigger": "item",
+                "triggerOn": "mousemove|click",
+                "axisPointer": {
+                    "type": "line"
+                },
+                "showContent": true,
+                "alwaysShowContent": false,
+                "showDelay": 0,
+                "hideDelay": 100,
+                "textStyle": {
+                    "fontSize": 14
+                },
+                "borderWidth": 0,
+                "padding": 5
+            },
+            "color": [
+                "#c23531",
+                "#2f4554",
+                "#61a0a8",
+                "#d48265",
+                "#749f83",
+                "#ca8622",
+                "#bda29a",
+                "#6e7074",
+                "#546570",
+                "#c4ccd3",
+                "#f05b72",
+                "#ef5b9c",
+                "#f47920",
+                "#905a3d",
+                "#fab27b",
+                "#2a5caa",
+                "#444693",
+                "#726930",
+                "#b2d235",
+                "#6d8346",
+                "#ac6767",
+                "#1d953f",
+                "#6950a1",
+                "#918597"
+            ]
+        },
+        {
+            "legend": [
+                {
+                    "data": [
+                        "nodes with reachability more than 3",
+                        "nodes with reachability less than or equal to 3"
+                    ],
+                    "selected": {
+                        "nodes with reachability more than 3": true,
+                        "nodes with reachability less than or equal to 3": true
+                    },
+                    "show": true,
+                    "left": "2%",
+                    "top": "20%",
+                    "orient": "vertical",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "itemWidth": 25,
+                    "itemHeight": 14,
+                    "textStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "series": [
+                {
+                    "type": "graph",
+                    "layout": "circular",
+                    "symbolSize": 20,
+                    "circular": {
+                        "rotateLabel": true
+                    },
+                    "force": {
+                        "repulsion": 50,
+                        "edgeLength": 50,
+                        "gravity": 0.2
+                    },
+                    "label": {
+                        "show": true,
+                        "position": "right",
+                        "margin": 8
+                    },
+                    "lineStyle": {
+                        "show": true,
+                        "width": 1,
+                        "opacity": 1,
+                        "curveness": 0.1,
+                        "type": "solid",
+                        "color": "source"
+                    },
+                    "roam": true,
+                    "draggable": true,
+                    "focusNodeAdjacency": true,
+                    "data": [
+                        {
+                            "name": "d",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "c",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "b",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "e",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "f",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "g",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "a",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "name": "nodes with reachability more than 3"
+                        },
+                        {
+                            "name": "nodes with reachability less than or equal to 3"
+                        }
+                    ],
+                    "edgeLabel": {
+                        "show": false,
+                        "position": "top",
+                        "margin": 8
+                    },
+                    "edgeSymbol": [
+                        "circle",
+                        "arrow"
+                    ],
+                    "edgeSymbolSize": 10,
+                    "links": []
+                }
+            ],
+            "title": [
+                {
+                    "text": "circular layout timeline",
+                    "subtext": "simple network",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "textStyle": {
+                        "fontSize": 40
+                    },
+                    "subtextStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "tooltip": {
+                "show": true,
+                "trigger": "item",
+                "triggerOn": "mousemove|click",
+                "axisPointer": {
+                    "type": "line"
+                },
+                "showContent": true,
+                "alwaysShowContent": false,
+                "showDelay": 0,
+                "hideDelay": 100,
+                "textStyle": {
+                    "fontSize": 14
+                },
+                "borderWidth": 0,
+                "padding": 5
+            },
+            "color": [
+                "#c23531",
+                "#2f4554",
+                "#61a0a8",
+                "#d48265",
+                "#749f83",
+                "#ca8622",
+                "#bda29a",
+                "#6e7074",
+                "#546570",
+                "#c4ccd3",
+                "#f05b72",
+                "#ef5b9c",
+                "#f47920",
+                "#905a3d",
+                "#fab27b",
+                "#2a5caa",
+                "#444693",
+                "#726930",
+                "#b2d235",
+                "#6d8346",
+                "#ac6767",
+                "#1d953f",
+                "#6950a1",
+                "#918597"
+            ]
+        },
+        {
+            "legend": [
+                {
+                    "data": [
+                        "nodes with reachability more than 3",
+                        "nodes with reachability less than or equal to 3"
+                    ],
+                    "selected": {
+                        "nodes with reachability more than 3": true,
+                        "nodes with reachability less than or equal to 3": true
+                    },
+                    "show": true,
+                    "left": "2%",
+                    "top": "20%",
+                    "orient": "vertical",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "itemWidth": 25,
+                    "itemHeight": 14,
+                    "textStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "series": [
+                {
+                    "type": "graph",
+                    "layout": "circular",
+                    "symbolSize": 20,
+                    "circular": {
+                        "rotateLabel": true
+                    },
+                    "force": {
+                        "repulsion": 50,
+                        "edgeLength": 50,
+                        "gravity": 0.2
+                    },
+                    "label": {
+                        "show": true,
+                        "position": "right",
+                        "margin": 8
+                    },
+                    "lineStyle": {
+                        "show": true,
+                        "width": 1,
+                        "opacity": 1,
+                        "curveness": 0.1,
+                        "type": "solid",
+                        "color": "source"
+                    },
+                    "roam": true,
+                    "draggable": true,
+                    "focusNodeAdjacency": true,
+                    "data": [
+                        {
+                            "name": "d",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "c",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "b",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "e",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "f",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "g",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "a",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "name": "nodes with reachability more than 3"
+                        },
+                        {
+                            "name": "nodes with reachability less than or equal to 3"
+                        }
+                    ],
+                    "edgeLabel": {
+                        "show": false,
+                        "position": "top",
+                        "margin": 8
+                    },
+                    "edgeSymbol": [
+                        "circle",
+                        "arrow"
+                    ],
+                    "edgeSymbolSize": 10,
+                    "links": []
+                }
+            ],
+            "title": [
+                {
+                    "text": "circular layout timeline",
+                    "subtext": "simple network",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "textStyle": {
+                        "fontSize": 40
+                    },
+                    "subtextStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "tooltip": {
+                "show": true,
+                "trigger": "item",
+                "triggerOn": "mousemove|click",
+                "axisPointer": {
+                    "type": "line"
+                },
+                "showContent": true,
+                "alwaysShowContent": false,
+                "showDelay": 0,
+                "hideDelay": 100,
+                "textStyle": {
+                    "fontSize": 14
+                },
+                "borderWidth": 0,
+                "padding": 5
+            },
+            "color": [
+                "#c23531",
+                "#2f4554",
+                "#61a0a8",
+                "#d48265",
+                "#749f83",
+                "#ca8622",
+                "#bda29a",
+                "#6e7074",
+                "#546570",
+                "#c4ccd3",
+                "#f05b72",
+                "#ef5b9c",
+                "#f47920",
+                "#905a3d",
+                "#fab27b",
+                "#2a5caa",
+                "#444693",
+                "#726930",
+                "#b2d235",
+                "#6d8346",
+                "#ac6767",
+                "#1d953f",
+                "#6950a1",
+                "#918597"
+            ]
+        },
+        {
+            "legend": [
+                {
+                    "data": [
+                        "nodes with reachability more than 3",
+                        "nodes with reachability less than or equal to 3"
+                    ],
+                    "selected": {
+                        "nodes with reachability more than 3": true,
+                        "nodes with reachability less than or equal to 3": true
+                    },
+                    "show": true,
+                    "left": "2%",
+                    "top": "20%",
+                    "orient": "vertical",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "itemWidth": 25,
+                    "itemHeight": 14,
+                    "textStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "series": [
+                {
+                    "type": "graph",
+                    "layout": "circular",
+                    "symbolSize": 20,
+                    "circular": {
+                        "rotateLabel": true
+                    },
+                    "force": {
+                        "repulsion": 50,
+                        "edgeLength": 50,
+                        "gravity": 0.2
+                    },
+                    "label": {
+                        "show": true,
+                        "position": "right",
+                        "margin": 8
+                    },
+                    "lineStyle": {
+                        "show": true,
+                        "width": 1,
+                        "opacity": 1,
+                        "curveness": 0.1,
+                        "type": "solid",
+                        "color": "source"
+                    },
+                    "roam": true,
+                    "draggable": true,
+                    "focusNodeAdjacency": true,
+                    "data": [
+                        {
+                            "name": "d",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "c",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "b",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "e",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "f",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "g",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "a",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "name": "nodes with reachability more than 3"
+                        },
+                        {
+                            "name": "nodes with reachability less than or equal to 3"
+                        }
+                    ],
+                    "edgeLabel": {
+                        "show": false,
+                        "position": "top",
+                        "margin": 8
+                    },
+                    "edgeSymbol": [
+                        "circle",
+                        "arrow"
+                    ],
+                    "edgeSymbolSize": 10,
+                    "links": [
+                        {
+                            "source": "e",
+                            "target": "b",
+                            "value": "{start time: 5, end time: 5}"
+                        },
+                        {
+                            "source": "b",
+                            "target": "a",
+                            "value": "{start time: 5, end time: 5}"
+                        },
+                        {
+                            "source": "g",
+                            "target": "f",
+                            "value": "{start time: 5, end time: 5}"
+                        }
+                    ]
+                }
+            ],
+            "title": [
+                {
+                    "text": "circular layout timeline",
+                    "subtext": "simple network",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "textStyle": {
+                        "fontSize": 40
+                    },
+                    "subtextStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "tooltip": {
+                "show": true,
+                "trigger": "item",
+                "triggerOn": "mousemove|click",
+                "axisPointer": {
+                    "type": "line"
+                },
+                "showContent": true,
+                "alwaysShowContent": false,
+                "showDelay": 0,
+                "hideDelay": 100,
+                "textStyle": {
+                    "fontSize": 14
+                },
+                "borderWidth": 0,
+                "padding": 5
+            },
+            "color": [
+                "#c23531",
+                "#2f4554",
+                "#61a0a8",
+                "#d48265",
+                "#749f83",
+                "#ca8622",
+                "#bda29a",
+                "#6e7074",
+                "#546570",
+                "#c4ccd3",
+                "#f05b72",
+                "#ef5b9c",
+                "#f47920",
+                "#905a3d",
+                "#fab27b",
+                "#2a5caa",
+                "#444693",
+                "#726930",
+                "#b2d235",
+                "#6d8346",
+                "#ac6767",
+                "#1d953f",
+                "#6950a1",
+                "#918597"
+            ]
+        },
+        {
+            "legend": [
+                {
+                    "data": [
+                        "nodes with reachability more than 3",
+                        "nodes with reachability less than or equal to 3"
+                    ],
+                    "selected": {
+                        "nodes with reachability more than 3": true,
+                        "nodes with reachability less than or equal to 3": true
+                    },
+                    "show": true,
+                    "left": "2%",
+                    "top": "20%",
+                    "orient": "vertical",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "itemWidth": 25,
+                    "itemHeight": 14,
+                    "textStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "series": [
+                {
+                    "type": "graph",
+                    "layout": "circular",
+                    "symbolSize": 20,
+                    "circular": {
+                        "rotateLabel": true
+                    },
+                    "force": {
+                        "repulsion": 50,
+                        "edgeLength": 50,
+                        "gravity": 0.2
+                    },
+                    "label": {
+                        "show": true,
+                        "position": "right",
+                        "margin": 8
+                    },
+                    "lineStyle": {
+                        "show": true,
+                        "width": 1,
+                        "opacity": 1,
+                        "curveness": 0.1,
+                        "type": "solid",
+                        "color": "source"
+                    },
+                    "roam": true,
+                    "draggable": true,
+                    "focusNodeAdjacency": true,
+                    "data": [
+                        {
+                            "name": "d",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "c",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "b",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "e",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "f",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "g",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "a",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "name": "nodes with reachability more than 3"
+                        },
+                        {
+                            "name": "nodes with reachability less than or equal to 3"
+                        }
+                    ],
+                    "edgeLabel": {
+                        "show": false,
+                        "position": "top",
+                        "margin": 8
+                    },
+                    "edgeSymbol": [
+                        "circle",
+                        "arrow"
+                    ],
+                    "edgeSymbolSize": 10,
+                    "links": [
+                        {
+                            "source": "b",
+                            "target": "d",
+                            "value": "{start time: 6, end time: 6}"
+                        }
+                    ]
+                }
+            ],
+            "title": [
+                {
+                    "text": "circular layout timeline",
+                    "subtext": "simple network",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "textStyle": {
+                        "fontSize": 40
+                    },
+                    "subtextStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "tooltip": {
+                "show": true,
+                "trigger": "item",
+                "triggerOn": "mousemove|click",
+                "axisPointer": {
+                    "type": "line"
+                },
+                "showContent": true,
+                "alwaysShowContent": false,
+                "showDelay": 0,
+                "hideDelay": 100,
+                "textStyle": {
+                    "fontSize": 14
+                },
+                "borderWidth": 0,
+                "padding": 5
+            },
+            "color": [
+                "#c23531",
+                "#2f4554",
+                "#61a0a8",
+                "#d48265",
+                "#749f83",
+                "#ca8622",
+                "#bda29a",
+                "#6e7074",
+                "#546570",
+                "#c4ccd3",
+                "#f05b72",
+                "#ef5b9c",
+                "#f47920",
+                "#905a3d",
+                "#fab27b",
+                "#2a5caa",
+                "#444693",
+                "#726930",
+                "#b2d235",
+                "#6d8346",
+                "#ac6767",
+                "#1d953f",
+                "#6950a1",
+                "#918597"
+            ]
+        },
+        {
+            "legend": [
+                {
+                    "data": [
+                        "nodes with reachability more than 3",
+                        "nodes with reachability less than or equal to 3"
+                    ],
+                    "selected": {
+                        "nodes with reachability more than 3": true,
+                        "nodes with reachability less than or equal to 3": true
+                    },
+                    "show": true,
+                    "left": "2%",
+                    "top": "20%",
+                    "orient": "vertical",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "itemWidth": 25,
+                    "itemHeight": 14,
+                    "textStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "series": [
+                {
+                    "type": "graph",
+                    "layout": "circular",
+                    "symbolSize": 20,
+                    "circular": {
+                        "rotateLabel": true
+                    },
+                    "force": {
+                        "repulsion": 50,
+                        "edgeLength": 50,
+                        "gravity": 0.2
+                    },
+                    "label": {
+                        "show": true,
+                        "position": "right",
+                        "margin": 8
+                    },
+                    "lineStyle": {
+                        "show": true,
+                        "width": 1,
+                        "opacity": 1,
+                        "curveness": 0.1,
+                        "type": "solid",
+                        "color": "source"
+                    },
+                    "roam": true,
+                    "draggable": true,
+                    "focusNodeAdjacency": true,
+                    "data": [
+                        {
+                            "name": "d",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "c",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "b",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "e",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "f",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "g",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "a",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "name": "nodes with reachability more than 3"
+                        },
+                        {
+                            "name": "nodes with reachability less than or equal to 3"
+                        }
+                    ],
+                    "edgeLabel": {
+                        "show": false,
+                        "position": "top",
+                        "margin": 8
+                    },
+                    "edgeSymbol": [
+                        "circle",
+                        "arrow"
+                    ],
+                    "edgeSymbolSize": 10,
+                    "links": [
+                        {
+                            "source": "d",
+                            "target": "c",
+                            "value": "{start time: 7, end time: 7}"
+                        },
+                        {
+                            "source": "a",
+                            "target": "d",
+                            "value": "{start time: 7, end time: 7}"
+                        },
+                        {
+                            "source": "d",
+                            "target": "e",
+                            "value": "{start time: 7, end time: 7}"
+                        }
+                    ]
+                }
+            ],
+            "title": [
+                {
+                    "text": "circular layout timeline",
+                    "subtext": "simple network",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "textStyle": {
+                        "fontSize": 40
+                    },
+                    "subtextStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "tooltip": {
+                "show": true,
+                "trigger": "item",
+                "triggerOn": "mousemove|click",
+                "axisPointer": {
+                    "type": "line"
+                },
+                "showContent": true,
+                "alwaysShowContent": false,
+                "showDelay": 0,
+                "hideDelay": 100,
+                "textStyle": {
+                    "fontSize": 14
+                },
+                "borderWidth": 0,
+                "padding": 5
+            },
+            "color": [
+                "#c23531",
+                "#2f4554",
+                "#61a0a8",
+                "#d48265",
+                "#749f83",
+                "#ca8622",
+                "#bda29a",
+                "#6e7074",
+                "#546570",
+                "#c4ccd3",
+                "#f05b72",
+                "#ef5b9c",
+                "#f47920",
+                "#905a3d",
+                "#fab27b",
+                "#2a5caa",
+                "#444693",
+                "#726930",
+                "#b2d235",
+                "#6d8346",
+                "#ac6767",
+                "#1d953f",
+                "#6950a1",
+                "#918597"
+            ]
+        },
+        {
+            "legend": [
+                {
+                    "data": [
+                        "nodes with reachability more than 3",
+                        "nodes with reachability less than or equal to 3"
+                    ],
+                    "selected": {
+                        "nodes with reachability more than 3": true,
+                        "nodes with reachability less than or equal to 3": true
+                    },
+                    "show": true,
+                    "left": "2%",
+                    "top": "20%",
+                    "orient": "vertical",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "itemWidth": 25,
+                    "itemHeight": 14,
+                    "textStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "series": [
+                {
+                    "type": "graph",
+                    "layout": "circular",
+                    "symbolSize": 20,
+                    "circular": {
+                        "rotateLabel": true
+                    },
+                    "force": {
+                        "repulsion": 50,
+                        "edgeLength": 50,
+                        "gravity": 0.2
+                    },
+                    "label": {
+                        "show": true,
+                        "position": "right",
+                        "margin": 8
+                    },
+                    "lineStyle": {
+                        "show": true,
+                        "width": 1,
+                        "opacity": 1,
+                        "curveness": 0.1,
+                        "type": "solid",
+                        "color": "source"
+                    },
+                    "roam": true,
+                    "draggable": true,
+                    "focusNodeAdjacency": true,
+                    "data": [
+                        {
+                            "name": "d",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "c",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "b",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "e",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "f",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "g",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "a",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "name": "nodes with reachability more than 3"
+                        },
+                        {
+                            "name": "nodes with reachability less than or equal to 3"
+                        }
+                    ],
+                    "edgeLabel": {
+                        "show": false,
+                        "position": "top",
+                        "margin": 8
+                    },
+                    "edgeSymbol": [
+                        "circle",
+                        "arrow"
+                    ],
+                    "edgeSymbolSize": 10,
+                    "links": [
+                        {
+                            "source": "d",
+                            "target": "c",
+                            "value": "{start time: 8, end time: 8}"
+                        },
+                        {
+                            "source": "f",
+                            "target": "g",
+                            "value": "{start time: 8, end time: 8}"
+                        }
+                    ]
+                }
+            ],
+            "title": [
+                {
+                    "text": "circular layout timeline",
+                    "subtext": "simple network",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "textStyle": {
+                        "fontSize": 40
+                    },
+                    "subtextStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "tooltip": {
+                "show": true,
+                "trigger": "item",
+                "triggerOn": "mousemove|click",
+                "axisPointer": {
+                    "type": "line"
+                },
+                "showContent": true,
+                "alwaysShowContent": false,
+                "showDelay": 0,
+                "hideDelay": 100,
+                "textStyle": {
+                    "fontSize": 14
+                },
+                "borderWidth": 0,
+                "padding": 5
+            },
+            "color": [
+                "#c23531",
+                "#2f4554",
+                "#61a0a8",
+                "#d48265",
+                "#749f83",
+                "#ca8622",
+                "#bda29a",
+                "#6e7074",
+                "#546570",
+                "#c4ccd3",
+                "#f05b72",
+                "#ef5b9c",
+                "#f47920",
+                "#905a3d",
+                "#fab27b",
+                "#2a5caa",
+                "#444693",
+                "#726930",
+                "#b2d235",
+                "#6d8346",
+                "#ac6767",
+                "#1d953f",
+                "#6950a1",
+                "#918597"
+            ]
+        },
+        {
+            "legend": [
+                {
+                    "data": [
+                        "nodes with reachability more than 3",
+                        "nodes with reachability less than or equal to 3"
+                    ],
+                    "selected": {
+                        "nodes with reachability more than 3": true,
+                        "nodes with reachability less than or equal to 3": true
+                    },
+                    "show": true,
+                    "left": "2%",
+                    "top": "20%",
+                    "orient": "vertical",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "itemWidth": 25,
+                    "itemHeight": 14,
+                    "textStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "series": [
+                {
+                    "type": "graph",
+                    "layout": "circular",
+                    "symbolSize": 20,
+                    "circular": {
+                        "rotateLabel": true
+                    },
+                    "force": {
+                        "repulsion": 50,
+                        "edgeLength": 50,
+                        "gravity": 0.2
+                    },
+                    "label": {
+                        "show": true,
+                        "position": "right",
+                        "margin": 8
+                    },
+                    "lineStyle": {
+                        "show": true,
+                        "width": 1,
+                        "opacity": 1,
+                        "curveness": 0.1,
+                        "type": "solid",
+                        "color": "source"
+                    },
+                    "roam": true,
+                    "draggable": true,
+                    "focusNodeAdjacency": true,
+                    "data": [
+                        {
+                            "name": "d",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "c",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "b",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "e",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "f",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "g",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "a",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "name": "nodes with reachability more than 3"
+                        },
+                        {
+                            "name": "nodes with reachability less than or equal to 3"
+                        }
+                    ],
+                    "edgeLabel": {
+                        "show": false,
+                        "position": "top",
+                        "margin": 8
+                    },
+                    "edgeSymbol": [
+                        "circle",
+                        "arrow"
+                    ],
+                    "edgeSymbolSize": 10,
+                    "links": [
+                        {
+                            "source": "d",
+                            "target": "b",
+                            "value": "{start time: 9, end time: 9}"
+                        },
+                        {
+                            "source": "b",
+                            "target": "c",
+                            "value": "{start time: 9, end time: 9}"
+                        }
+                    ]
+                }
+            ],
+            "title": [
+                {
+                    "text": "circular layout timeline",
+                    "subtext": "simple network",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "textStyle": {
+                        "fontSize": 40
+                    },
+                    "subtextStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "tooltip": {
+                "show": true,
+                "trigger": "item",
+                "triggerOn": "mousemove|click",
+                "axisPointer": {
+                    "type": "line"
+                },
+                "showContent": true,
+                "alwaysShowContent": false,
+                "showDelay": 0,
+                "hideDelay": 100,
+                "textStyle": {
+                    "fontSize": 14
+                },
+                "borderWidth": 0,
+                "padding": 5
+            },
+            "color": [
+                "#c23531",
+                "#2f4554",
+                "#61a0a8",
+                "#d48265",
+                "#749f83",
+                "#ca8622",
+                "#bda29a",
+                "#6e7074",
+                "#546570",
+                "#c4ccd3",
+                "#f05b72",
+                "#ef5b9c",
+                "#f47920",
+                "#905a3d",
+                "#fab27b",
+                "#2a5caa",
+                "#444693",
+                "#726930",
+                "#b2d235",
+                "#6d8346",
+                "#ac6767",
+                "#1d953f",
+                "#6950a1",
+                "#918597"
+            ]
+        },
+        {
+            "legend": [
+                {
+                    "data": [
+                        "nodes with reachability more than 3",
+                        "nodes with reachability less than or equal to 3"
+                    ],
+                    "selected": {
+                        "nodes with reachability more than 3": true,
+                        "nodes with reachability less than or equal to 3": true
+                    },
+                    "show": true,
+                    "left": "2%",
+                    "top": "20%",
+                    "orient": "vertical",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "itemWidth": 25,
+                    "itemHeight": 14,
+                    "textStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "series": [
+                {
+                    "type": "graph",
+                    "layout": "circular",
+                    "symbolSize": 20,
+                    "circular": {
+                        "rotateLabel": true
+                    },
+                    "force": {
+                        "repulsion": 50,
+                        "edgeLength": 50,
+                        "gravity": 0.2
+                    },
+                    "label": {
+                        "show": true,
+                        "position": "right",
+                        "margin": 8
+                    },
+                    "lineStyle": {
+                        "show": true,
+                        "width": 1,
+                        "opacity": 1,
+                        "curveness": 0.1,
+                        "type": "solid",
+                        "color": "source"
+                    },
+                    "roam": true,
+                    "draggable": true,
+                    "focusNodeAdjacency": true,
+                    "data": [
+                        {
+                            "name": "d",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "c",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "b",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "e",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "f",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "g",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "a",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "name": "nodes with reachability more than 3"
+                        },
+                        {
+                            "name": "nodes with reachability less than or equal to 3"
+                        }
+                    ],
+                    "edgeLabel": {
+                        "show": false,
+                        "position": "top",
+                        "margin": 8
+                    },
+                    "edgeSymbol": [
+                        "circle",
+                        "arrow"
+                    ],
+                    "edgeSymbolSize": 10,
+                    "links": [
+                        {
+                            "source": "a",
+                            "target": "c",
+                            "value": "{start time: 10, end time: 10}"
+                        },
+                        {
+                            "source": "b",
+                            "target": "c",
+                            "value": "{start time: 10, end time: 10}"
+                        }
+                    ]
+                }
+            ],
+            "title": [
+                {
+                    "text": "circular layout timeline",
+                    "subtext": "simple network",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "textStyle": {
+                        "fontSize": 40
+                    },
+                    "subtextStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "tooltip": {
+                "show": true,
+                "trigger": "item",
+                "triggerOn": "mousemove|click",
+                "axisPointer": {
+                    "type": "line"
+                },
+                "showContent": true,
+                "alwaysShowContent": false,
+                "showDelay": 0,
+                "hideDelay": 100,
+                "textStyle": {
+                    "fontSize": 14
+                },
+                "borderWidth": 0,
+                "padding": 5
+            },
+            "color": [
+                "#c23531",
+                "#2f4554",
+                "#61a0a8",
+                "#d48265",
+                "#749f83",
+                "#ca8622",
+                "#bda29a",
+                "#6e7074",
+                "#546570",
+                "#c4ccd3",
+                "#f05b72",
+                "#ef5b9c",
+                "#f47920",
+                "#905a3d",
+                "#fab27b",
+                "#2a5caa",
+                "#444693",
+                "#726930",
+                "#b2d235",
+                "#6d8346",
+                "#ac6767",
+                "#1d953f",
+                "#6950a1",
+                "#918597"
+            ]
+        },
+        {
+            "legend": [
+                {
+                    "data": [
+                        "nodes with reachability more than 3",
+                        "nodes with reachability less than or equal to 3"
+                    ],
+                    "selected": {
+                        "nodes with reachability more than 3": true,
+                        "nodes with reachability less than or equal to 3": true
+                    },
+                    "show": true,
+                    "left": "2%",
+                    "top": "20%",
+                    "orient": "vertical",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "itemWidth": 25,
+                    "itemHeight": 14,
+                    "textStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "series": [
+                {
+                    "type": "graph",
+                    "layout": "circular",
+                    "symbolSize": 20,
+                    "circular": {
+                        "rotateLabel": true
+                    },
+                    "force": {
+                        "repulsion": 50,
+                        "edgeLength": 50,
+                        "gravity": 0.2
+                    },
+                    "label": {
+                        "show": true,
+                        "position": "right",
+                        "margin": 8
+                    },
+                    "lineStyle": {
+                        "show": true,
+                        "width": 1,
+                        "opacity": 1,
+                        "curveness": 0.1,
+                        "type": "solid",
+                        "color": "source"
+                    },
+                    "roam": true,
+                    "draggable": true,
+                    "focusNodeAdjacency": true,
+                    "data": [
+                        {
+                            "name": "d",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "c",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "b",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "e",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "f",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "g",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "a",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "name": "nodes with reachability more than 3"
+                        },
+                        {
+                            "name": "nodes with reachability less than or equal to 3"
+                        }
+                    ],
+                    "edgeLabel": {
+                        "show": false,
+                        "position": "top",
+                        "margin": 8
+                    },
+                    "edgeSymbol": [
+                        "circle",
+                        "arrow"
+                    ],
+                    "edgeSymbolSize": 10,
+                    "links": [
+                        {
+                            "source": "c",
+                            "target": "a",
+                            "value": "{start time: 11, end time: 11}"
+                        }
+                    ]
+                }
+            ],
+            "title": [
+                {
+                    "text": "circular layout timeline",
+                    "subtext": "simple network",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "textStyle": {
+                        "fontSize": 40
+                    },
+                    "subtextStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "tooltip": {
+                "show": true,
+                "trigger": "item",
+                "triggerOn": "mousemove|click",
+                "axisPointer": {
+                    "type": "line"
+                },
+                "showContent": true,
+                "alwaysShowContent": false,
+                "showDelay": 0,
+                "hideDelay": 100,
+                "textStyle": {
+                    "fontSize": 14
+                },
+                "borderWidth": 0,
+                "padding": 5
+            },
+            "color": [
+                "#c23531",
+                "#2f4554",
+                "#61a0a8",
+                "#d48265",
+                "#749f83",
+                "#ca8622",
+                "#bda29a",
+                "#6e7074",
+                "#546570",
+                "#c4ccd3",
+                "#f05b72",
+                "#ef5b9c",
+                "#f47920",
+                "#905a3d",
+                "#fab27b",
+                "#2a5caa",
+                "#444693",
+                "#726930",
+                "#b2d235",
+                "#6d8346",
+                "#ac6767",
+                "#1d953f",
+                "#6950a1",
+                "#918597"
+            ]
+        },
+        {
+            "legend": [
+                {
+                    "data": [
+                        "nodes with reachability more than 3",
+                        "nodes with reachability less than or equal to 3"
+                    ],
+                    "selected": {
+                        "nodes with reachability more than 3": true,
+                        "nodes with reachability less than or equal to 3": true
+                    },
+                    "show": true,
+                    "left": "2%",
+                    "top": "20%",
+                    "orient": "vertical",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "itemWidth": 25,
+                    "itemHeight": 14,
+                    "textStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "series": [
+                {
+                    "type": "graph",
+                    "layout": "circular",
+                    "symbolSize": 20,
+                    "circular": {
+                        "rotateLabel": true
+                    },
+                    "force": {
+                        "repulsion": 50,
+                        "edgeLength": 50,
+                        "gravity": 0.2
+                    },
+                    "label": {
+                        "show": true,
+                        "position": "right",
+                        "margin": 8
+                    },
+                    "lineStyle": {
+                        "show": true,
+                        "width": 1,
+                        "opacity": 1,
+                        "curveness": 0.1,
+                        "type": "solid",
+                        "color": "source"
+                    },
+                    "roam": true,
+                    "draggable": true,
+                    "focusNodeAdjacency": true,
+                    "data": [
+                        {
+                            "name": "d",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "c",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "b",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "e",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "f",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "g",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "a",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "name": "nodes with reachability more than 3"
+                        },
+                        {
+                            "name": "nodes with reachability less than or equal to 3"
+                        }
+                    ],
+                    "edgeLabel": {
+                        "show": false,
+                        "position": "top",
+                        "margin": 8
+                    },
+                    "edgeSymbol": [
+                        "circle",
+                        "arrow"
+                    ],
+                    "edgeSymbolSize": 10,
+                    "links": [
+                        {
+                            "source": "a",
+                            "target": "c",
+                            "value": "{start time: 12, end time: 12}"
+                        }
+                    ]
+                }
+            ],
+            "title": [
+                {
+                    "text": "circular layout timeline",
+                    "subtext": "simple network",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "textStyle": {
+                        "fontSize": 40
+                    },
+                    "subtextStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "tooltip": {
+                "show": true,
+                "trigger": "item",
+                "triggerOn": "mousemove|click",
+                "axisPointer": {
+                    "type": "line"
+                },
+                "showContent": true,
+                "alwaysShowContent": false,
+                "showDelay": 0,
+                "hideDelay": 100,
+                "textStyle": {
+                    "fontSize": 14
+                },
+                "borderWidth": 0,
+                "padding": 5
+            },
+            "color": [
+                "#c23531",
+                "#2f4554",
+                "#61a0a8",
+                "#d48265",
+                "#749f83",
+                "#ca8622",
+                "#bda29a",
+                "#6e7074",
+                "#546570",
+                "#c4ccd3",
+                "#f05b72",
+                "#ef5b9c",
+                "#f47920",
+                "#905a3d",
+                "#fab27b",
+                "#2a5caa",
+                "#444693",
+                "#726930",
+                "#b2d235",
+                "#6d8346",
+                "#ac6767",
+                "#1d953f",
+                "#6950a1",
+                "#918597"
+            ]
+        },
+        {
+            "legend": [
+                {
+                    "data": [
+                        "nodes with reachability more than 3",
+                        "nodes with reachability less than or equal to 3"
+                    ],
+                    "selected": {
+                        "nodes with reachability more than 3": true,
+                        "nodes with reachability less than or equal to 3": true
+                    },
+                    "show": true,
+                    "left": "2%",
+                    "top": "20%",
+                    "orient": "vertical",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "itemWidth": 25,
+                    "itemHeight": 14,
+                    "textStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "series": [
+                {
+                    "type": "graph",
+                    "layout": "circular",
+                    "symbolSize": 20,
+                    "circular": {
+                        "rotateLabel": true
+                    },
+                    "force": {
+                        "repulsion": 50,
+                        "edgeLength": 50,
+                        "gravity": 0.2
+                    },
+                    "label": {
+                        "show": true,
+                        "position": "right",
+                        "margin": 8
+                    },
+                    "lineStyle": {
+                        "show": true,
+                        "width": 1,
+                        "opacity": 1,
+                        "curveness": 0.1,
+                        "type": "solid",
+                        "color": "source"
+                    },
+                    "roam": true,
+                    "draggable": true,
+                    "focusNodeAdjacency": true,
+                    "data": [
+                        {
+                            "name": "d",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "c",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "b",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "e",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "f",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "g",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "a",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "name": "nodes with reachability more than 3"
+                        },
+                        {
+                            "name": "nodes with reachability less than or equal to 3"
+                        }
+                    ],
+                    "edgeLabel": {
+                        "show": false,
+                        "position": "top",
+                        "margin": 8
+                    },
+                    "edgeSymbol": [
+                        "circle",
+                        "arrow"
+                    ],
+                    "edgeSymbolSize": 10,
+                    "links": []
+                }
+            ],
+            "title": [
+                {
+                    "text": "circular layout timeline",
+                    "subtext": "simple network",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "textStyle": {
+                        "fontSize": 40
+                    },
+                    "subtextStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "tooltip": {
+                "show": true,
+                "trigger": "item",
+                "triggerOn": "mousemove|click",
+                "axisPointer": {
+                    "type": "line"
+                },
+                "showContent": true,
+                "alwaysShowContent": false,
+                "showDelay": 0,
+                "hideDelay": 100,
+                "textStyle": {
+                    "fontSize": 14
+                },
+                "borderWidth": 0,
+                "padding": 5
+            },
+            "color": [
+                "#c23531",
+                "#2f4554",
+                "#61a0a8",
+                "#d48265",
+                "#749f83",
+                "#ca8622",
+                "#bda29a",
+                "#6e7074",
+                "#546570",
+                "#c4ccd3",
+                "#f05b72",
+                "#ef5b9c",
+                "#f47920",
+                "#905a3d",
+                "#fab27b",
+                "#2a5caa",
+                "#444693",
+                "#726930",
+                "#b2d235",
+                "#6d8346",
+                "#ac6767",
+                "#1d953f",
+                "#6950a1",
+                "#918597"
+            ]
+        },
+        {
+            "legend": [
+                {
+                    "data": [
+                        "nodes with reachability more than 3",
+                        "nodes with reachability less than or equal to 3"
+                    ],
+                    "selected": {
+                        "nodes with reachability more than 3": true,
+                        "nodes with reachability less than or equal to 3": true
+                    },
+                    "show": true,
+                    "left": "2%",
+                    "top": "20%",
+                    "orient": "vertical",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "itemWidth": 25,
+                    "itemHeight": 14,
+                    "textStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "series": [
+                {
+                    "type": "graph",
+                    "layout": "circular",
+                    "symbolSize": 20,
+                    "circular": {
+                        "rotateLabel": true
+                    },
+                    "force": {
+                        "repulsion": 50,
+                        "edgeLength": 50,
+                        "gravity": 0.2
+                    },
+                    "label": {
+                        "show": true,
+                        "position": "right",
+                        "margin": 8
+                    },
+                    "lineStyle": {
+                        "show": true,
+                        "width": 1,
+                        "opacity": 1,
+                        "curveness": 0.1,
+                        "type": "solid",
+                        "color": "source"
+                    },
+                    "roam": true,
+                    "draggable": true,
+                    "focusNodeAdjacency": true,
+                    "data": [
+                        {
+                            "name": "d",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "c",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "b",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "e",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "f",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "g",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "a",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "name": "nodes with reachability more than 3"
+                        },
+                        {
+                            "name": "nodes with reachability less than or equal to 3"
+                        }
+                    ],
+                    "edgeLabel": {
+                        "show": false,
+                        "position": "top",
+                        "margin": 8
+                    },
+                    "edgeSymbol": [
+                        "circle",
+                        "arrow"
+                    ],
+                    "edgeSymbolSize": 10,
+                    "links": []
+                }
+            ],
+            "title": [
+                {
+                    "text": "circular layout timeline",
+                    "subtext": "simple network",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "textStyle": {
+                        "fontSize": 40
+                    },
+                    "subtextStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "tooltip": {
+                "show": true,
+                "trigger": "item",
+                "triggerOn": "mousemove|click",
+                "axisPointer": {
+                    "type": "line"
+                },
+                "showContent": true,
+                "alwaysShowContent": false,
+                "showDelay": 0,
+                "hideDelay": 100,
+                "textStyle": {
+                    "fontSize": 14
+                },
+                "borderWidth": 0,
+                "padding": 5
+            },
+            "color": [
+                "#c23531",
+                "#2f4554",
+                "#61a0a8",
+                "#d48265",
+                "#749f83",
+                "#ca8622",
+                "#bda29a",
+                "#6e7074",
+                "#546570",
+                "#c4ccd3",
+                "#f05b72",
+                "#ef5b9c",
+                "#f47920",
+                "#905a3d",
+                "#fab27b",
+                "#2a5caa",
+                "#444693",
+                "#726930",
+                "#b2d235",
+                "#6d8346",
+                "#ac6767",
+                "#1d953f",
+                "#6950a1",
+                "#918597"
+            ]
+        },
+        {
+            "legend": [
+                {
+                    "data": [
+                        "nodes with reachability more than 3",
+                        "nodes with reachability less than or equal to 3"
+                    ],
+                    "selected": {
+                        "nodes with reachability more than 3": true,
+                        "nodes with reachability less than or equal to 3": true
+                    },
+                    "show": true,
+                    "left": "2%",
+                    "top": "20%",
+                    "orient": "vertical",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "itemWidth": 25,
+                    "itemHeight": 14,
+                    "textStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "series": [
+                {
+                    "type": "graph",
+                    "layout": "circular",
+                    "symbolSize": 20,
+                    "circular": {
+                        "rotateLabel": true
+                    },
+                    "force": {
+                        "repulsion": 50,
+                        "edgeLength": 50,
+                        "gravity": 0.2
+                    },
+                    "label": {
+                        "show": true,
+                        "position": "right",
+                        "margin": 8
+                    },
+                    "lineStyle": {
+                        "show": true,
+                        "width": 1,
+                        "opacity": 1,
+                        "curveness": 0.1,
+                        "type": "solid",
+                        "color": "source"
+                    },
+                    "roam": true,
+                    "draggable": true,
+                    "focusNodeAdjacency": true,
+                    "data": [
+                        {
+                            "name": "d",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "c",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "b",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "e",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        },
+                        {
+                            "name": "f",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "g",
+                            "fixed": false,
+                            "value": 2,
+                            "category": 1
+                        },
+                        {
+                            "name": "a",
+                            "fixed": false,
+                            "value": 5,
+                            "category": 0
+                        }
+                    ],
+                    "categories": [
+                        {
+                            "name": "nodes with reachability more than 3"
+                        },
+                        {
+                            "name": "nodes with reachability less than or equal to 3"
+                        }
+                    ],
+                    "edgeLabel": {
+                        "show": false,
+                        "position": "top",
+                        "margin": 8
+                    },
+                    "edgeSymbol": [
+                        "circle",
+                        "arrow"
+                    ],
+                    "edgeSymbolSize": 10,
+                    "links": [
+                        {
+                            "source": "f",
+                            "target": "g",
+                            "value": "{start time: 15, end time: 15}"
+                        }
+                    ]
+                }
+            ],
+            "title": [
+                {
+                    "text": "circular layout timeline",
+                    "subtext": "simple network",
+                    "padding": 5,
+                    "itemGap": 10,
+                    "textStyle": {
+                        "fontSize": 40
+                    },
+                    "subtextStyle": {
+                        "fontSize": 20
+                    }
+                }
+            ],
+            "tooltip": {
+                "show": true,
+                "trigger": "item",
+                "triggerOn": "mousemove|click",
+                "axisPointer": {
+                    "type": "line"
+                },
+                "showContent": true,
+                "alwaysShowContent": false,
+                "showDelay": 0,
+                "hideDelay": 100,
+                "textStyle": {
+                    "fontSize": 14
+                },
+                "borderWidth": 0,
+                "padding": 5
+            },
+            "color": [
+                "#c23531",
+                "#2f4554",
+                "#61a0a8",
+                "#d48265",
+                "#749f83",
+                "#ca8622",
+                "#bda29a",
+                "#6e7074",
+                "#546570",
+                "#c4ccd3",
+                "#f05b72",
+                "#ef5b9c",
+                "#f47920",
+                "#905a3d",
+                "#fab27b",
+                "#2a5caa",
+                "#444693",
+                "#726930",
+                "#b2d235",
+                "#6d8346",
+                "#ac6767",
+                "#1d953f",
+                "#6950a1",
+                "#918597"
+            ]
+        }
+    ]
+};
+        chart_9af01df7ccaf4166a67f5caaa7c89db0.setOption(option_9af01df7ccaf4166a67f5caaa7c89db0);
+    </script>
+<br/>    </div>
+    <script>
+            $('#9af01df7ccaf4166a67f5caaa7c89db0').resizable().draggable().css('border-style', 'dashed').css('border-width', '1px');$("#9af01df7ccaf4166a67f5caaa7c89db0>div:nth-child(1)").width("100%").height("100%");
+            new ResizeSensor(jQuery('#9af01df7ccaf4166a67f5caaa7c89db0'), function() { chart_9af01df7ccaf4166a67f5caaa7c89db0.resize()});
+            var charts_id = ['9af01df7ccaf4166a67f5caaa7c89db0'];
+function downloadCfg () {
+    const fileName = 'chart_config.json'
+    let downLink = document.createElement('a')
+    downLink.download = fileName
+
+    let result = []
+    for(let i=0; i<charts_id.length; i++) {
+        chart = $('#'+charts_id[i])
+        result.push({
+            cid: charts_id[i],
+            width: chart.css("width"),
+            height: chart.css("height"),
+            top: chart.offset().top + "px",
+            left: chart.offset().left + "px"
+        })
+    }
+
+    let blob = new Blob([JSON.stringify(result)])
+    downLink.href = URL.createObjectURL(blob)
+    document.body.appendChild(downLink)
+    downLink.click()
+    document.body.removeChild(downLink)
+}
+    </script>
+</body>
+</html>

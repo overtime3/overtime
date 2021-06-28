@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+            <script type="text/javascript" src="https://assets.pyecharts.org/assets/echarts.min.js"></script>
+        <script type="text/javascript" src="https://assets.pyecharts.org/assets/jquery.min.js"></script>
+        <script type="text/javascript" src="https://assets.pyecharts.org/assets/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="https://assets.pyecharts.org/assets/ResizeSensor.js"></script>
+
+            <link rel="stylesheet"  href="https://assets.pyecharts.org/assets/jquery-ui.css">
+
+</head>
+<body>
+    <style>.box {  }; </style>
+        <button onclick="downloadCfg()">Save Config</button>
+    <div class="box">
+                <div id="75ac7db474d04862a96bab49863884f4" class="chart-container" style="width:800px; height:500px;"></div>
+    <script>
+        var chart_75ac7db474d04862a96bab49863884f4 = echarts.init(
+            document.getElementById('75ac7db474d04862a96bab49863884f4'), 'white', {renderer: 'canvas'});
+        var option_75ac7db474d04862a96bab49863884f4 = {
+    "animation": true,
+    "animationThreshold": 2000,
+    "animationDuration": 1000,
+    "animationEasing": "cubicOut",
+    "animationDelay": 0,
+    "animationDurationUpdate": 300,
+    "animationEasingUpdate": "cubicOut",
+    "animationDelayUpdate": 0,
+    "color": [
+        "#c23531",
+        "#2f4554",
+        "#61a0a8",
+        "#d48265",
+        "#749f83",
+        "#ca8622",
+        "#bda29a",
+        "#6e7074",
+        "#546570",
+        "#c4ccd3",
+        "#f05b72",
+        "#ef5b9c",
+        "#f47920",
+        "#905a3d",
+        "#fab27b",
+        "#2a5caa",
+        "#444693",
+        "#726930",
+        "#b2d235",
+        "#6d8346",
+        "#ac6767",
+        "#1d953f",
+        "#6950a1",
+        "#918597"
+    ],
+    "series": [
+        {
+            "type": "graph",
+            "layout": "circular",
+            "symbolSize": 20,
+            "circular": {
+                "rotateLabel": true
+            },
+            "force": {
+                "repulsion": 50,
+                "edgeLength": 50,
+                "gravity": 0.2
+            },
+            "label": {
+                "show": true,
+                "position": "right",
+                "margin": 8
+            },
+            "lineStyle": {
+                "show": true,
+                "width": 1,
+                "opacity": 1,
+                "curveness": 0,
+                "type": "solid",
+                "color": "source"
+            },
+            "roam": true,
+            "draggable": false,
+            "focusNodeAdjacency": true,
+            "data": [
+                {
+                    "name": "f",
+                    "fixed": false,
+                    "value": 2,
+                    "category": 1
+                },
+                {
+                    "name": "e",
+                    "fixed": false,
+                    "value": 5,
+                    "category": 0
+                },
+                {
+                    "name": "g",
+                    "fixed": false,
+                    "value": 2,
+                    "category": 1
+                },
+                {
+                    "name": "a",
+                    "fixed": false,
+                    "value": 5,
+                    "category": 0
+                },
+                {
+                    "name": "c",
+                    "fixed": false,
+                    "value": 2,
+                    "category": 1
+                },
+                {
+                    "name": "d",
+                    "fixed": false,
+                    "value": 5,
+                    "category": 0
+                },
+                {
+                    "name": "b",
+                    "fixed": false,
+                    "value": 5,
+                    "category": 0
+                }
+            ],
+            "categories": [
+                {
+                    "name": "nodes with reachability more than 3"
+                },
+                {
+                    "name": "nodes with reachability less than or equal to 3"
+                }
+            ],
+            "edgeLabel": {
+                "show": false,
+                "position": "top",
+                "margin": 8
+            },
+            "edgeSymbol": [
+                "circle",
+                "arrow"
+            ],
+            "edgeSymbolSize": 10,
+            "links": [
+                {
+                    "source": "e",
+                    "target": "a",
+                    "value": [
+                        "{start time: 1, end time: 1}"
+                    ],
+                    "lineStyle": {
+                        "show": true,
+                        "width": 1,
+                        "opacity": 1,
+                        "curveness": 0.3,
+                        "type": "solid"
+                    }
+                },
+                {
+                    "source": "a",
+                    "target": "e",
+                    "value": [
+                        "{start time: 2, end time: 2}"
+                    ],
+                    "lineStyle": {
+                        "show": true,
+                        "width": 1,
+                        "opacity": 1,
+                        "curveness": 0.3,
+                        "type": "solid"
+                    }
+                },
+                {
+                    "source": "e",
+                    "target": "b",
+                    "value": [
+                        "{start time: 5, end time: 5}"
+                    ],
+                    "lineStyle": {
+                        "show": true,
+                        "width": 1,
+                        "opacity": 1,
+                        "curveness": 0.3,
+                        "type": "solid"
+                    }
+                },
+                {
+                    "source": "b",
+                    "target": "a",
+                    "value": [
+                        "{start time: 5, end time: 5}"
+                    ],
+                    "lineStyle": {
+                        "show": true,
+                        "width": 1,
+                        "opacity": 1,
+                        "curveness": 0.3,
+                        "type": "solid"
+                    }
+                },
+                {
+                    "source": "g",
+                    "target": "f",
+                    "value": [
+                        "{start time: 5, end time: 5}"
+                    ],
+                    "lineStyle": {
+                        "show": true,
+                        "width": 1,
+                        "opacity": 1,
+                        "curveness": 0.3,
+                        "type": "solid"
+                    }
+                },
+                {
+                    "source": "b",
+                    "target": "d",
+                    "value": [
+                        "{start time: 6, end time: 6}"
+                    ],
+                    "lineStyle": {
+                        "show": true,
+                        "width": 1,
+                        "opacity": 1,
+                        "curveness": 0.3,
+                        "type": "solid"
+                    }
+                },
+                {
+                    "source": "d",
+                    "target": "c",
+                    "value": [
+                        "{start time: 7, end time: 7}",
+                        "{start time: 8, end time: 8}"
+                    ],
+                    "lineStyle": {
+                        "show": true,
+                        "width": 1,
+                        "opacity": 1,
+                        "curveness": 0.3,
+                        "type": "solid"
+                    }
+                },
+                {
+                    "source": "a",
+                    "target": "d",
+                    "value": [
+                        "{start time: 7, end time: 7}"
+                    ],
+                    "lineStyle": {
+                        "show": true,
+                        "width": 1,
+                        "opacity": 1,
+                        "curveness": 0.3,
+                        "type": "solid"
+                    }
+                },
+                {
+                    "source": "d",
+                    "target": "e",
+                    "value": [
+                        "{start time: 7, end time: 7}"
+                    ],
+                    "lineStyle": {
+                        "show": true,
+                        "width": 1,
+                        "opacity": 1,
+                        "curveness": 0.3,
+                        "type": "solid"
+                    }
+                },
+                {
+                    "source": "f",
+                    "target": "g",
+                    "value": [
+                        "{start time: 8, end time: 8}",
+                        "{start time: 15, end time: 15}"
+                    ],
+                    "lineStyle": {
+                        "show": true,
+                        "width": 1,
+                        "opacity": 1,
+                        "curveness": 0.3,
+                        "type": "solid"
+                    }
+                },
+                {
+                    "source": "d",
+                    "target": "b",
+                    "value": [
+                        "{start time: 9, end time: 9}"
+                    ],
+                    "lineStyle": {
+                        "show": true,
+                        "width": 1,
+                        "opacity": 1,
+                        "curveness": 0.3,
+                        "type": "solid"
+                    }
+                },
+                {
+                    "source": "b",
+                    "target": "c",
+                    "value": [
+                        "{start time: 9, end time: 9}",
+                        "{start time: 10, end time: 10}"
+                    ],
+                    "lineStyle": {
+                        "show": true,
+                        "width": 1,
+                        "opacity": 1,
+                        "curveness": 0.3,
+                        "type": "solid"
+                    }
+                },
+                {
+                    "source": "a",
+                    "target": "c",
+                    "value": [
+                        "{start time: 10, end time: 10}",
+                        "{start time: 12, end time: 12}"
+                    ],
+                    "lineStyle": {
+                        "show": true,
+                        "width": 1,
+                        "opacity": 1,
+                        "curveness": 0.3,
+                        "type": "solid"
+                    }
+                },
+                {
+                    "source": "c",
+                    "target": "a",
+                    "value": [
+                        "{start time: 11, end time: 11}"
+                    ],
+                    "lineStyle": {
+                        "show": true,
+                        "width": 1,
+                        "opacity": 1,
+                        "curveness": 0.3,
+                        "type": "solid"
+                    }
+                }
+            ]
+        }
+    ],
+    "legend": [
+        {
+            "data": [
+                "nodes with reachability more than 3",
+                "nodes with reachability less than or equal to 3"
+            ],
+            "selected": {
+                "nodes with reachability more than 3": true,
+                "nodes with reachability less than or equal to 3": true
+            },
+            "show": true,
+            "left": "2%",
+            "top": "20%",
+            "orient": "vertical",
+            "padding": 5,
+            "itemGap": 10,
+            "itemWidth": 25,
+            "itemHeight": 14,
+            "textStyle": {
+                "fontSize": 20
+            }
+        }
+    ],
+    "tooltip": {
+        "show": true,
+        "trigger": "item",
+        "triggerOn": "mousemove|click",
+        "axisPointer": {
+            "type": "line"
+        },
+        "showContent": true,
+        "alwaysShowContent": false,
+        "showDelay": 0,
+        "hideDelay": 100,
+        "textStyle": {
+            "fontSize": 14
+        },
+        "borderWidth": 0,
+        "padding": 5
+    },
+    "title": [
+        {
+            "text": "circular layout with the same curvature",
+            "subtext": "simple network",
+            "padding": 5,
+            "itemGap": 10,
+            "textStyle": {
+                "fontSize": 40
+            },
+            "subtextStyle": {
+                "fontSize": 20
+            }
+        }
+    ]
+};
+        chart_75ac7db474d04862a96bab49863884f4.setOption(option_75ac7db474d04862a96bab49863884f4);
+    </script>
+<br/>    </div>
+    <script>
+            $('#75ac7db474d04862a96bab49863884f4').resizable().draggable().css('border-style', 'dashed').css('border-width', '1px');$("#75ac7db474d04862a96bab49863884f4>div:nth-child(1)").width("100%").height("100%");
+            new ResizeSensor(jQuery('#75ac7db474d04862a96bab49863884f4'), function() { chart_75ac7db474d04862a96bab49863884f4.resize()});
+            var charts_id = ['75ac7db474d04862a96bab49863884f4'];
+function downloadCfg () {
+    const fileName = 'chart_config.json'
+    let downLink = document.createElement('a')
+    downLink.download = fileName
+
+    let result = []
+    for(let i=0; i<charts_id.length; i++) {
+        chart = $('#'+charts_id[i])
+        result.push({
+            cid: charts_id[i],
+            width: chart.css("width"),
+            height: chart.css("height"),
+            top: chart.offset().top + "px",
+            left: chart.offset().left + "px"
+        })
+    }
+
+    let blob = new Blob([JSON.stringify(result)])
+    downLink.href = URL.createObjectURL(blob)
+    document.body.appendChild(downLink)
+    downLink.click()
+    document.body.removeChild(downLink)
+}
+    </script>
+</body>
+</html>
