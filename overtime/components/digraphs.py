@@ -70,7 +70,7 @@ class TemporalDiGraph(TemporalGraph):
         nodes : Nodes
             Inherited from TemporalGraph.
         edges : Edges
-            An temporal arcs collection representing all edges in the graph.
+            A temporal arcs collection representing all edges in the graph.
 
         See also:
         ---------

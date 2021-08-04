@@ -198,6 +198,19 @@ class Node:
         return neighbours
 
 
+    def temporal_neighbours(self, time=None):
+        edges = self.nodeof(time)
+        # create a new nodes collection.
+        neighbours = []
+        # for each edge in the node1 edges.
+        for edge in edges.aslist():
+            if not edge.node1.label == self.label:
+                neighbours.append([edge.node1.label, edge.start])
+            if not edge.node2.label == self.label:
+                neighbours.append([edge.node2.label, edge.start])
+        return neighbours
+
+
 
 class ForemostNode(Node):
     """
