@@ -1,28 +1,52 @@
-def betweenness_centrality(graph, optimality="shortest", intervals=None):
+"""
+Algorithms for computing temporal betweenness centrality for temporal graph objects.
+"""
+
+
+def temporal_betweenness_centrality(graph, optimality="shortest", intervals=None, normalize=True):
     """
-        Returns the betweenness centralities of specified nodes in a temporal graph over a
-        time interval.
+        Returns the betweenness centralities of nodes in a temporal graph.
 
         Parameter(s):
         -------------
         graph : TemporalGraph
-            An undirected temporal graph.
-        intervals : tuple/List
-            A tuple of intervals (start & end time pairs). Default is the interval
-            the graph is defined over.
-            For example: ((0,3), (5,7)).
+            A temporal graph.
         optimality : string
             Concept of optimal path in a temporal graph to be used. Can be "shortest" or "foremost".
+        intervals : tuple/List
+            A tuple of intervals (pairs of start and end times) for the temporal graph to be restricted to.
+            Example: ((0,3), (5,7))
+
 
         Returns:
         --------
         betweeness_centrality : dict
-            The temporal degrees of the nodes.
-            For example: {A: 1.3, B:1.2, C:2.5...}
+            The temporal betweenness centrality of the nodes.
+            For example: {A: 12.0, B: 1.2, C: 2.5...}
+
+        Example(s):
+        -----------
+            graph = TemporalGraph('test_network', data=CsvInput('./network.csv'))
+            betweenness_values = betweenness_centrality(graph, optimality="fastest", intervals=((1, 5), (8, 10)))
+
+        Notes:
+        ------
+        This implementation for calculating fastest temporal path durations is based on an algorithm detailed in
+        "Algorithmic Aspects of Temporal Betweenness" (Buß et al. 2020), found here: https://arxiv.org/pdf/2006.08668.pdf.
+        Their algorithm takes as input a temporal graph (rather than, say, a static expansion) and returns the temporal
+        betweenness centrality of all nodes in the graph. Temporal betweenness centrality can be based on multiple
+        notions of optimal path, and as such this algorithm can be executed using either the "shortest" or
+        "shortest-foremost" notions of optimal path as outlined in Buß et al. (2020). Normalization is applied as seen in
+        "Temporal Node Centrality in Complex Networks" (Kim and Anderson, 2011), found here:
+        https://www.cl.cam.ac.uk/~rja14/Papers/TemporalCentrality.pdf.
 
         TODO
         ----
-        Allow user to select optimality --> requires implementing Wu et al. SHORTEST temporal paths algorithm
+        - Generalize to directed graphs - currently defined for undirected graphs
+        - Implement "centrality evolution" (Kim and Andersen, 2011)
+        - Test validity on dummy data + debug
+        - Test with bigger datasets, e.g. those included in overtime + debug
+        - Write unit tests
 
     """
     if intervals:
@@ -74,13 +98,13 @@ def betweenness_centrality(graph, optimality="shortest", intervals=None):
                     S.append((w, t_))
                     Q.append((w, t_))
 
-                if dist_v_t[(w, t_)] == dist_v_t[(v, t)] + 1:
+                if dist_v_t[(w, t_)] == dist_v_t[(v, t)] + 1:   # Shortest path to (w, t_) via (v, t)
                     sigma_v_t[(w, t_)] += sigma_v_t[(v, t)]
                     paths_v_t[(w, t_)].append((v, t))
-                    if dist_v_t[(w, t_)] == dist_v[w]:
+                    if dist_v_t[(w, t_)] == dist_v[w]:          # Shortest path to (w) via (v, t)
                         sigma_v[w] += sigma_v_t[(v, t)]
 
-                if t_min_v[w] == -1 or t_ < t_min_v[w]:
+                if t_min_v[w] == -1 or t_ < t_min_v[w]:         # Shortest-foremost path to (w)
                     t_min_v[w] = t_
 
 
@@ -89,14 +113,15 @@ def betweenness_centrality(graph, optimality="shortest", intervals=None):
 
         while S:
 
-            w, t_ = S.pop(-1)
+            w, t_ = S.pop(-1)       # Node appearances in order of decreasing distance from source (s)
 
-            if dist_v_t[(w, t_)] == dist_v[w]:
+            if dist_v_t[(w, t_)] == dist_v[w]:      # Shortest path to (w)
                 delta_v_t_shortest[(w, t_)] += (sigma_v_t[(w, t_)] / sigma_v[w])
 
-            if t_ == t_min_v[w]:
+            if t_ == t_min_v[w]:                    # Shortest-foremost path to (w)
                 delta_v_t_foremost[(w, t_)] += 1
 
+            # Dependency accumulation
             for v, t in paths_v_t[(w, t_)]:
 
                 delta_v_t_shortest[(v, t)] += (sigma_v_t[(v, t)] / sigma_v_t[(w, t_)]) * delta_v_t_shortest[(w, t_)]
@@ -104,6 +129,11 @@ def betweenness_centrality(graph, optimality="shortest", intervals=None):
 
                 delta_v_t_foremost[(v, t)] += (sigma_v_t[(v, t)] / sigma_v_t[(w, t_)]) * delta_v_t_foremost[(w, t_)]
                 foremost_centrality[v] += (sigma_v_t[(v, t)] / sigma_v_t[(w, t_)]) * delta_v_t_foremost[(w, t_)]
+
+    if normalize:
+        normalization_factor = ((graph.nodes.count() - 1) * (graph.nodes.count() - 2) * (graph.edges.end() - graph.edges.start()))
+        shortest_centrality = {label: value / normalization_factor for label, value in shortest_centrality.items()}
+        foremost_centrality = {label: value / normalization_factor for label, value in foremost_centrality.items()}
 
     if optimality == "shortest":
         return shortest_centrality

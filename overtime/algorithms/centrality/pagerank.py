@@ -1,7 +1,11 @@
-def calculate_temporal_pagerank(graph, alpha=0.85, beta=0.5, t=None, intervals=None):
+"""
+Algorithms for computing temporal PageRank scores from temporal graph objects
+"""
+
+
+def temporal_pagerank(graph, alpha=0.85, beta=0.5, t=None, intervals=None):
     """
-        Returns the temporal PageRank score of each node of a directed temporal graph. Algorithm is based on the random
-        walk interpretation of temporal PageRank.
+        Returns the temporal PageRank score of nodes in a directed temporal graph.
 
         Parameter(s):
         -------------
@@ -17,23 +21,24 @@ def calculate_temporal_pagerank(graph, alpha=0.85, beta=0.5, t=None, intervals=N
 
         Returns:
         --------
-        r : dict
+        pagerank : dict
             The PageRank score of each node.
-            For example: {A: 0.15, B:0.19, C:1.41, ...}
+            For example: {A: 0.15, B: 0.19, C: 1.41, ...}
+
+        Notes:
+        ------
+
     """
-    #
+
     if t is None:
         t = graph.edges.end()
-
-    # Get edge stream representation
-    stream = graph.edges.set
 
     # Initialize
     pagerank = {node: 0 for node in graph.nodes.labels()}
     active_walks = {node: 0 for node in graph.nodes.labels()}
 
-
-    for edge in stream:
+    # Iterate over edge stream
+    for edge in graph.edges.set:
 
         if edge.start > t:
             break

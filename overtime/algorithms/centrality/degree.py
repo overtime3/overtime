@@ -1,12 +1,11 @@
 """
-Temporal degree centrality.
+Algorithms for computing temporal degree centrality for temporal graph objects.
 """
 
 
-def degree_centrality(graph, labels=None, intervals=None):
+def temporal_degree_centrality(graph, labels=None, intervals=None, normalize=True):
     """
-        Returns the temporal degree centralities of specified nodes in an undirected temporal graph over a
-        time interval.
+        Returns the temporal degree centralities of nodes in a temporal graph.
 
         Parameter(s):
         -------------
@@ -18,6 +17,8 @@ def degree_centrality(graph, labels=None, intervals=None):
         intervals : tuple/List
             A tuple of intervals (pairs of start and end times) for the temporal graph to be restricted to.
             Example: ((0,3), (5,7))
+        normalize : bool
+            Whether to apply normalization to the produced centrality values.
 
         Returns:
         --------
@@ -28,11 +29,23 @@ def degree_centrality(graph, labels=None, intervals=None):
         Example(s):
         -----------
             graph = TemporalGraph('test_network', data=CsvInput('./network.csv'))
-            degree_centrality = degree_centrality(graph, labels=["A", "B", "C"], intervals=((1, 5), (8, 10)))
+            degree_values = degree_centrality(graph, labels=["A", "B", "C"], intervals=((1, 5), (8, 10)))
 
-        See also:
-        ---------
-            calculate_reachability
+        Notes:
+        ------
+        This implementation for calculating temporal degree centrality is adapted from an algorithm detailed in
+        "Temporal Node Centrality in Complex Networks" (Kim and Anderson, 2011), found here:
+        https://www.cl.cam.ac.uk/~rja14/Papers/TemporalCentrality.pdf. Our algorithm does not use a static expansion
+        as they have outlined, and is adapted accordingly. Here, temporal degree centrality is the average of a nodes'
+        degree over the snapshots of the graph in a given time interval.
+
+        TODO:
+        -----
+        - Implement directed versions (in-degree centrality, out-degree centrality)
+        - Implement "centrality evolution" (Kim and Andersen, 2011)
+        - Test validity on dummy data + debug
+        - Test with bigger datasets, e.g. those included in overtime + debug
+        - Write unit tests
 
     """
     # Restrict graph to specified time interval
@@ -53,8 +66,9 @@ def degree_centrality(graph, labels=None, intervals=None):
         node_count[edge.node2.label] += 1
 
     # Normalize by size of graph
-    normalization_factor = graph.nodes.count() - 1
-    temporal_degree = {label: value / normalization_factor for label, value in node_count.items()}
+    if normalize:
+        normalization_factor = (graph.nodes.count() - 1) * (graph.edges.end() - graph.edges.start())
+        temporal_degree = {label: value / normalization_factor for label, value in node_count.items()}
 
     # Sort by descending centrality value
     sorted_temporal_degree = {label: value for label, value in sorted(temporal_degree.items(),

@@ -1,3 +1,8 @@
+"""
+Various functions for calculating optimal path trees.
+"""
+
+
 def calculate_fastest_path_durations(graph, root, interval=None):
     """
         Returns a dictionary where the keys are node labels and the values are the duration of the shortest path to
