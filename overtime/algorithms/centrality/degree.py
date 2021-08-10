@@ -36,7 +36,7 @@ def temporal_degree_centrality(graph, labels=None, intervals=None, normalize=Tru
         This implementation for calculating temporal degree centrality is adapted from an algorithm detailed in
         "Temporal Node Centrality in Complex Networks" (Kim and Anderson, 2011), found here:
         https://www.cl.cam.ac.uk/~rja14/Papers/TemporalCentrality.pdf. Our algorithm does not use a static expansion
-        as they have outlined, and is adapted accordingly. Here, temporal degree centrality is the average of a nodes'
+        as they have outlined, and so is adapted accordingly. Here, temporal degree centrality is the average of a nodes'
         degree over the snapshots of the graph in a given time interval.
 
         TODO:
@@ -65,7 +65,7 @@ def temporal_degree_centrality(graph, labels=None, intervals=None, normalize=Tru
         node_count[edge.node1.label] += 1
         node_count[edge.node2.label] += 1
 
-    # Normalize by size of graph
+    # Apply normalization
     if normalize:
         normalization_factor = (graph.nodes.count() - 1) * (graph.edges.end() - graph.edges.start())
         temporal_degree = {label: value / normalization_factor for label, value in node_count.items()}

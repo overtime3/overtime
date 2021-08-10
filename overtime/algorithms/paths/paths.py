@@ -33,7 +33,9 @@ def calculate_fastest_path_durations(graph, root, interval=None):
 
         TODO
         ----
-        Generalize to undirected graphs -- duplicate all edges in reverse?
+        - Generalize to undirected graphs
+        - Perhaps have this function return the actual tree, and another function to calculate the duration of paths
+          in that tree
 
     """
     # If interval not specified, set interval to be entire lifetime of graph

@@ -17,7 +17,6 @@ def temporal_betweenness_centrality(graph, optimality="shortest", intervals=None
             A tuple of intervals (pairs of start and end times) for the temporal graph to be restricted to.
             Example: ((0,3), (5,7))
 
-
         Returns:
         --------
         betweeness_centrality : dict
@@ -52,18 +51,20 @@ def temporal_betweenness_centrality(graph, optimality="shortest", intervals=None
     if intervals:
         graph = graph.get_temporal_subgraph(intervals)  # restrict graph to specified time interval
 
-    shortest_centrality = {node: 0 for node in graph.nodes.labels()}
-    foremost_centrality = {node: 0 for node in graph.nodes.labels()}
+    labels = graph.nodes.labels()
+
+    shortest_centrality = {node: 0 for node in labels}
+    foremost_centrality = {node: 0 for node in labels}
 
     for s in graph.nodes.labels():
 
         # Initialize for nodes
-        dist_v = {node: -1 for node in graph.nodes.labels()}
-        sigma_v = {node: 0 for node in graph.nodes.labels()}
-        t_min_v = {node: -1 for node in graph.nodes.labels()}
+        dist_v = {node: -1 for node in labels}
+        sigma_v = {node: 0 for node in labels}
+        t_min_v = {node: -1 for node in labels}
 
         # Initialize for node appearances
-        node_appearances = [(node, t) for node in graph.nodes.labels() for t in range(graph.edges.end())]
+        node_appearances = [(node, t) for node in labels for t in range(graph.edges.end())]
 
         delta_v_t_shortest = {v_t: 0 for v_t in node_appearances}
         delta_v_t_foremost = {v_t: 0 for v_t in node_appearances}
@@ -124,12 +125,15 @@ def temporal_betweenness_centrality(graph, optimality="shortest", intervals=None
             # Dependency accumulation
             for v, t in paths_v_t[(w, t_)]:
 
+                # Shortest notion of optimality
                 delta_v_t_shortest[(v, t)] += (sigma_v_t[(v, t)] / sigma_v_t[(w, t_)]) * delta_v_t_shortest[(w, t_)]
                 shortest_centrality[v] += (sigma_v_t[(v, t)] / sigma_v_t[(w, t_)]) * delta_v_t_shortest[(w, t_)]
 
+                # Foremost notion of optimality
                 delta_v_t_foremost[(v, t)] += (sigma_v_t[(v, t)] / sigma_v_t[(w, t_)]) * delta_v_t_foremost[(w, t_)]
                 foremost_centrality[v] += (sigma_v_t[(v, t)] / sigma_v_t[(w, t_)]) * delta_v_t_foremost[(w, t_)]
 
+    # Apply normalization
     if normalize:
         normalization_factor = ((graph.nodes.count() - 1) * (graph.nodes.count() - 2) * (graph.edges.end() - graph.edges.start()))
         shortest_centrality = {label: value / normalization_factor for label, value in shortest_centrality.items()}
@@ -137,6 +141,5 @@ def temporal_betweenness_centrality(graph, optimality="shortest", intervals=None
 
     if optimality == "shortest":
         return shortest_centrality
-
     elif optimality == "foremost":
         return foremost_centrality
