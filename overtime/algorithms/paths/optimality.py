@@ -87,7 +87,8 @@ def calculate_fastest_path_durations(graph, root, interval=None):
             for a in path_start_end_times[v]:
                 for b in path_start_end_times[v]:
                     if (b[0] > a[0] and b[1] <= a[1]) or (b[0] == a[0] and b[1] < a[1]):
-                        path_start_end_times[v].remove(a)
+                        break
+                    path_start_end_times[v].remove(a)
 
             # If path faster than currently stored path, update stored duration
             if new_arr_time - new_start_time < fastest_path_durations[v]:
