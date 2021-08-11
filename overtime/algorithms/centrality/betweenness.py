@@ -16,6 +16,8 @@ def temporal_betweenness_centrality(graph, optimality="shortest", intervals=None
         intervals : tuple/List
             A tuple of intervals (pairs of start and end times) for the temporal graph to be restricted to.
             Example: ((0,3), (5,7))
+        normalize : bool
+            Whether to apply normalization to the produced centrality values.
 
         Returns:
         --------
