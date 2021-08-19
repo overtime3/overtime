@@ -3,7 +3,7 @@ Algorithms for computing temporal PageRank scores from temporal graph objects
 """
 
 
-def temporal_pagerank(graph, alpha=0.85, beta=0.5, t=None, intervals=None):
+def temporal_pagerank(graph, alpha=0.85, beta=0.5, intervals=None):
     """
         Returns the temporal PageRank score of nodes in a directed temporal graph.
 
@@ -45,7 +45,9 @@ def temporal_pagerank(graph, alpha=0.85, beta=0.5, t=None, intervals=None):
 
         TODO:
         -----
-        - Implement some kind of parameter to cause function to return evolving values over time
+        - This algo is currently only valid where traversal time is 1
+        - Really need to take a day to understand the whole paper + algo so I can verify
+            validity.
         - Test validity on dummy data + debug
         - Test with bigger datasets, e.g. those included in overtime + debug
         - Write unit tests
@@ -55,32 +57,28 @@ def temporal_pagerank(graph, alpha=0.85, beta=0.5, t=None, intervals=None):
     if intervals:
         graph = graph.get_temporal_subgraph(intervals)
 
-    if t is None:
-        t = graph.edges.end()
 
     # Initialize
-    pagerank = {node: 0 for node in graph.nodes.labels()}
-    active_walks = {node: 0 for node in graph.nodes.labels()}
+    pagerank = {node: [0] * graph.edges.end() for node in graph.nodes.labels()}
+    active_walks = {node: [0] * graph.edges.end() for node in graph.nodes.labels()}
 
     # Iterate over edge stream
     for edge in graph.edges.set:
 
-        if edge.start > t:
-            break
-
         u = edge.node1.label
         v = edge.node2.label
+        t = edge.start - 1      # For indexing in the temporal graph model - graphs start at time 1
 
-        pagerank[u] += (1 - alpha)
-        active_walks[u] += (1 - alpha)
-        pagerank[v] += active_walks[u] * alpha
+        pagerank[u][t] += (1 - alpha)
+        active_walks[u][t] += (1 - alpha)
+        pagerank[v][t] += active_walks[u][t] * alpha
 
         if 0 < beta < 1:
-            active_walks[v] += active_walks[u] * (1 - beta) * alpha
-            active_walks[u] *= beta
+            active_walks[v][t] += active_walks[u][t] * (1 - beta) * alpha
+            active_walks[u][t] *= beta
 
         elif beta == 1:
-            active_walks[v] += active_walks[u] * alpha
-            active_walks[u] = 0
+            active_walks[v][t] += active_walks[u] * alpha
+            active_walks[u][t] = 0
 
     return pagerank

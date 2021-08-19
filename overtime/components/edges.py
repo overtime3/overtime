@@ -45,6 +45,7 @@ class Edge:
         self.node1 = nodes.add(node1)
         self.node2 = nodes.add(node2)
         self.graph = nodes.graph
+
         
 
     def print(self):

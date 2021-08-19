@@ -3,7 +3,7 @@ Algorithms for computing temporal betweenness centrality for temporal graph obje
 """
 
 
-def temporal_betweenness_centrality(graph, optimality="shortest", intervals=None, normalize=True):
+def temporal_betweenness(graph, optimality="shortest", intervals=None, normalize=False):
     """
         Returns the betweenness centralities of nodes in a temporal graph.
 
@@ -43,7 +43,6 @@ def temporal_betweenness_centrality(graph, optimality="shortest", intervals=None
 
         TODO
         ----
-        - Generalize to directed graphs - currently defined for undirected graphs
         - Implement "centrality evolution" (Kim and Andersen, 2011)
         - Test validity on dummy data + debug
         - Test with bigger datasets, e.g. those included in overtime + debug
@@ -86,7 +85,6 @@ def temporal_betweenness_centrality(graph, optimality="shortest", intervals=None
         Q = [(s, 0)]    # FIFO -- Queue
 
         while Q:
-
             v, t = Q.pop(0)
 
             # Iterate over temporal neighbours

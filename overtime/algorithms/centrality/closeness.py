@@ -2,10 +2,11 @@
 Algorithms for computing closeness centrality from temporal graph objects.
 """
 
-from overtime.algorithms.paths.paths import calculate_fastest_path_durations
+from overtime.algorithms.paths.optimality import *
+from overtime.algorithms.additional_tools import convert_to_directed
 
 
-def temporal_closeness_centrality(graph, optimality="fastest", labels=None, intervals=None, normalize=True):
+def temporal_closeness(graph, optimality="fastest", labels=None, intervals=None, normalize=False, cent_evo=False):
     """
         Returns the closeness centralities of nodes in a temporal graph.
 
@@ -21,7 +22,9 @@ def temporal_closeness_centrality(graph, optimality="fastest", labels=None, inte
             A tuple of intervals (start & end time pairs). Default is the interval
             the graph is defined over.
             For example: ((0,3), (5,7)).
-
+        cent_evo : bool
+            Enable centrality evolution. Returns centrality values at each snapshot/ timestep, rather than a centrality
+            value for the whole lifetime of the graph.
 
         Returns:
         --------
@@ -37,7 +40,7 @@ def temporal_closeness_centrality(graph, optimality="fastest", labels=None, inte
         Notes:
         ------
         This implementation for calculating temporal closeness centralities utilizes an algorithm for calculating
-        fastest path durations outlined in "Path Problems in Temporal Graphs" (Wu et al. 2014), found here:
+        fastest/ shortest path durations/ lengths outlined in "Path Problems in Temporal Graphs" (Wu et al. 2014), found here:
         https://www.vldb.org/pvldb/vol7/p721-wu.pdf. Our algorithm takes as input a temporal graph (rather than, say, a
         static expansion) and returns the temporal closeness centrality of all nodes in the graph- that is, the normalized
         sum of reciprocal distances from each node to all other nodes. Temporal closeness centrality can be based on
@@ -52,15 +55,16 @@ def temporal_closeness_centrality(graph, optimality="fastest", labels=None, inte
 
         TODO
         ----
-        - Allow user to select optimality
-            --> Implement Wu et al. *shortest* paths algorithm
-        - Generalize to undirected graphs - currently defined for directed graphs
         - Implement "centrality evolution" (Kim and Andersen, 2011)
         - Test validity on dummy data + debug
         - Test with bigger datasets, e.g. those included in overtime + debug
         - Write unit tests
 
     """
+    # If input graph is undirected, convert to bidirectional graph
+    if not graph.directed:
+        graph = convert_to_directed(graph)
+
     # Restrict graph to specified time interval
     if intervals:
         graph = graph.get_temporal_subgraph(intervals)
@@ -70,21 +74,39 @@ def temporal_closeness_centrality(graph, optimality="fastest", labels=None, inte
         labels = graph.nodes.labels()  # if labels not specified, set to all nodes in input graph
 
     # Initialize
-    closeness_centrality = {label: 0 for label in labels}  # initialize dictionary to store node : closeness centrality
+    closeness_centrality = {label: [] for label in labels}  # initialize dictionary to store node : closeness centrality
 
-    # Iterate over nodes
-    for label in graph.nodes.labels():
+    # Iterate over [t, j] such that graph.edges.start() <= t <= graph.edges.end() -- for centrality evolution
+    for t in range(graph.edges.start(), graph.edges.end()):
 
-        # Calculate fastest path duration from current node to all other nodes
-        fastest_path_durations = [*calculate_fastest_path_durations(graph, root=label).values()]
-        # Take reciprocal of all distances
-        fastest_path_durations_reciprocal = [1 / value for value in fastest_path_durations if value != 0]
-        # Sum reciprocal distances
-        sum_reciprocal_distances = sum(fastest_path_durations_reciprocal)
+        # Iterate over nodes
+        for label in graph.nodes.labels():
 
-        closeness_centrality[label] = sum_reciprocal_distances
+            # Calculate optimal path magnitude from current node to all other nodes
+            path_magnitudes = None
+            if optimality == "fastest":
+                path_magnitudes = [*calculate_fastest_path_durations(graph, interval=(t, graph.edges.end()), root=label).values()]
+            elif optimality == "shortest":
+
+                path_magnitudes = [*calculate_shortest_path_lengths(graph, interval=(t, graph.edges.end()), root=label).values()]
+
+            # Take reciprocal of all magnitudes and sum
+            path_magnitudes_reciprocal = [1 / value for value in path_magnitudes if value != 0]
+            sum_path_magnitudes_reciprocal = sum(path_magnitudes_reciprocal)
+
+            # If centrality evolution enabled, append a value for each snapshot/ timepoint
+            if cent_evo:
+                closeness_centrality[label].append(sum_path_magnitudes_reciprocal)
+
+            # If centrality evolution disabled, take centrality over first full interval and stop
+            elif not cent_evo:
+                closeness_centrality[label] = sum_path_magnitudes_reciprocal
+
+        if not cent_evo:
+            break
 
     # Apply normalization
+
     if normalize:
         normalization_factor = (graph.nodes.count() - 1) * (graph.edges.end() - graph.edges.start())
         closeness_centrality = {label: value / normalization_factor for label, value in closeness_centrality.items()}

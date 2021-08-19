@@ -213,16 +213,28 @@ class Node:
         neighbours - list
             A list of lists where the first index is the node label and the second index is the edge start time.
         """
-        edges = self.nodeof(time)
-        # create a new nodes collection.
-        neighbours = []
-        # for each edge in the node1 edges.
-        for edge in edges.aslist():
-            if not edge.node1.label == self.label:
-                neighbours.append([edge.node1.label, edge.start])
-            if not edge.node2.label == self.label:
-                neighbours.append([edge.node2.label, edge.start])
-        return neighbours
+        # Digraphs
+        if self.graph.directed:
+            edges = self.sourceof(time)
+            # create a new nodes collection
+            neighbours = []
+            # for each edge for which the node is a source
+            for edge in edges.aslist():
+                neighbours.append([edge.sink.label, edge.start])
+            return neighbours
+
+        # Undirected graphs
+        else:
+            edges = self.nodeof(time)
+            # create a new nodes collection.
+            neighbours = []
+            # for each edge connected to the node
+            for edge in edges.aslist():
+                if not edge.node1.label == self.label:
+                    neighbours.append([edge.node1.label, edge.start])
+                if not edge.node2.label == self.label:
+                    neighbours.append([edge.node2.label, edge.start])
+            return neighbours
 
 
 
