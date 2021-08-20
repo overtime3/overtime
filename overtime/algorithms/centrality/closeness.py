@@ -31,6 +31,9 @@ def temporal_closeness(graph, optimality="fastest", labels=None, intervals=None,
         closeness_centrality : dict
             The temporal degrees of the nodes.
             For example: {A: 1.3, B: 1.2, C: 2.5...}
+            If centrality evolution is enabled, returns a dict where values are lists of the centrality values at each
+            snapshot/ timestep.
+            For example: {A: [1.1, 3.2, 4.1], B: [1.5, 2.3, 4.5]...}
 
         Example(s):
         -----------
@@ -55,7 +58,7 @@ def temporal_closeness(graph, optimality="fastest", labels=None, intervals=None,
 
         TODO
         ----
-        - Implement "centrality evolution" (Kim and Andersen, 2011)
+        - Fix normalization
         - Test validity on dummy data + debug
         - Test with bigger datasets, e.g. those included in overtime + debug
         - Write unit tests
@@ -97,18 +100,21 @@ def temporal_closeness(graph, optimality="fastest", labels=None, intervals=None,
             # If centrality evolution enabled, append a value for each snapshot/ timepoint
             if cent_evo:
                 closeness_centrality[label].append(sum_path_magnitudes_reciprocal)
-
             # If centrality evolution disabled, take centrality over first full interval and stop
-            elif not cent_evo:
+            else:
                 closeness_centrality[label] = sum_path_magnitudes_reciprocal
 
         if not cent_evo:
             break
 
     # Apply normalization
-
     if normalize:
         normalization_factor = (graph.nodes.count() - 1) * (graph.edges.end() - graph.edges.start())
-        closeness_centrality = {label: value / normalization_factor for label, value in closeness_centrality.items()}
+        # If centrality evolution enabled
+        if cent_evo:
+            closeness_centrality = {key: [v / normalization_factor for v in value] for key, value in closeness_centrality.items()}
+        # If centrality evolution not enabled
+        else:
+            closeness_centrality = {label: value / normalization_factor for label, value in closeness_centrality.items()}
 
     return closeness_centrality
