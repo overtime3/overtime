@@ -228,6 +228,13 @@ class Plot:
         return ListedColormap(cmap.colors*n)
 
 
+    def gradientcolormap(self):
+        """
+            Returns a blue gradient matplotlib colormap object.
+        """
+        return cm.get_cmap('Blues')
+
+
     def remove_xticks(self, ax):
         """
             A method of Plot.

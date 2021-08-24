@@ -1,7 +1,7 @@
 """
 Algorithms for computing temporal degree centrality for temporal graph objects.
 """
-
+cmd
 
 def temporal_degree(graph, labels=None, intervals=None, in_out=None, normalize=False):
     """
@@ -76,4 +76,3 @@ def temporal_degree(graph, labels=None, intervals=None, in_out=None, normalize=F
     temporal_degree_centrality = {label: value / graph_age for label, value in node_count.items()}
 
     return temporal_degree_centrality
-

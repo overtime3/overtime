@@ -6,7 +6,7 @@ from overtime.algorithms.paths.optimality import *
 from overtime.algorithms.additional_tools import convert_to_directed
 
 
-def temporal_closeness(graph, optimality="fastest", labels=None, intervals=None, normalize=False, cent_evo=False):
+def temporal_closeness(graph, optimality="fastest", labels=None, intervals=None, normalize=False, cent_evo=False, add_data=False):
     """
         Returns the closeness centralities of nodes in a temporal graph.
 
@@ -116,5 +116,10 @@ def temporal_closeness(graph, optimality="fastest", labels=None, intervals=None,
         # If centrality evolution not enabled
         else:
             closeness_centrality = {label: value / normalization_factor for label, value in closeness_centrality.items()}
+
+    # Add data to nodes
+    if add_data:
+        for node in graph.nodes.set:
+            node.data["closeness"] = closeness_centrality[node.label]
 
     return closeness_centrality
