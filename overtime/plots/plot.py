@@ -232,7 +232,7 @@ class Plot:
         """
             Returns a blue gradient matplotlib colormap object.
         """
-        return cm.get_cmap('Blues')
+        return cm.get_cmap('PuRd')
 
 
     def remove_xticks(self, ax):

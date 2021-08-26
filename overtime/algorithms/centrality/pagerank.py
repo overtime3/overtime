@@ -37,8 +37,8 @@ def temporal_pagerank(graph, alpha=0.85, beta=0.5, intervals=None):
         This implementation for calculating temporal PageRank scores utilizes an algorithm outlined in "Temporal
         Pagerank" (Rozenshtein & Gionis, 2016), found here:
         https://link.springer.com/chapter/10.1007/978-3-319-46227-1_42. Their algorithm takes as input a temporal graph
-        (rather than, say, a static expansion) and returns the temporal PageRank score of all nodes in a graph. It
-        is based on the random walk interpretation of PageRank with temporal information incorporated. PageRank scores
+        (rather than, say, a static expansion) and returns the temporal PageRank score of all nodes in a graph across time. 
+        It is based on the random walk interpretation of PageRank with temporal information incorporated. PageRank scores
         depend on the time input to the algorithm, and as such the relative order of PageRank scores changes over time
         reflecting "concept drift", where the importance of a node may change in a temporal network with increasing
         time.

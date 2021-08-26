@@ -1,9 +1,9 @@
 """
 Algorithms for computing temporal degree centrality for temporal graph objects.
 """
-cmd
 
-def temporal_degree(graph, labels=None, intervals=None, in_out=None, normalize=False):
+
+def temporal_degree(graph, labels=None, intervals=None, in_out=None, add_data=False):
     """
         Returns the temporal degree centralities of nodes in a temporal graph.
 
@@ -41,8 +41,6 @@ def temporal_degree(graph, labels=None, intervals=None, in_out=None, normalize=F
 
         TODO:
         -----
-        - Implement "centrality evolution" (Kim and Andersen, 2011)
-        - Normalization?
         - Test validity on dummy data + debug
         - Test with bigger datasets, e.g. those included in overtime + debug
         - Write unit tests
@@ -74,5 +72,10 @@ def temporal_degree(graph, labels=None, intervals=None, in_out=None, normalize=F
     # Calculate average over snapshots
     graph_age = graph.edges.end() - graph.edges.start()
     temporal_degree_centrality = {label: value / graph_age for label, value in node_count.items()}
+
+    # Add data to nodes
+    if add_data:
+        for node in graph.nodes.set:
+            node.data["degree"] = temporal_degree_centrality[node.label]
 
     return temporal_degree_centrality

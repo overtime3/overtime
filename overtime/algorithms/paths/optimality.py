@@ -3,6 +3,7 @@ Various functions for calculating optimal path trees.
 """
 
 from operator import itemgetter
+from overtime.components import TemporalDiGraph
 
 
 def calculate_fastest_path_durations(graph, root, interval=None):
@@ -41,6 +42,8 @@ def calculate_fastest_path_durations(graph, root, interval=None):
           in that tree
 
     """
+    if not isinstance(graph, TemporalDiGraph):
+        raise TypeError("Input is not an instance of TemporalDiGraph. This method only accepts directed temporal graphs as input.")
 
     # If interval not specified, set interval to be entire lifetime of graph
     if not interval:
@@ -65,7 +68,6 @@ def calculate_fastest_path_durations(graph, root, interval=None):
         t = edge.start
 
         if interval[0] <= t <= interval[1]:
-
             # If source node of edge is root
             if u == root:
                 if (t, t) not in path_start_end_times[root]:
@@ -161,8 +163,11 @@ def calculate_shortest_path_lengths(graph, root, interval=None):
         u = edge.node1.label
         v = edge.node2.label
         t = edge.start
+        dur = edge.duration
 
-        if interval[0] <= t <= interval[1]:
+        print(u, v, t, dur)
+
+        if interval[0] <= t and t + dur <= interval[1]:
 
             # If source node of edge is root
             if u == root:
@@ -175,7 +180,7 @@ def calculate_shortest_path_lengths(graph, root, interval=None):
 
             # Get best start and new arrival times of path
             # Apparently itemgetter is faster for this - is it worth having an extra dependency?
-            new_distance = max(path_distance_end_times[u], key=itemgetter(1))[0] + edge.duration
+            new_distance = max(path_distance_end_times[u], key=itemgetter(1))[0] + dur
             new_arr_time = edge.end
 
             # If node v not already visited, insert new start and arrival time

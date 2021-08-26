@@ -110,6 +110,7 @@ def temporal_closeness(graph, optimality="fastest", labels=None, intervals=None,
     # Apply normalization
     if normalize:
         normalization_factor = (graph.nodes.count() - 1) * (graph.edges.end() - graph.edges.start())
+        print(normalization_factor)
         # If centrality evolution enabled
         if cent_evo:
             closeness_centrality = {key: [v / normalization_factor for v in value] for key, value in closeness_centrality.items()}

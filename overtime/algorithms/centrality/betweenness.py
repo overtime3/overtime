@@ -3,7 +3,7 @@ Algorithms for computing temporal betweenness centrality for temporal graph obje
 """
 
 
-def temporal_betweenness(graph, optimality="shortest", intervals=None, normalize=False):
+def temporal_betweenness(graph, optimality="shortest", intervals=None, normalize=False, add_data=False):
     """
         Returns the betweenness centralities of nodes in a temporal graph.
 
@@ -139,6 +139,15 @@ def temporal_betweenness(graph, optimality="shortest", intervals=None, normalize
         shortest_centrality = {label: value / normalization_factor for label, value in shortest_centrality.items()}
         foremost_centrality = {label: value / normalization_factor for label, value in foremost_centrality.items()}
 
+    # Add data to nodes
+    if add_data:
+        if optimality == "shortest":
+            for node in graph.nodes.set:
+                node.data["betweenness"] = shortest_centrality[node.label]
+        elif optimality == "foremost":
+                node.data["betweenness"] = foremost_centrality[node.label]
+
+    # Return statement
     if optimality == "shortest":
         return shortest_centrality
     elif optimality == "foremost":

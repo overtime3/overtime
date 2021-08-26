@@ -181,6 +181,7 @@ class NodeScatter(Plot):
             cmap = self.set3colormap(n) # color map with enough colors for n nodes.
         # if using bubble metric, use gradient map
         elif self.bubble_metric:
+            colors = 'Gradient'
             cmap = self.gradientcolormap()
 
         # if there is a bubble_metric specified, size the nodes using it.
@@ -195,7 +196,7 @@ class NodeScatter(Plot):
             bmet = 250 # default node size.
 
         # decide whether to color nodes based on bubble metric.
-        if not self.colors is 'Default':
+        if self.bubble_metric:
             colors = bmet # color nodes based on bubble metric.
         else:
             colors = [x for x in range(0, n)] # colors index for every node.
@@ -338,3 +339,4 @@ class NodeLink(NodeScatter):
                     zorder=0
                 )
             )
+            
