@@ -39,11 +39,6 @@ def temporal_degree(graph, labels=None, intervals=None, in_out=None, add_data=Fa
         Here, temporal degree centrality is the average of a nodes' degree over the snapshots of the graph in a given
         time interval. Degree may refer to in-degree, out-degree, or both.
 
-        TODO:
-        -----
-        - Test validity on dummy data + debug
-        - Test with bigger datasets, e.g. those included in overtime + debug
-        - Write unit tests
     """
     if not graph.directed and in_out == "in" or not graph.directed and in_out == "out":
         raise TypeError("Graph must be directed for in- or out- degree.")

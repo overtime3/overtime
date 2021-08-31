@@ -41,13 +41,6 @@ def temporal_betweenness(graph, optimality="shortest", intervals=None, normalize
         "Temporal Node Centrality in Complex Networks" (Kim and Anderson, 2011), found here:
         https://www.cl.cam.ac.uk/~rja14/Papers/TemporalCentrality.pdf.
 
-        TODO
-        ----
-        - Implement "centrality evolution" (Kim and Andersen, 2011)
-        - Test validity on dummy data + debug
-        - Test with bigger datasets, e.g. those included in overtime + debug
-        - Write unit tests
-
     """
     if intervals:
         graph = graph.get_temporal_subgraph(intervals)  # restrict graph to specified time interval

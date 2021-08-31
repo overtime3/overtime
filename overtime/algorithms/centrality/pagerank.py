@@ -45,12 +45,7 @@ def temporal_pagerank(graph, alpha=0.85, beta=0.5, intervals=None):
 
         TODO:
         -----
-        - This algo is currently only valid where traversal time is 1
-        - Really need to take a day to understand the whole paper + algo so I can verify
-            validity.
-        - Test validity on dummy data + debug
-        - Test with bigger datasets, e.g. those included in overtime + debug
-        - Write unit tests
+        - Is this algo only valid where traversal time is 1??
     """
 
     if not graph.directed:

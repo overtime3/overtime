@@ -56,11 +56,6 @@ def temporal_closeness(graph, optimality="fastest", labels=None, intervals=None,
         ---------
         calculate_fastest_path_durations
 
-        TODO
-        ----
-        - Fix normalization
-        - Write unit tests
-
     """
     # If input graph is undirected, convert to bidirectional graph
     if not graph.directed:
