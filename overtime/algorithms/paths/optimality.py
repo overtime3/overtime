@@ -165,8 +165,6 @@ def calculate_shortest_path_lengths(graph, root, interval=None):
         t = edge.start
         dur = edge.duration
 
-        print(u, v, t, dur)
-
         if interval[0] <= t and t + dur <= interval[1]:
 
             # If source node of edge is root

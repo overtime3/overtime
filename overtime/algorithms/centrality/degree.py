@@ -45,6 +45,11 @@ def temporal_degree(graph, labels=None, intervals=None, in_out=None, add_data=Fa
         - Test with bigger datasets, e.g. those included in overtime + debug
         - Write unit tests
     """
+    if not graph.directed and in_out == "in" or not graph.directed and in_out == "out":
+        raise TypeError("Graph must be directed for in- or out- degree.")
+    if graph.directed and in_out is None:
+        raise TypeError("If input graph is directed, in- or out- degree must be specified.")
+
     # Restrict graph to specified time interval
     if intervals:
         graph = graph.get_temporal_subgraph(intervals)
@@ -59,7 +64,7 @@ def temporal_degree(graph, labels=None, intervals=None, in_out=None, add_data=Fa
     # Calculate total degree for each node
     for edge in graph.edges.aslist():       # Increment temporal degree every time node is seen as endpoint of edge
 
-        if not graph.directed:     # Undirected graph - normal degree centrality
+        if not graph.directed:                          # Undirected graph - normal degree centrality
             node_count[edge.node1.label] += 1
             node_count[edge.node2.label] += 1
 

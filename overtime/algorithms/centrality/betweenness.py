@@ -54,10 +54,11 @@ def temporal_betweenness(graph, optimality="shortest", intervals=None, normalize
 
     labels = graph.nodes.labels()
 
+    # Algorithm starts
     shortest_centrality = {node: 0 for node in labels}
     foremost_centrality = {node: 0 for node in labels}
 
-    for s in graph.nodes.labels():
+    for s in labels:
 
         # Initialize for nodes
         dist_v = {node: -1 for node in labels}
@@ -145,6 +146,7 @@ def temporal_betweenness(graph, optimality="shortest", intervals=None, normalize
             for node in graph.nodes.set:
                 node.data["betweenness"] = shortest_centrality[node.label]
         elif optimality == "foremost":
+            for node in graph.nodes.set:
                 node.data["betweenness"] = foremost_centrality[node.label]
 
     # Return statement

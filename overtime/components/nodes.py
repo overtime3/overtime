@@ -200,18 +200,18 @@ class Node:
 
     def temporal_neighbours(self, time=None):
         """
-        Returns labels for node appearances- nodes which have an inbound edge- and the start time of the relevant edge
-        in the temporal neighborhood of a Node.
+            Returns labels for node appearances- nodes which have an inbound edge- and the start time of the relevant
+            edge in the temporal neighborhood of a Node.
 
-        Parameters:
-        -----------
-        time : int
-            Time to check temporal connectivity.
+            Parameters:
+            -----------
+            time : int
+                Time to check temporal connectivity.
 
-        Returns:
-        --------
-        neighbours - list
-            A list of lists where the first index is the node label and the second index is the edge start time.
+            Returns:
+            --------
+            neighbours - list
+                A list of lists where the first index is the node label and the second index is the edge start time.
         """
         # Digraphs
         if self.graph.directed:

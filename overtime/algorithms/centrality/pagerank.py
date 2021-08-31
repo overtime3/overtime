@@ -53,10 +53,13 @@ def temporal_pagerank(graph, alpha=0.85, beta=0.5, intervals=None):
         - Write unit tests
     """
 
+    if not graph.directed:
+        raise TypeError("You have input an undirected graph. This implementation of PageRank is only defined for "
+                        "directed graphs.")
+
     # Restrict graph to specified time interval
     if intervals:
         graph = graph.get_temporal_subgraph(intervals)
-
 
     # Initialize
     pagerank = {node: [0] * graph.edges.end() for node in graph.nodes.labels()}

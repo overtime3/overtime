@@ -13,7 +13,7 @@ def temporal_closeness(graph, optimality="fastest", labels=None, intervals=None,
         Parameter(s):
         -------------
         graph : TemporalGraph
-            A temporal graph.
+            A directed or undirected temporal graph.
         optimality : string
             Concept of optimal path in a temporal graph to be used. Can be "fastest" or "shortest".
         labels: list
@@ -59,8 +59,6 @@ def temporal_closeness(graph, optimality="fastest", labels=None, intervals=None,
         TODO
         ----
         - Fix normalization
-        - Test validity on dummy data + debug
-        - Test with bigger datasets, e.g. those included in overtime + debug
         - Write unit tests
 
     """
@@ -110,7 +108,6 @@ def temporal_closeness(graph, optimality="fastest", labels=None, intervals=None,
     # Apply normalization
     if normalize:
         normalization_factor = (graph.nodes.count() - 1) * (graph.edges.end() - graph.edges.start())
-        print(normalization_factor)
         # If centrality evolution enabled
         if cent_evo:
             closeness_centrality = {key: [v / normalization_factor for v in value] for key, value in closeness_centrality.items()}

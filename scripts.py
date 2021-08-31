@@ -1,29 +1,31 @@
 import overtime as ot
 from matplotlib import pyplot as plt
-from overtime.algorithms.paths.optimality import *
+from overtime.algorithms.centrality.pagerank import *
 
-test_graph = ot.TemporalDiGraph("test_graph")
+network1 = ot.TemporalDiGraph("test_network")
 
-test_graph.add_node("A")
-test_graph.add_node("B")
-test_graph.add_node("C")
-test_graph.add_node("D")
-test_graph.add_node("E")
-test_graph.add_node("F")
-test_graph.add_node("G")
+for node in ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j"]:
+    network1.add_node(node)
 
-test_graph.add_edge("A", "E", 1, 2)
-test_graph.add_edge("A", "B", 1, 2)
-test_graph.add_edge("B", "C", 2, 3)
-test_graph.add_edge("A", "F", 3, 4)
-test_graph.add_edge("C", "D", 4, 5)
-test_graph.add_edge("F", "G", 4, 5)
-test_graph.add_edge("E", "D", 5, 6)
-test_graph.add_edge("G", "D", 6, 7)
+edges = {
+    0: {'node1': 'a', 'node2': 'e', 'tstart': 1, 'tend': 2},
+    1: {'node1': 'e', 'node2': 'f', 'tstart': 2, 'tend': 3},
+    2: {'node1': 'g', 'node2': 'e', 'tstart': 3, 'tend': 4},
+    3: {'node1': 'h', 'node2': 'b', 'tstart': 4, 'tend': 5},
+    4: {'node1': 'h', 'node2': 'i', 'tstart': 5, 'tend': 6},
+    5: {'node1': 'e', 'node2': 'h', 'tstart': 6, 'tend': 7},
+    6: {'node1': 'c', 'node2': 'h', 'tstart': 7, 'tend': 8},
+    7: {'node1': 'j', 'node2': 'h', 'tstart': 7, 'tend': 8},
+    8: {'node1': 'd', 'node2': 'c', 'tstart': 8, 'tend': 9},
+    9: {'node1': 'h', 'node2': 'i', 'tstart': 9, 'tend': 10},
+    10: {'node1': 'h', 'node2': 'i', 'tstart': 10, 'tend': 11},
+    11: {'node1': 'a', 'node2': 'e', 'tstart': 11, 'tend': 12},
+    12: {'node1': 'h', 'node2': 'b', 'tstart': 12, 'tend': 13},
+    13: {'node1': 'a', 'node2': 'c', 'tstart': 12, 'tend': 13}
+}
 
-print(test_graph.edges.aslist()[0].duration)
-print(test_graph.edges.end())
+for index, edge in edges.items():
+    network1.add_edge(edge['node1'], edge['node2'], edge['tstart'], edge['tend'])
 
-fastest_dur = calculate_fastest_path_durations(test_graph, "A")
-
-print(fastest_dur)
+output = temporal_pagerank(network1)
+print(output)
