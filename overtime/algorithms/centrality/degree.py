@@ -20,8 +20,8 @@ def temporal_degree(graph, labels=None, intervals=None, in_out=None, add_data=Fa
         in_out : string
             What type of degree centrality to use. Can be "in" for in-degree, "out" for out-degree. Leave unspecified
             for undirected graphs where normal degree centrality is default.
-        normalize : bool
-            Whether to apply normalization to the produced centrality values.
+        add_data : bool
+            Whether to add the centrality values to the data attributes of the nodes in the nodes collection.
 
         Returns:
         --------
