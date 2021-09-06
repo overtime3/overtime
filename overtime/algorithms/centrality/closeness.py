@@ -25,6 +25,8 @@ def temporal_closeness(graph, optimality="fastest", labels=None, intervals=None,
         cent_evo : bool
             Enable centrality evolution. Returns centrality values at each snapshot/ timestep, rather than a centrality
             value for the whole lifetime of the graph.
+        add_data : bool
+            Whether to add the centrality values to the data attributes of the nodes in the nodes collection.
 
         Returns:
         --------
@@ -83,7 +85,6 @@ def temporal_closeness(graph, optimality="fastest", labels=None, intervals=None,
             if optimality == "fastest":
                 path_magnitudes = [*calculate_fastest_path_durations(graph, interval=(t, graph.edges.end()), root=label).values()]
             elif optimality == "shortest":
-
                 path_magnitudes = [*calculate_shortest_path_lengths(graph, interval=(t, graph.edges.end()), root=label).values()]
 
             # Take reciprocal of all magnitudes and sum

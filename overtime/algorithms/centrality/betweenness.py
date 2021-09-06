@@ -18,6 +18,8 @@ def temporal_betweenness(graph, optimality="shortest", intervals=None, normalize
             Example: ((0,3), (5,7))
         normalize : bool
             Whether to apply normalization to the produced centrality values.
+        add_data : bool
+            Whether to add the centrality values to the data attributes of the nodes in the nodes collection.
 
         Returns:
         --------
