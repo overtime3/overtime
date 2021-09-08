@@ -78,7 +78,7 @@ def temporal_closeness(graph, optimality="fastest", labels=None, intervals=None,
     for t in range(graph.edges.start(), graph.edges.end()):
 
         # Iterate over nodes
-        for label in graph.nodes.labels():
+        for label in labels:
 
             # Calculate optimal path magnitude from current node to all other nodes
             path_magnitudes = None
@@ -103,7 +103,7 @@ def temporal_closeness(graph, optimality="fastest", labels=None, intervals=None,
 
     # Apply normalization
     if normalize:
-        normalization_factor = (graph.nodes.count() - 1) * (graph.edges.end() - graph.edges.start())
+        normalization_factor = (graph.nodes.count() - 1)
         # If centrality evolution enabled
         if cent_evo:
             closeness_centrality = {key: [v / normalization_factor for v in value] for key, value in closeness_centrality.items()}

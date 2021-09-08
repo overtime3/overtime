@@ -1,6 +1,7 @@
 """
 Algorithms for computing temporal degree centrality for temporal graph objects.
 """
+from collections import defaultdict
 
 
 def temporal_degree(graph, labels=None, intervals=None, in_out=None, add_data=False):
@@ -54,7 +55,7 @@ def temporal_degree(graph, labels=None, intervals=None, in_out=None, add_data=Fa
         labels = graph.nodes.labels()   # If labels not specified, set labels to all nodes in input graph
 
     # Initialize
-    node_count = {label: 0 for label in labels}
+    node_count = defaultdict(int)
 
     # Calculate total degree for each node
     for edge in graph.edges.aslist():       # Increment temporal degree every time node is seen as endpoint of edge
@@ -70,12 +71,16 @@ def temporal_degree(graph, labels=None, intervals=None, in_out=None, add_data=Fa
             node_count[edge.node1.label] += 1
 
     # Calculate average over snapshots
-    graph_age = graph.edges.end() - graph.edges.start()
+    graph_age = graph.edges.end() - graph.edges.start() + 1
     temporal_degree_centrality = {label: value / graph_age for label, value in node_count.items()}
 
     # Add data to nodes
     if add_data:
         for node in graph.nodes.set:
             node.data["degree"] = temporal_degree_centrality[node.label]
+
+    # Only return values for specified labels
+    if labels:
+        temporal_degree_centrality = {label: value for label, value in temporal_degree_centrality.items() if label in labels}
 
     return temporal_degree_centrality

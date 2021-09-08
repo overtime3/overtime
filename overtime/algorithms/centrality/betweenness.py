@@ -131,7 +131,7 @@ def temporal_betweenness(graph, optimality="shortest", intervals=None, normalize
 
     # Apply normalization
     if normalize:
-        normalization_factor = ((graph.nodes.count() - 1) * (graph.nodes.count() - 2) * (graph.edges.end() - graph.edges.start()))
+        normalization_factor = ((graph.nodes.count() - 1) * (graph.nodes.count() - 2))
         shortest_centrality = {label: value / normalization_factor for label, value in shortest_centrality.items()}
         foremost_centrality = {label: value / normalization_factor for label, value in foremost_centrality.items()}
 

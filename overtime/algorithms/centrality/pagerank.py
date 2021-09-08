@@ -76,7 +76,7 @@ def temporal_pagerank(graph, alpha=0.85, beta=0.5, intervals=None):
             active_walks[u][t] *= beta
 
         elif beta == 1:
-            active_walks[v][t] += active_walks[u] * alpha
+            active_walks[v][t] += active_walks[u][t] * alpha
             active_walks[u][t] = 0
 
     return pagerank
