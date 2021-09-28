@@ -53,7 +53,7 @@ def temporal_degree(graph, labels=None, intervals=None, in_out=None, add_data=Fa
         labels = graph.nodes.labels()   # If labels not specified, set labels to all nodes in input graph
 
     # Initialize
-    node_count = defaultdict(int)
+    node_count = {node: 0 for node in labels}
 
     # Calculate total degree for each node
     for edge in graph.edges.aslist():       # Increment temporal degree every time node is seen as endpoint of edge
@@ -69,7 +69,7 @@ def temporal_degree(graph, labels=None, intervals=None, in_out=None, add_data=Fa
             node_count[edge.node1.label] += 1
 
     # Calculate average over snapshots
-    graph_age = graph.edges.end() - graph.edges.start() + 1
+    graph_age = graph.edges.end() - graph.edges.start()
     temporal_degree_centrality = {label: value / graph_age for label, value in node_count.items()}
 
     # Add data to nodes
