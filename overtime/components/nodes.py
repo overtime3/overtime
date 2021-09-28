@@ -339,11 +339,9 @@ class Nodes:
         """
         # check if a node with this label already exists in the graph.
         if not self.exists(str(label)):
-            print('Error: Node {} not found in graph {}.'.format(label, self.graph.label))
             return False
         else:
             self.set.remove(self.get(label))
-            print('Node {} removed from graph {}.'.format(label, self.graph.label))
             return True
 
 
