@@ -92,14 +92,6 @@ def calculate_fastest_path_durations(graph, root, interval=None):
                         element[1] = new_arr_time
                         break
 
-            # # Remove dominated elements from path_start_end_times, i.e. remove paths known to be faster
-            # # This is going to be slow, is there a better way?
-            # for a in path_start_end_times[v]:
-            #     for b in path_start_end_times[v]:
-            #         if (b[0] > a[0] and b[1] <= a[1]) or (b[0] == a[0] and b[1] < a[1]):
-            #             break
-            #         path_start_end_times[v].remove(a)
-
             # If path faster than currently stored path, update stored duration
             if new_arr_time - new_start_time < fastest_path_durations[v]:
                 fastest_path_durations[v] = new_arr_time - new_start_time
@@ -190,14 +182,6 @@ def calculate_shortest_path_lengths(graph, root, interval=None):
                     if element[0] == new_distance:
                         element[1] = new_arr_time
                         break
-
-            # # Remove dominated elements from path_distance_end_times, i.e. remove paths known to be shorter
-            # # This is going to be slow, is there a better way?
-            # for a in path_distance_end_times[v]:
-            #     for b in path_distance_end_times[v]:
-            #         if (b[0] > a[0] and b[1] <= a[1]) or (b[0] == a[0] and b[1] < a[1]):
-            #             break
-            #         path_distance_end_times[v].remove(a)
 
             # If path shorter than currently stored path, update stored duration
             if new_distance < shortest_path_lengths[v]:
