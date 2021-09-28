@@ -6,7 +6,8 @@ from overtime.algorithms.paths.optimality import *
 from overtime.algorithms.additional_tools import convert_to_directed
 
 
-def temporal_closeness(graph, optimality="fastest", labels=None, intervals=None, normalize=False, cent_evo=False, add_data=False):
+def temporal_closeness(graph, optimality="fastest", labels=None, intervals=None, normalize=False, cent_evo=False,
+                       sum_evo=False, add_data=False):
     """
         Returns the closeness centralities of nodes in a temporal graph.
 
@@ -16,15 +17,21 @@ def temporal_closeness(graph, optimality="fastest", labels=None, intervals=None,
             A directed or undirected temporal graph.
         optimality : string
             Concept of optimal path in a temporal graph to be used. Can be "fastest" or "shortest".
-        labels: list
+        labels : list
             A list of node labels. Default is all nodes in input graph.
         intervals : tuple/List
             A tuple of intervals (start & end time pairs). Default is the interval
             the graph is defined over.
             For example: ((0,3), (5,7)).
+        normalize : bool
+            Enable normalization. Normalization factor depends on whether cent_evo or sum_evo, or a combination of both,
+            are enabled.
         cent_evo : bool
             Enable centrality evolution. Returns centrality values at each snapshot/ timestep, rather than a centrality
             value for the whole lifetime of the graph.
+        sum_evo : bool
+            Enables centrality evolution and sums the values to provide a single metric representing how central a node
+            is over time.
         add_data : bool
             Whether to add the centrality values to the data attributes of the nodes in the nodes collection.
 
@@ -36,6 +43,7 @@ def temporal_closeness(graph, optimality="fastest", labels=None, intervals=None,
             If centrality evolution is enabled, returns a dict where values are lists of the centrality values at each
             snapshot/ timestep.
             For example: {A: [1.1, 3.2, 4.1], B: [1.5, 2.3, 4.5]...}
+            If sum_evo is also enabled, returns the sum of the evolving centrality values
 
         Example(s):
         -----------
@@ -52,13 +60,17 @@ def temporal_closeness(graph, optimality="fastest", labels=None, intervals=None,
         multiple notions of optimal path, and as such this algorithm can be executed using either the "shortest" or "fastest"
         notions of optimal path as outlined in Buß et al. (2020). Normalization is applied as seen in "Temporal Node
         Centrality in Complex Networks" (Kim and Anderson, 2011), found here:
-        https://www.cl.cam.ac.uk/~rja14/Papers/TemporalCentrality.pdf.
+        https://www.cl.cam.ac.uk/~rja14/Papers/TemporalCentrality.pdf, or is somewhat adapted from this source.
 
         See also:
         ---------
         calculate_fastest_path_durations
 
     """
+    # If sum_evo is enabled, also enable cent_evo
+    if sum_evo:
+        cent_evo = True
+
     # If input graph is undirected, convert to bidirectional graph
     if not graph.directed:
         graph = convert_to_directed(graph)
@@ -101,15 +113,20 @@ def temporal_closeness(graph, optimality="fastest", labels=None, intervals=None,
         if not cent_evo:
             break
 
+    if sum_evo:
+        closeness_centrality = {label: sum(values) for label, values in closeness_centrality.items()}
+
     # Apply normalization
     if normalize:
-        normalization_factor = (graph.nodes.count() - 1)
-        # If centrality evolution enabled
-        if cent_evo:
-            closeness_centrality = {key: [v / normalization_factor for v in value] for key, value in closeness_centrality.items()}
-        # If centrality evolution not enabled
-        else:
-            closeness_centrality = {label: value / normalization_factor for label, value in closeness_centrality.items()}
+        if cent_evo and sum_evo:        # Normalize by age and size of graph
+            norm_factor = (graph.nodes.count() - 1) * (graph.edges.end() - graph.edges.start())
+            closeness_centrality = {label: value / norm_factor for label, value in closeness_centrality.items()}
+        if cent_evo and not sum_evo:    # Normalize each value by size of graph
+            norm_factor = graph.nodes.count() - 1
+            closeness_centrality = {label: [value / norm_factor for value in values] for label, values in closeness_centrality.items()}
+        elif not cent_evo:              # Normalize by size of graph
+            norm_factor = graph.nodes.count() - 1
+            closeness_centrality = {label: value / norm_factor for label, value in closeness_centrality.items()}
 
     # Add data to nodes
     if add_data:

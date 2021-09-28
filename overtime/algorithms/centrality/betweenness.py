@@ -34,14 +34,14 @@ def temporal_betweenness(graph, optimality="shortest", intervals=None, normalize
 
         Notes:
         ------
-        This implementation for calculating fastest temporal path durations is based on an algorithm detailed in
+        This implementation for calculating  temporal betweenness is based on an algorithm detailed in
         "Algorithmic Aspects of Temporal Betweenness" (Buß et al. 2020), found here: https://arxiv.org/pdf/2006.08668.pdf.
         Their algorithm takes as input a temporal graph (rather than, say, a static expansion) and returns the temporal
         betweenness centrality of all nodes in the graph. Temporal betweenness centrality can be based on multiple
         notions of optimal path, and as such this algorithm can be executed using either the "shortest" or
-        "shortest-foremost" notions of optimal path as outlined in Buß et al. (2020). Normalization is applied as seen in
-        "Temporal Node Centrality in Complex Networks" (Kim and Anderson, 2011), found here:
-        https://www.cl.cam.ac.uk/~rja14/Papers/TemporalCentrality.pdf.
+        "shortest-foremost" notions of optimal path as outlined in Buß et al. (2020). Normalization is applied with respect
+        to the size of the graph. It should be noted that this  implementation assumes a traversal time of 1 for all
+        edges of the input graph.
 
     """
     if intervals:
@@ -84,7 +84,7 @@ def temporal_betweenness(graph, optimality="shortest", intervals=None, normalize
             v, t = Q.pop(0)
 
             # Iterate over temporal neighbours
-            for w, t_ in [neighbour for neighbour in graph.nodes.get(v).temporal_neighbours() if t <= neighbour[1]]:
+            for w, t_ in [neighbour for neighbour in graph.nodes.get(v).temporal_neighbours() if t < neighbour[1]]:
 
                 # For first visit to (w, t_)
                 if dist_v_t[(w, t_)] == -1:

@@ -10,7 +10,7 @@ def temporal_pagerank(graph, alpha=0.85, beta=0.5, intervals=None):
         Parameter(s):
         -------------
         graph : TemporalDiGraph
-            An directed temporal graph.
+            A directed temporal graph.
         alpha : float
             Damping factor; probability of intitiating new walk from current node.
         beta : float (0, 1]
@@ -30,7 +30,7 @@ def temporal_pagerank(graph, alpha=0.85, beta=0.5, intervals=None):
         Example(s):
         -----------
             graph = TemporalGraph('test_network', data=CsvInput('./network.csv'))
-            closeness_values = temporal_pagerank(graph, alpha=0.85, beta=1.0, t=16, intervals=((1, 5), (8, 10)))
+            pagerank_values = temporal_pagerank(graph, alpha=0.85, beta=1.0, t=16, intervals=((1, 5), (8, 10)))
 
         Notes:
         ------
@@ -43,9 +43,6 @@ def temporal_pagerank(graph, alpha=0.85, beta=0.5, intervals=None):
         reflecting "concept drift", where the importance of a node may change in a temporal network with increasing
         time.
 
-        TODO:
-        -----
-        - Is this algo only valid where traversal time is 1??
     """
 
     if not graph.directed:

@@ -11,7 +11,7 @@ def temporal_degree(graph, labels=None, intervals=None, in_out=None, add_data=Fa
         Parameter(s):
         -------------
         graph : TemporalGraph
-            An undirected temporal graph.
+            A temporal graph or its subclasses.
         labels: list
             A list of node labels to calculate centralities for. Default is all nodes in the temporal graph.
             Example: ["A", "B", "C", ...]
@@ -43,8 +43,6 @@ def temporal_degree(graph, labels=None, intervals=None, in_out=None, add_data=Fa
     """
     if not graph.directed and in_out == "in" or not graph.directed and in_out == "out":
         raise TypeError("Graph must be directed for in- or out- degree.")
-    if graph.directed and in_out is None:
-        raise TypeError("If input graph is directed, in- or out- degree must be specified.")
 
     # Restrict graph to specified time interval
     if intervals:
