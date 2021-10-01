@@ -5,6 +5,28 @@ import itertools
 
 # Give a vertex set and return all subsets
 def getSubSet(vertexSet):
+    """
+        A method which returns the subset of a set
+
+        Parameter(s):
+        -------------
+            vertexSet : List
+                A list with nodes
+        Returns:
+        --------
+            subset: List
+                A list contains all subset of original set
+
+        Example(s):
+        -----------
+            vertexSet = ['A','B','C']
+
+            subSet = getSubSet(test)
+
+        See also:
+        ---------
+
+    """
     N = len(vertexSet)
     subSet = []
 
@@ -19,6 +41,30 @@ def getSubSet(vertexSet):
 
 # Find all possible combinations of A1, A2, ... ,A_delta
 def delta_A_union(subset, delta):
+    """
+        A method which returns the all combinations of several sets
+
+        Parameter(s):
+        -------------
+            subset : List
+                A list with several sets
+            delta : int
+                Size of sliding window
+        Returns:
+        --------
+            All combinations of delta set: List
+                A list contains all combinations of delta sets
+
+        Example(s):
+        -----------
+            subset = [[], ['a'], ['b'], ['a', 'b']]
+
+            combination = delta_A_union(subset, delta)
+
+        See also:
+        ---------
+
+    """
     u_set = []
     b = [subset] * delta
     c = list(itertools.product(*b))
@@ -33,6 +79,31 @@ def delta_A_union(subset, delta):
 # Check whether a combination of A_1,...A_delta is the vertex cover set of temporal graph
 # Returns True if it is vertex cover set of temporal graph
 def check_is_vertex_cover(temporalgraph, unionset):
+    """
+        A method which returns the result of whether a set is the vertex cover set for a temporal graph
+
+        Parameter(s):
+        -------------
+            temporalGraph : TemporalGraph
+                A temporal graph.
+            unionset : Dictionary
+                A dictionary containing vertex and time slot information
+
+        Returns:
+        --------
+            True or False: bool
+                Judge whether it is the vertex cover set of the temporal graph
+
+        Example(s):
+        -----------
+            graph = Graph('test_graph', data=CsvInput('./network.csv'))
+            unionset = {1: ['A', 'C'], 2: ['B'],3:[]}
+            check_is_vertex_cover(temporalgraph, unionset)
+
+        See also:
+        ---------
+
+    """
     graph = copy.deepcopy(temporalgraph)
     for i in unionset.values():
         for j in i:
@@ -47,6 +118,33 @@ def check_is_vertex_cover(temporalgraph, unionset):
 # Find the minimum cardinality vertex cover set in a big set which contain all of vertex cover set
 # and return this set and the minimum cardinality
 def get_min_cardinality(vc_set):
+    """
+        A method which returns the minimum set in a big set which contain all of vertex cover sets
+
+        Parameter(s):
+        -------------
+            vc_set : List
+                A list with several vertex cover sets
+
+        Returns:
+        --------
+            Minimum vertex cover set: Dictionary
+                A dictionary stored a vertex cover set
+
+        Example(s):
+        -----------
+            vc_set = [{1: ['A', 'C'], 2: ['B'],3:[]},
+            {1: ['A'], 2: ['B', 'C'],3:[]},
+            {1: [], 2: ['a','b','c'],3:[]},
+            {1: ['a','d'], 2: ['b'],3:[]},
+            {1: [], 2: ['a','b'],3:[]}]
+
+            min_set = get_min_cardinality(vc_set)
+
+        See also:
+        ---------
+
+    """
     # Calculate the length of each A_1...A_delta and save it to the dictionary count
     count = {}
     for i in range(len(vc_set)):
@@ -65,8 +163,31 @@ def get_min_cardinality(vc_set):
     return min_c, min_set
 
 
-# Vertex covering algorithm for static graphs
+# Vertex cover algorithm for static graph
 def vertex_cover(staticGraph):
+    """
+        A method which returns a minimum vertex cover set for static graph
+
+        Parameter(s):
+        -------------
+            staticGraph : Graph
+                A graph with nodes and edges
+
+        Returns:
+        --------
+            Minimum vertex cover set: List
+                A list contain minimum vertex cover for static graph
+
+        Example(s):
+        -----------
+            graph = Graph('test_graph', data=CsvInput('./network.csv'))
+            vertexCover = vertex_cover(graph)
+
+        See also:
+        ---------
+            SW_TVC
+            d_approximation_swtvc
+    """
     # Find all vertex subsets of the static graph
     subSet = getSubSet(staticGraph.nodes.labels())
 
@@ -89,6 +210,31 @@ def vertex_cover(staticGraph):
 
 # Main algorithm
 def SW_TVC(temporalGraph, delta):
+    """
+        A method which returns the smallest cardinality of a sliding delta-window temporal vertex cover
+        in a temporal graph
+
+        Parameter(s):
+        -------------
+            temporalGraph : TemporalGraph
+                A temporal graph.
+            delta : int
+                Size of sliding window
+
+        Returns:
+        --------
+            Smallest cardinality: int
+                The smallest cardinality of a sliding delta-window temporal vertex cover in a temporal graph
+
+        Example(s):
+        -----------
+            temporalGraph = TemporalGraph('test_network', data=CsvInput('./network.csv'))
+            smallestCardinality = SW_TVC(temporalGraph, 2)
+
+        See also:
+        ---------
+            d_approximation_swtvc
+    """
     # Initialize the swtvc set and F function of smallest cardinality swtvc
     swtvc = {}
     f_t_A = {}
@@ -162,11 +308,35 @@ def SW_TVC(temporalGraph, delta):
 
         print("Error! delta must in [1,{}]".format(len(temporalGraph.edges.timespan())))
 
-    return f_t_A, swtvc
+    # return the smallest cardinality of sw-tvc set. if want to return sw-tvc set, use 'return swtvc'
+    return f_t_A[lifeTime-delta+1]
+    # return swtvc
 
 
 # Get all temporalgraphs with only one edge e = uv
 def get_temporalgraphs_with_single_edge(temporalGraph):
+    """
+        A method which returns several single-edge temporal graph
+
+        Parameter(s):
+        -------------
+            temporalGraph : TemporalGraph
+                A temporal graph
+
+        Returns:
+        --------
+            single-edge temproal graphs: List
+                A list stored several temporal graph with single edge which exist in original temporal graph
+
+        Example(s):
+        -----------
+            temporalGraph = TemporalGraph('test_network', data=CsvInput('./network.csv'))
+            singleEdgeTGraph = get_temporalgraphs_with_single_edge(temporalGraph)
+
+        See also:
+        ---------
+
+    """
     # Create a list to store all the single_edge graphs
     singleEdgeGraphs = []
 
@@ -193,6 +363,32 @@ def get_temporalgraphs_with_single_edge(temporalGraph):
 
 # SW-TVC on single-edge temporal graphs.
 def single_edge_swtvc(temporalgraph, delta, lifeTime):
+    """
+        A method which returns a sliding delta-window temporal vertex cover in a single-edge temporal graph
+
+        Parameter(s):
+        -------------
+            temporalGraph : TemporalGraph
+                A temporal graph with single edge
+            delta : int
+                Size of sliding window
+            lifeTime: int
+                The life time of this temporal graph
+
+        Returns:
+        --------
+            temporal vertex cover set: List
+                 A list stored sliding delta-window temporal vertex cover set for a single-edge temporal graph
+
+        Example(s):
+        -----------
+            temporalGraph = TemporalGraph('test_network', data=CsvInput('./network.csv'))
+            S = SW_TVC(temporalGraph, 2, 7)
+
+        See also:
+        ---------
+
+    """
     # Initialize vertex cover set S and t
     S = []
     t = 1
@@ -223,6 +419,30 @@ def single_edge_swtvc(temporalgraph, delta, lifeTime):
 
 
 def d_approximation_swtvc(temporalgraph, delta):
+    """
+        A method which returns A sliding delta-window temporal vertex cover S of (G, λ).
+
+        Parameter(s):
+        -------------
+        temporalGraph : TemporalGraph
+            A temporal graph.
+        delta : int
+            Size of sliding window
+
+        Returns:
+        --------
+        A sliding delta-window temporal vertex cover S: Dictionary
+            A dictionary stored a sliding delta-window temporal vertex cover set in a temporal graph
+
+        Example(s):
+        -----------
+            temporalGraph = TemporalGraph('test_network', data=CsvInput('./network.csv'))
+            S = d_approximation_swtvc(temporalGraph, 2)
+
+        See also:
+        ---------
+            SW_TVC
+    """
     lifeTime = len(temporalgraph.edges.timespan())
 
     # Initialize vertex cover set s
