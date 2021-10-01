@@ -6,10 +6,12 @@ from overtime.components import Graph, TemporalGraph
 from overtime.inputs import CsvInput
 
 class SwtvcTest(unittest.TestCase):
-
+    """
+        Tests for the algorithms of SW-TVC.
+    """
     def setUp(self):
         """
-            Create graphs.
+            Create graphs for test.
         """
         self.Tgraph = TemporalGraph('TemporalGraphTest')
 
@@ -70,12 +72,18 @@ class SwtvcTest(unittest.TestCase):
             self.singleEdgeGraph.add_edge(edge['node1'], edge['node2'], edge['tstart'], edge['tend'])
 
     def test_getSubSet(self):
+        """
+            Test get all subset.
+        """
         set1 = ['A', 'B', 'C']
         result = [[], ['A'], ['B'], ['A', 'B'], ['C'], ['A', 'C'], ['B', 'C'], ['A', 'B', 'C']]
         subset = getSubSet(set1)
         self.assertEqual(result, subset)
 
     def test_delta_A_union(self):
+        """
+            Test get all possible combinations.
+        """
         subset = [[], ['A'], ['B'], ['A', 'B'], ['C'], ['A', 'C'], ['B', 'C'], ['A', 'B', 'C']]
         delta2 = [{1: [], 2: []},
                  {1: [], 2: ['A']},
@@ -144,6 +152,9 @@ class SwtvcTest(unittest.TestCase):
         self.assertEqual(delta2, delta_A_union(subset,2))
 
     def test_check_is_vertex_cover(self):
+        """
+            Test function of judge whether it is the vertex cover of temporal graph.
+        """
         test = self.Tgraph.get_temporal_subgraph((6, 9))
 
         a = {1: [], 2: ['a', 'c']}
@@ -152,6 +163,9 @@ class SwtvcTest(unittest.TestCase):
         self.assertTrue(check_is_vertex_cover(test, b))
 
     def test_get_min_cardinality(self):
+        """
+            Test function of get minimum set from a big set.
+        """
         test = [{1: ['A', 'C'], 2: ['B'], 3: []},
                 {1: ['A'], 2: ['B', 'C'], 3: []},
                 {1: [], 2: ['a', 'b', 'c'], 3: []},
@@ -161,19 +175,31 @@ class SwtvcTest(unittest.TestCase):
         self.assertEqual(result, get_min_cardinality(test))
 
     def test_vertex_cover(self):
+        """
+            Test function of get minimum set from a big set.
+        """
         test = self.graph
         self.assertTrue(3 == len(vertex_cover(test)))
 
     def test_get_temporalgraphs_with_single_edge(self):
+        """
+            Test function of which divides a temporal graph into several single-edge temporal graphs.
+        """
         test = get_temporalgraphs_with_single_edge(self.Tgraph)
         self.assertEqual(9, len(test))
 
     def test_single_edge_swtvc(self):
+        """
+            Test function of swtvc for single-edge temporal graph.
+        """
         graph = self.singleEdgeGraph
         result = [['a', 2], ['a', 6]]
         self.assertEqual(result, single_edge_swtvc(graph, 2, 7))
 
     def test_d_approximation_swtvc(self):
+        """
+            Test function of d_approximation_swtvc.
+        """
         result = d_approximation_swtvc(self.Tgraph, 2)
         result1 = 0
         result2 = 11
@@ -182,7 +208,9 @@ class SwtvcTest(unittest.TestCase):
         self.assertEqual(result1, result2)
 
     def test_SW_TVC(self):
-
+        """
+            Test function of SW-TVC.
+        """
         graph = self.Tgraph
         result = SW_TVC(graph, 2)
-        self.assertEqual((10,7), result[0].popitem())
+        self.assertEqual(7, result)
