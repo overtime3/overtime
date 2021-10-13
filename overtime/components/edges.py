@@ -45,6 +45,7 @@ class Edge:
         self.node1 = nodes.add(node1)
         self.node2 = nodes.add(node2)
         self.graph = nodes.graph
+
         
 
     def print(self):
@@ -513,9 +514,9 @@ class TemporalEdges(Edges):
             sorted : List
                 A sorted list of temporal edges, sorted by increasing start or end times.
         """
-        if key is 'end':
+        if key == 'end':
             return sorted(alist, key=lambda x:x.end, reverse=False)
-        elif key is 'start':
+        elif key == 'start':
             # look at operator.attrgetter for getting start time from edge (optimized)
             return sorted(alist, key=lambda x:x.start, reverse=False)
 
@@ -646,7 +647,7 @@ class TemporalEdges(Edges):
                 The largest end time of the collection.
         """
         ends = self.sort(self.set, 'end')
-        return ends[-1].end + 1
+        return ends[-1].end
 
 
     def timespan(self):

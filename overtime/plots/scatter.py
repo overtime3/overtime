@@ -176,7 +176,14 @@ class NodeScatter(Plot):
         pos['x'] = [point.x for point in self.points] # x coordinates of every node.
         pos['y'] = [point.y for point in self.points] # y coordinates of every node.
         
-        cmap = self.set3colormap(n) # color map with enough colors for n nodes.
+        # if not using bubble metric, use unordered color map
+        if not self.bubble_metric:
+            cmap = self.set3colormap(n) # color map with enough colors for n nodes.
+        # if using bubble metric, use gradient map
+        elif self.bubble_metric:
+            colors = 'Gradient'
+            cmap = self.gradientcolormap()
+
         # if there is a bubble_metric specified, size the nodes using it.
         if self.bubble_metric:
             # consolidate specified metric node data into a list (absolute values).
@@ -189,7 +196,7 @@ class NodeScatter(Plot):
             bmet = 250 # default node size.
 
         # decide whether to color nodes based on bubble metric.
-        if not self.colors is 'Default':
+        if self.bubble_metric:
             colors = bmet # color nodes based on bubble metric.
         else:
             colors = [x for x in range(0, n)] # colors index for every node.
@@ -206,7 +213,7 @@ class NodeScatter(Plot):
             # if a bubble metric was provided.
             if self.bubble_metric:
                 # add bubble metric to the label.
-                label = node.label + '\n' + str(node.data[self.bubble_metric])
+                label = node.label + '\n' + str(round(node.data[self.bubble_metric], 3))
             else:
                 label = node.label # default label
             # add the label text.
@@ -332,3 +339,4 @@ class NodeLink(NodeScatter):
                     zorder=0
                 )
             )
+            

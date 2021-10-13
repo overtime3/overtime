@@ -187,7 +187,7 @@ class Graph:
 
 class TemporalGraph(Graph):
     """
-        A class which represents a temporal, undirected graph consisting of nodes and temporal edges.
+        A class which represents a temporal graph consisting of nodes and temporal edges.
 
         Parameter(s):
         -------------
