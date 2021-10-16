@@ -1,0 +1,2221 @@
+node1,node2,tstart,tend,line,
+Church Av,Fort Hamilton Pkwy,63,65,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,65,67,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,67,69,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,69,70,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,70,72,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,72,74,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,74,75,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,75,77,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,77,79,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,79,81,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,81,82,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,82,83,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,83,85,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,85,87,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,87,88,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,88,90,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,90,93,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,93,94,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,94,97,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,97,98,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,83,85,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,85,87,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,87,89,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,89,90,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,90,92,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,92,94,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,94,95,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,95,97,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,97,99,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,99,101,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,101,102,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,102,103,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,103,105,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,105,107,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,107,108,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,108,110,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,110,113,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,113,114,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,114,117,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,117,118,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,103,105,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,105,107,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,107,109,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,109,110,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,110,112,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,112,114,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,114,115,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,115,117,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,117,119,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,119,121,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,121,122,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,122,123,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,123,125,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,125,127,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,127,128,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,128,130,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,130,133,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,133,134,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,134,137,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,137,138,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,123,125,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,125,127,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,127,129,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,129,130,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,130,132,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,132,134,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,134,135,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,135,137,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,137,139,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,139,141,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,141,142,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,142,143,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,143,145,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,145,147,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,147,148,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,148,150,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,150,153,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,153,154,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,154,157,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,157,158,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,143,145,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,145,147,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,147,149,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,149,150,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,150,152,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,152,154,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,154,155,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,155,157,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,157,159,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,159,161,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,161,162,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,162,163,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,163,165,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,165,167,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,167,168,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,168,170,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,170,173,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,173,174,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,174,177,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,177,178,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,163,165,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,165,167,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,167,169,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,169,170,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,170,172,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,172,174,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,174,175,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,175,177,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,177,179,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,179,181,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,181,182,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,182,183,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,183,185,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,185,187,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,187,188,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,188,190,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,190,193,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,193,194,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,194,197,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,197,198,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,183,185,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,185,187,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,187,189,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,189,190,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,190,192,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,192,194,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,194,195,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,195,197,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,197,199,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,199,201,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,201,202,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,202,203,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,203,205,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,205,207,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,207,208,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,208,210,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,210,213,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,213,214,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,214,217,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,217,218,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,203,205,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,205,207,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,207,209,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,209,210,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,210,212,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,212,214,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,214,215,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,215,217,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,217,219,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,219,221,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,221,222,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,222,223,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,223,225,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,225,227,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,227,228,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,228,230,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,230,233,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,233,234,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,234,237,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,237,238,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,223,225,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,225,227,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,227,229,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,229,230,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,230,232,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,232,234,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,234,235,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,235,237,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,237,239,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,239,241,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,241,242,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,242,243,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,243,245,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,245,247,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,247,248,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,248,250,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,250,253,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,253,254,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,254,257,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,257,258,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,243,245,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,245,247,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,247,249,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,249,250,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,250,252,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,252,254,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,254,255,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,255,257,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,257,259,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,259,261,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,261,262,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,262,263,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,263,265,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,265,267,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,267,268,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,268,270,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,270,273,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,273,274,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,274,277,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,277,278,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,263,265,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,265,267,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,267,269,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,269,270,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,270,272,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,272,274,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,274,275,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,275,277,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,277,279,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,279,281,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,281,282,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,282,283,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,283,285,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,285,287,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,287,288,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,288,290,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,290,293,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,293,294,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,294,297,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,297,298,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,283,285,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,285,287,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,287,289,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,289,290,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,290,292,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,292,294,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,294,295,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,295,297,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,297,299,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,299,301,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,301,302,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,302,303,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,303,305,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,305,307,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,307,308,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,308,310,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,310,313,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,313,314,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,314,317,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,317,318,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,303,305,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,305,307,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,307,309,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,309,310,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,310,312,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,312,314,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,314,315,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,315,317,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,317,319,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,319,321,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,321,322,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,322,323,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,323,325,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,325,327,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,327,328,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,328,330,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,330,333,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,333,334,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,334,337,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,337,338,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,323,325,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,325,327,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,327,329,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,329,330,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,330,332,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,332,334,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,334,335,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,335,337,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,337,339,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,339,341,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,341,342,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,342,343,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,343,345,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,345,347,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,347,348,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,348,350,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,350,353,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,353,354,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,354,357,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,357,358,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,345,347,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,347,349,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,349,351,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,351,352,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,352,354,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,354,356,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,356,357,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,357,359,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,359,361,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,361,363,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,363,364,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,364,365,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,365,367,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,367,369,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,369,370,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,370,372,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,372,375,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,375,376,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,376,379,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,379,380,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,367,368,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,368,371,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,371,372,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,372,374,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,374,375,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,375,377,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,377,379,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,379,381,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,381,383,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,383,384,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,384,386,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,386,387,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,387,389,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,389,390,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,390,392,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,392,393,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,393,396,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,396,398,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,398,400,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,400,401,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,387,388,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,388,391,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,391,392,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,392,394,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,394,395,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,395,397,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,397,399,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,399,401,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,401,403,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,403,404,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,404,406,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,406,407,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,407,409,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,409,410,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,410,412,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,412,413,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,413,416,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,416,418,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,418,420,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,420,421,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,402,403,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,403,406,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,406,407,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,407,409,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,409,410,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,410,412,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,412,414,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,414,416,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,416,418,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,418,419,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,419,421,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,421,422,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,422,424,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,424,425,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,425,427,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,427,428,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,428,431,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,431,433,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,433,435,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,435,436,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,417,418,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,418,421,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,421,422,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,422,424,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,424,425,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,425,427,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,427,429,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,429,431,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,431,433,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,433,434,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,434,436,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,436,437,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,437,439,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,439,440,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,440,442,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,442,443,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,443,446,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,446,448,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,448,450,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,450,451,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,431,433,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,433,435,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,435,437,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,437,439,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,439,440,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,440,442,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,442,444,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,444,446,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,446,448,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,448,449,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,449,451,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,451,452,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,452,454,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,454,455,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,455,457,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,457,458,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,458,461,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,461,463,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,463,465,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,465,466,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,446,448,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,448,450,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,450,452,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,452,454,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,454,455,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,455,457,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,457,459,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,459,461,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,461,463,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,463,464,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,464,466,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,466,467,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,467,469,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,469,470,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,470,472,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,472,473,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,473,476,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,476,478,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,478,480,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,480,481,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,461,463,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,463,465,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,465,467,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,467,469,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,469,470,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,470,472,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,472,474,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,474,476,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,476,478,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,478,479,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,479,481,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,481,482,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,482,484,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,484,485,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,485,487,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,487,488,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,488,491,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,491,493,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,493,495,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,495,496,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,476,478,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,478,480,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,480,482,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,482,484,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,484,485,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,485,487,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,487,489,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,489,491,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,491,493,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,493,494,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,494,496,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,496,497,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,497,499,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,499,500,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,500,502,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,502,503,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,503,506,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,506,508,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,508,510,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,510,511,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,491,493,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,493,495,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,495,497,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,497,499,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,499,500,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,500,502,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,502,504,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,504,506,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,506,508,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,508,509,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,509,511,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,511,512,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,512,514,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,514,515,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,515,517,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,517,518,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,518,521,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,521,523,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,523,525,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,525,526,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,506,508,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,508,510,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,510,512,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,512,514,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,514,515,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,515,517,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,517,519,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,519,521,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,521,523,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,523,524,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,524,526,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,526,527,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,527,529,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,529,530,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,530,532,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,532,533,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,533,536,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,536,538,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,538,540,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,540,541,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,521,523,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,523,525,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,525,527,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,527,529,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,529,530,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,530,532,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,532,534,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,534,536,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,536,538,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,538,539,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,539,541,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,541,542,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,542,544,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,544,545,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,545,547,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,547,548,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,548,551,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,551,553,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,553,555,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,555,556,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,531,533,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,533,535,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,535,537,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,537,539,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,539,540,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,540,542,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,542,544,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,544,546,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,546,548,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,548,549,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,549,551,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,551,552,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,552,554,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,554,555,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,555,557,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,557,558,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,558,561,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,561,563,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,563,565,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,565,566,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,544,545,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,545,548,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,548,549,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,549,551,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,551,553,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,553,555,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,555,556,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,556,558,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,558,560,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,560,562,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,562,563,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,563,564,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,564,566,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,566,568,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,568,569,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,569,571,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,571,574,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,574,575,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,575,578,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,578,579,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,555,557,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,557,559,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,559,561,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,561,563,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,563,564,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,564,566,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,566,568,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,568,570,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,570,572,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,572,573,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,573,575,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,575,576,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,576,578,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,578,579,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,579,581,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,581,582,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,582,585,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,585,587,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,587,589,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,589,590,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,566,568,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,568,570,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,570,572,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,572,574,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,574,575,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,575,577,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,577,579,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,579,581,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,581,583,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,583,584,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,584,586,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,586,587,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,587,589,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,589,590,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,590,592,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,592,593,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,593,596,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,596,598,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,598,600,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,600,601,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,576,578,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,578,580,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,580,582,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,582,584,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,584,585,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,585,587,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,587,589,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,589,591,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,591,593,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,593,594,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,594,596,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,596,597,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,597,599,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,599,600,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,600,602,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,602,603,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,603,606,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,606,608,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,608,610,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,610,611,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,586,588,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,588,590,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,590,592,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,592,594,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,594,595,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,595,597,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,597,599,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,599,601,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,601,603,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,603,604,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,604,606,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,606,607,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,607,609,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,609,610,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,610,612,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,612,613,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,613,616,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,616,618,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,618,620,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,620,621,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,595,597,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,597,599,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,599,601,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,601,603,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,603,604,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,604,606,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,606,608,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,609,611,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,611,613,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,613,614,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,614,616,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,616,617,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,617,619,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,619,620,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,620,622,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,622,623,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,623,626,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,626,628,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,628,630,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,630,631,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,608,609,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,609,612,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,612,613,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,613,615,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,615,617,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,617,619,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,619,620,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,620,622,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,622,624,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,624,626,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,626,627,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,627,628,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,628,630,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,630,632,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,632,633,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,633,635,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,635,638,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,638,639,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,639,642,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,642,643,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,615,617,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,617,619,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,619,621,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,621,623,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,623,624,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,624,626,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,626,628,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,628,630,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,630,632,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,632,633,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,633,635,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,635,636,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,636,638,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,638,639,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,639,641,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,641,642,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,642,646,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,646,647,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,647,650,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,650,651,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,625,627,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,627,629,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,629,631,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,631,633,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,633,634,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,634,636,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,636,638,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,638,640,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,640,642,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,642,643,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,643,645,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,645,646,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,646,648,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,648,649,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,649,651,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,651,652,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,652,656,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,656,657,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,657,660,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,660,661,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,635,637,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,637,639,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,639,641,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,641,643,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,643,644,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,644,646,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,646,648,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,648,650,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,650,652,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,652,653,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,653,655,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,655,656,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,656,658,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,658,659,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,659,661,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,661,662,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,662,666,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,666,667,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,667,670,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,670,671,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,645,647,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,647,649,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,649,651,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,651,653,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,653,654,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,654,656,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,656,658,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,658,660,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,660,662,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,662,663,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,663,665,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,665,666,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,666,668,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,668,669,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,669,671,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,671,672,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,672,676,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,676,677,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,677,680,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,680,681,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,655,657,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,657,659,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,659,661,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,661,663,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,663,664,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,664,666,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,666,668,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,668,670,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,670,672,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,672,673,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,673,675,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,675,676,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,676,678,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,678,679,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,679,681,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,681,682,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,682,686,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,686,687,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,687,690,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,690,691,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,665,667,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,667,669,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,669,671,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,671,673,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,673,674,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,674,676,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,676,678,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,678,680,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,680,682,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,682,683,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,683,685,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,685,686,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,686,688,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,688,689,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,689,691,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,691,692,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,692,696,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,696,697,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,697,700,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,700,701,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,675,677,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,677,679,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,679,681,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,681,683,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,683,684,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,684,686,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,686,688,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,688,690,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,690,692,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,692,693,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,693,695,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,695,696,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,696,698,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,698,699,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,699,701,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,701,702,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,702,706,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,706,707,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,707,710,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,710,711,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,685,687,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,687,689,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,689,691,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,691,693,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,693,694,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,694,696,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,696,698,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,698,700,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,700,702,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,702,703,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,703,705,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,705,706,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,706,708,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,708,709,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,709,711,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,711,712,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,712,716,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,716,717,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,717,720,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,720,721,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,695,697,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,697,699,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,699,701,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,701,703,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,703,704,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,704,706,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,706,708,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,708,710,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,710,712,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,712,713,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,713,715,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,715,716,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,716,718,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,718,719,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,719,721,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,721,722,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,722,726,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,726,727,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,727,730,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,730,731,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,705,707,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,707,709,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,709,711,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,711,713,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,713,714,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,714,716,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,716,718,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,718,720,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,720,722,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,722,723,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,723,725,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,725,726,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,726,728,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,728,729,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,729,731,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,731,732,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,732,736,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,736,737,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,737,740,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,740,741,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,715,717,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,717,719,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,719,721,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,721,723,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,723,724,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,724,726,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,726,728,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,728,730,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,730,732,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,732,733,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,733,735,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,735,736,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,736,738,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,738,739,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,739,741,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,741,742,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,742,746,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,746,747,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,747,750,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,750,751,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,725,727,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,727,729,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,729,731,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,731,733,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,733,734,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,734,736,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,736,738,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,738,740,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,740,742,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,742,743,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,743,745,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,745,746,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,746,748,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,748,749,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,749,751,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,751,752,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,752,756,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,756,757,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,757,760,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,760,761,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,735,737,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,737,739,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,739,741,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,741,743,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,743,744,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,744,746,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,746,748,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,748,750,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,750,752,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,752,753,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,753,755,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,755,756,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,756,758,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,758,759,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,759,761,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,761,762,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,762,766,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,766,767,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,767,770,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,770,771,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,745,747,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,747,749,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,749,751,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,751,753,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,753,754,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,754,756,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,756,758,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,758,760,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,760,762,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,762,763,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,763,765,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,765,766,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,766,768,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,768,769,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,769,771,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,771,772,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,772,776,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,776,777,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,777,780,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,780,781,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,755,757,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,757,759,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,759,761,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,761,763,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,763,764,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,764,766,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,766,768,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,768,770,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,770,772,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,772,773,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,773,775,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,775,776,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,776,778,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,778,779,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,779,781,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,781,782,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,782,786,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,786,787,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,787,790,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,790,791,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,765,767,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,767,769,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,769,771,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,771,773,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,773,774,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,774,776,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,776,778,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,778,780,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,780,782,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,782,783,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,783,785,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,785,786,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,786,788,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,788,789,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,789,791,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,791,792,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,792,796,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,796,797,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,797,800,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,800,801,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,775,777,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,777,779,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,779,781,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,781,783,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,783,784,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,784,786,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,786,788,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,788,790,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,790,792,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,792,793,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,793,795,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,795,796,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,796,798,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,798,799,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,799,801,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,801,802,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,802,806,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,806,807,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,807,810,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,810,811,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,785,787,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,787,789,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,789,791,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,791,793,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,793,794,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,794,796,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,796,798,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,798,800,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,800,802,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,802,803,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,803,805,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,805,806,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,806,808,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,808,809,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,809,811,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,811,812,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,812,816,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,816,817,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,817,820,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,820,821,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,795,797,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,797,799,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,799,801,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,801,803,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,803,804,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,804,806,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,806,808,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,808,810,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,810,812,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,812,813,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,813,815,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,815,816,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,816,818,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,818,819,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,819,821,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,821,822,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,822,826,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,826,827,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,827,830,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,830,831,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,805,807,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,807,809,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,809,811,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,811,813,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,813,814,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,814,816,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,816,818,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,818,820,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,820,822,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,822,823,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,823,825,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,825,826,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,826,828,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,828,829,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,829,831,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,831,832,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,832,836,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,836,837,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,837,840,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,840,841,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,815,817,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,817,819,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,819,821,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,821,823,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,823,824,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,824,826,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,826,828,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,828,830,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,830,832,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,832,833,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,833,835,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,835,836,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,836,838,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,838,839,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,839,841,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,841,842,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,842,846,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,846,847,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,847,850,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,850,851,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,825,827,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,827,829,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,829,831,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,831,833,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,833,834,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,834,836,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,836,838,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,838,840,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,840,842,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,842,843,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,843,845,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,845,846,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,846,848,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,848,849,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,849,851,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,851,852,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,852,856,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,856,857,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,857,860,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,860,861,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,835,837,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,837,839,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,839,841,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,841,843,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,843,844,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,844,846,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,846,848,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,848,850,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,850,852,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,852,853,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,853,855,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,855,856,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,856,858,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,858,859,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,859,861,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,861,862,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,862,866,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,866,867,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,867,870,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,870,871,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,845,847,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,847,849,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,849,851,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,851,853,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,853,854,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,854,856,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,856,858,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,858,860,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,860,862,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,862,863,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,863,865,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,865,866,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,866,868,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,868,869,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,869,871,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,871,872,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,872,876,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,876,877,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,877,880,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,880,881,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,855,857,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,857,859,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,859,861,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,861,863,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,863,864,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,864,866,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,866,868,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,868,870,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,870,872,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,872,873,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,873,875,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,875,876,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,876,878,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,878,879,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,879,881,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,881,882,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,882,886,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,886,887,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,887,890,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,890,891,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,865,867,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,867,869,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,869,871,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,871,873,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,873,874,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,874,876,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,876,878,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,878,880,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,880,882,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,882,883,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,883,885,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,885,886,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,886,888,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,888,889,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,889,891,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,891,892,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,892,896,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,896,897,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,897,900,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,900,901,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,875,877,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,877,879,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,879,881,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,881,883,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,883,884,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,884,886,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,886,888,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,888,890,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,890,892,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,892,893,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,893,895,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,895,896,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,896,898,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,898,899,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,899,901,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,901,902,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,902,906,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,906,907,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,907,910,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,910,911,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,885,887,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,887,889,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,889,891,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,891,893,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,893,894,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,894,896,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,896,898,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,898,900,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,900,902,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,902,903,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,903,905,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,905,906,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,906,908,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,908,909,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,909,911,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,911,912,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,912,916,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,916,917,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,917,920,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,920,921,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,895,897,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,897,899,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,899,901,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,901,903,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,903,904,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,904,906,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,906,908,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,908,910,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,910,912,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,912,913,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,913,915,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,915,916,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,916,918,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,918,919,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,919,921,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,921,922,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,922,926,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,926,927,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,927,930,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,930,931,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,905,907,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,907,909,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,909,911,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,911,913,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,913,914,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,914,916,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,916,918,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,918,920,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,920,922,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,922,923,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,923,925,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,925,926,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,926,928,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,928,929,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,929,931,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,931,932,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,932,936,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,936,937,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,937,940,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,940,941,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,915,917,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,917,919,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,919,921,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,921,923,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,923,924,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,924,926,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,926,928,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,928,930,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,930,932,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,932,933,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,933,935,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,935,936,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,936,938,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,938,939,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,939,941,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,941,942,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,942,946,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,946,947,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,947,950,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,950,951,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,925,927,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,927,929,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,929,931,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,931,933,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,933,934,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,934,936,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,936,938,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,938,940,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,940,942,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,942,943,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,943,945,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,945,946,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,946,948,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,948,949,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,949,951,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,951,952,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,952,956,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,956,957,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,957,960,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,960,961,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,935,937,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,937,939,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,939,941,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,941,943,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,943,944,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,944,946,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,946,948,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,948,950,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,950,952,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,952,953,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,953,955,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,955,956,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,956,958,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,958,959,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,959,961,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,961,962,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,962,966,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,966,967,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,967,970,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,970,971,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,945,947,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,947,949,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,949,951,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,951,953,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,953,954,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,954,956,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,956,958,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,958,960,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,960,962,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,962,963,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,963,965,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,965,966,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,966,968,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,968,969,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,969,971,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,971,972,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,972,976,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,976,977,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,977,980,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,980,981,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,955,957,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,957,959,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,959,961,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,961,963,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,963,964,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,964,966,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,966,968,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,968,970,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,970,972,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,972,973,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,973,975,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,975,976,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,976,978,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,978,979,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,979,981,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,981,982,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,982,986,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,986,987,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,987,990,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,990,991,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,965,967,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,967,969,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,969,971,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,971,973,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,973,974,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,974,976,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,976,978,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,978,980,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,980,982,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,982,983,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,983,985,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,985,986,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,986,988,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,988,989,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,989,991,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,991,992,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,992,996,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,996,997,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,997,1000,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1000,1001,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,975,977,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,977,979,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,979,981,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,981,983,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,983,984,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,984,986,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,986,988,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,988,990,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,990,992,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,992,993,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,993,995,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,995,996,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,996,998,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,998,999,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,999,1001,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1001,1002,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1002,1006,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1006,1007,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1007,1010,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1010,1011,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,985,987,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,987,989,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,989,991,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,991,993,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,993,994,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,994,996,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,996,998,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,998,1000,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1000,1002,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1002,1003,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1003,1005,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1005,1006,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1006,1008,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1008,1009,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1009,1011,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1011,1012,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1012,1016,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1016,1017,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1017,1020,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1020,1021,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,995,997,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,997,999,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,999,1001,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1001,1003,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1003,1004,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1004,1006,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1006,1008,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1008,1010,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1010,1012,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1012,1013,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1013,1015,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1015,1016,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1016,1018,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1018,1019,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1019,1021,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1021,1022,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1022,1026,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1026,1027,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1027,1030,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1030,1031,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1005,1007,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1007,1009,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1009,1011,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1011,1013,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1013,1014,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1014,1016,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1016,1018,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1018,1020,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1020,1022,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1022,1023,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1023,1025,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1025,1026,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1026,1028,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1028,1029,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1029,1031,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1031,1032,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1032,1036,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1036,1037,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1037,1040,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1040,1041,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1015,1017,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1017,1019,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1019,1021,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1021,1023,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1023,1024,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1024,1026,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1026,1028,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1028,1030,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1030,1032,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1032,1033,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1033,1035,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1035,1036,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1036,1038,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1038,1039,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1039,1041,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1041,1042,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1042,1046,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1046,1047,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1047,1050,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1050,1051,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1025,1027,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1027,1029,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1029,1031,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1031,1033,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1033,1034,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1034,1036,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1036,1038,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1038,1040,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1040,1042,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1042,1043,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1043,1045,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1045,1046,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1046,1048,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1048,1049,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1049,1051,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1051,1052,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1052,1056,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1056,1057,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1057,1060,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1060,1061,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1035,1037,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1037,1039,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1039,1041,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1041,1043,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1043,1044,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1044,1046,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1046,1048,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1048,1050,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1050,1052,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1052,1053,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1053,1055,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1055,1056,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1056,1058,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1058,1059,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1059,1061,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1061,1062,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1062,1066,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1066,1067,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1067,1070,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1070,1071,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1045,1047,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1047,1049,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1049,1051,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1051,1053,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1053,1054,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1054,1056,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1056,1058,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1058,1060,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1060,1062,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1062,1063,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1063,1065,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1065,1066,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1066,1068,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1068,1069,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1069,1071,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1071,1072,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1072,1076,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1076,1077,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1077,1080,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1080,1081,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1055,1057,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1057,1059,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1059,1061,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1061,1063,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1063,1064,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1064,1066,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1066,1068,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1068,1070,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1070,1072,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1072,1073,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1073,1075,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1075,1076,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1076,1078,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1078,1079,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1079,1081,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1081,1082,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1082,1086,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1086,1087,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1087,1090,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1090,1091,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1065,1067,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1067,1069,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1069,1071,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1071,1073,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1073,1074,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1074,1076,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1076,1078,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1078,1080,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1080,1082,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1082,1083,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1083,1085,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1085,1086,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1086,1088,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1088,1089,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1089,1091,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1091,1092,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1092,1096,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1096,1097,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1097,1100,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1100,1101,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1075,1077,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1077,1079,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1079,1081,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1081,1083,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1083,1084,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1084,1086,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1086,1088,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1088,1090,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1090,1092,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1092,1093,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1093,1095,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1095,1096,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1096,1098,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1098,1099,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1099,1101,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1101,1102,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1102,1106,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1106,1107,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1107,1110,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1110,1111,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1085,1087,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1087,1089,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1089,1091,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1091,1093,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1093,1094,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1094,1096,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1096,1098,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1098,1100,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1100,1102,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1102,1103,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1103,1105,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1105,1106,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1106,1108,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1108,1109,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1109,1111,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1111,1112,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1112,1116,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1116,1117,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1117,1120,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1120,1121,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1095,1097,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1097,1099,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1099,1101,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1101,1103,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1103,1104,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1104,1106,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1106,1108,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1108,1110,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1110,1112,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1112,1113,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1113,1115,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1115,1116,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1116,1118,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1118,1119,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1119,1121,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1121,1122,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1122,1126,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1126,1127,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1127,1130,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1130,1131,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1105,1107,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1107,1109,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1109,1111,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1111,1113,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1113,1114,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1114,1116,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1116,1118,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1118,1120,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1120,1122,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1122,1123,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1123,1125,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1125,1126,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1126,1128,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1128,1129,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1129,1131,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1131,1132,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1132,1136,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1136,1137,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1137,1140,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1140,1141,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1115,1117,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1117,1119,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1119,1121,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1121,1123,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1123,1124,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1124,1126,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1126,1128,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1128,1130,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1130,1132,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1132,1133,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1133,1135,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1135,1136,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1136,1138,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1138,1139,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1139,1141,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1141,1142,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1142,1146,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1146,1147,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1147,1150,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1150,1151,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1129,1131,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1131,1133,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1133,1135,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1135,1137,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1137,1138,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1138,1140,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1140,1142,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1142,1144,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1144,1146,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1146,1147,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1147,1149,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1149,1150,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1150,1152,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1152,1153,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1153,1155,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1155,1156,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1156,1160,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1160,1161,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1161,1164,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1164,1165,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1141,1143,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1143,1145,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1145,1147,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1147,1149,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1149,1150,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1150,1152,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1152,1154,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1154,1156,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1156,1158,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1158,1159,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1159,1161,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1161,1162,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1162,1164,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1164,1165,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1165,1167,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1167,1168,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1168,1172,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1172,1173,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1173,1176,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1176,1177,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1153,1155,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1155,1157,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1157,1159,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1159,1161,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1161,1162,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1162,1164,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1164,1166,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1166,1168,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1168,1170,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1170,1171,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1171,1173,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1173,1174,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1174,1176,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1176,1177,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1177,1179,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1179,1180,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1180,1184,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1184,1185,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1185,1188,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1188,1189,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1165,1167,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1167,1169,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1169,1171,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1171,1173,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1173,1174,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1174,1176,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1176,1178,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1178,1180,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1180,1182,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1182,1183,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1183,1185,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1185,1186,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1186,1188,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1188,1189,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1189,1191,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1191,1192,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1192,1196,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1196,1197,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1197,1200,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1200,1201,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1179,1181,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1181,1183,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1183,1185,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1185,1187,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1187,1188,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1188,1190,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1190,1192,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1192,1194,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1194,1196,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1196,1197,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1197,1199,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1199,1200,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1200,1202,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1202,1203,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1203,1205,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1205,1206,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1206,1209,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1209,1211,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1211,1213,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1213,1214,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1190,1192,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1192,1194,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1194,1196,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1196,1198,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1198,1199,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1199,1201,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1201,1203,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1203,1205,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1205,1207,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1207,1208,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1208,1210,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1210,1211,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1211,1213,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1213,1214,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1214,1216,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1216,1217,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1217,1220,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1220,1222,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1222,1224,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1224,1225,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1202,1204,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1204,1206,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1206,1208,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1208,1210,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1210,1211,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1211,1213,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1213,1215,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1215,1217,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1217,1219,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1219,1220,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1220,1222,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1222,1223,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1223,1225,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1225,1226,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1226,1228,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1228,1229,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1229,1232,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1232,1234,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1234,1236,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1236,1237,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1214,1216,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1216,1218,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1218,1220,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1220,1222,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1222,1223,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1223,1225,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1225,1227,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1227,1229,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1229,1231,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1231,1232,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1232,1234,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1234,1235,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1235,1237,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1237,1238,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1238,1240,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1240,1241,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1241,1244,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1244,1246,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1246,1248,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1248,1249,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1226,1228,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1228,1230,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1230,1232,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1232,1234,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1234,1235,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1235,1237,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1237,1239,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1239,1241,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1241,1243,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1243,1244,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1244,1246,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1246,1247,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1247,1249,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1249,1250,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1250,1252,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1252,1253,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1253,1256,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1256,1258,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1258,1260,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1260,1261,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1238,1240,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1240,1242,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1242,1244,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1244,1246,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1246,1247,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1247,1249,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1249,1251,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1251,1253,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1253,1255,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1255,1256,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1256,1258,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1258,1259,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1259,1261,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1261,1262,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1262,1264,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1264,1265,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1265,1268,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1268,1270,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1270,1272,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1272,1273,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1250,1252,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1252,1254,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1254,1256,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1256,1258,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1258,1259,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1259,1261,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1261,1263,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1263,1265,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1265,1267,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1267,1268,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1268,1270,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1270,1271,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1271,1273,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1273,1274,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1274,1276,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1276,1277,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1277,1280,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1280,1282,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1282,1284,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1284,1285,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1262,1264,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1264,1266,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1266,1268,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1268,1270,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1270,1271,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1271,1273,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1273,1275,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1275,1277,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1277,1279,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1279,1280,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1280,1282,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1282,1283,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1283,1285,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1285,1286,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1286,1288,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1288,1289,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1289,1292,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1292,1294,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1294,1296,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1296,1297,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1274,1276,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1276,1278,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1278,1280,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1280,1282,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1282,1283,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1283,1285,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1285,1287,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1287,1289,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1289,1291,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1291,1292,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1292,1294,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1294,1295,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1295,1297,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1297,1298,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1298,1300,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1300,1301,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1301,1304,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1304,1306,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1306,1308,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1308,1309,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1289,1291,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1291,1293,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1293,1295,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1295,1297,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1297,1298,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1298,1300,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1300,1302,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1302,1304,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1304,1306,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1306,1307,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1307,1309,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1309,1310,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1310,1312,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1312,1313,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1313,1315,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1315,1316,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1316,1319,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1319,1321,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1321,1323,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1323,1324,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1304,1306,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1306,1308,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1308,1310,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1310,1312,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1312,1313,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1313,1315,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1315,1317,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1317,1319,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1319,1321,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1321,1322,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1322,1324,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1324,1325,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1325,1327,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1327,1328,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1328,1330,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1330,1331,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1331,1334,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1334,1336,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1336,1338,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1338,1339,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1319,1321,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1321,1323,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1323,1325,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1325,1327,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1327,1328,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1328,1330,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1330,1332,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1332,1334,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1334,1336,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1336,1337,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1337,1339,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1339,1340,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1340,1342,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1342,1343,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1343,1345,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1345,1346,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1346,1349,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1349,1351,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1351,1353,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1353,1354,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1334,1336,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1336,1338,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1338,1340,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1340,1342,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1342,1343,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1343,1345,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1345,1347,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1347,1349,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1349,1351,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1351,1352,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1352,1354,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1354,1355,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1355,1357,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1357,1358,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1358,1360,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1360,1361,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1361,1364,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1364,1366,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1366,1368,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1368,1369,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1349,1351,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1351,1353,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1353,1355,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1355,1357,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1357,1358,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1358,1360,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1360,1362,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1362,1364,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1364,1366,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1366,1367,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1367,1369,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1369,1370,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1370,1372,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1372,1373,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1373,1375,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1375,1376,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1376,1379,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1379,1381,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1381,1383,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1383,1384,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1364,1366,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1366,1368,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1368,1370,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1370,1372,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1372,1373,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1373,1375,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1375,1377,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1377,1379,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1379,1381,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1381,1382,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1382,1384,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1384,1385,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1385,1387,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1387,1388,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1388,1390,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1390,1391,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1391,1394,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1394,1396,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1396,1398,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1398,1399,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1379,1381,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1381,1383,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1383,1385,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1385,1387,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1387,1388,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1388,1390,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1390,1392,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1392,1394,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1394,1396,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1396,1397,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1397,1399,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1399,1400,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1400,1402,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1402,1403,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1403,1405,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1405,1406,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1406,1409,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1409,1411,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1411,1413,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1413,1414,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1394,1395,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1395,1398,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1398,1399,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1399,1401,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1401,1403,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1403,1405,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1405,1406,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1406,1408,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1408,1410,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1410,1412,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1412,1413,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1413,1414,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1414,1416,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1416,1418,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1418,1419,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1419,1421,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1421,1424,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1424,1425,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1425,1428,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1428,1429,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1409,1410,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1410,1413,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1413,1414,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1414,1416,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1416,1418,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1418,1420,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1420,1421,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1421,1423,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1423,1425,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1425,1427,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1427,1428,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1428,1429,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1429,1431,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1431,1433,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1433,1434,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1434,1436,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1436,1439,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1439,1440,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1440,1443,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1443,1444,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1425,1426,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1426,1429,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1429,1430,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1430,1432,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1432,1433,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1433,1435,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1435,1437,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1437,1439,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1439,1441,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1441,1442,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1442,1444,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1444,1445,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1445,1447,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1447,1448,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1448,1450,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1450,1451,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1451,1454,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1454,1456,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1456,1458,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1458,1459,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1444,1445,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1445,1448,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1448,1449,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1449,1451,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1451,1452,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1452,1454,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1454,1456,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1456,1458,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1458,1460,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1460,1461,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1461,1463,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1463,1464,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1464,1466,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1466,1467,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1467,1469,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1469,1470,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1470,1473,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1473,1475,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1475,1477,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1477,1478,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1464,1465,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1465,1468,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1468,1469,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1469,1471,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1471,1472,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1472,1474,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1474,1476,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1476,1478,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1478,1480,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1480,1481,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1481,1483,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1483,1484,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1484,1486,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1486,1487,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1487,1489,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1489,1490,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1490,1493,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1493,1495,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1495,1497,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1497,1498,Brooklyn-Queens Crosstown to Court Sq
+Church Av,Fort Hamilton Pkwy,1484,1485,Brooklyn-Queens Crosstown to Fort Hamilton Pkwy
+Fort Hamilton Pkwy,15 St-Prospect Park,1485,1488,Brooklyn-Queens Crosstown to 15 St-Prospect Park
+15 St-Prospect Park,7 Av,1488,1489,Brooklyn-Queens Crosstown to 7 Av
+7 Av,4 Av-9 St,1489,1491,Brooklyn-Queens Crosstown to 4 Av-9 St
+4 Av-9 St,Smith-9 Sts,1491,1492,Brooklyn-Queens Crosstown to Smith-9 Sts
+Smith-9 Sts,Carroll St,1492,1494,Brooklyn-Queens Crosstown to Carroll St
+Carroll St,Bergen St,1494,1496,Brooklyn-Queens Crosstown to Bergen St
+Bergen St,Hoyt-Schermerhorn Sts,1496,1498,Brooklyn-Queens Crosstown to Hoyt-Schermerhorn Sts
+Hoyt-Schermerhorn Sts,Fulton St,1498,1500,Brooklyn-Queens Crosstown to Fulton St
+Fulton St,Clinton-Washington Avs,1500,1501,Brooklyn-Queens Crosstown to Clinton-Washington Avs
+Clinton-Washington Avs,Classon Av,1501,1503,Brooklyn-Queens Crosstown to Classon Av
+Classon Av,Bedford-Nostrand Avs,1503,1504,Brooklyn-Queens Crosstown to Bedford-Nostrand Avs
+Bedford-Nostrand Avs,Myrtle-Willoughby Avs,1504,1506,Brooklyn-Queens Crosstown to Myrtle-Willoughby Avs
+Myrtle-Willoughby Avs,Flushing Av,1506,1507,Brooklyn-Queens Crosstown to Flushing Av
+Flushing Av,Broadway,1507,1509,Brooklyn-Queens Crosstown to Broadway
+Broadway,Metropolitan Av,1509,1510,Brooklyn-Queens Crosstown to Metropolitan Av
+Metropolitan Av,Nassau Av,1510,1513,Brooklyn-Queens Crosstown to Nassau Av
+Nassau Av,Greenpoint Av,1513,1515,Brooklyn-Queens Crosstown to Greenpoint Av
+Greenpoint Av,21 St,1515,1517,Brooklyn-Queens Crosstown to 21 St
+21 St,Court Sq,1517,1518,Brooklyn-Queens Crosstown to Court Sq

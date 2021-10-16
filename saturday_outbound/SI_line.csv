@@ -1,0 +1,961 @@
+node1,node2,tstart,tend,line,
+Tottenville,Arthur Kill,61,64,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,64,66,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,66,68,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,68,70,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,70,72,Staten Island Railway to Huguenot
+Huguenot,Annadale,72,74,Staten Island Railway to Annadale
+Annadale,Eltingville,74,76,Staten Island Railway to Eltingville
+Eltingville,Great Kills,76,78,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,78,80,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,80,82,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,82,84,Staten Island Railway to New Dorp
+New Dorp,Grant City,84,86,Staten Island Railway to Grant City
+Grant City,Jefferson Av,86,87,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,87,89,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,89,91,Staten Island Railway to Old Town
+Old Town,Grasmere,91,93,Staten Island Railway to Grasmere
+Grasmere,Clifton,93,96,Staten Island Railway to Clifton
+Clifton,Stapleton,96,98,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,98,100,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,100,103,Staten Island Railway to St George
+Tottenville,Arthur Kill,91,94,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,94,96,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,96,98,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,98,100,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,100,102,Staten Island Railway to Huguenot
+Huguenot,Annadale,102,104,Staten Island Railway to Annadale
+Annadale,Eltingville,104,106,Staten Island Railway to Eltingville
+Eltingville,Great Kills,106,108,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,108,110,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,110,112,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,112,114,Staten Island Railway to New Dorp
+New Dorp,Grant City,114,116,Staten Island Railway to Grant City
+Grant City,Jefferson Av,116,117,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,117,119,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,119,121,Staten Island Railway to Old Town
+Old Town,Grasmere,121,123,Staten Island Railway to Grasmere
+Grasmere,Clifton,123,126,Staten Island Railway to Clifton
+Clifton,Stapleton,126,128,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,128,130,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,130,133,Staten Island Railway to St George
+Tottenville,Arthur Kill,121,124,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,124,126,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,126,128,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,128,130,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,130,132,Staten Island Railway to Huguenot
+Huguenot,Annadale,132,134,Staten Island Railway to Annadale
+Annadale,Eltingville,134,136,Staten Island Railway to Eltingville
+Eltingville,Great Kills,136,138,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,138,140,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,140,142,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,142,144,Staten Island Railway to New Dorp
+New Dorp,Grant City,144,146,Staten Island Railway to Grant City
+Grant City,Jefferson Av,146,147,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,147,149,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,149,151,Staten Island Railway to Old Town
+Old Town,Grasmere,151,153,Staten Island Railway to Grasmere
+Grasmere,Clifton,153,156,Staten Island Railway to Clifton
+Clifton,Stapleton,156,158,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,158,160,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,160,163,Staten Island Railway to St George
+Tottenville,Arthur Kill,151,154,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,154,156,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,156,158,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,158,160,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,160,162,Staten Island Railway to Huguenot
+Huguenot,Annadale,162,164,Staten Island Railway to Annadale
+Annadale,Eltingville,164,166,Staten Island Railway to Eltingville
+Eltingville,Great Kills,166,168,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,168,170,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,170,172,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,172,174,Staten Island Railway to New Dorp
+New Dorp,Grant City,174,176,Staten Island Railway to Grant City
+Grant City,Jefferson Av,176,177,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,177,179,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,179,181,Staten Island Railway to Old Town
+Old Town,Grasmere,181,183,Staten Island Railway to Grasmere
+Grasmere,Clifton,183,186,Staten Island Railway to Clifton
+Clifton,Stapleton,186,188,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,188,190,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,190,193,Staten Island Railway to St George
+Tottenville,Arthur Kill,181,184,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,184,186,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,186,188,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,188,190,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,190,192,Staten Island Railway to Huguenot
+Huguenot,Annadale,192,194,Staten Island Railway to Annadale
+Annadale,Eltingville,194,196,Staten Island Railway to Eltingville
+Eltingville,Great Kills,196,198,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,198,200,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,200,202,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,202,204,Staten Island Railway to New Dorp
+New Dorp,Grant City,204,206,Staten Island Railway to Grant City
+Grant City,Jefferson Av,206,207,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,207,209,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,209,211,Staten Island Railway to Old Town
+Old Town,Grasmere,211,213,Staten Island Railway to Grasmere
+Grasmere,Clifton,213,216,Staten Island Railway to Clifton
+Clifton,Stapleton,216,218,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,218,220,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,220,223,Staten Island Railway to St George
+Tottenville,Arthur Kill,211,214,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,214,216,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,216,218,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,218,220,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,220,222,Staten Island Railway to Huguenot
+Huguenot,Annadale,222,224,Staten Island Railway to Annadale
+Annadale,Eltingville,224,226,Staten Island Railway to Eltingville
+Eltingville,Great Kills,226,228,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,228,230,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,230,232,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,232,234,Staten Island Railway to New Dorp
+New Dorp,Grant City,234,236,Staten Island Railway to Grant City
+Grant City,Jefferson Av,236,237,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,237,239,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,239,241,Staten Island Railway to Old Town
+Old Town,Grasmere,241,243,Staten Island Railway to Grasmere
+Grasmere,Clifton,243,246,Staten Island Railway to Clifton
+Clifton,Stapleton,246,248,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,248,250,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,250,253,Staten Island Railway to St George
+Tottenville,Arthur Kill,241,244,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,244,246,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,246,248,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,248,250,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,250,252,Staten Island Railway to Huguenot
+Huguenot,Annadale,252,254,Staten Island Railway to Annadale
+Annadale,Eltingville,254,256,Staten Island Railway to Eltingville
+Eltingville,Great Kills,256,258,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,258,260,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,260,262,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,262,264,Staten Island Railway to New Dorp
+New Dorp,Grant City,264,266,Staten Island Railway to Grant City
+Grant City,Jefferson Av,266,267,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,267,269,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,269,271,Staten Island Railway to Old Town
+Old Town,Grasmere,271,273,Staten Island Railway to Grasmere
+Grasmere,Clifton,273,276,Staten Island Railway to Clifton
+Clifton,Stapleton,276,278,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,278,280,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,280,283,Staten Island Railway to St George
+Tottenville,Arthur Kill,271,274,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,274,276,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,276,278,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,278,280,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,280,282,Staten Island Railway to Huguenot
+Huguenot,Annadale,282,284,Staten Island Railway to Annadale
+Annadale,Eltingville,284,286,Staten Island Railway to Eltingville
+Eltingville,Great Kills,286,288,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,288,290,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,290,292,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,292,294,Staten Island Railway to New Dorp
+New Dorp,Grant City,294,296,Staten Island Railway to Grant City
+Grant City,Jefferson Av,296,297,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,297,299,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,299,301,Staten Island Railway to Old Town
+Old Town,Grasmere,301,303,Staten Island Railway to Grasmere
+Grasmere,Clifton,303,306,Staten Island Railway to Clifton
+Clifton,Stapleton,306,308,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,308,310,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,310,313,Staten Island Railway to St George
+Tottenville,Arthur Kill,301,304,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,304,306,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,306,308,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,308,310,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,310,312,Staten Island Railway to Huguenot
+Huguenot,Annadale,312,314,Staten Island Railway to Annadale
+Annadale,Eltingville,314,316,Staten Island Railway to Eltingville
+Eltingville,Great Kills,316,318,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,318,320,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,320,322,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,322,324,Staten Island Railway to New Dorp
+New Dorp,Grant City,324,326,Staten Island Railway to Grant City
+Grant City,Jefferson Av,326,327,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,327,329,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,329,331,Staten Island Railway to Old Town
+Old Town,Grasmere,331,333,Staten Island Railway to Grasmere
+Grasmere,Clifton,333,336,Staten Island Railway to Clifton
+Clifton,Stapleton,336,338,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,338,340,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,340,343,Staten Island Railway to St George
+Tottenville,Arthur Kill,331,334,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,334,336,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,336,338,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,338,340,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,340,342,Staten Island Railway to Huguenot
+Huguenot,Annadale,342,344,Staten Island Railway to Annadale
+Annadale,Eltingville,344,346,Staten Island Railway to Eltingville
+Eltingville,Great Kills,346,348,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,348,350,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,350,352,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,352,354,Staten Island Railway to New Dorp
+New Dorp,Grant City,354,356,Staten Island Railway to Grant City
+Grant City,Jefferson Av,356,357,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,357,359,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,359,361,Staten Island Railway to Old Town
+Old Town,Grasmere,361,363,Staten Island Railway to Grasmere
+Grasmere,Clifton,363,366,Staten Island Railway to Clifton
+Clifton,Stapleton,366,368,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,368,370,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,370,373,Staten Island Railway to St George
+Tottenville,Arthur Kill,361,364,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,364,366,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,366,368,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,368,370,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,370,372,Staten Island Railway to Huguenot
+Huguenot,Annadale,372,374,Staten Island Railway to Annadale
+Annadale,Eltingville,374,376,Staten Island Railway to Eltingville
+Eltingville,Great Kills,376,378,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,378,380,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,380,382,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,382,384,Staten Island Railway to New Dorp
+New Dorp,Grant City,384,386,Staten Island Railway to Grant City
+Grant City,Jefferson Av,386,387,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,387,389,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,389,391,Staten Island Railway to Old Town
+Old Town,Grasmere,391,393,Staten Island Railway to Grasmere
+Grasmere,Clifton,393,396,Staten Island Railway to Clifton
+Clifton,Stapleton,396,398,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,398,400,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,400,403,Staten Island Railway to St George
+Tottenville,Arthur Kill,391,394,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,394,396,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,396,398,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,398,400,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,400,402,Staten Island Railway to Huguenot
+Huguenot,Annadale,402,404,Staten Island Railway to Annadale
+Annadale,Eltingville,404,406,Staten Island Railway to Eltingville
+Eltingville,Great Kills,406,408,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,408,410,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,410,412,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,412,414,Staten Island Railway to New Dorp
+New Dorp,Grant City,414,416,Staten Island Railway to Grant City
+Grant City,Jefferson Av,416,417,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,417,419,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,419,421,Staten Island Railway to Old Town
+Old Town,Grasmere,421,423,Staten Island Railway to Grasmere
+Grasmere,Clifton,423,426,Staten Island Railway to Clifton
+Clifton,Stapleton,426,428,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,428,430,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,430,433,Staten Island Railway to St George
+Tottenville,Arthur Kill,421,424,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,424,426,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,426,428,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,428,430,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,430,432,Staten Island Railway to Huguenot
+Huguenot,Annadale,432,434,Staten Island Railway to Annadale
+Annadale,Eltingville,434,436,Staten Island Railway to Eltingville
+Eltingville,Great Kills,436,438,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,438,440,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,440,442,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,442,444,Staten Island Railway to New Dorp
+New Dorp,Grant City,444,446,Staten Island Railway to Grant City
+Grant City,Jefferson Av,446,447,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,447,449,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,449,451,Staten Island Railway to Old Town
+Old Town,Grasmere,451,453,Staten Island Railway to Grasmere
+Grasmere,Clifton,453,456,Staten Island Railway to Clifton
+Clifton,Stapleton,456,458,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,458,460,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,460,463,Staten Island Railway to St George
+Tottenville,Arthur Kill,451,454,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,454,456,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,456,458,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,458,460,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,460,462,Staten Island Railway to Huguenot
+Huguenot,Annadale,462,464,Staten Island Railway to Annadale
+Annadale,Eltingville,464,466,Staten Island Railway to Eltingville
+Eltingville,Great Kills,466,468,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,468,470,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,470,472,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,472,474,Staten Island Railway to New Dorp
+New Dorp,Grant City,474,476,Staten Island Railway to Grant City
+Grant City,Jefferson Av,476,477,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,477,479,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,479,481,Staten Island Railway to Old Town
+Old Town,Grasmere,481,483,Staten Island Railway to Grasmere
+Grasmere,Clifton,483,486,Staten Island Railway to Clifton
+Clifton,Stapleton,486,488,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,488,490,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,490,493,Staten Island Railway to St George
+Tottenville,Arthur Kill,481,484,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,484,486,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,486,488,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,488,490,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,490,492,Staten Island Railway to Huguenot
+Huguenot,Annadale,492,494,Staten Island Railway to Annadale
+Annadale,Eltingville,494,496,Staten Island Railway to Eltingville
+Eltingville,Great Kills,496,498,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,498,500,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,500,502,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,502,504,Staten Island Railway to New Dorp
+New Dorp,Grant City,504,506,Staten Island Railway to Grant City
+Grant City,Jefferson Av,506,507,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,507,509,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,509,511,Staten Island Railway to Old Town
+Old Town,Grasmere,511,513,Staten Island Railway to Grasmere
+Grasmere,Clifton,513,516,Staten Island Railway to Clifton
+Clifton,Stapleton,516,518,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,518,520,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,520,523,Staten Island Railway to St George
+Tottenville,Arthur Kill,511,514,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,514,516,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,516,518,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,518,520,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,520,522,Staten Island Railway to Huguenot
+Huguenot,Annadale,522,524,Staten Island Railway to Annadale
+Annadale,Eltingville,524,526,Staten Island Railway to Eltingville
+Eltingville,Great Kills,526,528,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,528,530,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,530,532,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,532,534,Staten Island Railway to New Dorp
+New Dorp,Grant City,534,536,Staten Island Railway to Grant City
+Grant City,Jefferson Av,536,537,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,537,539,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,539,541,Staten Island Railway to Old Town
+Old Town,Grasmere,541,543,Staten Island Railway to Grasmere
+Grasmere,Clifton,543,546,Staten Island Railway to Clifton
+Clifton,Stapleton,546,548,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,548,550,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,550,553,Staten Island Railway to St George
+Tottenville,Arthur Kill,541,544,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,544,546,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,546,548,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,548,550,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,550,552,Staten Island Railway to Huguenot
+Huguenot,Annadale,552,554,Staten Island Railway to Annadale
+Annadale,Eltingville,554,556,Staten Island Railway to Eltingville
+Eltingville,Great Kills,556,558,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,558,560,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,560,562,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,562,564,Staten Island Railway to New Dorp
+New Dorp,Grant City,564,566,Staten Island Railway to Grant City
+Grant City,Jefferson Av,566,567,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,567,569,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,569,571,Staten Island Railway to Old Town
+Old Town,Grasmere,571,573,Staten Island Railway to Grasmere
+Grasmere,Clifton,573,576,Staten Island Railway to Clifton
+Clifton,Stapleton,576,578,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,578,580,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,580,583,Staten Island Railway to St George
+Tottenville,Arthur Kill,571,574,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,574,576,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,576,578,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,578,580,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,580,582,Staten Island Railway to Huguenot
+Huguenot,Annadale,582,584,Staten Island Railway to Annadale
+Annadale,Eltingville,584,586,Staten Island Railway to Eltingville
+Eltingville,Great Kills,586,588,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,588,590,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,590,592,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,592,594,Staten Island Railway to New Dorp
+New Dorp,Grant City,594,596,Staten Island Railway to Grant City
+Grant City,Jefferson Av,596,597,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,597,599,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,599,601,Staten Island Railway to Old Town
+Old Town,Grasmere,601,603,Staten Island Railway to Grasmere
+Grasmere,Clifton,603,606,Staten Island Railway to Clifton
+Clifton,Stapleton,606,608,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,608,610,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,610,613,Staten Island Railway to St George
+Tottenville,Arthur Kill,601,604,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,604,606,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,606,608,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,608,610,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,610,612,Staten Island Railway to Huguenot
+Huguenot,Annadale,612,614,Staten Island Railway to Annadale
+Annadale,Eltingville,614,616,Staten Island Railway to Eltingville
+Eltingville,Great Kills,616,618,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,618,620,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,620,622,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,622,624,Staten Island Railway to New Dorp
+New Dorp,Grant City,624,626,Staten Island Railway to Grant City
+Grant City,Jefferson Av,626,627,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,627,629,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,629,631,Staten Island Railway to Old Town
+Old Town,Grasmere,631,633,Staten Island Railway to Grasmere
+Grasmere,Clifton,633,636,Staten Island Railway to Clifton
+Clifton,Stapleton,636,638,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,638,640,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,640,643,Staten Island Railway to St George
+Tottenville,Arthur Kill,631,634,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,634,636,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,636,638,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,638,640,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,640,642,Staten Island Railway to Huguenot
+Huguenot,Annadale,642,644,Staten Island Railway to Annadale
+Annadale,Eltingville,644,646,Staten Island Railway to Eltingville
+Eltingville,Great Kills,646,648,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,648,650,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,650,652,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,652,654,Staten Island Railway to New Dorp
+New Dorp,Grant City,654,656,Staten Island Railway to Grant City
+Grant City,Jefferson Av,656,657,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,657,659,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,659,661,Staten Island Railway to Old Town
+Old Town,Grasmere,661,663,Staten Island Railway to Grasmere
+Grasmere,Clifton,663,666,Staten Island Railway to Clifton
+Clifton,Stapleton,666,668,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,668,670,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,670,673,Staten Island Railway to St George
+Tottenville,Arthur Kill,661,664,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,664,666,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,666,668,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,668,670,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,670,672,Staten Island Railway to Huguenot
+Huguenot,Annadale,672,674,Staten Island Railway to Annadale
+Annadale,Eltingville,674,676,Staten Island Railway to Eltingville
+Eltingville,Great Kills,676,678,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,678,680,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,680,682,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,682,684,Staten Island Railway to New Dorp
+New Dorp,Grant City,684,686,Staten Island Railway to Grant City
+Grant City,Jefferson Av,686,687,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,687,689,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,689,691,Staten Island Railway to Old Town
+Old Town,Grasmere,691,693,Staten Island Railway to Grasmere
+Grasmere,Clifton,693,696,Staten Island Railway to Clifton
+Clifton,Stapleton,696,698,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,698,700,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,700,703,Staten Island Railway to St George
+Tottenville,Arthur Kill,691,694,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,694,696,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,696,698,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,698,700,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,700,702,Staten Island Railway to Huguenot
+Huguenot,Annadale,702,704,Staten Island Railway to Annadale
+Annadale,Eltingville,704,706,Staten Island Railway to Eltingville
+Eltingville,Great Kills,706,708,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,708,710,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,710,712,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,712,714,Staten Island Railway to New Dorp
+New Dorp,Grant City,714,716,Staten Island Railway to Grant City
+Grant City,Jefferson Av,716,717,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,717,719,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,719,721,Staten Island Railway to Old Town
+Old Town,Grasmere,721,723,Staten Island Railway to Grasmere
+Grasmere,Clifton,723,726,Staten Island Railway to Clifton
+Clifton,Stapleton,726,728,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,728,730,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,730,733,Staten Island Railway to St George
+Tottenville,Arthur Kill,721,724,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,724,726,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,726,728,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,728,730,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,730,732,Staten Island Railway to Huguenot
+Huguenot,Annadale,732,734,Staten Island Railway to Annadale
+Annadale,Eltingville,734,736,Staten Island Railway to Eltingville
+Eltingville,Great Kills,736,738,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,738,740,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,740,742,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,742,744,Staten Island Railway to New Dorp
+New Dorp,Grant City,744,746,Staten Island Railway to Grant City
+Grant City,Jefferson Av,746,747,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,747,749,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,749,751,Staten Island Railway to Old Town
+Old Town,Grasmere,751,753,Staten Island Railway to Grasmere
+Grasmere,Clifton,753,756,Staten Island Railway to Clifton
+Clifton,Stapleton,756,758,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,758,760,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,760,763,Staten Island Railway to St George
+Tottenville,Arthur Kill,751,754,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,754,756,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,756,758,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,758,760,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,760,762,Staten Island Railway to Huguenot
+Huguenot,Annadale,762,764,Staten Island Railway to Annadale
+Annadale,Eltingville,764,766,Staten Island Railway to Eltingville
+Eltingville,Great Kills,766,768,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,768,770,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,770,772,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,772,774,Staten Island Railway to New Dorp
+New Dorp,Grant City,774,776,Staten Island Railway to Grant City
+Grant City,Jefferson Av,776,777,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,777,779,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,779,781,Staten Island Railway to Old Town
+Old Town,Grasmere,781,783,Staten Island Railway to Grasmere
+Grasmere,Clifton,783,786,Staten Island Railway to Clifton
+Clifton,Stapleton,786,788,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,788,790,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,790,793,Staten Island Railway to St George
+Tottenville,Arthur Kill,781,784,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,784,786,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,786,788,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,788,790,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,790,792,Staten Island Railway to Huguenot
+Huguenot,Annadale,792,794,Staten Island Railway to Annadale
+Annadale,Eltingville,794,796,Staten Island Railway to Eltingville
+Eltingville,Great Kills,796,798,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,798,800,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,800,802,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,802,804,Staten Island Railway to New Dorp
+New Dorp,Grant City,804,806,Staten Island Railway to Grant City
+Grant City,Jefferson Av,806,807,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,807,809,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,809,811,Staten Island Railway to Old Town
+Old Town,Grasmere,811,813,Staten Island Railway to Grasmere
+Grasmere,Clifton,813,816,Staten Island Railway to Clifton
+Clifton,Stapleton,816,818,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,818,820,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,820,823,Staten Island Railway to St George
+Tottenville,Arthur Kill,811,814,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,814,816,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,816,818,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,818,820,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,820,822,Staten Island Railway to Huguenot
+Huguenot,Annadale,822,824,Staten Island Railway to Annadale
+Annadale,Eltingville,824,826,Staten Island Railway to Eltingville
+Eltingville,Great Kills,826,828,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,828,830,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,830,832,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,832,834,Staten Island Railway to New Dorp
+New Dorp,Grant City,834,836,Staten Island Railway to Grant City
+Grant City,Jefferson Av,836,837,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,837,839,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,839,841,Staten Island Railway to Old Town
+Old Town,Grasmere,841,843,Staten Island Railway to Grasmere
+Grasmere,Clifton,843,846,Staten Island Railway to Clifton
+Clifton,Stapleton,846,848,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,848,850,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,850,853,Staten Island Railway to St George
+Tottenville,Arthur Kill,841,844,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,844,846,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,846,848,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,848,850,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,850,852,Staten Island Railway to Huguenot
+Huguenot,Annadale,852,854,Staten Island Railway to Annadale
+Annadale,Eltingville,854,856,Staten Island Railway to Eltingville
+Eltingville,Great Kills,856,858,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,858,860,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,860,862,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,862,864,Staten Island Railway to New Dorp
+New Dorp,Grant City,864,866,Staten Island Railway to Grant City
+Grant City,Jefferson Av,866,867,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,867,869,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,869,871,Staten Island Railway to Old Town
+Old Town,Grasmere,871,873,Staten Island Railway to Grasmere
+Grasmere,Clifton,873,876,Staten Island Railway to Clifton
+Clifton,Stapleton,876,878,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,878,880,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,880,883,Staten Island Railway to St George
+Tottenville,Arthur Kill,871,874,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,874,876,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,876,878,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,878,880,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,880,882,Staten Island Railway to Huguenot
+Huguenot,Annadale,882,884,Staten Island Railway to Annadale
+Annadale,Eltingville,884,886,Staten Island Railway to Eltingville
+Eltingville,Great Kills,886,888,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,888,890,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,890,892,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,892,894,Staten Island Railway to New Dorp
+New Dorp,Grant City,894,896,Staten Island Railway to Grant City
+Grant City,Jefferson Av,896,897,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,897,899,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,899,901,Staten Island Railway to Old Town
+Old Town,Grasmere,901,903,Staten Island Railway to Grasmere
+Grasmere,Clifton,903,906,Staten Island Railway to Clifton
+Clifton,Stapleton,906,908,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,908,910,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,910,913,Staten Island Railway to St George
+Tottenville,Arthur Kill,901,904,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,904,906,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,906,908,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,908,910,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,910,912,Staten Island Railway to Huguenot
+Huguenot,Annadale,912,914,Staten Island Railway to Annadale
+Annadale,Eltingville,914,916,Staten Island Railway to Eltingville
+Eltingville,Great Kills,916,918,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,918,920,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,920,922,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,922,924,Staten Island Railway to New Dorp
+New Dorp,Grant City,924,926,Staten Island Railway to Grant City
+Grant City,Jefferson Av,926,927,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,927,929,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,929,931,Staten Island Railway to Old Town
+Old Town,Grasmere,931,933,Staten Island Railway to Grasmere
+Grasmere,Clifton,933,936,Staten Island Railway to Clifton
+Clifton,Stapleton,936,938,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,938,940,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,940,943,Staten Island Railway to St George
+Tottenville,Arthur Kill,931,934,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,934,936,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,936,938,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,938,940,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,940,942,Staten Island Railway to Huguenot
+Huguenot,Annadale,942,944,Staten Island Railway to Annadale
+Annadale,Eltingville,944,946,Staten Island Railway to Eltingville
+Eltingville,Great Kills,946,948,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,948,950,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,950,952,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,952,954,Staten Island Railway to New Dorp
+New Dorp,Grant City,954,956,Staten Island Railway to Grant City
+Grant City,Jefferson Av,956,957,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,957,959,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,959,961,Staten Island Railway to Old Town
+Old Town,Grasmere,961,963,Staten Island Railway to Grasmere
+Grasmere,Clifton,963,966,Staten Island Railway to Clifton
+Clifton,Stapleton,966,968,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,968,970,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,970,973,Staten Island Railway to St George
+Tottenville,Arthur Kill,961,964,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,964,966,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,966,968,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,968,970,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,970,972,Staten Island Railway to Huguenot
+Huguenot,Annadale,972,974,Staten Island Railway to Annadale
+Annadale,Eltingville,974,976,Staten Island Railway to Eltingville
+Eltingville,Great Kills,976,978,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,978,980,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,980,982,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,982,984,Staten Island Railway to New Dorp
+New Dorp,Grant City,984,986,Staten Island Railway to Grant City
+Grant City,Jefferson Av,986,987,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,987,989,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,989,991,Staten Island Railway to Old Town
+Old Town,Grasmere,991,993,Staten Island Railway to Grasmere
+Grasmere,Clifton,993,996,Staten Island Railway to Clifton
+Clifton,Stapleton,996,998,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,998,1000,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,1000,1003,Staten Island Railway to St George
+Tottenville,Arthur Kill,991,994,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,994,996,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,996,998,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,998,1000,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,1000,1002,Staten Island Railway to Huguenot
+Huguenot,Annadale,1002,1004,Staten Island Railway to Annadale
+Annadale,Eltingville,1004,1006,Staten Island Railway to Eltingville
+Eltingville,Great Kills,1006,1008,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,1008,1010,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,1010,1012,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,1012,1014,Staten Island Railway to New Dorp
+New Dorp,Grant City,1014,1016,Staten Island Railway to Grant City
+Grant City,Jefferson Av,1016,1017,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,1017,1019,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,1019,1021,Staten Island Railway to Old Town
+Old Town,Grasmere,1021,1023,Staten Island Railway to Grasmere
+Grasmere,Clifton,1023,1026,Staten Island Railway to Clifton
+Clifton,Stapleton,1026,1028,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,1028,1030,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,1030,1033,Staten Island Railway to St George
+Tottenville,Arthur Kill,1021,1024,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,1024,1026,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,1026,1028,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,1028,1030,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,1030,1032,Staten Island Railway to Huguenot
+Huguenot,Annadale,1032,1034,Staten Island Railway to Annadale
+Annadale,Eltingville,1034,1036,Staten Island Railway to Eltingville
+Eltingville,Great Kills,1036,1038,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,1038,1040,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,1040,1042,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,1042,1044,Staten Island Railway to New Dorp
+New Dorp,Grant City,1044,1046,Staten Island Railway to Grant City
+Grant City,Jefferson Av,1046,1047,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,1047,1049,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,1049,1051,Staten Island Railway to Old Town
+Old Town,Grasmere,1051,1053,Staten Island Railway to Grasmere
+Grasmere,Clifton,1053,1056,Staten Island Railway to Clifton
+Clifton,Stapleton,1056,1058,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,1058,1060,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,1060,1063,Staten Island Railway to St George
+Tottenville,Arthur Kill,1051,1054,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,1054,1056,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,1056,1058,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,1058,1060,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,1060,1062,Staten Island Railway to Huguenot
+Huguenot,Annadale,1062,1064,Staten Island Railway to Annadale
+Annadale,Eltingville,1064,1066,Staten Island Railway to Eltingville
+Eltingville,Great Kills,1066,1068,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,1068,1070,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,1070,1072,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,1072,1074,Staten Island Railway to New Dorp
+New Dorp,Grant City,1074,1076,Staten Island Railway to Grant City
+Grant City,Jefferson Av,1076,1077,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,1077,1079,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,1079,1081,Staten Island Railway to Old Town
+Old Town,Grasmere,1081,1083,Staten Island Railway to Grasmere
+Grasmere,Clifton,1083,1086,Staten Island Railway to Clifton
+Clifton,Stapleton,1086,1088,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,1088,1090,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,1090,1093,Staten Island Railway to St George
+Tottenville,Arthur Kill,1081,1084,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,1084,1086,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,1086,1088,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,1088,1090,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,1090,1092,Staten Island Railway to Huguenot
+Huguenot,Annadale,1092,1094,Staten Island Railway to Annadale
+Annadale,Eltingville,1094,1096,Staten Island Railway to Eltingville
+Eltingville,Great Kills,1096,1098,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,1098,1100,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,1100,1102,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,1102,1104,Staten Island Railway to New Dorp
+New Dorp,Grant City,1104,1106,Staten Island Railway to Grant City
+Grant City,Jefferson Av,1106,1107,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,1107,1109,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,1109,1111,Staten Island Railway to Old Town
+Old Town,Grasmere,1111,1113,Staten Island Railway to Grasmere
+Grasmere,Clifton,1113,1116,Staten Island Railway to Clifton
+Clifton,Stapleton,1116,1118,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,1118,1120,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,1120,1123,Staten Island Railway to St George
+Tottenville,Arthur Kill,1111,1114,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,1114,1116,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,1116,1118,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,1118,1120,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,1120,1122,Staten Island Railway to Huguenot
+Huguenot,Annadale,1122,1124,Staten Island Railway to Annadale
+Annadale,Eltingville,1124,1126,Staten Island Railway to Eltingville
+Eltingville,Great Kills,1126,1128,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,1128,1130,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,1130,1132,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,1132,1134,Staten Island Railway to New Dorp
+New Dorp,Grant City,1134,1136,Staten Island Railway to Grant City
+Grant City,Jefferson Av,1136,1137,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,1137,1139,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,1139,1141,Staten Island Railway to Old Town
+Old Town,Grasmere,1141,1143,Staten Island Railway to Grasmere
+Grasmere,Clifton,1143,1146,Staten Island Railway to Clifton
+Clifton,Stapleton,1146,1148,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,1148,1150,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,1150,1153,Staten Island Railway to St George
+Tottenville,Arthur Kill,1141,1144,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,1144,1146,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,1146,1148,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,1148,1150,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,1150,1152,Staten Island Railway to Huguenot
+Huguenot,Annadale,1152,1154,Staten Island Railway to Annadale
+Annadale,Eltingville,1154,1156,Staten Island Railway to Eltingville
+Eltingville,Great Kills,1156,1158,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,1158,1160,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,1160,1162,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,1162,1164,Staten Island Railway to New Dorp
+New Dorp,Grant City,1164,1166,Staten Island Railway to Grant City
+Grant City,Jefferson Av,1166,1167,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,1167,1169,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,1169,1171,Staten Island Railway to Old Town
+Old Town,Grasmere,1171,1173,Staten Island Railway to Grasmere
+Grasmere,Clifton,1173,1176,Staten Island Railway to Clifton
+Clifton,Stapleton,1176,1178,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,1178,1180,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,1180,1183,Staten Island Railway to St George
+Tottenville,Arthur Kill,1171,1174,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,1174,1176,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,1176,1178,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,1178,1180,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,1180,1182,Staten Island Railway to Huguenot
+Huguenot,Annadale,1182,1184,Staten Island Railway to Annadale
+Annadale,Eltingville,1184,1186,Staten Island Railway to Eltingville
+Eltingville,Great Kills,1186,1188,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,1188,1190,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,1190,1192,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,1192,1194,Staten Island Railway to New Dorp
+New Dorp,Grant City,1194,1196,Staten Island Railway to Grant City
+Grant City,Jefferson Av,1196,1197,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,1197,1199,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,1199,1201,Staten Island Railway to Old Town
+Old Town,Grasmere,1201,1203,Staten Island Railway to Grasmere
+Grasmere,Clifton,1203,1206,Staten Island Railway to Clifton
+Clifton,Stapleton,1206,1208,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,1208,1210,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,1210,1213,Staten Island Railway to St George
+Tottenville,Arthur Kill,1201,1204,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,1204,1206,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,1206,1208,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,1208,1210,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,1210,1212,Staten Island Railway to Huguenot
+Huguenot,Annadale,1212,1214,Staten Island Railway to Annadale
+Annadale,Eltingville,1214,1216,Staten Island Railway to Eltingville
+Eltingville,Great Kills,1216,1218,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,1218,1220,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,1220,1222,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,1222,1224,Staten Island Railway to New Dorp
+New Dorp,Grant City,1224,1226,Staten Island Railway to Grant City
+Grant City,Jefferson Av,1226,1227,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,1227,1229,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,1229,1231,Staten Island Railway to Old Town
+Old Town,Grasmere,1231,1233,Staten Island Railway to Grasmere
+Grasmere,Clifton,1233,1236,Staten Island Railway to Clifton
+Clifton,Stapleton,1236,1238,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,1238,1240,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,1240,1243,Staten Island Railway to St George
+Tottenville,Arthur Kill,1231,1234,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,1234,1236,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,1236,1238,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,1238,1240,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,1240,1242,Staten Island Railway to Huguenot
+Huguenot,Annadale,1242,1244,Staten Island Railway to Annadale
+Annadale,Eltingville,1244,1246,Staten Island Railway to Eltingville
+Eltingville,Great Kills,1246,1248,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,1248,1250,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,1250,1252,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,1252,1254,Staten Island Railway to New Dorp
+New Dorp,Grant City,1254,1256,Staten Island Railway to Grant City
+Grant City,Jefferson Av,1256,1257,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,1257,1259,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,1259,1261,Staten Island Railway to Old Town
+Old Town,Grasmere,1261,1263,Staten Island Railway to Grasmere
+Grasmere,Clifton,1263,1266,Staten Island Railway to Clifton
+Clifton,Stapleton,1266,1268,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,1268,1270,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,1270,1273,Staten Island Railway to St George
+Tottenville,Arthur Kill,1261,1264,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,1264,1266,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,1266,1268,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,1268,1270,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,1270,1272,Staten Island Railway to Huguenot
+Huguenot,Annadale,1272,1274,Staten Island Railway to Annadale
+Annadale,Eltingville,1274,1276,Staten Island Railway to Eltingville
+Eltingville,Great Kills,1276,1278,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,1278,1280,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,1280,1282,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,1282,1284,Staten Island Railway to New Dorp
+New Dorp,Grant City,1284,1286,Staten Island Railway to Grant City
+Grant City,Jefferson Av,1286,1287,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,1287,1289,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,1289,1291,Staten Island Railway to Old Town
+Old Town,Grasmere,1291,1293,Staten Island Railway to Grasmere
+Grasmere,Clifton,1293,1296,Staten Island Railway to Clifton
+Clifton,Stapleton,1296,1298,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,1298,1300,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,1300,1303,Staten Island Railway to St George
+Tottenville,Arthur Kill,1291,1294,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,1294,1296,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,1296,1298,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,1298,1300,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,1300,1302,Staten Island Railway to Huguenot
+Huguenot,Annadale,1302,1304,Staten Island Railway to Annadale
+Annadale,Eltingville,1304,1306,Staten Island Railway to Eltingville
+Eltingville,Great Kills,1306,1308,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,1308,1310,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,1310,1312,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,1312,1314,Staten Island Railway to New Dorp
+New Dorp,Grant City,1314,1316,Staten Island Railway to Grant City
+Grant City,Jefferson Av,1316,1317,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,1317,1319,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,1319,1321,Staten Island Railway to Old Town
+Old Town,Grasmere,1321,1323,Staten Island Railway to Grasmere
+Grasmere,Clifton,1323,1326,Staten Island Railway to Clifton
+Clifton,Stapleton,1326,1328,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,1328,1330,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,1330,1333,Staten Island Railway to St George
+Tottenville,Arthur Kill,1321,1324,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,1324,1326,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,1326,1328,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,1328,1330,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,1330,1332,Staten Island Railway to Huguenot
+Huguenot,Annadale,1332,1334,Staten Island Railway to Annadale
+Annadale,Eltingville,1334,1336,Staten Island Railway to Eltingville
+Eltingville,Great Kills,1336,1338,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,1338,1340,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,1340,1342,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,1342,1344,Staten Island Railway to New Dorp
+New Dorp,Grant City,1344,1346,Staten Island Railway to Grant City
+Grant City,Jefferson Av,1346,1347,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,1347,1349,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,1349,1351,Staten Island Railway to Old Town
+Old Town,Grasmere,1351,1353,Staten Island Railway to Grasmere
+Grasmere,Clifton,1353,1356,Staten Island Railway to Clifton
+Clifton,Stapleton,1356,1358,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,1358,1360,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,1360,1363,Staten Island Railway to St George
+Tottenville,Arthur Kill,1351,1354,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,1354,1356,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,1356,1358,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,1358,1360,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,1360,1362,Staten Island Railway to Huguenot
+Huguenot,Annadale,1362,1364,Staten Island Railway to Annadale
+Annadale,Eltingville,1364,1366,Staten Island Railway to Eltingville
+Eltingville,Great Kills,1366,1368,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,1368,1370,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,1370,1372,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,1372,1374,Staten Island Railway to New Dorp
+New Dorp,Grant City,1374,1376,Staten Island Railway to Grant City
+Grant City,Jefferson Av,1376,1377,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,1377,1379,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,1379,1381,Staten Island Railway to Old Town
+Old Town,Grasmere,1381,1383,Staten Island Railway to Grasmere
+Grasmere,Clifton,1383,1386,Staten Island Railway to Clifton
+Clifton,Stapleton,1386,1388,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,1388,1390,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,1390,1393,Staten Island Railway to St George
+Tottenville,Arthur Kill,1381,1384,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,1384,1386,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,1386,1388,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,1388,1390,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,1390,1392,Staten Island Railway to Huguenot
+Huguenot,Annadale,1392,1394,Staten Island Railway to Annadale
+Annadale,Eltingville,1394,1396,Staten Island Railway to Eltingville
+Eltingville,Great Kills,1396,1398,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,1398,1400,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,1400,1402,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,1402,1404,Staten Island Railway to New Dorp
+New Dorp,Grant City,1404,1406,Staten Island Railway to Grant City
+Grant City,Jefferson Av,1406,1407,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,1407,1409,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,1409,1411,Staten Island Railway to Old Town
+Old Town,Grasmere,1411,1413,Staten Island Railway to Grasmere
+Grasmere,Clifton,1413,1416,Staten Island Railway to Clifton
+Clifton,Stapleton,1416,1418,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,1418,1420,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,1420,1423,Staten Island Railway to St George
+Tottenville,Arthur Kill,1411,1414,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,1414,1416,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,1416,1418,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,1418,1420,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,1420,1422,Staten Island Railway to Huguenot
+Huguenot,Annadale,1422,1424,Staten Island Railway to Annadale
+Annadale,Eltingville,1424,1426,Staten Island Railway to Eltingville
+Eltingville,Great Kills,1426,1428,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,1428,1430,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,1430,1432,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,1432,1434,Staten Island Railway to New Dorp
+New Dorp,Grant City,1434,1436,Staten Island Railway to Grant City
+Grant City,Jefferson Av,1436,1437,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,1437,1439,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,1439,1441,Staten Island Railway to Old Town
+Old Town,Grasmere,1441,1443,Staten Island Railway to Grasmere
+Grasmere,Clifton,1443,1446,Staten Island Railway to Clifton
+Clifton,Stapleton,1446,1448,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,1448,1450,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,1450,1453,Staten Island Railway to St George
+Tottenville,Arthur Kill,1441,1444,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,1444,1446,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,1446,1448,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,1448,1450,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,1450,1452,Staten Island Railway to Huguenot
+Huguenot,Annadale,1452,1454,Staten Island Railway to Annadale
+Annadale,Eltingville,1454,1456,Staten Island Railway to Eltingville
+Eltingville,Great Kills,1456,1458,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,1458,1460,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,1460,1462,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,1462,1464,Staten Island Railway to New Dorp
+New Dorp,Grant City,1464,1466,Staten Island Railway to Grant City
+Grant City,Jefferson Av,1466,1467,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,1467,1469,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,1469,1471,Staten Island Railway to Old Town
+Old Town,Grasmere,1471,1473,Staten Island Railway to Grasmere
+Grasmere,Clifton,1473,1476,Staten Island Railway to Clifton
+Clifton,Stapleton,1476,1478,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,1478,1480,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,1480,1483,Staten Island Railway to St George
+Tottenville,Arthur Kill,1471,1474,Staten Island Railway to Arthur Kill
+Arthur Kill,Richmond Valley,1474,1476,Staten Island Railway to Richmond Valley
+Richmond Valley,Pleasant Plains,1476,1478,Staten Island Railway to Pleasant Plains
+Pleasant Plains,Prince's Bay,1478,1480,Staten Island Railway to Prince's Bay
+Prince's Bay,Huguenot,1480,1482,Staten Island Railway to Huguenot
+Huguenot,Annadale,1482,1484,Staten Island Railway to Annadale
+Annadale,Eltingville,1484,1486,Staten Island Railway to Eltingville
+Eltingville,Great Kills,1486,1488,Staten Island Railway to Great Kills
+Great Kills,Bay Terrace,1488,1490,Staten Island Railway to Bay Terrace
+Bay Terrace,Oakwood Heights,1490,1492,Staten Island Railway to Oakwood Heights
+Oakwood Heights,New Dorp,1492,1494,Staten Island Railway to New Dorp
+New Dorp,Grant City,1494,1496,Staten Island Railway to Grant City
+Grant City,Jefferson Av,1496,1497,Staten Island Railway to Jefferson Av
+Jefferson Av,Dongan Hills,1497,1499,Staten Island Railway to Dongan Hills
+Dongan Hills,Old Town,1499,1501,Staten Island Railway to Old Town
+Old Town,Grasmere,1501,1503,Staten Island Railway to Grasmere
+Grasmere,Clifton,1503,1506,Staten Island Railway to Clifton
+Clifton,Stapleton,1506,1508,Staten Island Railway to Stapleton
+Stapleton,Tompkinsville,1508,1510,Staten Island Railway to Tompkinsville
+Tompkinsville,St George,1510,1513,Staten Island Railway to St George
